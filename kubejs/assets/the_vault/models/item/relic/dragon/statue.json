@@ -1,0 +1,133 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"statue-dragon-head": "the_vault:item/relic/dragon/statue"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [7, 5, 5],
+			"to": [13, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [0, 6, 6, 12], "texture": "#statue-dragon-head"},
+				"east": {"uv": [0, 6, 6, 12], "texture": "#statue-dragon-head"},
+				"south": {"uv": [0, 6, 6, 12], "texture": "#statue-dragon-head"},
+				"west": {"uv": [0, 0, 6, 6], "texture": "#statue-dragon-head"},
+				"up": {"uv": [0, 6, 6, 12], "rotation": 90, "texture": "#statue-dragon-head"},
+				"down": {"uv": [0, 6, 6, 12], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		},
+		{
+			"name": "nose",
+			"from": [2, 5, 6],
+			"to": [7, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [6, 0, 11, 3], "texture": "#statue-dragon-head"},
+				"south": {"uv": [6, 0, 11, 3], "texture": "#statue-dragon-head"},
+				"west": {"uv": [6, 8, 10, 11], "texture": "#statue-dragon-head"},
+				"up": {"uv": [6, 3, 10, 8], "rotation": 90, "texture": "#statue-dragon-head"},
+				"down": {"uv": [6, 3, 10, 8], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		},
+		{
+			"name": "nose1",
+			"from": [3, 8, 6.1],
+			"to": [5, 8.5, 7.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 2], "rotation": 270, "texture": "#statue-dragon-head"},
+				"east": {"uv": [11, 0, 12, 1], "texture": "#statue-dragon-head"},
+				"south": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"},
+				"west": {"uv": [11, 1, 12, 2], "texture": "#statue-dragon-head"},
+				"up": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		},
+		{
+			"name": "nose2",
+			"from": [3, 8, 8.9],
+			"to": [5, 8.5, 9.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 2], "rotation": 270, "texture": "#statue-dragon-head"},
+				"east": {"uv": [11, 0, 12, 1], "texture": "#statue-dragon-head"},
+				"south": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"},
+				"west": {"uv": [11, 1, 12, 2], "texture": "#statue-dragon-head"},
+				"up": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		},
+		{
+			"name": "horn1",
+			"from": [9, 11, 8.75],
+			"to": [11, 12, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 2], "rotation": 270, "texture": "#statue-dragon-head"},
+				"east": {"uv": [11, 0, 12, 1], "texture": "#statue-dragon-head"},
+				"south": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"},
+				"west": {"uv": [11, 1, 12, 2], "texture": "#statue-dragon-head"},
+				"up": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		},
+		{
+			"name": "horn2",
+			"from": [9, 11, 5.75],
+			"to": [11, 12, 6.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.125, 8.125]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 2], "rotation": 270, "texture": "#statue-dragon-head"},
+				"east": {"uv": [11, 0, 12, 1], "texture": "#statue-dragon-head"},
+				"south": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"},
+				"west": {"uv": [11, 1, 12, 2], "texture": "#statue-dragon-head"},
+				"up": {"uv": [11, 0, 12, 2], "rotation": 90, "texture": "#statue-dragon-head"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -45, 0],
+			"translation": [0, 3, 1],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-81.24, 52.27, 154.39],
+			"translation": [-2.75, 3.75, 4.25],
+			"scale": [0.89, 0.89, 0.89]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 122, 0],
+			"translation": [0, 6.5, 0]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [1.22, 1.22, 1.22]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0.25, -0.25, -4.75],
+			"scale": [2.3, 2.3, 2.3]
+		},
+		"fixed": {
+			"scale": [1.4, 1.4, 1.4]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Embeddium++"
+filename = "embeddiumplus-1.18.2-v1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0e6f73c239d0705d02eabadac90b32c67e36769"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4958315
+project-id = 931925

@@ -1,0 +1,24 @@
+{
+    "parent": "izzy_vault:catalyst/mote_purity",
+    "display": {
+      "icon": {
+        "item": "the_vault:mote_sanctity"
+      },
+      "title": {"text": "Sacred Crystalines"},
+      "description": {"text": "Find a Mote of Sanctity"}
+    },
+    "criteria": {
+      "craft_item": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "the_vault:mote_sanctity"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

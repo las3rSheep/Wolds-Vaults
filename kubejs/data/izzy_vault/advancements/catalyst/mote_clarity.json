@@ -1,0 +1,24 @@
+{
+    "parent": "izzy_vault:catalyst/vault_catalyst",
+    "display": {
+      "icon": {
+        "item": "the_vault:mote_clarity"
+      },
+      "title": {"text": "Clear Vision"},
+      "description": {"text": "Find or Create a Mote of Clarity"}
+    },
+    "criteria": {
+      "craft_item": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "the_vault:mote_clarity"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

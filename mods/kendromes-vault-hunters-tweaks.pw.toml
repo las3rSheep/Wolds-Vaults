@@ -1,0 +1,13 @@
+name = "Kendrome's Vault Hunters Tweaks"
+filename = "kendrome_vh_tweaks-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad36f882b12321b95fdfcfef3b8644362806890d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708618
+project-id = 892918

@@ -1,0 +1,13 @@
+name = "Iam Music Player [Forge/Fabric]"
+filename = "iammusicplayer-forge-1.18.2-3.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38583815a0c373e2c816e44c19301dae7f9b35f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4763556
+project-id = 386380

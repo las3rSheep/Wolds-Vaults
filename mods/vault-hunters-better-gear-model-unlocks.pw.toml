@@ -1,0 +1,13 @@
+name = "Vault Hunters Better Gear Model Unlocks"
+filename = "vault_hunters_better_model_unlocks-1.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8339654ce53fd8e8dc0c5cb0f14bd626091c78bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4953137
+project-id = 926727

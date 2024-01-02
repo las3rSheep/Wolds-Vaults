@@ -1,0 +1,13 @@
+name = "CC: Vault"
+filename = "ccvault-1.1.0-3.12.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6069f45904ae6696fb7d4400e0d350ac4ef8959c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4977296
+project-id = 949195

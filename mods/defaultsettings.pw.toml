@@ -1,0 +1,13 @@
+name = "DefaultSettings"
+filename = "DefaultSettings-1.18.x-4.0.5-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1cf25ae5ff5738e3cf90d53549393996274d13e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4439559
+project-id = 318012

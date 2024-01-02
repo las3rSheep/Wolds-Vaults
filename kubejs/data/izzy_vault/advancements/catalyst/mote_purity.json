@@ -1,0 +1,24 @@
+{
+    "parent": "izzy_vault:catalyst/mote_clarity",
+    "display": {
+      "icon": {
+        "item": "the_vault:mote_purity"
+      },
+      "title": {"text": "Pure Streams"},
+      "description": {"text": "Find a Mote of Purity"}
+    },
+    "criteria": {
+      "craft_item": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "the_vault:mote_purity"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
