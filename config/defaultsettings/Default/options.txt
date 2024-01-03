@@ -46,7 +46,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Copper Legacy Pack","file/Quark Programmer Art.zip","contenttweaker:user/client_resources"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Quark Programmer Art.zip","contenttweaker:user/client_resources"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
 lastServer:localhost
 lang:en_us
@@ -84,7 +84,7 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:1.0
+soundCategory_master:0.049668875
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

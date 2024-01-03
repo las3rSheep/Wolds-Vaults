@@ -20144,6 +20144,11 @@ hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "d591f0fc9610eb1450e6a71e0da3a18b2d50081dd265027fd65f044b00f33ceb"
+metafile = true
+
+[[files]]
 file = "mods/kendromes-vault-hunters-tweaks.pw.toml"
 hash = "d23e88c4e40b22533bcdddbc4bf11b54df1a361d1a15792abf210cb8c10dfb52"
 metafile = true
