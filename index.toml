@@ -19604,6 +19604,11 @@ hash = "50f90cf6b54c1de2a2eb059b5a435dd9ba6ecbfb6dbf4954966c635792f39bf7"
 metafile = true
 
 [[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "f7e254d44fd0bf1f5a249496c4ce598c8d9bc5650c1c6fee6d6fbb92cc5d9c8f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
@@ -19611,6 +19616,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/botanical-machinery.pw.toml"
+hash = "afbc8c642c42a30c01d1763bfc5226927037ad9f92b21432c3849ed8da8e2893"
 metafile = true
 
 [[files]]
@@ -19974,6 +19984,11 @@ hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-network-ts-edition.pw.toml"
+hash = "c9bb7b98d9ffeda574f96532c023e4fe357e53f15b0b7366cec568b1252da366"
+metafile = true
+
+[[files]]
 file = "mods/iammusicplayer.pw.toml"
 hash = "a5ef07c20e332ca0bad41c280228fd8cf676d8c1dd9c65045230a03e8d89600a"
 metafile = true
@@ -20056,6 +20071,11 @@ metafile = true
 [[files]]
 file = "mods/iron-generators.pw.toml"
 hash = "7c8a1ca9ac1a3266b7877faba8ced3050b8ed98ea70bb87527ab3ab5f0d052c3"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "f81ecf36166b015368af6f34313e186c8c1aefea4e0c1d3ed3eb88951a16cdba"
 metafile = true
 
 [[files]]
