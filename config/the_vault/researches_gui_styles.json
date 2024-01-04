@@ -54,6 +54,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/drawers"
     },
+    "Iron Chests": {
+      "x": -130,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/iron_chests"
+    },
     "Mekanism QIO": {
       "x": 570,
       "y": 0,
@@ -71,6 +77,12 @@
       "y": 80,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/applied_mekanistics"
+    },
+    "Botanical Machinery": {
+      "x": 570,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/botanical_machinery"
     },
     "Mega Cells": {
       "x": 670,
@@ -294,6 +306,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botany_pots"
     },
+    "Bonsai Pots": {
+      "x": 200,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/bonsai_pots"
+    },
     "Create Mechanical Extruder": {
       "x": 200,
       "y": 280,
@@ -305,6 +323,12 @@
       "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/cagerium"
+    },
+    "Hostile Neural Networks": {
+      "x": 250,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/hostile_neural_networks"
     },
     "Mob Spawners": {
       "x": 300,

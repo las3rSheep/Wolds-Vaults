@@ -89,15 +89,6 @@
         "amountMax": 2
       },
       "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:gem_echo",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
     }
   ]
 }

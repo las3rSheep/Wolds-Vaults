@@ -244,6 +244,16 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Botanical Machinery": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Botania"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Create Ore Excavation": {
         "dependsOn": [
           {

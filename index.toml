@@ -710,23 +710,23 @@ hash = "e305565e0795f8450f4fd69afd93ef7d8b6ad1f83b96b970c858c0a0ecb1a5eb"
 
 [[files]]
 file = "config/defaultsettings.json"
-hash = "2d4b02ed331951a43ca645cec5fc8f70a989f895ed7b5766c12874641b9b6c61"
+hash = "501f293cef127055da3fce5060cb7a96efe5b05ccab6da34ece0dd6887a37b34"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "1e8e0e54a3ed3f0cf93567b720a4f39cc21109adeff73c3385cb057f6171ed12"
+hash = "c1fd9e8d69b5ab5678c8ededcba4c80c7c910bde71f91a5322d22bcb5fd86264"
 
 [[files]]
 file = "config/defaultsettings/Default/options.justenoughkeys.txt"
-hash = "534bc87a3382d53a06b3e3ffcf6699baf0f5c8b17f440bbb70c00ecd771ce0c0"
+hash = "0e0b8c7d5e31a40a5724820c98dfed3433ab0268d337cce1b967838728b8aca0"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "bb536063d5a63842dfd214abe10634da662c6ea9cc34489ace0a15a9abbd9481"
+hash = "3c34a8d50180c19e8842f3093bbfd0a4ec7c80ec20903afc56da11972ce3d5d7"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
-hash = "4496d6304ef0d96096f0ed95d0348d10b5fd2a7a8b67f64ae57f10ec20fbc3f7"
+hash = "e8bc4f2c3e704afe62ee8e37f2e20594862f8cc1962f321ad29ae83e29ed1ee8"
 
 [[files]]
 file = "config/drippyloadingscreen/.checked_for_old_layouts"

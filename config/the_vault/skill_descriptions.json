@@ -12,6 +12,18 @@
         "text": " mod!\n\nCagerium is a \"one block solution\" for mob farming. It comes with three different tiers of cages, the first one handling passive animals, the second one aggressive mobs and the third one boss mobs! It will output the loot of the mobs in an inventory underneath the cages."
       }
     ],
+    "Hostile Neural Networks": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Hostile Neural Networks",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nHostile Neural Networks is a server-friendly mob looting system. Collect Data Models by killing a mob with a Deep Learner, then evolve your Data Model using Spawn Eggs of the corresponding type. Very powerful mod!"
+      }
+    ],
     "Ghost Walk": [
       {
         "text": "You become invulnerable from mobs for a short "
@@ -336,6 +348,18 @@
         "text": " from various mods!\n\nWith Automatic Genius you can automate one of the two core concept of the game; crafting. Behold the power of full automation!"
       }
     ],
+    "Bonsai Pots": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Bonsai Pots",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nThese pots can automate any tree in the game very easily by growing them in tiny pots."
+      }
+    ],
     "Botany Pots": [
       {
         "text": ""
@@ -537,6 +561,18 @@
       },
       {
         "text": "addon for Applied Energistics\n\nThis mod adds chemical cells and P2P tunnels for storing and interacting with Mekanism gases."
+      }
+    ],
+    "Botanical Machinery": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Botanial Machinery ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Botania\n\nFor the lazy botanist, this mod adds one-block automation solutions for things like the Runic Altar, Agglomeration Plate, Alfheim Portal, etc. "
       }
     ],
     "Create Crafts and Additions": [
@@ -1169,6 +1205,28 @@
       },
       {
         "text": "mod!\n\nAn easy to use storage solution that adds searchable chests that can hold up to 4096 items after floating some storage up to the cloud!"
+      }
+    ],
+    "Iron Chests": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Iron Chests ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!\n\nFor the Minecrafter who doesn't like thinking too much, simple, cheap, expanded chests. Nothing more, nothing less."
+      },
+      {
+        "text": "\n\nAdds rewards to "
+      },
+      {
+        "text": "Mod Boxes",
+        "color": "aqua"
+      },
+      {
+        "text": "!"
       }
     ],
     "Drawers": [

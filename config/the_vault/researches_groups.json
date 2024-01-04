@@ -9,7 +9,8 @@
         "Mega Cells",
         "Extra Storage",
         "Create Crafts and Additions",
-        "Create Diesel Generators"
+        "Create Diesel Generators",
+        "Botanical Machinery"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -35,6 +36,7 @@
         "Colossal Chests",
         "Sophisticated Storage",
         "Drawers",
+        "Iron Chests",
         "Cloud Storage",
         "RFTools Storage"
       ],
@@ -66,7 +68,9 @@
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
-        "Botany Pots"
+        "Botany Pots",
+        "Bonsai Pots",
+        "Hostile Neural Networks"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

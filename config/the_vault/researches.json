@@ -105,6 +105,23 @@
     },
     {
       "modIds": [
+        "botanicalmachinery"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Botanical Machinery",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "extrastorage"
       ],
       "restrictions": {
@@ -340,6 +357,23 @@
         }
       },
       "name": "Drawers",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "ironchests"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Iron Chests",
       "cost": 1,
       "usesKnowledge": true
     },
@@ -717,6 +751,23 @@
     },
     {
       "modIds": [
+        "hostilenetworks"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Hostile Neural Networks",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "cagerium"
       ],
       "restrictions": {
@@ -730,6 +781,23 @@
       },
       "name": "Cagerium",
       "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "bonsaitrees3"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Bonsai Pots",
+      "cost": 2,
       "usesKnowledge": true
     },
     {

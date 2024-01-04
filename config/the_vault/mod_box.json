@@ -264,6 +264,64 @@
         "weight": 80
       }
     ],
+    "Iron Chests": [
+      {
+        "value": {
+          "id": "ironchests:iron_chest",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "ironchests:copper_chest",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 75
+      },
+      {
+        "value": {
+          "id": "ironchests:gold_chest",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 25
+      },
+      {
+        "value": {
+          "id": "ironchests:diamond_chest",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 10
+      },
+      {
+        "value": {
+          "id": "ironchests:netherite_chest",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 5
+      },
+      {
+        "value": {
+          "id": "minecraft:iron_ingot",
+          "amountMin": 1,
+          "amountMax": 2
+        },
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "minecraft:gold_ingot",
+          "amountMin": 1,
+          "amountMax": 2
+        },
+        "weight": 35
+      }
+    ],
     "Sophisticated Storage": [
       {
         "value": {

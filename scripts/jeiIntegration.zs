@@ -387,6 +387,7 @@ addRelic(relic_pedestal, 'warrior');
 // Add category
 JEI.addCategory(relic_pedestal);
 
+
 // Crystal Recipes
 var crystal = JeiCategory.create<Custom>("vault_crystal", new TextComponent("Vault Crystal"), <item:the_vault:vault_altar>, [<item:the_vault:vault_altar>]) as Custom;
 crystal.background = JeiDrawable.blank(175, 135) as JeiDrawable;
@@ -724,3 +725,491 @@ crystalItem("minecraft:music_disc_pigstep", 90, "Misc")]]);
 
 // Add category
 JEI.addCategory(crystal);
+
+//Utility functions
+function lootItem(item as string, minQuantity as int, maxQuantity as int, chance as float) as IItemStack {
+    if (minQuantity == maxQuantity){
+        return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}})*minQuantity;
+    }
+  return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"Amount: " + minQuantity + " - " + maxQuantity + "\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}})*minQuantity;
+}
+function makeJEIGrid(cat as Custom, row as int, col as int, isInput as bool) as void {
+    cat.background = JeiDrawable.blank(7 + col * 21, 7 + row * 21) as JeiDrawable;
+
+    for row_i in 0 .. row {
+        for col_i in 0 .. col {
+            cat.addDrawable(5 + (col_i * 21), 5 + (row_i * 21), JeiDrawable.of(new ResourceLocation("create", "textures/gui/jei/widgets.png") as ResourceLocation, 0, 0, 18, 18) as JeiDrawable);
+            cat.addSlot(col * row_i + col_i, 6 + (col_i * 21), 6 + (row_i * 21), isInput); //confused why it's +6 and not +5
+
+        }
+    }
+}
+
+function makeJEIGridWithName(cat as Custom, row as int, col as int, isInput as bool) as void {
+    cat.background = JeiDrawable.blank(7 + col * 21, 7 + (row + 1) * 21) as JeiDrawable;
+    for col_i in 0 .. col {
+        cat.addSlot(col_i, 6 + (col_i * 21), 6, isInput);
+    }
+    
+    for row_i in 1 .. row + 1 {
+        for col_i in 0 .. col {
+            cat.addDrawable(5 + (col_i * 21), 5 + (row_i * 21), JeiDrawable.of(new ResourceLocation("create", "textures/gui/jei/widgets.png") as ResourceLocation, 0, 0, 18, 18) as JeiDrawable);
+            cat.addSlot(col * row_i + col_i, 6 + (col_i * 21), 6 + (row_i * 21), isInput); //confused why it's +6 and not +5
+
+        }
+    }
+}
+
+function letterItem(letter as string, color as string) as IItemStack{
+    var item = <item:neoncraft2:wallneon_letter_${letter}_${color}>;
+    item.clearTooltip();
+    return item;
+}
+
+// Mystery Egg
+var mysteryEgg = JeiCategory.create<Custom>("mystery_egg", new TextComponent("Mystery Egg"), <item:the_vault:mystery_egg>, [<item:the_vault:mystery_egg>]) as Custom;
+makeJEIGrid(mysteryEgg, 5, 6, false);
+
+mysteryEgg.addRecipe([
+    lootItem("minecraft:pig_spawn_egg", 1, 1, 19.53),
+    lootItem("minecraft:sheep_spawn_egg", 1, 1, 15.62),
+    lootItem("minecraft:chicken_spawn_egg", 1, 1, 12.5),
+    lootItem("minecraft:cow_spawn_egg", 1, 1, 12.5),
+    lootItem("minecraft:cod_spawn_egg", 1, 1, 4.69),
+    lootItem("minecraft:mooshroom_spawn_egg", 1, 1, 3.12),
+    lootItem("minecraft:rabbit_spawn_egg", 1, 1, 3.12),
+    lootItem("minecraft:salmon_spawn_egg", 1, 1, 3.12),
+    lootItem("minecraft:squid_spawn_egg", 1, 1, 3.12),
+    lootItem("minecraft:bee_spawn_egg", 1, 1, 2.34),
+    lootItem("minecraft:cat_spawn_egg", 1, 1, 1.95),
+    lootItem("minecraft:goat_spawn_egg", 1, 1, 1.95),
+    lootItem("minecraft:tropical_fish_spawn_egg", 1, 1, 1.95),
+    lootItem("minecraft:dolphin_spawn_egg", 1, 1, 1.95),
+    lootItem("minecraft:polar_bear_spawn_egg", 1, 1, 1.56),
+    lootItem("minecraft:bat_spawn_egg", 1, 1, 1.56),
+    lootItem("minecraft:parrot_spawn_egg", 1, 1, 1.56),
+    lootItem("minecraft:pufferfish_spawn_egg", 1, 1, 1.56),
+    lootItem("minecraft:donkey_spawn_egg", 1, 1, 1.56),
+    lootItem("minecraft:axolotl_spawn_egg", 1, 1, 0.78),
+    lootItem("minecraft:glow_squid_spawn_egg", 1, 1, 0.78),
+    lootItem("minecraft:panda_spawn_egg", 1, 1, 0.78),
+    lootItem("minecraft:strider_spawn_egg", 1, 1, 0.78),
+    lootItem("minecraft:turtle_spawn_egg", 1, 1, 0.78),
+    lootItem("alexsmobs:spawn_egg_flutter", 1, 1, 0.78)
+], []);
+
+JEI.addCategory(mysteryEgg);
+
+// Mystery Hostile Egg
+var mysteryHostileEgg = JeiCategory.create<Custom>("mystery_hostile_egg", new TextComponent("Mystery Hostile Egg"), <item:the_vault:mystery_hostile_egg>, [<item:the_vault:mystery_hostile_egg>]) as Custom;
+makeJEIGrid(mysteryHostileEgg, 6, 6, false);
+
+mysteryHostileEgg.addRecipe([
+    lootItem("minecraft:cave_spider_spawn_egg", 1, 1, 10.7),
+    lootItem("minecraft:skeleton_spawn_egg", 1, 1, 10.7),
+    lootItem("minecraft:spider_spawn_egg", 1, 1, 10.7),
+    lootItem("minecraft:stray_spawn_egg", 1, 1, 10.7),
+    lootItem("minecraft:zombie_spawn_egg", 1, 1, 10.7),
+    lootItem("minecraft:drowned_spawn_egg", 1, 1, 7.13),
+    lootItem("minecraft:husk_spawn_egg", 1, 1, 7.13),
+    lootItem("minecraft:enderman_spawn_egg", 1, 1, 5.35),
+    lootItem("minecraft:creeper_spawn_egg", 1, 1, 4.46),
+    lootItem("minecraft:slime_spawn_egg", 1, 1, 3.57),
+    lootItem("minecraft:zombified_piglin_spawn_egg", 1, 1, 2.14),
+    lootItem("minecraft:blaze_spawn_egg", 1, 1, 1.78),
+    lootItem("thermal:basalz_spawn_egg", 1, 1, 1.78),
+    lootItem("thermal:blitz_spawn_egg", 1, 1, 1.78),
+    lootItem("thermal:blizz_spawn_egg", 1, 1, 1.78),
+    lootItem("quark:wraith_spawn_egg", 1, 1, 1.78),
+    lootItem("minecraft:piglin_spawn_egg", 1, 1, 1.78),
+    lootItem("minecraft:piglin_brute_spawn_egg", 1, 1, 1.78),
+    lootItem("minecraft:pillager_spawn_egg", 1, 1, 1.78),
+    lootItem("minecraft:magma_cube_spawn_egg", 1, 1, 1.43),
+    lootItem("minecraft:ghast_spawn_egg", 1, 1, 0.89),
+    lootItem("minecraft:guardian_spawn_egg", 1, 1, 0.89),
+    lootItem("minecraft:witch_spawn_egg", 1, 1, 0.89),
+    lootItem("minecraft:phantom_spawn_egg", 1, 1, 0.71),
+    lootItem("minecraft:shulker_spawn_egg", 1, 1, 0.71),
+    lootItem("minecraft:vindicator_spawn_egg", 1, 1, 0.71),
+    lootItem("minecraft:wither_skeleton_spawn_egg", 1, 1, 0.71),
+    lootItem("minecraft:evoker_spawn_egg", 1, 1, 0.53),
+    lootItem("minecraft:elder_guardian_spawn_egg", 1, 1, 0.36),
+    lootItem("minecraft:hoglin_spawn_egg", 1, 1, 0.36),
+    lootItem("minecraft:ravager_spawn_egg", 1, 1, 0.36),
+    lootItem("minecraft:zoglin_spawn_egg", 1, 1, 0.36),
+    lootItem("cagerium:iron_golem_spawn_egg", 1, 1, 0.36),
+    lootItem("cagerium:wither_spawn_egg", 1, 1, 0.36)
+], []);
+
+JEI.addCategory(mysteryHostileEgg);
+
+// Mystery Box
+var mysteryBox = JeiCategory.create<Custom>("mystery_box", new TextComponent("Mystery Box"), <item:the_vault:mystery_box>, [<item:the_vault:mystery_box>]) as Custom;
+makeJEIGrid(mysteryBox, 2, 5, false);
+
+mysteryBox.addRecipe([
+    lootItem("minecraft:diamond", 1, 8, 38.96),
+    lootItem("minecraft:emerald", 1, 8, 38.96),
+    lootItem("the_vault:gem_larimar", 1, 8, 19.48),
+    lootItem("the_vault:gem_benitoite", 1, 4, 9.74),
+    lootItem("the_vault:gem_painite", 1, 2, 4.87),
+    lootItem("the_vault:gem_black_opal", 1, 1, 2.43),
+    lootItem("the_vault:gem_echo", 1, 1, 1.22),
+    lootItem("the_vault:vault_platinum", 1, 1, 1.22),
+    lootItem("the_vault:vault_palladium", 1, 1, 0.15),
+    lootItem("the_vault:gem_pog", 1, 2, 0.15)
+], []);
+
+JEI.addCategory(mysteryBox);
+
+// Mod Box
+var modBox = JeiCategory.create<Custom>("mod_box", new TextComponent("Mod Box"), <item:the_vault:mod_box>, [<item:the_vault:mod_box>]) as Custom;
+makeJEIGridWithName(modBox, 3, 7, false);
+
+
+modBox.addRecipe([
+    letterItem("n", "blue"),
+    letterItem("o", "blue"),
+    <item:minecraft:air>,
+    letterItem("m", "blue"),
+    letterItem("o", "blue"),
+    letterItem("d", "blue"),
+    letterItem("s", "blue"),
+    lootItem("the_vault:knowledge_star_shard", 1, 4, 100.0)
+], []);
+modBox.addRecipe([
+    letterItem("d", "blue"),
+    letterItem("r", "blue"),
+    letterItem("a", "blue"),
+    letterItem("w", "blue"),
+    letterItem("e", "blue"),
+    letterItem("r", "blue"),
+    letterItem("s", "blue"),
+    lootItem("storagedrawers:upgrade_template", 4, 4, 18.87),
+    lootItem("storagedrawers:void_upgrade", 1, 1, 15.09),
+    lootItem("storagedrawers:iron_storage_upgrade", 1, 1, 14.15),
+    lootItem("storagedrawers:gold_storage_upgrade", 1, 1, 13.21),
+    lootItem("storagedrawers:diamond_storage_upgrade", 1, 1, 12.26),
+    lootItem("storagedrawers:obsidian_storage_upgrade", 1, 1, 11.32),
+    lootItem("framedcompactdrawers:framed_compact_drawer", 1, 1, 9.43),
+    lootItem("framedcompactdrawers:framed_drawer_controller", 1, 1, 4.72),
+    lootItem("storagedrawers:emerald_storage_upgrade", 1, 1, 0.94)
+], []);
+modBox.addRecipe([
+    letterItem("r", "blue"),
+    letterItem("s", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("refinedstorage:speed_upgrade", 1, 1, 19.23),
+    lootItem("refinedstorage:1k_storage_disk", 1, 1, 15.38),
+    lootItem("refinedstorage:stack_upgrade", 1, 1, 14.42),
+    lootItem("refinedstorage:4k_storage_disk", 1, 1, 13.46),
+    lootItem("refinedstorage:external_storage", 1, 1, 12.5),
+    lootItem("refinedstorage:disk_drive", 1, 1, 9.62),
+    lootItem("refinedstorage:grid", 1, 1, 7.69),
+    lootItem("refinedstorage:16k_storage_disk", 1, 1, 4.81),
+    lootItem("refinedstorage:crafting_grid", 1, 1, 1.92),
+    lootItem("refinedstorage:64k_storage_disk", 1, 1, 0.96)
+], []);
+modBox.addRecipe([
+    letterItem("a", "blue"),
+    letterItem("e", "blue"),
+    <item:neoncraft2:wallneon_number_2_blue>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("ae2:fluix_smart_dense_cable", 4, 4, 17.54),
+    lootItem("ae2:item_storage_cell_1k", 1, 1, 14.04),
+    lootItem("ae2:item_storage_cell_4k", 1, 1, 13.16),
+    lootItem("ae2:speed_card", 2, 2, 13.16),
+    lootItem("ae2:item_storage_cell_16k", 1, 1, 12.28),
+    lootItem("ae2:storage_bus", 1, 1, 11.4),
+    lootItem("ae2:drive", 1, 1, 8.77),
+    lootItem("ae2:terminal", 1, 1, 7.02),
+    lootItem("ae2:crafting_terminal", 1, 1, 1.75),
+    lootItem("ae2:item_storage_cell_64k", 1, 1, 0.88)
+], []);
+modBox.addRecipe([
+    letterItem("p", "blue"),
+    letterItem("o", "blue"),
+    letterItem("w", "blue"),
+    letterItem("a", "blue"),
+    letterItem("h", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("powah:furnator_starter", 1, 1, 15.89),
+    lootItem("powah:solar_panel_starter", 1, 1, 10.6),
+    lootItem("powah:thermo_generator_basic", 1, 1, 10.6),
+    lootItem("powah:furnator_hardened", 1, 1, 9.27),
+    lootItem("powah:solar_panel_hardened", 1, 1, 9.27),
+    lootItem("powah:thermo_generator_hardened", 1, 1, 9.27),
+    lootItem("powah:furnator_blazing", 1, 1, 5.3),
+    lootItem("powah:solar_panel_blazing", 1, 1, 5.3),
+    lootItem("powah:thermo_generator_blazing", 1, 1, 5.3),
+    lootItem("powah:energizing_rod_blazing", 1, 1, 5.3),
+    lootItem("powah:energy_cell_blazing", 1, 1, 5.3),
+    lootItem("powah:ender_cell_hardened", 1, 1, 5.3),
+    lootItem("powah:energizing_rod_niotic", 1, 1, 1.32),
+    lootItem("powah:furnator_spirited", 1, 1, 0.66),
+    lootItem("powah:thermo_generator_niotic", 1, 1, 0.66),
+    lootItem("powah:energy_cell_spirited", 1, 1, 0.66)
+], []);
+modBox.addRecipe([
+    letterItem("d", "blue"),
+    letterItem("y", "blue"),
+    letterItem("n", "blue"),
+    letterItem("a", "blue"),
+    letterItem("m", "blue"),
+    letterItem("o", "blue"),
+    letterItem("s", "blue"),
+    lootItem("thermal:dynamo_stirling", 1, 1, 14.29),
+    lootItem("thermal:dynamo_compression", 1, 1, 14.29),
+    lootItem("thermal:dynamo_magmatic", 1, 1, 14.29),
+    lootItem("thermal:dynamo_lapidary", 1, 1, 14.29),
+    lootItem("thermal:dynamo_numismatic", 1, 1, 14.29),
+    lootItem("thermal:dynamo_disenchantment", 1, 1, 14.29),
+    lootItem("thermal:dynamo_gourmand", 1, 1, 14.29)
+], []);
+modBox.addRecipe([
+    letterItem("t", "blue"),
+    letterItem("h", "blue"),
+    letterItem("e", "blue"),
+    letterItem("r", "blue"),
+    letterItem("m", "blue"),
+    letterItem("a", "blue"),
+    letterItem("l", "blue"),
+    lootItem("thermal:device_nullifier", 1, 1, 24.69),
+    lootItem("thermal:device_water_gen", 1, 1, 19.75),
+    lootItem("thermal:device_fisher", 1, 1, 14.81),
+    lootItem("thermal:device_composter", 1, 1, 14.81),
+    lootItem("thermal:machine_chiller", 1, 1, 9.88),
+    lootItem("thermal:machine_sawmill", 1, 1, 9.88),
+    lootItem("thermal:device_collector", 1, 1, 4.94),
+    lootItem("thermal:device_rock_gen", 1, 1, 1.23)
+], []);
+modBox.addRecipe([
+    letterItem("m", "blue"),
+    letterItem("e", "blue"),
+    letterItem("k", "blue"),
+    <item:minecraft:air>,
+    letterItem("g", "blue"),
+    letterItem("e", "blue"),
+    letterItem("n", "blue"),
+    lootItem("mekanismgenerators:heat_generator", 1, 1, 33.9),
+    lootItem("mekanismgenerators:solar_generator", 1, 1, 27.12),
+    lootItem("mekanismgenerators:bio_generator", 1, 1, 27.12),
+    lootItem("mekanismgenerators:advanced_solar_generator", 1, 1, 6.78),
+    lootItem("mekanismgenerators:gas_burning_generator", 1, 1, 3.39),
+    lootItem("mekanismgenerators:wind_generator", 1, 1, 1.69)
+], []);
+modBox.addRecipe([
+    letterItem("c", "blue"),
+    letterItem("r", "blue"),
+    letterItem("e", "blue"),    
+    letterItem("a", "blue"),
+    letterItem("t", "blue"),
+    letterItem("e", "blue"),
+    <item:minecraft:air>,
+    lootItem("create:gearbox", 1, 1, 25.81),
+    lootItem("create:depot", 1, 1, 21.51),
+    lootItem("create:mechanical_bearing", 1, 1, 17.2),
+    lootItem("create:water_wheel", 1, 1, 12.9),
+    lootItem("create:large_water_wheel", 1, 1, 8.6),
+    lootItem("create:blaze_burner", 1, 1, 8.6),
+    lootItem("create:mechanical_arm", 1, 1, 4.3),
+    lootItem("create:cart_assembler", 1, 1, 1.08)
+], []);
+modBox.addRecipe([
+    letterItem("m", "blue"),
+    letterItem("e", "blue"),
+    letterItem("k", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("mekanism:upgrade_speed", 4, 4, 25.53),
+    lootItem("mekanism:upgrade_energy", 4, 4, 25.53),
+    lootItem("mekanism:basic_energy_cube", 1, 1, 17.02),
+    lootItem("mekanism:basic_tier_installer", 1, 1, 15.96),
+    lootItem("mekanism:advanced_tier_installer", 1, 1, 8.51),
+    lootItem("mekanism:advanced_energy_cube", 1, 1, 4.26),
+    lootItem("mekanism:elite_tier_installer", 1, 1, 2.13),
+    lootItem("mekanism:elite_energy_cube", 1, 1, 1.06)
+], []);
+modBox.addRecipe([
+    letterItem("b", "blue"),
+    letterItem("o", "blue"),
+    letterItem("t", "blue"),
+    letterItem("a", "blue"),
+    letterItem("n", "blue"),
+    letterItem("i", "blue"),
+    letterItem("a", "blue"),
+    lootItem("botania:blacker_lotus", 1, 1, 21.54),
+    lootItem("botania:gourmaryllis", 1, 1, 12.31),
+    lootItem("botania:rosa_arcana", 1, 1, 12.31),
+    lootItem("botania:overgrowth_seed", 1, 1, 10.77),
+    lootItem("botania:munchdew", 1, 1, 9.23),
+    lootItem("botania:entropinnyum", 1, 1, 6.15),
+    lootItem("botania:kekimurus", 1, 1, 6.15),
+    lootItem("botania:agricarnation", 1, 1, 6.15),
+    lootItem("botania:marimorphosis", 1, 1, 6.15),
+    lootItem("botania:bellethorn", 1, 1, 4.62),
+    lootItem("botania:exoflame", 1, 1, 3.08),
+    lootItem("botania:orechid", 1, 1, 0.77),
+    lootItem("botania:loonium", 1, 1, 0.77)
+], []);
+modBox.addRecipe([
+    letterItem("e", "blue"),
+    letterItem("v", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("easy_villagers:trader", 1, 1, 78.74),
+    lootItem("easy_villagers:farmer", 1, 1, 15.75),
+    lootItem("easy_villagers:iron_farm", 1, 1, 3.94),
+    lootItem("easy_villagers:auto_trader", 1, 1, 1.57)
+], []);
+
+modBox.addRecipe([
+    letterItem("s", "blue"),
+    letterItem("s", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("sophisticatedstorage:iron_barrel", 1, 1, 10.4),
+    lootItem("sophisticatedstorage:gold_barrel", 1, 1, 2.08),
+    lootItem("sophisticatedstorage:diamond_barrel", 1, 1, 1.04),
+    lootItem("sophisticatedstorage:stack_upgrade_tier_1", 1, 1, 20.08),
+    lootItem("sophisticatedstorage:stack_upgrade_tier_2", 1, 1, 12.5),
+    lootItem("sophisticatedstorage:stack_upgrade_tier_3", 1, 1, 4.1),
+    lootItem("sophisticatedstorage:stack_upgrade_tier_4", 1, 1, 0.01),
+    lootItem("sophisticatedstorage:upgrade_base", 1, 2, 20.08),
+    lootItem("sophisticatedstorage:void_upgrade", 1, 1, 14.5),
+    lootItem("sophisticatedstorage:compression_upgrade", 1, 1, 14.5),
+    lootItem("sophisticatedstorage:advanced_compacting_upgrade", 1, 1, 10.4)
+], []);
+
+modBox.addRecipe([
+    letterItem("p", "blue"),
+    letterItem("n", "blue"),
+    letterItem("e", "blue"),
+    letterItem("u", "blue"),
+    letterItem("m", "blue"),
+    letterItem("a", "blue"),
+    <item:minecraft:air>,
+    lootItem("pneumaticcraft:ingot_iron_compressed", 1, 4, 25.9),
+    lootItem("pneumaticcraft:pressure_tube", 2, 8, 20.7),
+    lootItem("pneumaticcraft:reinforced_pressure_tube", 1, 4, 5.2),
+    lootItem("pneumaticcraft:plastic", 1, 3, 15.5),
+    lootItem("pneumaticcraft:transistor", 1, 1, 7.7),
+    lootItem("pneumaticcraft:capacitor", 1, 1, 7.7),
+    lootItem("pneumaticcraft:upgrade_matrix", 1, 2, 15.5),
+    lootItem("pneumaticcraft:spawner_core_shell", 1, 1, 0.01),
+    lootItem("pneumaticcraft:printed_circuit_board", 1, 1, 0.01)
+], []);
+
+modBox.addRecipe([
+    letterItem("i", "blue"),
+    letterItem("f", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("industrialforegoing:plastic", 2, 2, 37.8),
+    lootItem("industrialforegoing:iron_gear", 2, 2, 18.9),
+    lootItem("industrialforegoing:gold_gear", 1, 1, 4.7),
+    lootItem("industrialforegoing:diamond_gear", 1, 1, 0.7),
+    lootItem("industrialforegoing:conveyor", 8, 8, 18.9),
+    lootItem("industrialforegoing:pink_slime", 1, 1, 9.5),
+    lootItem("industrialforegoing:speed_addon_1", 1, 1, 4.7),
+    lootItem("industrialforegoing:speed_addon_2", 1, 1, 0.7),
+    lootItem("industrialforegoing:processing_addon_1", 1, 1, 3.1),
+    lootItem("industrialforegoing:processing_addon_2", 1, 1, 0.31),
+    lootItem("industrialforegoing:efficiency_addon_1", 1, 1, 4.7),
+    lootItem("industrialforegoing:efficiency_addon_2", 1, 1, 0.7),
+    lootItem("industrialforegoing:pity_black_hole_tank", 1, 1, 4.7),
+    lootItem("industrialforegoing:pity_black_hole_unit", 1, 1, 4.7),
+    lootItem("industrialforegoing:black_hole_controller", 1, 1, 0.7)
+], []);
+
+modBox.addRecipe([
+    letterItem("i", "blue"),
+    letterItem("c", "blue"),
+    letterItem("h", "blue"),
+    letterItem("e", "blue"),
+    letterItem("s", "blue"),
+    letterItem("t", "blue"),
+    letterItem("s", "blue"),
+    lootItem("ironchests:copper_chest", 1, 1, 30.0),
+    lootItem("ironchests:iron_chest", 1, 1, 20.0),
+    lootItem("ironchests:gold_chest", 1, 1, 10.0),
+    lootItem("ironchests:diamond_chest", 1, 1, 7.5),
+    lootItem("ironchests:netherite_chest", 1, 1, 4.25),
+    lootItem("minecraft:iron_ingot", 1, 1, 20.0),
+    lootItem("minecraft:gold_ingot", 1, 1, 14.0)
+], []);
+
+JEI.addCategory(modBox);
+
+// Relic Booster Pack
+var boosterPack = JeiCategory.create<Custom>("relic_booster_pack", new TextComponent("Relic Booster Pack"), <item:the_vault:relic_booster_pack>, [<item:the_vault:relic_booster_pack>]) as Custom;
+makeJEIGrid(boosterPack, 8, 5, false);
+
+function relicItem(relicID as string, chance as float) as IItemStack {
+    return <item:the_vault:vault_relic_fragment>.withTag({VaultModelId: relicID, display: {Lore: ["[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}});
+}
+
+
+boosterPack.addRecipe([
+    relicItem("the_vault:relic/cupcake/frag1", 0.28),
+    relicItem("the_vault:relic/cupcake/frag2", 0.28),
+    relicItem("the_vault:relic/cupcake/frag3", 0.28),
+    relicItem("the_vault:relic/cupcake/frag4", 0.28),
+    relicItem("the_vault:relic/cupcake/frag5", 0.28),
+    relicItem("the_vault:relic/elemental/frag1", 0.28),
+    relicItem("the_vault:relic/elemental/frag2", 0.28),
+    relicItem("the_vault:relic/elemental/frag3", 0.28),
+    relicItem("the_vault:relic/elemental/frag4", 0.28),
+    relicItem("the_vault:relic/elemental/frag5", 0.28),
+    relicItem("the_vault:relic/miner/frag1", 0.28),
+    relicItem("the_vault:relic/miner/frag2", 0.28),
+    relicItem("the_vault:relic/miner/frag3", 0.28),
+    relicItem("the_vault:relic/miner/frag4", 0.28),
+    relicItem("the_vault:relic/miner/frag5", 0.28),
+    relicItem("the_vault:relic/nazar/frag1", 0.28),
+    relicItem("the_vault:relic/nazar/frag2", 0.28),
+    relicItem("the_vault:relic/nazar/frag3", 0.28),
+    relicItem("the_vault:relic/nazar/frag4", 0.28),
+    relicItem("the_vault:relic/nazar/frag5", 0.28),
+    relicItem("the_vault:relic/twitch/frag1", 0.28),
+    relicItem("the_vault:relic/twitch/frag2", 0.28),
+    relicItem("the_vault:relic/twitch/frag3", 0.28),
+    relicItem("the_vault:relic/twitch/frag4", 0.28),
+    relicItem("the_vault:relic/twitch/frag5", 0.28),
+    relicItem("the_vault:relic/warrior/frag1", 0.28),
+    relicItem("the_vault:relic/warrior/frag2", 0.28),
+    relicItem("the_vault:relic/warrior/frag3", 0.28),
+    relicItem("the_vault:relic/warrior/frag4", 0.28),
+    relicItem("the_vault:relic/warrior/frag5", 0.28),
+    relicItem("the_vault:relic/dragon/frag1", 0.28),
+    relicItem("the_vault:relic/dragon/frag2", 0.28),
+    relicItem("the_vault:relic/dragon/frag3", 0.28),
+    relicItem("the_vault:relic/dragon/frag4", 0.28),
+    relicItem("the_vault:relic/dragon/frag5", 0.28),
+    relicItem("the_vault:relic/richity/frag1", 0.28),
+    relicItem("the_vault:relic/richity/frag2", 0.28),
+    relicItem("the_vault:relic/richity/frag3", 0.28),
+    relicItem("the_vault:relic/richity/frag4", 0.28),
+    relicItem("the_vault:relic/richity/frag5", 0.28)
+], []);
+
+JEI.addCategory(boosterPack);
