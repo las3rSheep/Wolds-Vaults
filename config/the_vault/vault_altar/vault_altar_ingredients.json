@@ -820,6 +820,9 @@
             "items": [
               {
                 "item": "minecraft:leather"
+              },
+              {
+                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {
@@ -1430,6 +1433,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_lead"
+              },
+              {
+                "item": "thermal:lead_ingot"
               }
             ],
             "amount": {
@@ -2441,6 +2447,9 @@
             "items": [
               {
                 "item": "minecraft:leather"
+              },
+              {
+                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {
@@ -3317,13 +3326,16 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 8
         },
         {
           "value": {
             "items": [
               {
                 "item": "mekanism:ingot_tin"
+              },
+              {
+                "item": "thermal:tin_ingot"
               }
             ],
             "amount": {
@@ -3332,13 +3344,16 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 8
         },
         {
           "value": {
             "items": [
               {
                 "item": "mekanism:ingot_lead"
+              },
+              {
+                "item": "thermal:lead_ingot"
               }
             ],
             "amount": {
@@ -3347,7 +3362,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 8
         },
         {
           "value": {
@@ -3363,6 +3378,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "ae2:certus_quartz_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -3876,6 +3906,21 @@
           "value": {
             "items": [
               {
+                "item": "cloudstorage:balloon_bit"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.8
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:basalt"
               }
             ],
@@ -4012,6 +4057,21 @@
             "scale": 0.6
           },
           "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:zinc_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -4590,6 +4650,9 @@
             "items": [
               {
                 "item": "minecraft:leather"
+              },
+              {
+                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {
@@ -5728,6 +5791,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_tin"
+              },
+              {
+                "item": "thermal:tin_ingot"
               }
             ],
             "amount": {
@@ -5743,6 +5809,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_lead"
+              },
+              {
+                "item": "thermal:lead_ingot"
               }
             ],
             "amount": {
@@ -5767,6 +5836,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "ae2:certus_quartz_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -6454,6 +6538,21 @@
           "value": {
             "items": [
               {
+                "item": "cloudstorage:balloon_bit"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:basalt"
               }
             ],
@@ -6590,6 +6689,21 @@
             "scale": 0.6
           },
           "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:zinc_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -7258,6 +7372,9 @@
             "items": [
               {
                 "item": "minecraft:leather"
+              },
+              {
+                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {
@@ -8426,6 +8543,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_tin"
+              },
+              {
+                "item": "thermal:tin_ingot"
               }
             ],
             "amount": {
@@ -8441,6 +8561,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_lead"
+              },
+              {
+                "item": "thermal:lead_ingot"
               }
             ],
             "amount": {
@@ -8465,6 +8588,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "ae2:certus_quartz_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -9182,6 +9320,21 @@
           "value": {
             "items": [
               {
+                "item": "cloudstorage:balloon_bit"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.8
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:soul_soil"
               }
             ],
@@ -9333,6 +9486,21 @@
             "scale": 0.6
           },
           "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:zinc_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {
@@ -10001,6 +10169,9 @@
             "items": [
               {
                 "item": "minecraft:leather"
+              },
+              {
+                "item": "tropicraft:iguana_leather"
               }
             ],
             "amount": {
@@ -11169,6 +11340,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_tin"
+              },
+              {
+                "item": "thermal:tin_ingot"
               }
             ],
             "amount": {
@@ -11184,6 +11358,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_lead"
+              },
+              {
+                "item": "thermal:lead_ingot"
               }
             ],
             "amount": {
@@ -11208,6 +11385,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "ae2:certus_quartz_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.8
+          },
+          "weight": 6
         },
         {
           "value": {

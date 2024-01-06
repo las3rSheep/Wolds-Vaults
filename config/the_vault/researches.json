@@ -14,7 +14,7 @@
         }
       },
       "name": "RFTools Utility",
-      "cost": 4,
+      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -340,7 +340,7 @@
         }
       },
       "name": "Sophisticated Storage",
-      "cost": 1,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -689,7 +689,7 @@
         }
       },
       "name": "Industrial Foregoing",
-      "cost": 9,
+      "cost": 6,
       "usesKnowledge": true
     },
     {
@@ -763,7 +763,7 @@
         }
       },
       "name": "Hostile Neural Networks",
-      "cost": 3,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -923,7 +923,7 @@
         }
       },
       "name": "Mekanism Generators",
-      "cost": 8,
+      "cost": 6,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/meka_dark/helmet",
@@ -1609,28 +1609,28 @@
     },
     {
       "itemRestrictions": {
-        "lightmanscurrency:gold_wallet": {
+        "lightmanscurrency:wallet_gold": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": true,
             "CRAFTABILITY": true
           }
         },
-        "lightmanscurrency:emerald_wallet": {
+        "lightmanscurrency:wallet_emerald": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": true,
             "CRAFTABILITY": true
           }
         },
-        "lightmanscurrency:diamond_wallet": {
+        "lightmanscurrency:wallet_diamond": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": true,
             "CRAFTABILITY": true
           }
         },
-        "lightmanscurrency:netherite_wallet": {
+        "lightmanscurrency:wallet_netherite": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": true,
@@ -1774,7 +1774,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Easy Villagers",
-      "cost": 4,
+      "cost": 3,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/villager/helmet",
