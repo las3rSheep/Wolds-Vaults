@@ -21,7 +21,10 @@
         "color": "yellow"
       },
       {
-        "text": " mod!\n\nHostile Neural Networks is a server-friendly mob looting system. Collect Data Models by killing a mob with a Deep Learner, then evolve your Data Model using Spawn Eggs of the corresponding type. Very powerful mod!"
+        "text": " mod!\n\nHostile Neural Networks is a server-friendly mob looting system. Use a Data Model on a mob to make it's Model, then evolve your Data Model using Spawn Eggs of the corresponding type. Very powerful mod!"
+      },
+      {
+        "text": "\n\nNote, HNN works differently in this pack! Your models won't upgrade in Simulation Chambers or gain data from kills, you need to evolve them using spawn eggs! Also needs power to work."
       }
     ],
     "Ghost Walk": [
