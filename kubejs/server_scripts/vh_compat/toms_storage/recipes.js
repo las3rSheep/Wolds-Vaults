@@ -26,13 +26,13 @@ onEvent("recipes", event => {
             'WRW'
         ], {
         W: 'the_vault:wooden_planks',
-        E: 'the_vault:gem_pog',
+        E: 'the_vault:perfect_black_opal',
         C: 'the_vault:wooden_chest_placeable',
         R: 'the_vault:perfect_larimar',
         G: 'the_vault:chromatic_steel_ingot',
     })
 
-    event.shaped(Item.of('toms_storage:ts.trim'),
+    event.shaped(Item.of('toms_storage:ts.trim', 4),
         [
             'WCW',
             'CDC',
@@ -43,7 +43,7 @@ onEvent("recipes", event => {
         C: 'the_vault:driftwood_planks'
     })
 
-    event.shaped(Item.of('toms_storage:ts.inventory_cable'),
+    event.shaped(Item.of('toms_storage:ts.inventory_cable', 6),
         [
             'WCW',
             'IDI',
@@ -93,13 +93,14 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('toms_storage:ts.crafting_terminal'),
         [
-            'WCW',
+            'WXW',
             'CDC',
             'WCW'
         ], {
         W: 'the_vault:black_chromatic_steel_ingot',
         D: 'toms_storage:ts.storage_terminal',
         C: 'the_vault:vault_diamond',
+        X: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('toms_storage:ts.inventory_hopper_basic'),

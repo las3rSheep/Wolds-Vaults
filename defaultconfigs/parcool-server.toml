@@ -31,47 +31,47 @@
 
 		[Limitations.Stamina."Least Consumption"]
 			#Range: 0 ~ 10000
-			stamina_consumption_of_BreakfallReady = 100
+			stamina_consumption_of_BreakfallReady = 10
 			#Range: 0 ~ 10000
-			stamina_consumption_of_CatLeap = 400
+			stamina_consumption_of_CatLeap = 75
 			#Range: 0 ~ 10000
-			stamina_consumption_of_ClimbPoles = 40
+			stamina_consumption_of_ClimbPoles = 20
 			#Range: 0 ~ 10000
-			stamina_consumption_of_ClimbUp = 150
+			stamina_consumption_of_ClimbUp = 75
 			#Range: 0 ~ 10000
-			stamina_consumption_of_ClingToCliff = 15
+			stamina_consumption_of_ClingToCliff = 7
 			#Range: 0 ~ 10000
 			stamina_consumption_of_Crawl = 0
 			#Range: 0 ~ 10000
 			stamina_consumption_of_Dive = 0
 			#Range: 0 ~ 10000
-			stamina_consumption_of_Dodge = 160
+			stamina_consumption_of_Dodge = 60
 			#Range: 0 ~ 10000
-			stamina_consumption_of_FastRun = 14
+			stamina_consumption_of_FastRun = 7
 			#Range: 0 ~ 10000
-			stamina_consumption_of_Flipping = 80
+			stamina_consumption_of_Flipping = 40
 			#Range: 0 ~ 10000
-			stamina_consumption_of_HangDown = 20
+			stamina_consumption_of_HangDown = 10
 			#Range: 0 ~ 10000
 			stamina_consumption_of_HorizontalWallRun = 2
 			#Range: 0 ~ 10000
-			stamina_consumption_of_JumpFromBar = 100
+			stamina_consumption_of_JumpFromBar = 50
 			#Range: 0 ~ 10000
 			stamina_consumption_of_QuickTurn = 0
 			#Range: 0 ~ 10000
-			stamina_consumption_of_Roll = 200
+			stamina_consumption_of_Roll = 100
 			#Range: 0 ~ 10000
 			stamina_consumption_of_SkyDive = 0
 			#Range: 0 ~ 10000
 			stamina_consumption_of_Slide = 0
 			#Range: 0 ~ 10000
-			stamina_consumption_of_Tap = 100
+			stamina_consumption_of_Tap = 50
 			#Range: 0 ~ 10000
-			stamina_consumption_of_Vault = 100
+			stamina_consumption_of_Vault = 75
 			#Range: 0 ~ 10000
 			stamina_consumption_of_VerticalWallRun = 150
 			#Range: 0 ~ 10000
-			stamina_consumption_of_WallJump = 200
+			stamina_consumption_of_WallJump = 100
 			#Range: 0 ~ 10000
 			stamina_consumption_of_WallSlide = 2
 			#Permission of infinite stamina

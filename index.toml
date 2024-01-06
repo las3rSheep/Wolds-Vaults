@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "876880f6ac98edf3408c7b54b889766747e69032c34254ce642abd0d913a23ef"
+hash = "2dbdb94124321cd80b3f04e1bf3930b9ecaaaa27d7b2ab7120f5e9f1df0c2743"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -566,7 +566,7 @@ hash = "08a43297778c6e7923614de795cb5f9703ca69d0ab4d82115377c04b278eeac2"
 
 [[files]]
 file = "config/brandon3055/CSG/Config.json"
-hash = "801a7ee8322891a1718cd90c16df6454eb2bf8b91a908f3ff42abf53f2c29d28"
+hash = "feaada9a6ba238396d9dd4781728295811b06415452840f7a0a6156e704d8a28"
 
 [[files]]
 file = "config/buildinggadgets-client.toml"
@@ -12250,7 +12250,7 @@ hash = "23a22e03bc6da4b3152bd06be1402efd50d6d118b03d56af8c8f0bfe2e95a805"
 
 [[files]]
 file = "defaultconfigs/parcool-server.toml"
-hash = "80012de8b907f64b36fdbc282bf5ce596f16b4b9b4e833d2ff702633ecef037a"
+hash = "1be4314a83cc1174659b84bca02eed99db5b454586cd02668a77518628f9b28b"
 
 [[files]]
 file = "defaultconfigs/pickupnotifier/pickupnotifier-server.toml"
@@ -20086,7 +20086,7 @@ hash = "807e18574eee107f22690015b5aea20ebe98af651ea4c3070bc6f1a0a403b19d"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/toms_storage/recipes.js"
-hash = "226deb316b1ae86d1df3bc643432227b3f8656e7ebc5339f9cb45c97dbd7bc55"
+hash = "1b9ebe0e27e6e0ab8f0da516246e054d2a13e9062bc75979d8733a8fa2673a5a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/waystones/recipes.js"
@@ -20568,7 +20568,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
+hash = "97a89b74d1072263842f1067c5f33c9510d321f71082faec40953c1ca0c041a4"
 metafile = true
 
 [[files]]
@@ -20612,8 +20612,8 @@ hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
 metafile = true
 
 [[files]]
-file = "mods/hostile-neural-network-ts-edition.pw.toml"
-hash = "c9bb7b98d9ffeda574f96532c023e4fe357e53f15b0b7366cec568b1252da366"
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "434f2a8ec4d628ccc55fb0cf5e26958b143e9ac4ec4d8e2654d79eb1234f63ac"
 metafile = true
 
 [[files]]
@@ -21073,7 +21073,7 @@ metafile = true
 
 [[files]]
 file = "mods/packmenu.pw.toml"
-hash = "fe416ac77d305c786097b62215c247c59fcc9b52d3098e3ce04c5d93a0dd5847"
+hash = "06d79fa3f10fa02efdbcdaaf0455d97ac2e5147d3d00bf74ed01aee9b5cc7269"
 metafile = true
 
 [[files]]
@@ -21113,7 +21113,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
+hash = "7949825f50711920d0faa98470f65a33a7ff48a40e735e1f5efb616e325e1992"
 metafile = true
 
 [[files]]

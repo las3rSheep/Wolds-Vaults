@@ -1,0 +1,13 @@
+name = "Hostile Neural Networks"
+filename = "HostileNeuralNetworks-1.18.2-3.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a30cd3ee5889418f9f18ce4cd6384e310a568b8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3717871
+project-id = 552574

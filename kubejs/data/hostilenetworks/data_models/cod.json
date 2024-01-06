@@ -19,11 +19,6 @@
   "trivia": "hostilenetworks.trivia.cod",
   "fabricator_drops": [
     {
-      "optional": true,
-      "item": "croptopia:roe",
-      "count": 32
-    },
-    {
       "item": "minecraft:cod",
       "count": 32
     },
@@ -31,17 +26,5 @@
       "item": "minecraft:bone_meal",
       "count": 2
     }
-  ],
-  "tier_data": [
-    6,
-    54,
-    354,
-    1254
-  ],
-  "data_per_kill": [
-    0,
-    0,
-    0,
-    0
   ]
 }
