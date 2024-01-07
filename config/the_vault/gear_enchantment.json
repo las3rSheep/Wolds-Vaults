@@ -413,6 +413,24 @@
         }
       ],
       "levels": 1
+    },
+    "lightmanscurrency:money_mending": {
+      "items": [
+        {
+          "id": "the_vault:vault_palladium",
+          "count": 1
+        }
+      ],
+      "levels": 1
+    },
+    "lightmanscurrency:coin_magnet": {
+      "items": [
+        {
+          "id": "emerald",
+          "count": 5
+        }
+      ],
+      "levels": 3
     }
   }
 }

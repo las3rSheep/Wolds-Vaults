@@ -115,7 +115,7 @@
 	#Enchantment Settings
 	[server.enchantments]
 		#The cost required to repair a single item durability point with the Money Mending enchantment.
-		moneyMendingCoinCost = "1-lightmanscurrency:coin_copper"
+		moneyMendingCoinCost = "5-the_vault:vault_bronze"
 		#The base radius around the player that the Coin Magnet enchantment will collect coins from.
 		#Range: 0 ~ 50
 		coinMagnetRangeBase = 5

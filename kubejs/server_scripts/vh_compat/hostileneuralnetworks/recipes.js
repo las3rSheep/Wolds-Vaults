@@ -46,19 +46,21 @@ onEvent("recipes", event => {
 
     let quarkMobTypes = ['wraith']
 
+    let cloudStorageMobTypes = ['bloviator', 'badloon']
+
     let cageriumMobTypes = ['wither', 'ender_dragon', 'iron_golem']
 
-    event.shaped(Item.of('hostilenetworks:deep_learner'),
-        [
-            'PRP',
-            'RTR',
-            'PXP'
-        ], {
-        P: 'the_vault:chromatic_steel_ingot',
-        R: 'the_vault:vault_essence',
-        X: 'the_vault:perfect_black_opal',
-        T: '#forge:glass_panes'
-    })
+    // event.shaped(Item.of('hostilenetworks:deep_learner'),
+    //     [
+    //         'PRP',
+    //         'RTR',
+    //         'PXP'
+    //     ], {
+    //     P: 'the_vault:chromatic_steel_ingot',
+    //     R: 'the_vault:vault_essence',
+    //     X: 'the_vault:perfect_black_opal',
+    //     T: '#forge:glass_panes'
+    // })
 
     event.shaped(Item.of('hostilenetworks:blank_data_model'),
         [
@@ -147,7 +149,7 @@ onEvent("recipes", event => {
     })
 
     thermalMobTypes.forEach(mob => {
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:thermal/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -155,10 +157,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `thermal:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:thermal/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:thermal/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -166,10 +168,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `thermal:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:thermal/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:thermal/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -177,10 +179,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `thermal:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:thermal/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:thermal/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -188,12 +190,12 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `thermal:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:thermal/${mob}"}}`)
         })
     })
 
     quarkMobTypes.forEach(mob => {
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:quark/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -201,10 +203,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `quark:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:quark/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:quark/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -212,10 +214,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `quark:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:quark/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:quark/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -223,10 +225,10 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `quark:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:quark/${mob}"}}`)
         })
 
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:${mob}"}}`),
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:quark/${mob}"}}`),
             [
                 ' E ',
                 'ZMZ',
@@ -234,7 +236,7 @@ onEvent("recipes", event => {
             ], {
             Z: 'the_vault:vault_essence',
             E: `quark:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:${mob}"}}`)
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:quark/${mob}"}}`)
         })
     })
 
@@ -281,6 +283,52 @@ onEvent("recipes", event => {
             Z: 'the_vault:vault_essence',
             E: `cagerium:${mob}_spawn_egg`,
             M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:${mob}"}}`)
+        })
+    })
+
+    cloudStorageMobTypes.forEach(mob => {
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:cloudstorage/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `cloudstorage:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:cloudstorage/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:cloudstorage/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `cloudstorage:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:cloudstorage/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:cloudstorage/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `cloudstorage:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:cloudstorage/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:cloudstorage/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `cloudstorage:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:cloudstorage/${mob}"}}`)
         })
     })
 

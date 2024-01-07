@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2dbdb94124321cd80b3f04e1bf3930b9ecaaaa27d7b2ab7120f5e9f1df0c2743"
+hash = "4bced21fed9a0e018d7189840fad6c87f5c3b1dee7cd37552a413d72f1d53529"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -11290,7 +11290,7 @@ hash = "dcf2d161601ba964a5524d2859c9473f9368b773d417faf7b55aa3ad0e9c30ca"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "3718a3e9df3955db6a3c9059a8822a4ce975267dad2ae5d1b1a280028f89fc05"
+hash = "e2484b01eb580794429861e4f083d00f60c40fd5baf440308d66175ce765ce2c"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -11322,7 +11322,7 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "329881a62a20989ac0b18131d9cdf10ae8b4b600d438cdd9e7c488e1df0d8399"
+hash = "0fdc43b0f107d64538565ffd7e6ee5e0a0f5a7a2f3d7c14d7c26d471b130b2bd"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11362,7 +11362,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "b0b6afa00c81a2d576b0842006eace93c0474e50dc9360fa788e2eac6ca97357"
+hash = "cf5746bb302bf9ce3dcd8f2610cab1facedaf8a0ee4428d5cf65442e2957d031"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -11470,7 +11470,7 @@ hash = "8267e05e03b373303fd5baa31b9aea4aee86ca4bd7bdb6d8812f3d08ee350d5d"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "01fafb3587797c8923f3ffa7ca6581ce64d1633966ff621539f687ef2e4478db"
+hash = "cbff23b201b0bbfe8827abaaf7d3e4e22d65a56dfbed2fda8a28a0e0c19200df"
 
 [[files]]
 file = "config/the_vault/vault_altar_chest.json"
@@ -12242,7 +12242,7 @@ hash = "a46fd7bd7a44cffcd235ff238cd970e2fbbefd2599b7a528eab5b06f6725f012"
 
 [[files]]
 file = "defaultconfigs/lightmanscurrency-server.toml"
-hash = "c72210b84a4454ba34e72feeb96737528544bb9b831cd607f91538abef680d6a"
+hash = "e7cee97be1c6aa2c39cfa01af35c73d3cb84307ee093914cdf8a14a663776a6c"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
@@ -18661,268 +18661,72 @@ file = "kubejs/config/probejs.json"
 hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/allthemodium/piglich.json"
-hash = "cb34d7828b256c7e67796766bb99c10fbd40d8eba88ae56298e131e614efdd8e"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/ars_nouveau/wilden_mobs.json"
-hash = "f294e84cd1cdfb254ab227c5c166b6e99bdbe15e52f53e49b405bfeced991700"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/artifacts/mimic.json"
-hash = "20294d145f77e3e77c23bae0797421950276d64b3d47457a46b8780185d53369"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/bat.json"
-hash = "a41099d4eb194375c577697da04369f5fd6cdeb5ace5fafb543d47ea3f0a77ef"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/blaze.json"
-hash = "99b988436037101b799dbe64aab9f785a4b66eb4ab1a361148f2859bd702aa74"
-
-[[files]]
 file = "kubejs/data/hostilenetworks/data_models/chicken.json"
-hash = "d587ab97f6bf7b0d0208ef97e2b8d3d9baecdcb5d25468d47505706e5b779616"
+hash = "354a304fb9150927484db200f0929faf4c8d008b2f3239a2f39e8a58bc6f1c04"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/cloudstorage/badloon.json"
+hash = "8fb7f0722fb666da252cbe29b071f8df9e331f5422c5117c6e94cca6cd8fc280"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/cloudstorage/bloviator.json"
+hash = "48638bf59ecf185ff2484a79e224b43abe03cec980b2a97652da8f428b81cfb4"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/cod.json"
-hash = "d5a24ad1e690e0d24db0d9f06f7ed186787823a1c918f4fbf9ad606501ac9917"
+hash = "19b9ffdfa412f07f11b0316a4e376bb73c17b1e1102bb550fae4fb064fa7ca4f"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/cow.json"
-hash = "f2dafbbbf07dde136038490d1d476694007f8bb2c8462057caa2da2d2e3e8231"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/creeper.json"
-hash = "22eec52c187ee53a189dd72678cbfe38c53927670428c8fac651b1a12e303360"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/drowned.json"
-hash = "8e6fa79cfced60a10878eb756c9ac093aa0c661bfa5527fbd5264f20e61ffca7"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/elder_guardian.json"
-hash = "38c334d4a1e5f28804ae38f3870e6eebba1d7f8a68cd38cf393d0615d0af00dc"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/ender_dragon.json"
-hash = "9c15b99aa087313c6a17dbf45602b2dc0becd9e51b616a2b04ed489a985ed83d"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/enderman.json"
-hash = "3bb40cd3f49f1eb209b0a6b07d44919342b15348bcf60ce73482a5e852929d6c"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/evoker.json"
-hash = "a928840a01b6e206455bc5cbe9169d325d4045493ec0855cd1a2c9dd520a29de"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/ghast.json"
-hash = "0fef2511e333c3de1a07e2e7c81fd426405d4acf280b973c7876480883998635"
+hash = "815d8c8e498be69546d6e0efa32d02e725076c79f7349e590e1fc9bd3b8fc73c"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/glow_squid.json"
-hash = "7a9688b384108b9de4d31d269ceb8993042de210a31d59db28cc4566ed5bf1f4"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/guardian.json"
-hash = "eb158bb28e8df1c8ceaf6ddf562750776a32517e829ef90bcb026fdf6a74c20b"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/hoglin.json"
-hash = "0545f436101e02eff379b7f843f1687fe303f4fc1e65452001df5fb12167a724"
+hash = "8d653279d3de18840c10d67f7064ca5c0b60498455fad13fcdd86f102f93d329"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/iron_golem.json"
-hash = "c413d041151c75c74fe2b630a5af65ab09d354a1bcad129f1c7bdf1e4364185d"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/magma_cube.json"
-hash = "18d5b463b980468539d05a4bc16d8b8c3d540da2e4dbc33138e82ff13eca727e"
+hash = "7602b8d7370ab52b15c17d58eda098e3d55692b77f642be308512c384894fc04"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/mooshroom.json"
-hash = "450c5bf0bd7eee65cc548455f938d844b53a35950553a268dd2123d4279253f7"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/phantom.json"
-hash = "3041f902c1213e1f18aa453712446fb5f053cc74ffd742077d66553fa74d1a62"
+hash = "d2ee3a83d9436ac5231ac1c695b9cee4d00951dfe4a7bf3be783d87d4ab35c28"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/pig.json"
-hash = "5e101d5c41a9f22c5095a92e3e12bde694601b1559f5ece7ab6b0a7afbdafe33"
+hash = "03c81b2a8fec60ac1428741f8e3debdabe02dde354b4552d6f21182cfe976060"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/polar_bear.json"
-hash = "b723536390d2807dc3825c95a837f281c578582b9b29fbf462e42a28a35d0a6e"
+hash = "d3a234af7d200a98efbcaa35f37c199b5dc932e65f0dc8d5570a5ef6f02001c1"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/quark/wraith.json"
+hash = "2cc770d937c5d4b85769130b5d00aeeb1c5c598e4299c462850b694b5b7f8720"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/rabbit.json"
-hash = "6a8f9ddb3d90283471eddb6f883afaf3d5a3ab479dbc36853616fa1583c7b869"
+hash = "60e9ce4ebd15fd6958bc92197fc8f7031a7c56f1b6b02e45ae1f83652e6f7f78"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/sheep.json"
-hash = "33cfa3c52b4c09f18f351d93cb23267b46e513253d8c7b63cd56e95eb60fee32"
+hash = "9a1379c5302ba331b988848cbe19dba3b21889233e879d6de21c7f00d3063ecf"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/shulker.json"
-hash = "ec8a49a6f988c4af9aab2bc7941ee8dd4ecbbbfdffe59f99ae5a690f073ed2a5"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/skeleton.json"
-hash = "a1034076a56a71ee81de3af5bb9ff1db4352f51e505b77a028417d3594ef49bc"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/slime.json"
-hash = "5b4a19848bdf5cdd76432350aa94fa876dff09cf16154aaf54acf2b608bf16cd"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/snow_golem.json"
-hash = "037e638bf08b67c81de0e38bb07b59fa5a84db9a5faabd088ecb642ba4b81f14"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/spider.json"
-hash = "3cd4f5ee08413fc50d3fb93565fbdab766df6f5a2f89fdce76b6d4b4ac4e5f21"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/squid.json"
-hash = "e9331105d3154424e8f93269d59062a9bd622637f580f2ac0b63141eb94f2133"
+hash = "cd95cc2598f56ecf115bcd5f8a32e56f2c434058e6a0532054a43c60318c2a22"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/thermal/basalz.json"
-hash = "acf6797b3297fddf1c89e93df942d4d36b634bf1a8c4547677c192adea27e50f"
+hash = "c4a52674c0f23971bc80db4ad611969156bf23884378c3f9201aee80bc281965"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/thermal/blitz.json"
-hash = "50be724d24df504bd1a101d21073ddd0eb8cb90c86b29f490035afba6772859d"
+hash = "2e994868c1546929b7a44c5163fade85fd718cddf7916488afa1bc88e2594dee"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/thermal/blizz.json"
-hash = "6b5b7ef97447dc6fda40adb5a37b8f3e61317fe032aa67b2aade37e71dabf34b"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/alpha_yeti.json"
-hash = "6cd4103d34c3c55c473f142e8cd6bf6cfefa26e809ee8afc6bc2e09b1249e7ab"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/carminite_golem.json"
-hash = "4dfca2b06acebb59890decdd62ac3a18005d550f8d693be1a0ce76c9bcac920e"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/death_tome.json"
-hash = "3bb53215eb7d462832a1ad6773c779fbbf2a78fe223d74a1e438ec097ae884e0"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/deer.json"
-hash = "490c6252829832fc65d67dfbf33ec4b586e5a526e0891893930673a16f60aec2"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/fire_beetle.json"
-hash = "b6f02726af689a77092072ca1a1a940e7e9eb2f451877c6e484ea2ce6f105811"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/giant.json"
-hash = "b112049a6805ee57361dace195f5773649465a7ac24d2dfebbb7109309bc6de6"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/goblin.json"
-hash = "ec6bc2be25808dd7403ebeb2f8f86c4d68315a197a33c0f1f6063d0d4903a267"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/helmet_crab.json"
-hash = "67f8fddb60cb3a450c45bb0dfa1d80dea534c439f7619cc3fe93803c33e361ed"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/hydra.json"
-hash = "1202f85534ca70cc3852d78b713e0e47e6a2957c64656d9632878e96971d2041"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/kobold.json"
-hash = "879eee998e886a24d9b69a30560c7e2d0cceace0e2984090da48fb3f6e3a597d"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/lich.json"
-hash = "844ece084de63e8f05fd9ca8df0179b21a119cd49eb5333700e8a3703dc3385e"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/minoshroom.json"
-hash = "f847c6604cca5656d508b6edc0c40382037aed95a397ef31ad2228c32077894c"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/minotaur.json"
-hash = "166fe63662cfff9b85fa51b0172009b621cdf1195c7ecf5fa3105787c9e0a603"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/naga.json"
-hash = "352105770db9200d72e411bdcd360618410f5a96ab544c6932a274144c92432b"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/raven.json"
-hash = "ab1dec3c095e61e9af5e474763a3d98d8c4be3bd053f55d51ff45b5d79e7b5b8"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/redcap.json"
-hash = "9ce773555c7f447c7d2eb7bb023eb5fd10a2a71e4afdba1ee4ee1137ffd761a8"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/skeleton_druid.json"
-hash = "050b48343996f3340cb45bc289bf045fc928b5445d0e405cd928b6c063b80442"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/snow_queen.json"
-hash = "d18d1294365f8f0dde2562fa71cfdf18ec6da10c5a0d27c484bf6905c2e80b82"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/stable_ice_core.json"
-hash = "dbfbd1fefae576ea1beed77841de8284cf805886861157c7bd3f00d70ab038c7"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/towerwood_borer.json"
-hash = "85204b048a6db07380edd8a2c86cb883681ccc2c34f102521777bc40c7cf7381"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/troll.json"
-hash = "5ca1e5ddd03afa041e1a0d58b418d5befbf2ceac105e92aa09d5f7b081d56252"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/ur_ghast.json"
-hash = "1f3cedc1b4b3209d0b2f7de6a11a68b786c5a5a712ab1e354a3cd802ffd7b0b1"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/winter_wolf.json"
-hash = "6a4cdbb153977d3c900294dc316cc88c2ecc98685281e42a3c284642dc85e3b8"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/wraith.json"
-hash = "b9b6f318f5b6cf061cd06ddd54f77a264b8a7638b1f4b4bfcd52bac0052f32b5"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/yeti.json"
-hash = "54f427c8cd537036e374d88525dccdb698057da732b57ec87d17f86cfeb98d06"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/vindicator.json"
-hash = "bc231316a45747e52b02539039c6253ce6cd4832c8da9a35eb4a853b0df858e7"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/witch.json"
-hash = "f4870b5fde88ef876de40eceef6d816b273098338c6a86cdc6d4012ef8276e46"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/wither.json"
-hash = "cace316c9950e3208cb4821bc492071a6cfee2052a639f3d2a04e08b3bacd48a"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/wither_skeleton.json"
-hash = "8ea9ea0787fdea06b6f971a0a1ec3125ddda3f7889e7521dbf907f16daac7715"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/zombie.json"
-hash = "5ae2a200e35dfc70a8363229fdb79f3735413b21f77fce38602aa7b8f31832d6"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/zombified_piglin.json"
-hash = "2d5caa92245cc03a54044edd2e82a712250f3f992336ecd92ecc2ed9b351eb93"
+hash = "fa3a86a178e17ad0c3e4dd620f6aa2113628b3bbbc4396c507a77ccd3a78edc8"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/blocks/alchemy_archive.json"
@@ -19629,6 +19433,14 @@ file = "kubejs/data/the_vault/advancements/main/witchskall.json"
 hash = "52bf5f8aa7ef874dfdf57e1b7d21698222fd15566cc7d5a9531e0afc970781a8"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/mining_dimension.json"
+hash = "2872769d8cc7f5f617cc8b285ad83d88bee1d96bdbd3fbb256a018bccb36e3da"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/void_dimension.json"
+hash = "7417f4d9837b1736742d54fedb6ad5d461ec649c8d285bfe6164dba7b83c21f9"
+
+[[files]]
 file = "kubejs/exported/tags/activity.txt"
 hash = "3e20b89707b3447efcb62ee9ef9e7cd7f45eef04a353062162d65df68469bd94"
 
@@ -20014,7 +19826,7 @@ hash = "e44e00132d9d245310abff4f1c2b270618b957f527b4c540651210781ab0f529"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/hostileneuralnetworks/recipes.js"
-hash = "f301fd2c98b5926da065ae41aab1cac2b806f1ff071a7c395c9940c79db72bb5"
+hash = "cf3f537cf433881c4a01c059a414427611539e9dae9bd53762d4316ad7d4def0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
@@ -20066,7 +19878,7 @@ hash = "7e5e6b364767ca8e977cb92b158d5d2b7d14be995eac97b40fd2a5d2b5070998"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/recipes.js"
-hash = "d10f47fb970d7ec06c6f6543acae613025c39c013268bb07d4db6e0bca20b715"
+hash = "e27443881465a72f43f7e5dff443eea039244ffc83ce3b0b00ff667ab0256f67"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ssn/recipes.js"
@@ -21489,6 +21301,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c1d3eccbdfc1afb42d91b15135f8766c3c1309bd9a230f60f459a4c0cdce04bb"
+metafile = true
+
+[[files]]
+file = "mods/wolds-vaults-official-mod.pw.toml"
+hash = "a4380912beb9b6ace122c640c67f405978a3cb5f6bbcfdb582b7268e5f531da0"
 metafile = true
 
 [[files]]

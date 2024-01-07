@@ -83,6 +83,32 @@
       }
     },
     {
+      "type": "checkmark",
+      "id": "welcome_quest_wolds",
+      "name": "Wold's Vaults Introduction",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Welcome to Wold's Vaults!",
+            "color": "$text"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/welcome",
+      "targetId": "the_vault:raw_chromatic_iron",
+      "targetProgress": 1.0,
+      "unlockedBy": "",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:cooked_vault_steak",
+            "amount": 8
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
       "type": "collection",
       "id": "find_chromatic_iron",
       "name": "Chromatic Iron",
@@ -137,7 +163,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/find_chromatic_iron",
       "targetId": "the_vault:raw_chromatic_iron",
@@ -216,7 +241,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/vault_stone",
       "targetId": "the_vault:vault_stone",
@@ -479,7 +503,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/potion",
       "targetId": "the_vault:bottle",
@@ -494,7 +517,6 @@
         "vaultExp": 0
       }
     },
-    
     {
       "type": "enter_vault",
       "id": "enter_vault",
@@ -1288,7 +1310,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/alchemytable",
       "targetId": "the_vault:alchemy_table",
@@ -1344,14 +1365,14 @@
       "name": "Vault Objectives",
       "descriptionData": {
         "description": [
-        {
-          "text": "As you level up, the Vault will adapt and present you with new, more challenging Objectives; these can also be added to your crystal by crafting a Seal and applying it to your crystal in an anvil. \n\nLevel 10 marks the introduction of the Elixir Objective to random vaults.\nLevel 20 marks the introduction of the Scavenger Objective to random vaults.\nLevel 50 marks the introduction of the Hunt The Guardians Objective to random vaults.",
-          "color": "$text"
-        },
-        {
-          "text": "\n\nReach Vault Level 10",
-          "color": "$heal"
-        }
+          {
+            "text": "As you level up, the Vault will adapt and present you with new, more challenging Objectives; these can also be added to your crystal by crafting a Seal and applying it to your crystal in an anvil. \n\nLevel 10 marks the introduction of the Elixir Objective to random vaults.\nLevel 20 marks the introduction of the Scavenger Objective to random vaults.\nLevel 50 marks the introduction of the Hunt The Guardians Objective to random vaults.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nReach Vault Level 10",
+            "color": "$heal"
+          }
         ]
       },
       "icon": "the_vault:gui/quests/ten",
@@ -1373,14 +1394,14 @@
       "name": "Elixir Vaults",
       "descriptionData": {
         "description": [
-        {
-          "text": "Combining a Vault Crystal and a Seal in an anvil will set the objective on the crystal to that of the Seals, allowing you more control over the type of Objective you are presented. \n\nElixir Vaults function by tasking the player with collecting and submitting an amount of Elixir and awarding the player elixir for each action carried out within the Vault. The Elixir amounts awarded for each action can change every Vault so you may want to note what action awards the most Elixir, visible by the increase of size/quantity of the Elixir orbs.\n\nOnce you have filled your Elixir bar you will need to find and fill a Lodestone to complete the Vault. \n\nIn Co-Op instead of completing the Vault you will then be able to collect Elixir for your friends to help them complete their objective. The Vault completes when all remaining Vaulters have successfully filled their Lodestones! ",
-          "color": "$text"
-        },
-        {
-          "text": "\n\nApply a Seal of the Sage to a Vault Crystal",
-          "color": "$heal"
-        }
+          {
+            "text": "Combining a Vault Crystal and a Seal in an anvil will set the objective on the crystal to that of the Seals, allowing you more control over the type of Objective you are presented. \n\nElixir Vaults function by tasking the player with collecting and submitting an amount of Elixir and awarding the player elixir for each action carried out within the Vault. The Elixir amounts awarded for each action can change every Vault so you may want to note what action awards the most Elixir, visible by the increase of size/quantity of the Elixir orbs.\n\nOnce you have filled your Elixir bar you will need to find and fill a Lodestone to complete the Vault. \n\nIn Co-Op instead of completing the Vault you will then be able to collect Elixir for your friends to help them complete their objective. The Vault completes when all remaining Vaulters have successfully filled their Lodestones! ",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nApply a Seal of the Sage to a Vault Crystal",
+            "color": "$heal"
+          }
         ]
       },
       "icon": "the_vault:gui/quests/sage",
@@ -1471,7 +1492,6 @@
         "vaultExp": 0
       }
     },
-    
     {
       "type": "collection",
       "id": "jewel_cutting",
@@ -1977,98 +1997,98 @@
       "name": "Dungeons",
       "descriptionData": {
         "description": [
-            {
-              "text": "Dungeons are scary places inside the vault, containing a challenge and loot!\n\n",
-              "color": "$text"
-            },
-            {
-              "text": "Dungeon Doors, found randomly inside the vault are opened by ",
-              "color": "$text"
-            },
-            {
-              "text": "right-clicking",
-              "color": "$qhighlight"
-            },
-            {
-              "text": " them. Once opened, the dungeon will announce what ",
-              "color": "$text"
-            },
-            {
-              "text": "difficulty",
-              "color": "$qhighlight"
-            },
-            {
-              "text": " it has, ranging between ",
-              "color": "$text"
-            },
-            {
-              "text": "Normal",
-              "color": "$normal"
-            },
-            {
-              "text": " and ",
-              "color": "$text"
-            },
-            {
-              "text": "Impossible",
-              "color": "$impossible"
-            },
-            {
-              "text": ".\n\nThe mob head on the door itself tells you what type of mobs are guarding the dungeon.",
-              "color": "$text"
-            },
-            {
-              "text": " Dungeons have different ",
-              "color": "$text"
-            },
-            {
-              "text": "sizes",
-              "color": "$qhighlight"
-            },
-            {
-              "text": ", the larger the dungeon, the more loot and the higher the chance for an ",
-              "color": "$text"
-            },
-            {
-              "text": "Archive",
-              "color": "$qhighlight"
-            },
-            {
-              "text": " is, after you defeat the ",
-              "color": "$text"
-            },
-            {
-              "text": "Dungeon Champion",
-              "color": "$qhighlight"
-            },
-            {
-              "text": "!\n\nDungeons also contain",
-              "color": "$text"
-            },
-            {
-              "text": " a ",
-              "color": "$text"
-            },
-            {
-              "text": "barrier",
-              "color": "$qhighlight"
-            },
-            {
-              "text": ", making it so that the dungeon monsters can't exit the dungeon, but don't worry you can walk through this ",
-              "color": "$text"
-            },
-            {
-              "text": "barrier",
-              "color": "$qhighlight"
-            },
-            {
-              "text": ".\nTread carefully, and respect the difficulty! Good luck hunter!",
-              "color": "$text"
-            },
-            {
-              "text": "\n\nOpen a Dungeon Door",
-              "color": "$heal"
-            }
+          {
+            "text": "Dungeons are scary places inside the vault, containing a challenge and loot!\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Dungeon Doors, found randomly inside the vault are opened by ",
+            "color": "$text"
+          },
+          {
+            "text": "right-clicking",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " them. Once opened, the dungeon will announce what ",
+            "color": "$text"
+          },
+          {
+            "text": "difficulty",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " it has, ranging between ",
+            "color": "$text"
+          },
+          {
+            "text": "Normal",
+            "color": "$normal"
+          },
+          {
+            "text": " and ",
+            "color": "$text"
+          },
+          {
+            "text": "Impossible",
+            "color": "$impossible"
+          },
+          {
+            "text": ".\n\nThe mob head on the door itself tells you what type of mobs are guarding the dungeon.",
+            "color": "$text"
+          },
+          {
+            "text": " Dungeons have different ",
+            "color": "$text"
+          },
+          {
+            "text": "sizes",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", the larger the dungeon, the more loot and the higher the chance for an ",
+            "color": "$text"
+          },
+          {
+            "text": "Archive",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " is, after you defeat the ",
+            "color": "$text"
+          },
+          {
+            "text": "Dungeon Champion",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "!\n\nDungeons also contain",
+            "color": "$text"
+          },
+          {
+            "text": " a ",
+            "color": "$text"
+          },
+          {
+            "text": "barrier",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", making it so that the dungeon monsters can't exit the dungeon, but don't worry you can walk through this ",
+            "color": "$text"
+          },
+          {
+            "text": "barrier",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".\nTread carefully, and respect the difficulty! Good luck hunter!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nOpen a Dungeon Door",
+            "color": "$heal"
+          }
         ]
       },
       "icon": "the_vault:gui/quests/dungeon_quest",
@@ -2091,40 +2111,40 @@
       "descriptionData": {
         "description": [
           {
-              "text": "As you level up the vaults get more difficult, as everything inside a vault scales.\n\nThis can sometimes lead to you falling behind with your gear progression, which can make the vaults more difficult.\n\nIf you find yourself in this situation you can use a ",
-              "color": "$text"
+            "text": "As you level up the vaults get more difficult, as everything inside a vault scales.\n\nThis can sometimes lead to you falling behind with your gear progression, which can make the vaults more difficult.\n\nIf you find yourself in this situation you can use a ",
+            "color": "$text"
           },
           {
-              "text": "Plunderer's Pearl",
-              "color": "$qhighlight"
+            "text": "Plunderer's Pearl",
+            "color": "$qhighlight"
           },
           {
-              "text": "! This pearl can be combined with a Vault Crystal in an anvil to make the vault in to a ",
-              "color": "$text"
+            "text": "! This pearl can be combined with a Vault Crystal in an anvil to make the vault in to a ",
+            "color": "$text"
           },
           {
-              "text": "Plunderer's Vault",
-              "color": "$qhighlight"
+            "text": "Plunderer's Vault",
+            "color": "$qhighlight"
           },
           {
-              "text": ", which ",
-              "color": "$text"
+            "text": ", which ",
+            "color": "$text"
           },
           {
-              "text": "removes all experience gain",
-              "color": "$qhighlight"
+            "text": "removes all experience gain",
+            "color": "$qhighlight"
           },
           {
-              "text": ", but ",
-              "color": "$text"
+            "text": ", but ",
+            "color": "$text"
           },
           {
-              "text": "increase the amount of loot & vault ores",
-              "color": "$qhighlight"
+            "text": "increase the amount of loot & vault ores",
+            "color": "$qhighlight"
           },
           {
-              "text": " slightly!",
-              "color": "$text"
+            "text": " slightly!",
+            "color": "$text"
           },
           {
             "text": "\n\nApply a Plunderer's Pearl to a Vault Crystal",
@@ -2241,7 +2261,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/archives",
       "targetId": "the_vault:alchemy_archive",
@@ -2617,7 +2636,6 @@
         "vaultExp": 0
       }
     },
-    
     {
       "type": "level_up",
       "id": "reach_level_40",
@@ -2644,22 +2662,22 @@
       "unlockedBy": "apply_inscription",
       "reward": {
         "items": [
-            {
-              "item": "the_vault:gem_echo",
-              "amount": 4
-            },
-            {
-              "item": "the_vault:mod_box",
-              "amount": 2
-            },
-            {
-              "item": "the_vault:sour_orange",
-              "amount": 1
-            },
-            {
-              "item": "minecraft:bamboo",
-              "amount": 12
-            }
+          {
+            "item": "the_vault:gem_echo",
+            "amount": 4
+          },
+          {
+            "item": "the_vault:mod_box",
+            "amount": 2
+          },
+          {
+            "item": "the_vault:sour_orange",
+            "amount": 1
+          },
+          {
+            "item": "minecraft:bamboo",
+            "amount": 12
+          }
         ],
         "vaultExp": 0
       }
@@ -2929,7 +2947,6 @@
             "color": "$heal"
           }
         ]
-        
       },
       "icon": "the_vault:gui/quests/quest_paradox_build",
       "targetId": "the_vault:crystal_seal_ordinator_build",
@@ -2951,73 +2968,71 @@
       "name": "Divine Paradox: Run Realm",
       "descriptionData": {
         "description": [
-            {
-                "text": "Once you have built a few rooms in your Divine Paradox, it's time to run the vault!\n\nYou can do this only once every ",
-                "color": "$text"
-            },
-            {
-                "text": "20 hours",
-                "color": "$qhighlight"
-            },
-            {
-                "text": ", and since the Divine Paradox is a personal vault, you can not bring your friends.\n\nThe Divine Paradox starts out with ",
-                "color": "$text"
-            },
-            {
-                "text": "10 minutes",
-                "color": "$qhighlight"
-            },
-            {
-                "text": " on the timer, as opposed to the 25 minutes of a regular vault. ",
-                "color": "$text"
-            },
-            {
-                "text": "Relics",
-                "color": "$qhighlight"
-            },
-            {
-                "text": " and ",
-                "color": "$text"
-            },
-            {
-                "text": "Extended Modifiers",
-                "color": "$qhighlight"
-            },
-            {
-                "text": " can increase the time.\n\nThe goal of running your Divine Paradox is to collect ",
-                "color": "$text"
-            },
-            {
-                "text": "Blessings",
-                "color": "$qhighlight"
-            },
-            {
-                "text": " from each god, they appear in chests, coin piles and ores in a room blessed by the corresponding god. Collect the required amount and return to your start room to sacrifice them to the correct god to complete the Divine Paradox!\nThis will be difficult in the beginning, as you may not have enough rooms of each god to complete the vault, however, as you extend your Divine Paradox it becomes easier and easier to complete, and completing it is good, because the gods will always bless you with an ",
-                "color": "$text"
-            },
-            {
-                "text": "Artifact",
-                "color": "$qhighlight"
-            },
-            {
-                "text": "!\n\nOnce you have built a few rooms in the build realm of the Divine Paradox, craft a ",
-                "color": "$text"
-            },
-            {
-                "text": "Seal of the Ordinator",
-                "color": "$qhighlight"
-            },
-            {
-                "text": " and attach it to a crystal in order to gain access to running the Divine Paradox!",
-                "color": "$text"
-            },
-            {
-              "text": "\n\nAttach a Seal of the Ordinator to a Crystal",
-              "color": "$heal"
-            }
-          ]
-      
-        
+          {
+            "text": "Once you have built a few rooms in your Divine Paradox, it's time to run the vault!\n\nYou can do this only once every ",
+            "color": "$text"
+          },
+          {
+            "text": "20 hours",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", and since the Divine Paradox is a personal vault, you can not bring your friends.\n\nThe Divine Paradox starts out with ",
+            "color": "$text"
+          },
+          {
+            "text": "10 minutes",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " on the timer, as opposed to the 25 minutes of a regular vault. ",
+            "color": "$text"
+          },
+          {
+            "text": "Relics",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and ",
+            "color": "$text"
+          },
+          {
+            "text": "Extended Modifiers",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " can increase the time.\n\nThe goal of running your Divine Paradox is to collect ",
+            "color": "$text"
+          },
+          {
+            "text": "Blessings",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " from each god, they appear in chests, coin piles and ores in a room blessed by the corresponding god. Collect the required amount and return to your start room to sacrifice them to the correct god to complete the Divine Paradox!\nThis will be difficult in the beginning, as you may not have enough rooms of each god to complete the vault, however, as you extend your Divine Paradox it becomes easier and easier to complete, and completing it is good, because the gods will always bless you with an ",
+            "color": "$text"
+          },
+          {
+            "text": "Artifact",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "!\n\nOnce you have built a few rooms in the build realm of the Divine Paradox, craft a ",
+            "color": "$text"
+          },
+          {
+            "text": "Seal of the Ordinator",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and attach it to a crystal in order to gain access to running the Divine Paradox!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nAttach a Seal of the Ordinator to a Crystal",
+            "color": "$heal"
+          }
+        ]
       },
       "icon": "the_vault:gui/quests/quest_paradox_run",
       "targetId": "the_vault:crystal_seal_ordinator_run",
@@ -3043,30 +3058,27 @@
       "name": "Paradoxical Gem",
       "descriptionData": {
         "description": [
-              {
-                  "text": "If you ever feel like you want to ",
-                  "color": "$text"
-              },
-              {
-                  "text": "reset your progress",
-                  "color": "$qhighlight"
-              },
-              {
-                  "text": " of your Divine Paradox, and start over, you can!\n\nYou will need a ",
-                  "color": "$text"
-              },
-              {
-                  "text": "Paradoxical Gem",
-                  "color": "$qhighlight"
-              },
-              {
-                  "text": ". These are extremely expensive, and when combined with a crystal sealed with the Seal of the Ordinator, in an anvil, it will completely nullify your progress, this action can not be undone, so use with great care!\n\nWe will give you a Paradoxical Gem, but be careful when, or if, you use it at all!",
-                  "color": "$text"
-              }
-            ] 
-      
-      
-        
+          {
+            "text": "If you ever feel like you want to ",
+            "color": "$text"
+          },
+          {
+            "text": "reset your progress",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " of your Divine Paradox, and start over, you can!\n\nYou will need a ",
+            "color": "$text"
+          },
+          {
+            "text": "Paradoxical Gem",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". These are extremely expensive, and when combined with a crystal sealed with the Seal of the Ordinator, in an anvil, it will completely nullify your progress, this action can not be undone, so use with great care!\n\nWe will give you a Paradoxical Gem, but be careful when, or if, you use it at all!",
+            "color": "$text"
+          }
+        ]
       },
       "icon": "the_vault:gui/quests/quest_paradox_reset",
       "targetId": "the_vault:vault_stone",

@@ -275,7 +275,7 @@ onEvent("recipes", event => {
     event.remove({ id: 'sophisticatedstorage:stack_upgrade_tier_2' })
     event.remove({ id: 'sophisticatedstorage:stack_upgrade_tier_3' })
     event.remove({ id: 'sophisticatedstorage:stack_upgrade_tier_4' })
-    event.remove({ id: 'sophisticatedstorage:controllrer' })
+    event.remove({ id: 'sophisticatedstorage:controller' })
     event.remove({ output: 'sophisticatedstorage:iron_chest' })
     event.remove({ output: 'sophisticatedstorage:gold_chest' })
     event.remove({ output: 'sophisticatedstorage:diamond_chest' })
