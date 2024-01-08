@@ -39,7 +39,7 @@
 		enabled = true
 		#The corner of the screen that the overlay should be drawn on.
 		#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
-		displayCorner = "BOTTOM_LEFT"
+		displayCorner = "BOTTOM_RIGHT"
 		#The position offset from the defined corner.
 		#Range: -1000 ~ 1000
 		displayOffsetX = 5
