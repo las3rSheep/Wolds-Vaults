@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4bced21fed9a0e018d7189840fad6c87f5c3b1dee7cd37552a413d72f1d53529"
+hash = "d279e2cec1c98c402687d0ec2ce708e00cfeac342cd24bc5a386c2f49031ed40"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -909,6 +909,26 @@ file = "config/ftbbackups2.json"
 hash = "3f018280bc9d81f5fdddabb2fa59f0858afb850a64312b0cd8b1e82eb7f98256"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "f1792897b1dc077d5967e36db6ce48e95be2e931ba830750244a9d47df579ac8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/changes.snbt"
+hash = "28132dc7bbdbe778d1efa843019314d75474fec48b806b5e88258ea4accf400e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/useful_items.snbt"
+hash = "8ad599acccd737aef6941e7ad6be6e46e8e3af246f1f39caea29a6a86fed4138"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome.snbt"
+hash = "4383dfedf0e42c7eda9e26ea3f27e0290d525c081115ddd053bd39b0352e8626"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "651745ba2694f138b1cfa3591479e20b1ff47eb6d114f1b77a68fa08e6c6f31a"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "9e87dbbb2de2d4c54a17543eb85f1ca67a87a72393b4a5d29113b384109fc9a7"
 
@@ -1154,7 +1174,7 @@ hash = "6b3a0c3378457ee99e01144c6a83a68ab3b40bb322d16aae4e2056fdc06e283a"
 
 [[files]]
 file = "config/lightmanscurrency-client.toml"
-hash = "0abb0c2d5bba9a7411be990ebda41428d5f9f3db0fc9fae5e98bc3c8e3ea7e0a"
+hash = "17ac4c8156cef33a987f056ea76a6bf8154e78d26aed9b893a1ed25b0f4ab9a5"
 
 [[files]]
 file = "config/lightmanscurrency-common.toml"
@@ -18629,6 +18649,14 @@ file = "kubejs/assets/vaultintegrations/textures/item/teleport_enhancement.png"
 hash = "40ac4d4a0a57b691ae92753b0163dd1a0c86fcd71b2c82dae7411c43dcd95ebf"
 
 [[files]]
+file = "kubejs/assets/wolds_vaults/lang/en_us.json"
+hash = "ea33f084ddf960cca66334cd729ed9db7376aa5ca15fbb3689b78cbf1b7f75e0"
+
+[[files]]
+file = "kubejs/assets/wolds_vaults/textures/gui/pack_image.png"
+hash = "e4b0dc8915da6c287a576e4ffc5e64ef95b36eb62ab690deae81ac6f6ea3653c"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
 
@@ -19433,12 +19461,24 @@ file = "kubejs/data/the_vault/advancements/main/witchskall.json"
 hash = "52bf5f8aa7ef874dfdf57e1b7d21698222fd15566cc7d5a9531e0afc970781a8"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/currency/vault_iridium.json"
+hash = "3ed369bc42990adad93d80b61de21139ed2d74473242bb190f2ab70c94c930b4"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/currency/vault_palladium.json"
+hash = "ca4a38b43939d2a622065f8b3b091f4c04f5cc59cd05b616386e929097974732"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/mining_dimension.json"
 hash = "2872769d8cc7f5f617cc8b285ad83d88bee1d96bdbd3fbb256a018bccb36e3da"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/void_dimension.json"
 hash = "7417f4d9837b1736742d54fedb6ad5d461ec649c8d285bfe6164dba7b83c21f9"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/time_in_a_bottle/time_in_a_bottle.json"
+hash = "6c28a37ceb02cd127ad5eec9af88341001109e388cd6cb00a0097c2c693017f4"
 
 [[files]]
 file = "kubejs/exported/tags/activity.txt"
@@ -19834,7 +19874,7 @@ hash = "91d110281d9155b03a1881165cc1f9a5096a2eaaaab1ee50d04aa959f7c52eef"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/integrateddynamics/recipes.js"
-hash = "4c23549e5fae5f85371b9a22b572e65348e5dada9e6bd87393c4c449fcb4fe38"
+hash = "6c4ab827f0c3f2bb5bea462515ef25be857afa333940afa22244662e76dbbcd3"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ironchests/recipes.js"
@@ -20409,6 +20449,21 @@ hash = "1290be453c042f2024561be7a2e23d2e1fd412df0b80d31aa22e4769e8df984c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "0178e4ec668b8d27c7aadd6e5f554f5994be5ff9aa414e965f009c7919318195"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "05694a12bdb096f0c7f05b48be626c3bdb8c17fd903f6bbd418fd7fcac5c4992"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "197d6651e7544c47aae4295a8b406d68b1f3dfdd390adfa4dc5d81246fbcd9ca"
 metafile = true
@@ -20441,6 +20496,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "0290a32259171f66475edba23f9c510e08547ec517ce256ced8043a5a2fff2b5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "980979f2954864dad4a53005ba7dea2952ca1ad0d006b14b8e132aace954ddbe"
 metafile = true
 
 [[files]]
@@ -20521,6 +20581,11 @@ metafile = true
 [[files]]
 file = "mods/ispawner.pw.toml"
 hash = "8430fcbbcc8623ac77c90ca716c75c105d655ddb26e68f5ac27ed2c77ddcdd83"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "b5d50a2815512a7e2224173edd77f7b798c29607640f8144e4c3f122d61b40d6"
 metafile = true
 
 [[files]]

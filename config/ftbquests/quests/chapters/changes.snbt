@@ -1,0 +1,125 @@
+{
+	id: "721B7D6DB9A85188"
+	group: "20F6E2A22AC6D70F"
+	order_index: 2
+	filename: "changes"
+	title: "Changes"
+	icon: "the_vault:mystery_box"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Mystery Box Loot"
+			x: -7.0d
+			y: -4.0d
+			description: [
+				"For mystery boxes, they include a few additional items."
+				""
+				"You can use JEI to see the different results of a mystery box and the chance for each reward!"
+			]
+			id: "624E2D61B39D5263"
+			tasks: [{
+				id: "65EFC8CFB1D71AC9"
+				type: "item"
+				item: "the_vault:mystery_box"
+				consume_items: false
+			}]
+			rewards: [{
+				id: "077A87B2C85F77DC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+		}
+		{
+			title: "New Mods, New Boxes"
+			x: -5.0d
+			y: -4.0d
+			description: [
+				"In this pack, there are a lot of new mods to unlock. Some of these mods have items from Mod Boxes just like the standard mods do."
+				""
+				"You can use JEI now to see what items you can get from a mod box for each mod!"
+			]
+			id: "41591BCB95401636"
+			tasks: [{
+				id: "468DDAAB9BFDE279"
+				type: "item"
+				item: "the_vault:mod_box"
+				consume_items: false
+			}]
+		}
+		{
+			icon: {
+				id: "mekanism:canteen"
+				Count: 1b
+				tag: {
+					mekData: {
+						FluidTanks: [{
+							Tank: 0b
+							stored: {
+								FluidName: "mekanism:nutritional_paste"
+								Amount: 64000
+							}
+						}]
+					}
+				}
+			}
+			x: -3.0d
+			y: -4.0d
+			description: [
+				"Quite a few items that were previously disabled in vaults are now allowed again! You can use gold apples and ender pearls once again. Along with some Mekanism items like Canteens."
+				""
+				"Feel free to suggest to me if there are other items you think should be enabled."
+				""
+			]
+			id: "1842F3C9C3C8FA46"
+			tasks: [{
+				id: "39AC106FA408B69E"
+				type: "checkmark"
+				title: "Reenabled Items"
+			}]
+			rewards: [{
+				id: "4E08AE47C237DD57"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			icon: "the_vault:vault_altar"
+			x: -1.0d
+			y: -4.0d
+			subtitle: "Needy Little Thing..."
+			description: ["In this pack, more than just vanilla items can be requested by the altar. You can see requests for lead, tin, uranium ingots and more depending on your Vault Level!"]
+			id: "06A2D6DB6BDC0724"
+			tasks: [{
+				id: "086263EC893720FB"
+				type: "checkmark"
+				title: "New Vault Altar Requests"
+			}]
+			rewards: [{
+				id: "70F64C8DA1ECBF46"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 8
+			}]
+		}
+		{
+			title: "More Coins!"
+			x: 1.0d
+			y: -4.0d
+			subtitle: "Vault Palladium and Iridium"
+			description: ["This pack adds a couple additional tiers of vault currency. There is the Vault Palladium made of 9 Platinum, and Vault Iridium made of 9 Palladium."]
+			id: "65CC280E92A1CBB4"
+			tasks: [{
+				id: "65E6FA8C92B55BE1"
+				type: "item"
+				item: "the_vault:vault_palladium"
+			}]
+			rewards: [{
+				id: "2925438E0FE7135F"
+				type: "item"
+				item: "lightmanscurrency:coin_chest"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

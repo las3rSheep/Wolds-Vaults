@@ -444,7 +444,7 @@ onEvent("recipes", event => {
         I: 'integrateddynamics:logic_director',
         P: 'integrateddynamics:cable',
         C: 'integrateddynamics:part_connector_mono_directional',
-        V: 'the_vault:perfect_black_opal'
+        V: 'the_vault:extraordinary_black_opal'
     })
 
     event.shaped(Item.of('integratedterminals:terminal_storage_portable'),
@@ -467,7 +467,7 @@ onEvent("recipes", event => {
             'OCI',
             'VBV'
         ], {
-        V: 'the_vault:mystical_powder',
+        V: 'the_vault:extraordinary_larimar',
         C: 'integrateddynamics:part_display_panel',
         B: 'the_vault:gem_pog',
         O: 'integrateddynamics:variable_transformer_output',
@@ -481,7 +481,7 @@ onEvent("recipes", event => {
             ' C ',
             'VBV'
         ], {
-        V: 'the_vault:mystical_powder',
+        V: 'the_vault:vault_diamond',
         C: 'integrateddynamics:part_display_panel',
         B: 'minecraft:crafting_table',
         S: 'integratedterminals:menril_glass'
