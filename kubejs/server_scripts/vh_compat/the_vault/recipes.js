@@ -45,4 +45,16 @@ onEvent("recipes", event => {
         },
         "processingTime": 200
     })
+
+    event.shaped(Item.of('the_vault:crystal_seal_monolith'),
+        [
+            'VEV',
+            'VCV',
+            'VAV'
+        ], {
+        V: 'the_vault:vault_essence',
+        E: 'minecraft:coal_block',
+        A: 'the_vault:vault_diamond',
+        C: 'the_vault:crystal_seal_empty'
+    })
 })

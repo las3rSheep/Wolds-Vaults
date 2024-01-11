@@ -44,11 +44,13 @@ onEvent("recipes", event => {
 
     let thermalMobTypes = ['blizz', 'blitz', 'basalz']
 
-    let quarkMobTypes = ['wraith']
+    let quarkMobTypes = ['wraith', 'frog']
 
     let cloudStorageMobTypes = ['bloviator', 'badloon']
 
     let cageriumMobTypes = ['wither', 'ender_dragon', 'iron_golem']
+
+    let tropicraftMobTypes = ['iguana']
 
     // event.shaped(Item.of('hostilenetworks:deep_learner'),
     //     [
@@ -329,6 +331,52 @@ onEvent("recipes", event => {
             Z: 'the_vault:vault_essence',
             E: `cloudstorage:spawn_egg_${mob}`,
             M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:cloudstorage/${mob}"}}`)
+        })
+    })
+
+    tropicraftMobTypes.forEach(mob => {
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:tropicraft/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `tropicraft:${mob}_spawn_egg`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:tropicraft/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:tropicraft/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `tropicraft:${mob}_spawn_egg`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:tropicraft/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:tropicraft/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `tropicraft:${mob}_spawn_egg`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:tropicraft/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:tropicraft/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `tropicraft:${mob}_spawn_egg`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:tropicraft/${mob}"}}`)
         })
     })
 

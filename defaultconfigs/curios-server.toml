@@ -1,3 +1,5 @@
+
+#List of curio slot type settings
 [[curiosSettings]]
 	identifier = "head"
 	visible = true
@@ -55,4 +57,10 @@
 	cosmetic = false
 	icon = "curios:item/empty_charm_slot"
 	override = true
+
+[[curiosSettings]]
+	identifier = "shard_pouch"
+	size = 1
+	visible = true
+	icon = "curios:slot/shard_pouch"
 

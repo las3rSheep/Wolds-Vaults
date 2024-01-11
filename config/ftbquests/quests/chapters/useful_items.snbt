@@ -279,6 +279,43 @@
 				item: "minecraft:diamond_block"
 			}]
 		}
+		{
+			x: -15.5d
+			y: -5.0d
+			subtitle: "Not just for Sky Vaults!"
+			description: ["When you start getting some dreamstone, you can create a Budding Crystal to be able to run Raw Vaults! An alternative to scouring the world for resources."]
+			id: "7AA5235435BFD43D"
+			tasks: [{
+				id: "76DF96BD8E9E37C8"
+				type: "item"
+				item: "the_vault:crystal_budding"
+			}]
+			rewards: [{
+				id: "54F3646F2B0509EF"
+				type: "item"
+				item: "the_vault:knowledge_star_shard"
+				count: 3
+			}]
+		}
+		{
+			title: "Immersive Paintings"
+			x: -11.5d
+			y: -5.0d
+			subtitle: "Art display!"
+			description: ["This mod adds 2 new blocks, an improved version of the vanilla Painting and Graffiti. Paintings are for display art with a background, and graffiti is those for transparency. You can load custom images and display them in the world!"]
+			id: "49EE6B2600FD06CD"
+			tasks: [{
+				id: "1947DC23217AB765"
+				type: "item"
+				item: "immersive_paintings:painting"
+			}]
+			rewards: [{
+				id: "0D31F503CA1EE58F"
+				type: "item"
+				item: "minecraft:purple_dye"
+				count: 16
+			}]
+		}
 	]
 	quest_links: [ ]
 }
