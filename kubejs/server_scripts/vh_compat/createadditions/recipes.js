@@ -13,6 +13,7 @@ onEvent("recipes", event => {
 
     event.remove({ id: 'createaddition:mechanical_crafting/electric_motor' })
     event.remove({ id: 'createaddition:mechanical_crafting/alternator' })
+    event.remove({ id: 'createaddition:mechanical_crafting/tesla_coil' })
 
     event.shaped(Item.of('createaddition:electric_motor'),
         [
@@ -55,8 +56,8 @@ onEvent("recipes", event => {
         C: 'create:andesite_casing'
     })
 
-    event.shapeless('2x createaddition:connector', ['createaddition:copper_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_essence'])
-    event.shapeless('createaddition:large_connector', ['createaddition:gold_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_essence'])
+    event.shapeless('2x createaddition:connector', ['createaddition:copper_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_diamond'])
+    event.shapeless('createaddition:large_connector', ['createaddition:gold_rod', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_diamond'])
     event.shapeless('createaddition:large_connector', ['createaddition:electrum_rod', 'create:andesite_alloy', 'create:andesite_alloy', 'minecraft:slime_ball', 'the_vault:vault_essence'])
 
 
@@ -92,5 +93,51 @@ onEvent("recipes", event => {
         Z: '#forge:plates/iron',
         D: 'the_vault:chromatic_iron_ingot'
     })
+
+    event.shaped(Item.of('createaddition:tesla_coil', 1),
+        [
+            'STS',
+            'CBC',
+            'ZXZ'
+        ], {
+        T: 'create:electron_tube',
+        S: 'create:brass_sheet',
+        C: 'createaddition:capacitor',
+        B: 'create:brass_casing',
+        Z: 'the_vault:chromatic_steel_block',
+        X: 'the_vault:extraordinary_larimar'
+    })
+
+    event.custom(
+        {
+            "type": "createaddition:charging",
+            "input": {
+                "item": "minecraft:snowball",
+                "count": 1
+            },
+            "result": {
+                "item": "powah:charged_snowball",
+                "count": 1
+            },
+            "energy": 230000,
+            "maxChargeRate": 20000
+        }
+    )
+
+    event.custom(
+        {
+            "type": "createaddition:charging",
+            "input": {
+                "item": "minecraft:amethyst_shard",
+                "count": 1
+            },
+            "result": {
+                "item": "hexcasting:charged_amethyst",
+                "count": 1
+            },
+            "energy": 10000,
+            "maxChargeRate": 1000
+        }
+    )
 
 })
