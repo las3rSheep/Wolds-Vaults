@@ -349,6 +349,30 @@
         {
           "value": {
             "item": {
+              "ITEM": "the_vault:vault_palladium",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minPrice": 5000,
+            "maxPrice": 7000
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "minecraft:potion",
+              "AMOUNT": 1,
+              "NBT": "{\"Potion\":\"parcool:energy_drink\"}"
+            },
+            "minPrice": 800,
+            "maxPrice": 1600
+          },
+          "weight": 16
+        },
+        {
+          "value": {
+            "item": {
               "ITEM": "the_vault:repair_core",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -622,7 +646,6 @@
           },
           "weight": 26
         },
-        
         {
           "value": {
             "item": {
@@ -1337,7 +1360,6 @@
           },
           "weight": 26
         },
-        
         {
           "value": {
             "item": {
@@ -2088,7 +2110,6 @@
           },
           "weight": 26
         },
-        
         {
           "value": {
             "item": {

@@ -157,6 +157,7 @@ onEvent("recipes", event => {
         ]
     });
 
+
     event.custom({
         "type": 'pneumaticcraft:pressure_chamber',
         "inputs": [
@@ -183,6 +184,85 @@ onEvent("recipes", event => {
             }
         ]
     });
+
+    event.custom({
+        "type": 'pneumaticcraft:pressure_chamber',
+        "inputs": [
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:iron_ingot',
+                "count": 3
+            },
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:string',
+                "count": 1
+            },
+            {
+                "item": 'minecraft:leather',
+                "count": 1
+            }
+        ],
+        "pressure": 4.0,
+        "results": [
+            {
+                "item": "minecraft:iron_horse_armor"
+            }
+        ]
+    });
+
+    event.custom({
+        "type": 'pneumaticcraft:pressure_chamber',
+        "inputs": [
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:gold_ingot',
+                "count": 3
+            },
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:string',
+                "count": 1
+            },
+            {
+                "item": 'minecraft:leather',
+                "count": 1
+            }
+        ],
+        "pressure": 4.0,
+        "results": [
+            {
+                "item": "minecraft:golden_horse_armor"
+            }
+        ]
+    });
+
+    event.custom({
+        "type": 'pneumaticcraft:pressure_chamber',
+        "inputs": [
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:diamond',
+                "count": 3
+            },
+            {
+                "type": "pneumaticcraft:stacked_item",
+                "item": 'minecraft:string',
+                "count": 1
+            },
+            {
+                "item": 'minecraft:leather',
+                "count": 1
+            }
+        ],
+        "pressure": 4.0,
+        "results": [
+            {
+                "item": "minecraft:diamond_horse_armor"
+            }
+        ]
+    });
+
 
     event.custom({
         "type": 'pneumaticcraft:pressure_chamber',

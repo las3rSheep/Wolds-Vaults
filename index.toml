@@ -706,7 +706,7 @@ hash = "f412320b0ad7726be95e5c0f8bcefbff2b626b1886d123f9d568f79b5a14449b"
 
 [[files]]
 file = "config/daily_rewards-common.toml"
-hash = "eef597acc648b83de4c23489ba404e6e2de76eaaa9e7a724636621da39ec55e6"
+hash = "b121ac06792803768ae093bc3b60c3c73f6115ec730723209d189fe7e3e208f2"
 
 [[files]]
 file = "config/decorative_blocks-common.toml"
@@ -1874,11 +1874,15 @@ hash = "01147dce289ebfe89275a9219741b0bc308be282a24b6ee12408074a79a820fe"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "331b46adb79ad7a6b4a7a4f4f796d230eaca01e4f0f9c15f68802cfb6b897388"
+hash = "1365557d6407e539fe92d43036582150bd7b8fcaf48bb88cd1f14846a23e6962"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
 hash = "595c75219793a48eb19a624955a4c282e058e777d9c7b7ca9ecc54bc1295dfca"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/battlestaff.json"
+hash = "fd094789938b4bf70c6725f389e5489f4881338d2a6761fcba65f3e034f5647e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -1939,6 +1943,10 @@ hash = "fab5a97c131a30f76c7c7a28b6a06e535c0d9b17547b529dc097d86d484396cd"
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
 hash = "317060645665e8c6c1cdac559b148c4c85bb78e04cba0e8202b13095360b810f"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/trident.json"
+hash = "4df3e7294c3315f9aa6a26b407b9d8d5544703f527307b026278311373e69e87"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -11326,7 +11334,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
-hash = "5d03855fa49b8a7d9c1856555426e54e94ad5340e3c3fa06256890d1b8747e87"
+hash = "170f450545570fceaa722ca9b78065920c33c89df04ed60961dc4fdf204bef09"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
@@ -11398,7 +11406,7 @@ hash = "3b963abc61de312810327ddfbaec1e23810c6ca324e1820d6016f39553418542"
 
 [[files]]
 file = "config/the_vault/soul_shard.json"
-hash = "ba5b423766ea4af8a739ad5868bb0d559c78aa023884ab79f868e81657f6e96f"
+hash = "13f79c13a2fa935105006efb14c8bc46467c6e142f006381944c80319ec46202"
 
 [[files]]
 file = "config/the_vault/spirit.json"
@@ -13649,6 +13657,122 @@ file = "kubejs/assets/supplementaries/textures/block/flint_block_1.png"
 hash = "75416756e3002279126b882b1dac253312ed229419f581328c8cd0b58e360c0c"
 
 [[files]]
+file = "kubejs/assets/the_vault/gear/trident/axolotl.png"
+hash = "36e8509bf94d558849aa4a22bbfa7fd806879566bb8bf4c3b8f996e4e40a9420"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/blooming.png"
+hash = "60be98725f05227590690687ae90c322a48f9fc028a968fad0ad764b0cbdcbdc"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/chicken.png"
+hash = "db97af3facaa46f477e4a3a333f0b34b248c5146c7fff95e95fc4f2253324e43"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/crimson.png"
+hash = "c7749937472833a008d34fe2cffedb44f255202204d0dfbc744774706bc8d87a"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/crystal.png"
+hash = "9794460597f3a5187d3f7c3b6df1fc6a82f47164fe2458490c4d7e96494b4df1"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/emerald.png"
+hash = "fb676ccba55dc844ae0ea2f32a43ef5e42effb41adb7b7543e31818f271d4aa3"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/fork.png"
+hash = "85765de2f80499913d0a54261942d831c0b9c1e147b61a096098e3f4d8426f47"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/golden.png"
+hash = "7c6f412c1bf98925152641e88094a5957231277dc3b4186b3671201703bea996"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/marlin.png"
+hash = "ebc2739a71c98d6d65b9b37b2c599148b5bf1349b4799f4b50c48ecc0f9ca841"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/ocean_sword.png"
+hash = "7516f16183e4d32b47a8747901960c44a8819abfae5edc29661467627ca81114"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/orange.png"
+hash = "2c9b55c8a3a7afd5ee804cbd18c661855d75a21ba8ea2dfbab1076b29de5065c"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/phantomguard.png"
+hash = "1378118a9b4f43fda7757f723dd8f75b1ea336b822e6d0a2ae117cb4dd5933ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/pink.png"
+hash = "643bdb4c0ca0b42a4c2382c8cc902f6b66894a98b06c3b229f62e326e3dfd7dd"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/pitchfork.png"
+hash = "c37972b80660fa14c5101a4e1ff3686e608eb0674ca65602f1f40e19c1ebbc86"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/plunger.png"
+hash = "9d57244e9c2173a8946798375d36c328ee1eebc745ea18356171b1d27297566b"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/prismarine.png"
+hash = "7ad468ed3fa5f5bc6017b63f01ac9782db160db8b1d0603d352c471beb6064bc"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/purple.png"
+hash = "e9025d47b51decb244a017f6f657d7d9ad9263328010ae733bb3db1af6468430"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/quindent.png"
+hash = "d8a7befe80e2cc896756a71745876263a4106874df655fd70a6a8919c45eea86"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/rainwalker.png"
+hash = "500910518bca4aa43b8e5d24bfb52f5d128d3f252d10610d36d0605211d6ca7d"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/royal.png"
+hash = "4147fc3a7c14bb3e5cfd2e9c7884ea30502d0988385ab3c45537d71432c236e3"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/scrappy_1.png"
+hash = "5232b7490a4a8cbfdedd70b596f7f7857cfc0b3697db3f4f291249b3dbc00a2b"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/scrappy_2.png"
+hash = "e106851f85d6daa6ef3c438f766d4cf77ab10cf0be95dab52c750caceb306fdc"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/scrappy_3.png"
+hash = "b1a1a9e82e8be717a1474492c854703ab3b8578897fc5fc39d89bd6b21b3280f"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/scrappy_4.png"
+hash = "744957b77abaa34e8082696b7445a4ef70f783e63e43be94398597ce9692e0b7"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/seabird.png"
+hash = "48ec27463706bc0b67fe2f2ffe26f1a6d00c28628fa959927c7e0d598e8aa648"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/skull.png"
+hash = "a30b62c529b9f484796a496fd0cb6b6213b69090302ffdaf8b516c66282826b5"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/trident_0.png"
+hash = "39ba1fd42724a21baed907a84fb60812baed7c48c1f300cf9275a7d4ba6bc1fb"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/undyne.png"
+hash = "adbf914eb434883b390642fb346a18ab894b265a8ca85a7c12875fd03693d601"
+
+[[files]]
+file = "kubejs/assets/the_vault/gear/trident/vanilla.png"
+hash = "4b73017d1fbdad1beb6c8c700b43bbbae3b6e0589e6c8b8ed32233bf4eda4104"
+
+[[files]]
 file = "kubejs/assets/the_vault/models/block/alchemy_archive.json"
 hash = "138c666f6793a6766b1e6c2e8fd6eafe1eeaf41c144276925a59a0dac36c8648"
 
@@ -14049,8 +14173,80 @@ file = "kubejs/assets/the_vault/models/block/xp_altar.json"
 hash = "a55884395b1311cea091cfe4007ffcb84e346bd4de414471c56dc51ff888edcb"
 
 [[files]]
+file = "kubejs/assets/the_vault/models/item/battlestaff.json"
+hash = "2abc03ab8b1763cba61f88bf3121711eba77220a73beba9fc70e969b83b2959d"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/alucard.json"
+hash = "67f5cfd6f2f201c6e15b647f9c67f73a3ff71882ee5d65f37a9c4653a22930bb"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/blooming.json"
+hash = "031d8a89281dbcbb05e205f6f8117002a416441fde3758b734fc7e349bc8b3e1"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/chicken.json"
+hash = "234cba410170c31f2b922eeb43ddafb61af4169765f448c9982d1f5269f7b3e1"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/crimson.json"
+hash = "dc853833ef793bde3fe53c3fd59e9f464c6b2d310c2e0b77271ed918be34a204"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/crystal.json"
+hash = "e020cf513f7457420be0a8cc2cbbe69fb8195952fb714b16410e65d8c3193a72"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/fork.json"
+hash = "0a2f441ac02ab02336b03a95929aaee1d5041e8765420faa725bd61678bf205f"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/marlin.json"
+hash = "5ecdc9d3b81a960271595e9206a402b9ff661a8251167bb078d455c87b51f2e9"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/ocean_sword.json"
+hash = "9585a63aa2e98b79c15f602a07e3a7b553b070140fbc1372327fe3c9b623f8bd"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/phantomguard.json"
+hash = "add1e569348a154dd83bfdbdb17cbfcc0844e9154eaf9865c027ab154cf0b632"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/pitchfork.json"
+hash = "27ae8edf5be01e4eb29c48ae805a98802e52168cfdd2ff962aa2d9e3cad666d9"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/plunger.json"
+hash = "cc1b35d7937ecda588cea70baec28c657e2e81d8eefc1a91ee7f91870e826f66"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/prismarine.json"
+hash = "78947c27a86645f9a174a78140a6e8e1fa6a014778f6db2d74d8d986b3b53de1"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/quindent.json"
+hash = "350b5dc05e8cd27ad2ac475d1597bb936c38ee2378c7a539951eafc032401475"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/rainwalker.json"
+hash = "924b67e1fa161ca2826524db5904d6565eadd5dec9f50173b037d10245f0452a"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/skull.json"
+hash = "dd5d8a62b8f15a88568ef5906f69300284cb3ec3db3cc0cacacffc52b52a033a"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/gear/trident/undyne.json"
+hash = "aab866a9b59a40dc277b26949bf7a7ba44f946465c9a3723626d207a1248b313"
+
+[[files]]
 file = "kubejs/assets/the_vault/models/item/relic/dragon/statue.json"
 hash = "1df65a911dc6dcdcdca0eaf18cf55a19ddadc7f7db77bcb1bc0fcb0e078ded44"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/trident.json"
+hash = "322a4bf7e5d28c008df16c4e7a125b68c36e4bce0e9f1c4862cb5497c8cd2af3"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/item/vault_iridium.json"
@@ -15253,6 +15449,18 @@ file = "kubejs/assets/the_vault/textures/entity/fighter/vaultfightert4.png"
 hash = "a1a717cbebfd36d4defe39fdc0139ae6f14ac46113d4c17d6d2aaba3b8c8d45d"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/entity/gear/trident/pitchfork.png"
+hash = "c37972b80660fa14c5101a4e1ff3686e608eb0674ca65602f1f40e19c1ebbc86"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/entity/gear/trident/seabird.png"
+hash = "48ec27463706bc0b67fe2f2ffe26f1a6d00c28628fa959927c7e0d598e8aa648"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/entity/gear/trident/trident_0.png"
+hash = "39ba1fd42724a21baed907a84fb60812baed7c48c1f300cf9275a7d4ba6bc1fb"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/entity/tier1/creeper.png"
 hash = "93ee765adae9954a2b78c3ac86a1f1a34370cfc765c0e0ce29568efb3be8fb1b"
 
@@ -15339,6 +15547,106 @@ hash = "36e8d39479ba094046fadede87099df989e3f35ce18c822207df2f25743bcd76"
 [[files]]
 file = "kubejs/assets/the_vault/textures/entity/vault_guardian.png"
 hash = "1b6f9f00d4bfaaa29ca2482236b4e22684b3a6993dd3b57c7ef9523e92cb5575"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/axolotl.png"
+hash = "36e8509bf94d558849aa4a22bbfa7fd806879566bb8bf4c3b8f996e4e40a9420"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/blooming.png"
+hash = "60be98725f05227590690687ae90c322a48f9fc028a968fad0ad764b0cbdcbdc"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/chicken.png"
+hash = "db97af3facaa46f477e4a3a333f0b34b248c5146c7fff95e95fc4f2253324e43"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/crimson.png"
+hash = "c7749937472833a008d34fe2cffedb44f255202204d0dfbc744774706bc8d87a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/crystal.png"
+hash = "9794460597f3a5187d3f7c3b6df1fc6a82f47164fe2458490c4d7e96494b4df1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/emerald.png"
+hash = "fb676ccba55dc844ae0ea2f32a43ef5e42effb41adb7b7543e31818f271d4aa3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/fork.png"
+hash = "85765de2f80499913d0a54261942d831c0b9c1e147b61a096098e3f4d8426f47"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/golden.png"
+hash = "7c6f412c1bf98925152641e88094a5957231277dc3b4186b3671201703bea996"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/marlin.png"
+hash = "ebc2739a71c98d6d65b9b37b2c599148b5bf1349b4799f4b50c48ecc0f9ca841"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/ocean_sword.png"
+hash = "7516f16183e4d32b47a8747901960c44a8819abfae5edc29661467627ca81114"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/orange.png"
+hash = "2c9b55c8a3a7afd5ee804cbd18c661855d75a21ba8ea2dfbab1076b29de5065c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/phantomguard.png"
+hash = "1378118a9b4f43fda7757f723dd8f75b1ea336b822e6d0a2ae117cb4dd5933ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/pink.png"
+hash = "643bdb4c0ca0b42a4c2382c8cc902f6b66894a98b06c3b229f62e326e3dfd7dd"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/pitchfork.png"
+hash = "c37972b80660fa14c5101a4e1ff3686e608eb0674ca65602f1f40e19c1ebbc86"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/plunger.png"
+hash = "9d57244e9c2173a8946798375d36c328ee1eebc745ea18356171b1d27297566b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/prismarine.png"
+hash = "7ad468ed3fa5f5bc6017b63f01ac9782db160db8b1d0603d352c471beb6064bc"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/purple.png"
+hash = "e9025d47b51decb244a017f6f657d7d9ad9263328010ae733bb3db1af6468430"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/quindent.png"
+hash = "d8a7befe80e2cc896756a71745876263a4106874df655fd70a6a8919c45eea86"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/rainwalker.png"
+hash = "500910518bca4aa43b8e5d24bfb52f5d128d3f252d10610d36d0605211d6ca7d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/royal.png"
+hash = "4147fc3a7c14bb3e5cfd2e9c7884ea30502d0988385ab3c45537d71432c236e3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/seabird.png"
+hash = "48ec27463706bc0b67fe2f2ffe26f1a6d00c28628fa959927c7e0d598e8aa648"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/skull.png"
+hash = "a30b62c529b9f484796a496fd0cb6b6213b69090302ffdaf8b516c66282826b5"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/trident_0.png"
+hash = "39ba1fd42724a21baed907a84fb60812baed7c48c1f300cf9275a7d4ba6bc1fb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/undyne.png"
+hash = "adbf914eb434883b390642fb346a18ab894b265a8ca85a7c12875fd03693d601"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gear/trident/vanilla.png"
+hash = "4b73017d1fbdad1beb6c8c700b43bbbae3b6e0589e6c8b8ed32233bf4eda4104"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/abilities/battle_cry.png"
@@ -17789,6 +18097,62 @@ file = "kubejs/assets/the_vault/textures/item/gear/axe/axe_9.png"
 hash = "6ac2b60630fdd09461318abfc66dce83808b7995e0341fdf5725b0377dc4eb46"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_0.png"
+hash = "ce7083935fc87cf40babaa3c63ec9c82746b90d6d10d4268c229248889f0eb34"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_copper.png"
+hash = "0fc08f5cac4bc30ed5c7c6bd6dc8f3d8de3fa7beeafb2250d799e7aec490ad75"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_diamond.png"
+hash = "abdf01f72af15c18b02a0cf4767509190cba1f9fa97b6cc34769cc1ba51e78e1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_emerald.png"
+hash = "c59efdf43e882c4c685d53cc75c955a9279729aa408d50cb0ad8e6064daf534f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_golden.png"
+hash = "d72d88a69c4407591b657cd3dd7bf592b6d24d0c92fdffa9557853038290a0c6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_growing.png"
+hash = "76c2cc0aff35ba084d8c0bd5b1320d1449d51bd26ebe7e3c48203650fecb3610"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_lapis.png"
+hash = "0c3b6d9ebeca9507ff1bc020f17a4b22de8fe347f382bc179826156d0fec0b8d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_light_blue.png"
+hash = "462576ef74305fe4c4f879aef400b42d346ecfa0f7af16457cd7b5ff95b143bc"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_purple.png"
+hash = "a8cca22a33d463de4ab6b4ceca9034aed454fe9af6806f6df3bffcb51ac3c20e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_redstone.png"
+hash = "68ab67b8fee93438bc38175ad7446f63e4a4a4eb9bf937593c1a159d84feb626"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/battlestaff_terror.png"
+hash = "b0eea457e0370b6a70d333a9eaa83790772fcbf6108ed5f9a2d9cf16904fd8e7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/unidentified.png"
+hash = "8487d17f8c816219998ca9ca974bdc9342dbf5545bcbbd0932d447b27b43ce66"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/unidentified_overlay.png"
+hash = "56062897f74dd867614012c9f1cd2c9c52192778e08e6d89184e454d398e6009"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/battlestaff/unidentified_overlay.png.mcmeta"
+hash = "0a2468ea810800035532daaed50eed0020f3e87e996ab8a12b941902d68ab280"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/focus/unidentified.png"
 hash = "261db0ea2a63efd6919f165f58823cf1435b48b972bd5cf5b1d3ce10c280153c"
 
@@ -17863,6 +18227,138 @@ hash = "56062897f74dd867614012c9f1cd2c9c52192778e08e6d89184e454d398e6009"
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/sword/unidentified_overlay.png.mcmeta"
 hash = "0a2468ea810800035532daaed50eed0020f3e87e996ab8a12b941902d68ab280"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/alucard.png"
+hash = "aa97bb11ea9bd02a84d9a1b9746a2491107534a88f8fb3961b3eacb500eb01dd"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/axolotl.png"
+hash = "47686b3d9ddba65f3fc27789ce093378834c3a20d7a70b71b18453ece54e116a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/blooming.png"
+hash = "8aba1782c3f5bfe22e74ac49594490cdb54361aa7a4c56cc8493383181660177"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/chicken.png"
+hash = "db97af3facaa46f477e4a3a333f0b34b248c5146c7fff95e95fc4f2253324e43"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/crimson.png"
+hash = "c7749937472833a008d34fe2cffedb44f255202204d0dfbc744774706bc8d87a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/crystal.png"
+hash = "9794460597f3a5187d3f7c3b6df1fc6a82f47164fe2458490c4d7e96494b4df1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/emerald.png"
+hash = "ee604847650aec7897e98fb42c44d5179211c0284f43181ef11a04026a5892ab"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/fork.png"
+hash = "85765de2f80499913d0a54261942d831c0b9c1e147b61a096098e3f4d8426f47"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/golden.png"
+hash = "bf0f7854efef4bc32a03e60bdc47c7bd6f2b2fd4292222b8e3407cfd10947c9e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/guardian.png"
+hash = "95bddbeaebb303ae8c92db6dbfd3a73bd55edfea20048a7987234a7abbe8b2ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/marlin.png"
+hash = "ebc2739a71c98d6d65b9b37b2c599148b5bf1349b4799f4b50c48ecc0f9ca841"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/ocean_sword.png"
+hash = "7516f16183e4d32b47a8747901960c44a8819abfae5edc29661467627ca81114"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/orange.png"
+hash = "852c7ef2df42fa84ba7b46d3ffdb2584b78de4297b8ee4e75e22c11efcb2cfcd"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/phantomguard.png"
+hash = "1378118a9b4f43fda7757f723dd8f75b1ea336b822e6d0a2ae117cb4dd5933ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/pink.png"
+hash = "7012aab46b7617af2ebca3fc5dbe35a1ad0b884c15eaa74724f24b125a53f078"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/pitchfork.png"
+hash = "c37972b80660fa14c5101a4e1ff3686e608eb0674ca65602f1f40e19c1ebbc86"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/plunger.png"
+hash = "9d57244e9c2173a8946798375d36c328ee1eebc745ea18356171b1d27297566b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/prismarine.png"
+hash = "7ad468ed3fa5f5bc6017b63f01ac9782db160db8b1d0603d352c471beb6064bc"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/purple.png"
+hash = "ef551b64aec7a0fe3dbce1ef09e143a7565950d892c63e72a75eeb9155c3745b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/quindent.png"
+hash = "b913c0fcd841e9abd570c9c6f373f46745c899a4b00cb9424f3c5fe60f5e15ea"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/rainwalker.png"
+hash = "500910518bca4aa43b8e5d24bfb52f5d128d3f252d10610d36d0605211d6ca7d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/royal.png"
+hash = "7f0e6e2392fe3f0320cb6d6fe2c4b44c825c114b73909f11a2083957f947d0da"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/scrappy_1.png"
+hash = "150b4a9b9ae5f52d914f6d1894e36e29337270fa3525fb6a7fdca0b2da151c0c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/scrappy_2.png"
+hash = "1819144cfa5e15bd088856b25841c90abad7fca736438b89a79bda1dafcd3565"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/scrappy_3.png"
+hash = "2c92a686ceb22c7fae27f21298599b8fc3e12081d86a97efcd0218d88734f910"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/scrappy_4.png"
+hash = "7222f343497e0562e644770cef98e7a99767a8634e65ed454fd6fa54e458fbfb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/seabird.png"
+hash = "205ea8942f8240cd1cae69338954c78ffc11fcefa8c835c61bfcd48c4031000d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/skull.png"
+hash = "a30b62c529b9f484796a496fd0cb6b6213b69090302ffdaf8b516c66282826b5"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/undyne.png"
+hash = "adbf914eb434883b390642fb346a18ab894b265a8ca85a7c12875fd03693d601"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/unidentified.png"
+hash = "43b904f18c8aee9f70c00044545fa391fe4c3d738b960ce9f21c1d45b098bc0f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/unidentified_overlay.png"
+hash = "56062897f74dd867614012c9f1cd2c9c52192778e08e6d89184e454d398e6009"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/unidentified_overlay.png.mcmeta"
+hash = "0a2468ea810800035532daaed50eed0020f3e87e996ab8a12b941902d68ab280"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/trident/vanilla.png"
+hash = "2bb1397727939c03c0c5c87307e91b41246e8ffd1b0ceddd73c7cc40bb9cf19d"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/wand/unidentified.png"
@@ -21022,7 +21518,7 @@ hash = "7e9859c4b328b086b536c5b97b359841bad8cc3cdb011a9a81832c8f324d27b7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/recipes.js"
-hash = "fea995800e76d9d2510910df63c5575305a18e42d56550523be96fa34d91f574"
+hash = "7f25f0fcecb4514c06c200ad2474fbd58d64ea1813341626c08d881d08841739"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/tags.js"
@@ -21042,7 +21538,7 @@ hash = "9aebc8d4e9bdead220083de9b7ec0b952d1bf62fef50238552ac5d1e7e7da836"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "bbe917610324d10274605d764ff3e1366ebd52f462991e09d2384ac3a5b21722"
+hash = "5805b6b230adcb641b7c7ac16cd60f9e666f6988424ac5370eaaa3882677c0da"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/recipes.js"
@@ -21307,6 +21803,11 @@ hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "a582bd6a0bd4d64d0f1e259040a226caf56d43501782cbdb6966222c53dc0eb2"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "8943da521be59ea9cb0168a65e7601a910cfc7e91df379ee06bb1117b9bfb459"
 metafile = true
@@ -21329,6 +21830,11 @@ metafile = true
 [[files]]
 file = "mods/compressium.pw.toml"
 hash = "d8f0f75951f5dbcdb0248a7862bec0810125f6b23e9551a4d8e3e56f9a6dde27"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]

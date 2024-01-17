@@ -57,4 +57,32 @@ onEvent("recipes", event => {
         A: 'the_vault:vault_diamond',
         C: 'the_vault:crystal_seal_empty'
     })
+
+    event.shaped(Item.of('the_vault:vault_doll'),
+        [
+            'DID',
+            'GCE',
+            'DBD'
+        ], {
+        D: 'minecraft:diamond_block',
+        I: 'minecraft:wither_skeleton_skull',
+        G: 'minecraft:gold_block',
+        E: 'minecraft:emerald_block',
+        B: 'minecraft:iron_block',
+        C: 'the_vault:vault_crystal'
+    })
+
+    event.shaped(Item.of('the_vault:vault_doll'),
+        [
+            'DID',
+            'GCE',
+            'DBD'
+        ], {
+        D: 'minecraft:diamond_block',
+        I: 'minecraft:totem_of_undying',
+        G: 'minecraft:gold_block',
+        E: 'minecraft:emerald_block',
+        B: 'minecraft:iron_block',
+        C: 'the_vault:vault_crystal'
+    })
 })

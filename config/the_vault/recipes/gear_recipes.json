@@ -254,6 +254,68 @@
           "NBT": "{}"
         }
       ]
+    },
+    {
+      "proficiencyType": "SWORD",
+      "id": "the_vault:trident",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trident",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "minecraft:trident",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_platinum",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 18,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "minecraft:netherite_ingot",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "SWORD",
+      "id": "the_vault:battlestaff",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:battlestaff",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:driftwood",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 16,
+          "ITEM": "the_vault:vault_essence",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }

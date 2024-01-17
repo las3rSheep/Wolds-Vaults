@@ -18,7 +18,7 @@
 	#Use fill items if there are not enough valid items for a month. (e.g. if there are only 2 items for a month and the player claims 3 rewards, the 3rd reward will be a fill item)
 	useFillItems = true
 	#List of normal fill items which are used in the case we have not enough valid items for a month.
-	normalFillItems = ["the_vault:mystery_box:3", "the_vault:relic_booster_pack:4", "the_vault:vault_gold:5", "the_vault:knowledge_shard:2", "the_vault:plunderer_pearl:2", "the_vault:vault_catalyst:2", "the_vault:mystery_egg:2", "the_vault:mystery_hostile_egg:1", "the_vault:crystal_seal_sage:1", "the_vault:crystal_seal_cake:1", "the_vault:mod_box:1", "the_vault:regret_orb:4"]
+	normalFillItems = ["the_vault:mystery_box:3", "the_vault:relic_booster_pack:4", "the_vault:vault_gold:5", "the_vault:knowledge_star_shard:2", "the_vault:plunderer_pearl:2", "the_vault:vault_catalyst:2", "the_vault:mystery_egg:2", "the_vault:mystery_hostile_egg:1", "the_vault:crystal_seal_sage:1", "the_vault:crystal_seal_cake:1", "the_vault:mod_box:1", "the_vault:regret_orb:4"]
 	#List of rare fill items which are used in the case we have not enough valid items for a month.
 	rareFillItems = ["the_vault:knowledge_star:1", "the_vault:lost_bounty:1", "the_vault:unidentified_relic_fragment", "the_vault:phoenix_feather:1", "the_vault:gem_pog:1", "the_vault:gem_echo:2", "the_vault:vault_platinum:3", "the_vault:trinket:1", "the_vault:vault_diamond_block:1", "the_vault:black_chromatic_steel_ingot:1", "the_vault:vault_catalyst_chaos:1", "the_vault:eye_of_avarice:1"]
 	#The chance to use a rare item instead of a regular one. e.g. 7 means every 7th items could be a rare item. (0 = disabled)
