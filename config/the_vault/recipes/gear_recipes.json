@@ -271,16 +271,16 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "the_vault:vault_platinum",
+          "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 18,
+          "AMOUNT": 9,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
@@ -311,7 +311,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 9,
           "ITEM": "the_vault:vault_essence",
           "NBT": "{}"
         }

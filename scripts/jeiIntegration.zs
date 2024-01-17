@@ -37,7 +37,8 @@ armourCat.addRecipe([<item:the_vault:boots>], [<item:minecraft:netherite_ingot>,
 armourCat.addRecipe([<item:the_vault:sword>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:axe>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:shield>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
-
+armourCat.addRecipe([<item:the_vault:trident>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9, <item:minecraft:trident>]);
+armourCat.addRecipe([<item:the_vault:battlestaff>], [<item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9, <item:the_vault:driftwood> * 32, <item:the_vault:vault_essence> * 9]);
 // Magnet
 armourCat.addRecipe([<item:the_vault:magnet>], [<item:the_vault:magnetite_ingot> * 9, <item:the_vault:vault_gold>]);
 
@@ -226,6 +227,10 @@ function blackMarketItem(item as string, minPrice as int, maxPrice as int, chanc
   return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
 }
 
+function blackMarketItemPotion(item as string, minPrice as int, maxPrice as int, chance as float, quantity as int, minLevel as int) as IItemStack {
+  return <item:${item}>.withTag({Potion: "parcool:energy_drink", display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
+}
+
 function blackMarketOmegaItem(item as string, minPrice as int, maxPrice as int, chance as float, quantity as int, minLevel as int) as IItemStack {
   return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"OMEGA\",\"bold\":true,\"color\":\"purple\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
 }
@@ -291,8 +296,9 @@ blackMarketItem("the_vault:inscription", 1000, 1800, 3.22, 1, 50),
 blackMarketItem("the_vault:faceted_focus", 400, 800, 1.61, 1, 50),
 blackMarketItem("sophisticatedbackpacks:iron_backpack", 1600, 2400, 0.60, 1, 50),
 blackMarketItem("the_vault:waxing_focus", 1300, 1900, 1.08, 1, 75),
-blackMarketItem("the_vault:waning_focus", 1300, 1900, 1.08, 1, 75)], []);
-
+blackMarketItem("the_vault:waning_focus", 1300, 1900, 1.08, 1, 75),
+blackMarketItem("the_vault:vault_palladium", 5000, 7000, 0.43, 1, 20),
+blackMarketItemPotion("minecraft:potion", 5000, 7000, 0.43, 1, 20)], []);
 blackMarket.addRecipe([blackMarketOmegaItem("the_vault:knowledge_star", 800, 1600, 4.51, 1, 0),
 blackMarketOmegaItem("the_vault:helmet", 350, 600, 6.02, 1, 0),
 blackMarketOmegaItem("the_vault:chestplate", 350, 600, 6.02, 1, 0),

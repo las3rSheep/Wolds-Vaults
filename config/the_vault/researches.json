@@ -54,7 +54,8 @@
     {
       "modIds": [
         "createaddition",
-        "create_enchantment_industry"
+        "create_enchantment_industry",
+        "bobberdetector"
       ],
       "restrictions": {
         "restricts": {

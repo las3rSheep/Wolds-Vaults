@@ -1,5 +1,5 @@
 {
-    "language.code": "en_us",
+	"language.code": "en_us",
 	"block.contenttweaker.charcoal_block1": "Compressed Charcoal Block(x1)",
 	"block.contenttweaker.cobbled_deepslate1": "Compressed Cobbled Deepslate (x1)",
 	"block.contenttweaker.cobbled_deepslate2": "Compressed Cobbled Deepslate (x2)",
@@ -131,6 +131,7 @@
 	"block.contenttweaker.moss_block2": "Compressed Moss Block (x2)",
 	"block.contenttweaker.gunpowder_sack1": "Compressed Gunpowder Sack (x1)",
 	"block.contenttweaker.vault_essence_block": "Vault Essence Block",
-	"block.contenttweaker.vault_essence_block1": "Compressed Vault Essence Block (x1)"
-
+	"block.contenttweaker.vault_essence_block1": "Compressed Vault Essence Block (x1)",
+	"item.the_vault.trident": "Vault Trident",
+	"item.the_vault.battlestaff": "Vault Battlestaff"
 }

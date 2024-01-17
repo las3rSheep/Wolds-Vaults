@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8ea091f5ac6c9d0c1f80543489ea4eadd9226761fe5eae1edcb00b05beeaa2e2"
+hash = "6e306f36af7086927d10e9db3876ca54efceecc0f28aca2273d33212303ac07b"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -11334,7 +11334,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
-hash = "170f450545570fceaa722ca9b78065920c33c89df04ed60961dc4fdf204bef09"
+hash = "aa6bcb66a3a731a04a1d47137b3dd2e7fe1ee7f0e34ea908d2501810f9bf37f1"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
@@ -11354,7 +11354,7 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "0d8b2272ccf4e3e109cf6d75c3fe5989f807c15c3736f005aaee4a4e80f750f7"
+hash = "80635ca80647828f3e49543e080844beeb884593e161ffc38505c0e84c9cab5f"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11394,7 +11394,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "cf5746bb302bf9ce3dcd8f2610cab1facedaf8a0ee4428d5cf65442e2957d031"
+hash = "c1719d80d7f730532a869d792551002040b19c606d3658daa133aa3cfada99d8"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -12446,7 +12446,7 @@ hash = "2ea3666791f498b98318926fbc733fb91621f700830edd088cdf1df93d51c3db"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "83bab70c3175fd762c3bb5075d4357a4c0e894d998c219beb611442d8f9eae53"
+hash = "04488bc838d1e6032f6b55bb1fddeab31bc3e9cbd7d5c9aae1df01bc3f898401"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/acacia_log_1.json"
@@ -21454,7 +21454,7 @@ hash = "bedaf9278e15cbee0078183a9b6b4af1bd664f940ba11e7867cbf22b14f8eb03"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/createadditions/recipes.js"
-hash = "c1722ee225c045caa05cd93f922086d46c66d11062bf9762f5ec65f446024871"
+hash = "06cd1dcad44324febd439ff49966d9b8c19d16312e07a04b24f17bdc82cb138f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/effortlessbuilding/recipes.js"
@@ -22075,6 +22075,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
+file = "mods/fishing-bobber-detector.pw.toml"
+hash = "4f28153eb2d13c53a9ba11013dc799a2963be6b26e0d4a3c803f62dde92b2365"
 metafile = true
 
 [[files]]
@@ -23019,7 +23024,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "81b1d2116794ace3d8bc45d34ea2619cf36c13e1710b109ec30ab3b64b64858e"
+hash = "813ae46bdc96b6f718137bd7df73a213073d6113481797d404995206b3a49398"
 metafile = true
 
 [[files]]
@@ -23566,7 +23571,7 @@ hash = "4dfb72eb87c209ce374bc1920e0a37fcd4f06359a2ce9f454f167d4cf6f196a8"
 
 [[files]]
 file = "scripts/jeiIntegration.zs"
-hash = "609781c6f35538a0255fa2d52cf6adcf0e3cd529974fffdddf41204c5fbc7281"
+hash = "f293fa1e15e49e816134aad1a6586f43e51716918ab5f344f8a91f4334424062"
 
 [[files]]
 file = "scripts/mushroomEvents.zs"
