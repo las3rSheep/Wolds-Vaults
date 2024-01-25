@@ -2,7 +2,7 @@
   "type": "quark:frog",
   "subtypes": [
     "tropicraft:tree_frog",
-    "thewildbackport:frog"
+    "wildbackport:frog"
   ],
   "name": "entity.quark.frog",
   "name_color": "0xEEA5A4",

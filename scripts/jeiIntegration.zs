@@ -37,8 +37,7 @@ armourCat.addRecipe([<item:the_vault:boots>], [<item:minecraft:netherite_ingot>,
 armourCat.addRecipe([<item:the_vault:sword>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:axe>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:shield>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
-armourCat.addRecipe([<item:the_vault:trident>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9, <item:minecraft:trident>]);
-armourCat.addRecipe([<item:the_vault:battlestaff>], [<item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9, <item:the_vault:driftwood> * 32, <item:the_vault:vault_essence> * 9]);
+
 // Magnet
 armourCat.addRecipe([<item:the_vault:magnet>], [<item:the_vault:magnetite_ingot> * 9, <item:the_vault:vault_gold>]);
 
@@ -227,10 +226,6 @@ function blackMarketItem(item as string, minPrice as int, maxPrice as int, chanc
   return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
 }
 
-function blackMarketItemPotion(item as string, minPrice as int, maxPrice as int, chance as float, quantity as int, minLevel as int) as IItemStack {
-  return <item:${item}>.withTag({Potion: "parcool:energy_drink", display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
-}
-
 function blackMarketOmegaItem(item as string, minPrice as int, maxPrice as int, chance as float, quantity as int, minLevel as int) as IItemStack {
   return <item:${item}>.withTag({display: {Lore: ["[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]","[{\"text\":\"OMEGA\",\"bold\":true,\"color\":\"purple\"}]","[{\"text\":\"Min Price: " + minPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Max Price: " + maxPrice + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Min Level: " + minLevel + "\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"\",\"italic\":false,\"color\":\"gray\"}]", "[{\"text\":\"Chance: " + chance + "%\",\"italic\":false,\"color\":\"gray\"}]"]}}) * quantity;
 }
@@ -296,9 +291,8 @@ blackMarketItem("the_vault:inscription", 1000, 1800, 3.22, 1, 50),
 blackMarketItem("the_vault:faceted_focus", 400, 800, 1.61, 1, 50),
 blackMarketItem("sophisticatedbackpacks:iron_backpack", 1600, 2400, 0.60, 1, 50),
 blackMarketItem("the_vault:waxing_focus", 1300, 1900, 1.08, 1, 75),
-blackMarketItem("the_vault:waning_focus", 1300, 1900, 1.08, 1, 75),
-blackMarketItem("the_vault:vault_palladium", 5000, 7000, 0.43, 1, 20),
-blackMarketItemPotion("minecraft:potion", 5000, 7000, 0.43, 1, 20)], []);
+blackMarketItem("the_vault:waning_focus", 1300, 1900, 1.08, 1, 75)], []);
+
 blackMarket.addRecipe([blackMarketOmegaItem("the_vault:knowledge_star", 800, 1600, 4.51, 1, 0),
 blackMarketOmegaItem("the_vault:helmet", 350, 600, 6.02, 1, 0),
 blackMarketOmegaItem("the_vault:chestplate", 350, 600, 6.02, 1, 0),
@@ -658,7 +652,6 @@ crystalItem("minecraft:black_dye", 10, "Mob")],
 [crystalItem("minecraft:ink_sac", 20, "Mob")],
 [crystalItem("minecraft:glow_ink_sac", 20, "Mob")],
 [crystalItem("minecraft:pufferfish", 20, "Mob")],
-[crystalItem("quark:frog_leg", 20, "Mob")],
 [crystalItem("minecraft:tropical_fish", 40, "Mob")],
 [crystalItem("minecraft:ghast_tear", 40, "Mob")],
 [crystalItem("minecraft:magma_cream", 40, "Mob")],
@@ -675,8 +668,6 @@ crystalItem("minecraft:charcoal", 0, "Misc")],
 [crystalItem("minecraft:pointed_dripstone", 10, "Misc")],
 [crystalItem("minecraft:gold_ingot", 10, "Misc")],
 [crystalItem("mekanism:ingot_osmium", 10, "Misc")],
-[crystalItem("thermal:lead_ingot", 10, "Misc")],
-[crystalItem("thermal:tin_ingot", 10, "Misc")],
 [crystalItem("mekanism:ingot_tin", 10, "Misc")],
 [crystalItem("mekanism:ingot_lead", 10, "Misc")],
 [crystalItem("minecraft:redstone", 10, "Misc")],
@@ -799,8 +790,6 @@ mysteryEgg.addRecipe([
     lootItem("minecraft:parrot_spawn_egg", 1, 1, 1.56),
     lootItem("minecraft:pufferfish_spawn_egg", 1, 1, 1.56),
     lootItem("minecraft:donkey_spawn_egg", 1, 1, 1.56),
-    lootItem("quark:frog_spawn_egg", 1, 1, 1.56),
-    lootItem("tropicraft:iguana_spawn_egg", 1, 1, 1.56),
     lootItem("minecraft:axolotl_spawn_egg", 1, 1, 0.78),
     lootItem("minecraft:glow_squid_spawn_egg", 1, 1, 0.78),
     lootItem("minecraft:panda_spawn_egg", 1, 1, 0.78),
@@ -1224,3 +1213,29 @@ boosterPack.addRecipe([
 ], []);
 
 JEI.addCategory(boosterPack);
+
+// Gem Box
+var gemBox = JeiCategory.create<Custom>("gem_box", new TextComponent("Gem Box"), <item:the_vault:gem_box>, [<item:the_vault:gem_box>]) as Custom;
+makeJEIGrid(gemBox, 4, 5, false);
+
+gemBox.addRecipe([
+    lootItem("the_vault:gem_larimar", 1, 4, 14.27),
+    lootItem("the_vault:gem_benitoite", 1, 4, 9.51),
+    lootItem("the_vault:gem_wutodie", 1, 4, 7.13),
+    lootItem("the_vault:gem_alexandrite", 1, 4, 7.13),
+    lootItem("the_vault:gem_painite", 1, 4, 5.35),
+    lootItem("the_vault:gem_iskallium", 1, 4, 3.56),
+    lootItem("the_vault:gem_gorginite", 1, 4, 3.56),
+    lootItem("the_vault:gem_sparkletine", 1, 4, 3.56),
+    lootItem("the_vault:gem_ashium", 1, 4, 3.56),
+    lootItem("the_vault:gem_bomignite", 1, 4, 3.56),
+    lootItem("the_vault:gem_tubium", 1, 4, 3.56),
+    lootItem("the_vault:gem_upaline", 1, 4, 3.56),
+    lootItem("the_vault:gem_petzanite", 1, 4, 3.56),
+    lootItem("the_vault:gem_xenium", 1, 4, 3.56),
+    lootItem("the_vault:gem_black_opal", 1, 4, 2.37),
+    lootItem("the_vault:gem_echo", 1, 4, 0.59),
+    lootItem("the_vault:gem_pog", 1, 4, 0.07)
+], []);
+
+JEI.addCategory(gemBox);

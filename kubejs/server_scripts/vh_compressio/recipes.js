@@ -122,6 +122,7 @@ onEvent("recipes", event => {
         })
 
         event.shapeless(`minecraft:${id}`, [`9x minecraft:${ingredient_id.slice(0, -1)}`])
+        event.shapeless(`9x minecraft:${ingredient_id.slice(0, -1)}`, `minecraft:${id}`)
     })
 
     vaultCompressed.forEach(id => {
@@ -141,6 +142,7 @@ onEvent("recipes", event => {
         })
 
         event.shapeless(`the_vault:${id}`, [`9x the_vault:${ingredient_id.slice(0, -1)}`])
+        event.shapeless(`9x the_vault:${ingredient_id.slice(0, -1)}`, `the_vault:${id}`)
     })
 
     botaniaCompressed.forEach(id => {
@@ -160,6 +162,7 @@ onEvent("recipes", event => {
         })
 
         event.shapeless(`botania:${id}`, [`9x botania:${ingredient_id.slice(0, -1)}`])
+        event.shapeless(`9x botania:${ingredient_id.slice(0, -1)}`, `botania:${id}`)
     })
 
 })

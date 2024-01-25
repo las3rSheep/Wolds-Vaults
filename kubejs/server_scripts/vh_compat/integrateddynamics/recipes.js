@@ -147,10 +147,11 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('integrateddynamics:energy_battery'),
         [
-            'VMV',
-            'VCV',
+            'IMI',
+            'ICI',
             'VMV'
         ], {
+        I: 'the_vault:chromatic_steel_ingot',
         V: 'the_vault:chromatic_steel_block',
         C: 'minecraft:redstone_block',
         M: 'integrateddynamics:crystalized_menril_block'
@@ -469,9 +470,9 @@ onEvent("recipes", event => {
             'OCI',
             'VBV'
         ], {
-        V: 'the_vault:mystical_powder',
+        V: 'the_vault:vault_essence_1',
         C: 'integrateddynamics:part_display_panel',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:echo_pog',
         O: 'integrateddynamics:variable_transformer_output',
         I: 'integrateddynamics:variable_transformer_input',
         S: 'the_vault:chromatic_steel_block'
@@ -483,7 +484,7 @@ onEvent("recipes", event => {
             ' C ',
             'VBV'
         ], {
-        V: 'the_vault:mystical_powder',
+        V: 'the_vault:vault_essence_1',
         C: 'integrateddynamics:part_display_panel',
         B: 'minecraft:crafting_table',
         S: 'integratedterminals:menril_glass'
@@ -503,23 +504,25 @@ onEvent("recipes", event => {
     event.shaped(Item.of('integratedtunnels:part_interface_item', 4),
         [
             'MMM',
-            'BCB',
+            'VCV',
             'BBB'
         ], {
         C: 'minecraft:chest',
         B: 'integrateddynamics:crystalized_menril_chunk',
-        M: 'the_vault:chromatic_steel_ingot'
+        M: 'the_vault:chromatic_steel_ingot',
+        V: 'the_vault:vault_essence'
     })
 
     event.shaped(Item.of('integratedtunnels:part_interface_fluid', 4),
         [
             'MMM',
-            'BCB',
+            'VCV',
             'BBB'
         ], {
-        C: 'minecraft:chest',
+        C: 'minecraft:bucket',
         B: 'integrateddynamics:crystalized_menril_chunk',
-        M: 'the_vault:chromatic_steel_ingot'
+        M: 'the_vault:chromatic_steel_ingot',
+        V: 'the_vault:vault_essence'
     })
 
     event.shaped(Item.of('integratedtunnels:part_player_simulator'),
@@ -533,7 +536,7 @@ onEvent("recipes", event => {
         I: 'integratedtunnels:part_exporter_world_block',
         E: 'integratedtunnels:part_importer_world_block',
         B: 'minecraft:emerald_block',
-        P: 'the_vault:echo_pog'
+        P: 'the_vault:extraordinary_larimar'
     })
 
     event.shaped(Item.of('integratednbt:nbt_extractor'),

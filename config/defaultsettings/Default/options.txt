@@ -46,11 +46,11 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Quark Programmer Art.zip","contenttweaker:user/client_resources"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","contenttweaker:user/client_resources","packmenu","quark:emote_resources","resources/VHBook.zip"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
 lastServer:localhost
 lang:en_us
-soundDevice:
+soundDevice:sink-sunshine-stereo
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -84,8 +84,8 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.049668875
-soundCategory_music:1.0
+soundCategory_master:0.102649
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

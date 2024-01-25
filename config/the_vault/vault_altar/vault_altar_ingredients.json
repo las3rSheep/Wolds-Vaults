@@ -1418,6 +1418,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_tin"
+              },
+              {
+                "item": "thermal:tin_ingot"
               }
             ],
             "amount": {
@@ -1426,7 +1429,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 8
         },
         {
           "value": {
@@ -4877,51 +4880,6 @@
           "value": {
             "items": [
               {
-                "item": "thermal:basalz_rod"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "thermal:blitz_rod"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "thermal:blizz_rod"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "items": [
-              {
                 "item": "minecraft:ender_pearl"
               }
             ],
@@ -5739,7 +5697,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 4
         },
         {
           "value": {
@@ -7606,7 +7564,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -7621,7 +7579,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -7636,7 +7594,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -8506,7 +8464,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 4
         },
         {
           "value": {
@@ -10403,7 +10361,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -10418,7 +10376,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -10433,7 +10391,7 @@
               "min": 1,
               "max": 2
             },
-            "scale": 1.0
+            "scale": 0.2
           },
           "weight": 2
         },
@@ -11318,7 +11276,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 4
         },
         {
           "value": {

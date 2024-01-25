@@ -321,6 +321,7 @@ onEvent("recipes", event => {
     event.remove({ id: 'sophisticatedstorage:advanced_filter_upgrade' })
     event.remove({ id: 'sophisticatedstorage:magnet_upgrade' })
     event.remove({ id: 'sophisticatedstorage:advanced_magnet_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:advanced_magnet_upgrade_from_basic' })
     event.remove({ id: 'sophisticatedstorage:feeding_upgrade' })
     event.remove({ id: 'sophisticatedstorage:advanced_feeding_upgrade' })
     event.remove({ id: 'sophisticatedstorage:compacting_upgrade' })
