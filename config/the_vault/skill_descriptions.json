@@ -1,5 +1,32 @@
 {
   "descriptions": {
+    "QuarryPlus": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "QuarryPlus",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nAfter mastering mining, you can create the ultimate mining machines with the QuarryPlus mod! This adds Quarries that work much like a Buildcraft Quarry and can be enchanted to enhance them. You can also create the coveted Chunk Destroyer that can flatten an entire chunk!"
+      }
+    ],
+    "Mystical Agriculture": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Mystical Agriculture",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nAfter mastering the botanical arts, you can now harness the power of mystically infused seeds with this mod. The end-all-be-all production mod, you can create seeds for almost any resource!"
+      },
+      {
+        "text": "\n\nItems such as tools and armor are disabled!"
+      }
+    ],
     "Cagerium": [
       {
         "text": "Unlocks the "
@@ -593,11 +620,11 @@
         "text": "\n\nAlso adds the "
       },
       {
-        "text": "Create Enchantment Industry and Bobber Detector",
+        "text": "Create Enchantment Industry",
         "color": "yellow"
       },
       {
-        "text": " mod! That lets you enchant and disenchant items with Create and detect when a fishing rod is catching a fish!"
+        "text": " mod! That lets you enchant and disenchant items with Create!"
       }
     ],
     "Mega Cells": [
@@ -14985,7 +15012,17 @@
         "color": "yellow"
       },
       {
-        "text": " can automatically feed you directly from your pouches, belts & backpacks and removes the need to eat food manually."
+        "text": " can automatically feed you directly from your pouches, belts & backpacks and removes the need to eat food manually.\n\n"
+      },
+      {
+        "text": "Additionally, unlocks the "
+      },
+      {
+        "text": "Refill, Compacting, and Auto-Smelting, Smoking, and Blasting",
+        "color": "yellow"
+      },
+      {
+        "text": " upgrades. That will let you refill items in your hand from your backpack automatically, compacting items in 2x2 and 3x3 recipes, and automatically process items in your bag!"
       }
     ],
     "Double Pouches": [
@@ -14998,6 +15035,18 @@
       },
       {
         "text": ", which offers more storage space and one more upgrade slot than Pouches."
+      }
+    ],
+    "Scanner": [
+      {
+        "text": "Unlocks the  "
+      },
+      {
+        "text": "Scannable ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod, which offers an FE powered device that can scan for entities, blocks, and in this pack, a special Vault Ores module! Consider it like Hunter in a device!"
       }
     ],
     "Belts": [

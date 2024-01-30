@@ -254,6 +254,58 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Mystical Agriculture": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Botania"
+          },
+          {
+            "type": "constant",
+            "id": "Bonsai Pots"
+          },
+          {
+            "type": "constant",
+            "id": "Botany Pots"
+          },
+          {
+            "type": "constant",
+            "id": "Botanical Machinery"
+          },
+          {
+            "type": "constant",
+            "id": "Botania Flux Field"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "QuarryPlus": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Iron Furnaces"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism"
+          },
+          {
+            "type": "constant",
+            "id": "Digital Miner"
+          },
+          {
+            "type": "constant",
+            "id": "Create Ore Excavation"
+          },
+          {
+            "type": "constant",
+            "id": "Mining Gadgets"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Create Ore Excavation": {
         "dependsOn": [
           {

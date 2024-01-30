@@ -2,6 +2,41 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "mysticalagriculture",
+        "matc"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Mystical Agriculture",
+      "cost": 20,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "quarryplus"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "QuarryPlus",
+      "cost": 20,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "rftoolsutility"
       ],
       "restrictions": {
@@ -15,6 +50,23 @@
       },
       "name": "RFTools Utility",
       "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "scannable"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Scanner",
+      "cost": 4,
       "usesKnowledge": true
     },
     {
@@ -54,8 +106,7 @@
     {
       "modIds": [
         "createaddition",
-        "create_enchantment_industry",
-        "bobberdetector"
+        "create_enchantment_industry"
       ],
       "restrictions": {
         "restricts": {
@@ -1577,16 +1628,7 @@
             "USABILITY": false,
             "CRAFTABILITY": true
           }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Auto Refill",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
+        },
         "sophisticatedbackpacks:feeding_upgrade": {
           "restricts": {
             "HITTABILITY": false,
@@ -1600,11 +1642,54 @@
             "USABILITY": false,
             "CRAFTABILITY": true
           }
+        },
+        "sophisticatedbackpacks:compacting_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:advanced_compacting_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:auto_smelting_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:auto_smoking_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:auto_blasting_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Auto Feeding",
+      "cost": 4,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {},
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Auto Refill",
       "cost": 1,
       "usesKnowledge": true
     },

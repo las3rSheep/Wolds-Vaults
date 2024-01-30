@@ -1,5 +1,17 @@
 {
   "styles": {
+    "QuarryPlus": {
+      "x": 200,
+      "y": 400,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/quarryplus"
+    },
+    "Mystical Agriculture": {
+      "x": 300,
+      "y": 400,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/mystical_agriculture"
+    },
     "Colossal Chests": {
       "x": -130,
       "y": 0,
@@ -108,17 +120,17 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/stackupgrading"
     },
-    "Auto Refill": {
+    "Auto Feeding": {
       "x": 250,
       "y": -40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/autorefill"
     },
-    "Auto Feeding": {
+    "Scanner": {
       "x": 300,
       "y": -40,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/autofeeding"
+      "icon": "the_vault:gui/researches/scannable"
     },
     "Double Pouches": {
       "x": 200,

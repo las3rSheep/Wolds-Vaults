@@ -850,7 +850,6 @@ craftingTable.remove(<item:create:large_water_wheel>);
 
 // Backpacks
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_refill_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:stonecutter_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:battery_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:pump_upgrade>);
@@ -858,19 +857,10 @@ craftingTable.remove(<item:sophisticatedbackpacks:xp_pump_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:tool_swapper_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:inception_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_magnet_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:compacting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:advanced_compacting_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:magnet_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:everlasting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:smelting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:smoking_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:auto_smoking_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:auto_blasting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:crafting_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:tank_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_pump_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:auto_smelting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:blasting_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:iron_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:gold_backpack>);

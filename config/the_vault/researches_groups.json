@@ -1,5 +1,16 @@
 {
   "groups": {
+    "Omega": {
+      "title": "Omega",
+      "research": [
+        "Mystical Agriculture",
+        "QuarryPlus"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Omega": 16
+      }
+    },
     "Addons": {
       "title": "Addons",
       "research": [
@@ -132,8 +143,8 @@
         "Big Backpacks",
         "Junk Management",
         "Stack Upgrading",
-        "Auto Feeding",
         "Auto Refill",
+        "Scanner",
         "Soul Harvester"
       ],
       "globalCostIncrease": 0.0,
