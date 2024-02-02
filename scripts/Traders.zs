@@ -10,9 +10,9 @@ craftingTable.addShaped("easy_piglin_barterer", <item:easy_piglins:barterer>, [
 ]);
 
 craftingTable.addShaped("easy_trader", <item:easy_villagers:trader>, [
-    [<item:minecraft:glass>, <item:minecraft:glass>, <item:minecraft:glass>],
-    [<item:minecraft:glass>, <item:the_vault:gem_larimar>, <item:minecraft:glass>],
-    [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>, <item:the_vault:chromatic_iron_ingot>]
+    [<item:minecraft:tinted_glass>, <item:minecraft:tinted_glass>, <item:minecraft:tinted_glass>],
+    [<item:minecraft:tinted_glass>, <item:the_vault:perfect_larimar>, <item:minecraft:tinted_glass>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("easy_auto_trader", <item:easy_villagers:auto_trader>, [

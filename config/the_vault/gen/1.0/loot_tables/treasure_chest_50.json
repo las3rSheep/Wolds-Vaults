@@ -307,17 +307,6 @@
           }
         },
         {
-          "weight": 4,
-          "item": {
-            "id": "create:extendo_grip",
-            "count": {
-              "type": "uniform",
-              "min": 1,
-              "max": 1
-            }
-          }
-        },
-        {
           "weight": 6,
           "item": {
             "id": "the_vault:artifact_fragment",
@@ -351,7 +340,7 @@
           }
         },
         {
-          "weight": 2,
+          "weight": 1,
           "item": {
             "id": "the_vault:wold_star_chunk",
             "count": {

@@ -5,7 +5,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_eye",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -13,7 +13,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_foot",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -21,7 +21,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_fuse",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -29,7 +29,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_tnt",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -37,7 +37,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_vial",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -45,7 +45,7 @@
         "value": {
           "item": "the_vault:scavenger_creeper_soul_charm",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 1
       },
@@ -93,7 +93,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_bone_shard",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -101,7 +101,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_milky_eye",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 2
       },
@@ -109,7 +109,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_ribcage",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -117,7 +117,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_skull",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -125,7 +125,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_wishbone",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -133,7 +133,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_milky_vial",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -141,7 +141,7 @@
         "value": {
           "item": "the_vault:scavenger_skeleton_soul_charm",
           "min": 1,
-          "max": 2
+          "max": 3
         },
         "weight": 3
       },
@@ -157,7 +157,7 @@
         "value": {
           "item": "the_vault:scavenger_spider_leg",
           "min": 1,
-          "max": 1
+          "max": 2
         },
         "weight": 2
       },
@@ -196,56 +196,56 @@
       {
         "value": {
           "item": "the_vault:scavenger_zombie_brain",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_arm",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_ear",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_eye",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_hide",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_nose",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
       {
         "value": {
           "item": "the_vault:scavenger_zombie_blood_vial",
-          "min": 3,
-          "max": 11
+          "min": 4,
+          "max": 14
         },
         "weight": 3
       },
@@ -253,7 +253,7 @@
         "value": {
           "item": "the_vault:scavenger_blue_bangle",
           "min": 1,
-          "max": 10
+          "max": 12
         },
         "weight": 2
       },
@@ -261,7 +261,7 @@
         "value": {
           "item": "the_vault:scavenger_pink_bangle",
           "min": 1,
-          "max": 10
+          "max": 12
         },
         "weight": 2
       },
@@ -269,7 +269,7 @@
         "value": {
           "item": "the_vault:scavenger_green_bangle",
           "min": 1,
-          "max": 10
+          "max": 12
         },
         "weight": 2
       },
@@ -277,7 +277,7 @@
         "value": {
           "item": "the_vault:scavenger_earrings",
           "min": 1,
-          "max": 10
+          "max": 16
         },
         "weight": 1
       },
@@ -285,7 +285,7 @@
         "value": {
           "item": "the_vault:scavenger_goblet",
           "min": 1,
-          "max": 10
+          "max": 16
         },
         "weight": 1
       },
@@ -293,7 +293,7 @@
         "value": {
           "item": "the_vault:scavenger_sack",
           "min": 1,
-          "max": 6
+          "max": 8
         },
         "weight": 2
       },
@@ -301,7 +301,7 @@
         "value": {
           "item": "the_vault:scavenger_red_scroll",
           "min": 1,
-          "max": 6
+          "max": 8
         },
         "weight": 2
       },
@@ -309,39 +309,39 @@
         "value": {
           "item": "the_vault:scavenger_blue_scroll",
           "min": 1,
-          "max": 8
+          "max": 10
         },
         "weight": 2
       },
       {
         "value": {
           "item": "the_vault:scavenger_broken_pottery",
-          "min": 4,
-          "max": 12
+          "min": 5,
+          "max": 15
         },
         "weight": 2
       },
       {
         "value": {
           "item": "the_vault:scavenger_cracked_pearl",
-          "min": 4,
-          "max": 12
+          "min": 5,
+          "max": 15
         },
         "weight": 2
       },
       {
         "value": {
           "item": "the_vault:scavenger_cracked_script",
-          "min": 4,
-          "max": 12
+          "min": 5,
+          "max": 15
         },
         "weight": 2
       },
       {
         "value": {
           "item": "the_vault:scavenger_empty_jar",
-          "min": 4,
-          "max": 12
+          "min": 5,
+          "max": 15
         },
         "weight": 3
       },
@@ -356,8 +356,8 @@
       {
         "value": {
           "item": "the_vault:scavenger_pottery_shard",
-          "min": 4,
-          "max": 12
+          "min": 5,
+          "max": 15
         },
         "weight": 4
       },
@@ -365,7 +365,7 @@
         "value": {
           "item": "the_vault:scavenger_poultice_jar",
           "min": 1,
-          "max": 5
+          "max": 6
         },
         "weight": 1
       },
@@ -373,15 +373,15 @@
         "value": {
           "item": "the_vault:scavenger_preserves_jar",
           "min": 1,
-          "max": 5
+          "max": 6
         },
         "weight": 1
       },
       {
         "value": {
           "item": "the_vault:scavenger_ripped_page",
-          "min": 4,
-          "max": 9
+          "min": 5,
+          "max": 10
         },
         "weight": 3
       },
@@ -389,7 +389,7 @@
         "value": {
           "item": "the_vault:scavenger_saddle_bag",
           "min": 1,
-          "max": 1
+          "max": 2
         },
         "weight": 1
       },
@@ -405,7 +405,7 @@
         "value": {
           "item": "the_vault:scavenger_wizard_wand",
           "min": 1,
-          "max": 1
+          "max": 2
         },
         "weight": 2
       }
