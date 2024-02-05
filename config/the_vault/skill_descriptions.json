@@ -12251,7 +12251,7 @@
         "color": "#C21A00"
       },
       {
-        "text": " dealt when fighting spiders.\nThe total can be seen in your statistics tab under Arthropod Damage.\n\n1 "
+        "text": " dealt when fighting Assassin mobs.\nThe total can be seen in your statistics tab under Asssassin Damage.\n\n1 "
       },
       {
         "text": "+25%",
@@ -12261,28 +12261,28 @@
         "text": "\n2 "
       },
       {
-        "text": "+50%",
+        "text": "+40%",
         "color": "#C21A00"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "+75%",
+        "text": "+60%",
         "color": "#C21A00"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "+100%",
+        "text": "+75%",
         "color": "#C21A00"
       },
       {
         "text": "\n5 "
       },
       {
-        "text": "+125%",
+        "text": "+100%",
         "color": "#C21A00"
       },
       {
@@ -12298,7 +12298,7 @@
         "color": "#C21A00"
       },
       {
-        "text": " dealt when fighting the undead.\nThe total can be seen in your statistics tab under Undead Damage.\n\n1 "
+        "text": " dealt when fighting Horde mobs.\nThe total can be seen in your statistics tab under Horde Damage.\n\n1 "
       },
       {
         "text": "+25%",
@@ -12308,28 +12308,28 @@
         "text": "\n2 "
       },
       {
-        "text": "+50%",
+        "text": "+40%",
         "color": "#C21A00"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "+75%",
+        "text": "+60%",
         "color": "#C21A00"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "+100%",
+        "text": "+75%",
         "color": "#C21A00"
       },
       {
         "text": "\n5 "
       },
       {
-        "text": "+125%",
+        "text": "+100%",
         "color": "#C21A00"
       },
       {
@@ -12345,7 +12345,7 @@
         "color": "#C21A00"
       },
       {
-        "text": " dealt when fighting illagers.\nThe total can be seen in your statistics tab under Illager Damage.\n\n1 "
+        "text": " dealt when fighting Vault Dwellers.\nThe total can be seen in your statistics tab under Dweller Damage.\n\n1 "
       },
       {
         "text": "+25%",
@@ -12355,28 +12355,28 @@
         "text": "\n2 "
       },
       {
-        "text": "+50%",
+        "text": "+40%",
         "color": "#C21A00"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "+75%",
+        "text": "+60%",
         "color": "#C21A00"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "+100%",
+        "text": "+75%",
         "color": "#C21A00"
       },
       {
         "text": "\n5 "
       },
       {
-        "text": "+125%",
+        "text": "+100%",
         "color": "#C21A00"
       },
       {
@@ -12392,7 +12392,7 @@
         "color": "#C21A00"
       },
       {
-        "text": " dealt when fighting piglins.\nThe total can be seen in your statistics tab under Nether Damage.\n\n1 "
+        "text": " dealt when fighting Dungeon mobs.\nThe total can be seen in your statistics tab under Dungeon Damage.\n\n1 "
       },
       {
         "text": "+25%",
@@ -12402,28 +12402,122 @@
         "text": "\n2 "
       },
       {
-        "text": "+50%",
+        "text": "+40%",
         "color": "#C21A00"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "+75%",
+        "text": "+60%",
         "color": "#C21A00"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "+100%",
+        "text": "+75%",
         "color": "#C21A00"
       },
       {
         "text": "\n5 "
       },
       {
-        "text": "+125%",
+        "text": "+100%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n"
+      }
+    ],
+    "Champion_Mastery": [
+      {
+        "text": "Increases the "
+      },
+      {
+        "text": "damage",
+        "color": "#C21A00"
+      },
+      {
+        "text": " dealt when fighting Champions.\nThe total can be seen in your statistics tab under Champion Damage.\n\n1 "
+      },
+      {
+        "text": "+25%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+40%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+60%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+75%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+100%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n"
+      }
+    ],
+    "Tank_Mastery": [
+      {
+        "text": "Increases the "
+      },
+      {
+        "text": "damage",
+        "color": "#C21A00"
+      },
+      {
+        "text": " dealt when fighting Tank mobs.\nThe total can be seen in your statistics tab under Tank Damage.\n\n1 "
+      },
+      {
+        "text": "+25%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+40%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+60%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+75%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+100%",
         "color": "#C21A00"
       },
       {

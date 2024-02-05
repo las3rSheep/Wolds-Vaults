@@ -7,7 +7,6 @@ for Iskall85's Vaulthunters */
 
 
 var cellTypes = [
-  "basic",
   "hardened",
   "blazing",
   "niotic",
@@ -22,8 +21,22 @@ for type in cellTypes {
 	JEI.hideIngredient(<item:powah:player_transmitter_${type}>);
 }
 
+craftingTable.remove(<item:powah:energy_cell_basic>);
+craftingTable.remove(<item:powah:reactor_basic>);
+craftingTable.remove(<item:powah:player_transmitter_basic>);
 craftingTable.remove(<item:powah:player_transmitter_starter>);
-JEI.hideIngredient(<item:powah:player_transmitter_starter>);
+
+craftingTable.addShaped("powah_player_transmitter_starter", <item:powah:player_transmitter_starter>, [
+	[<item:minecraft:air>, <item:the_vault:gem_pog>, <item:minecraft:air>],
+	[<item:powah:capacitor_basic_tiny>, <item:powah:dielectric_casing>, <item:powah:capacitor_basic_tiny>],
+	[<item:the_vault:chromatic_steel_block>, <item:powah:dielectric_rod>, <item:the_vault:chromatic_steel_block>]
+]);
+
+craftingTable.addShaped("powah_player_transmitter_basic", <item:powah:player_transmitter_basic>, [
+	[<item:minecraft:air>, <item:powah:player_transmitter_starter>, <item:minecraft:air>],
+	[<item:powah:capacitor_basic>, <item:powah:dielectric_casing>, <item:powah:capacitor_basic>],
+	[<item:the_vault:black_chromatic_steel_ingot>, <item:powah:dielectric_rod>, <item:the_vault:black_chromatic_steel_ingot>]
+]);
 
 <recipetype:powah:energizing>.addJsonRecipe("crystal_nitro", { //
   "ingredients": [

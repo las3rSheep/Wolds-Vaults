@@ -111,6 +111,16 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl20.json"
     },
     {
+      "id": "the_vault:completion_uscav_lvl0",
+      "name": "Unhinged Scav Crate lvl0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl0.json"
+    },
+    {
+      "id": "the_vault:completion_uscav_lvl20",
+      "name": "Unhinged Scav Crate lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl20.json"
+    },
+    {
       "id": "the_vault:completion_kill_lvl0",
       "name": "Kill Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl0.json"

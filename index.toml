@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ed3125346f7af03da696d556aa8ccd6b20b47035b91c7ee45ec1680317183c60"
+hash = "9e12d4500011a473f1f0d6d8ea18877cc202f90e505e177a0898a329d5cc76f7"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -1838,7 +1838,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "f2ce8cd0b91de3d119b98b0f1d7e4702672eb61bd0c08cec78fbb66f245325c2"
+hash = "b7bd6292460d1d6f9351e664215ff5ced9bd18b50b28814b50734510a1d1e4c3"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -1898,7 +1898,7 @@ hash = "4a7d29b4a4660c1061670aa6d11b963c2d6f9467b18fcfce4ca10ec4cdf94d23"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
-hash = "72bf58c250abf6ed3cf3f48831cefe7a1be2eefe23a27af9e4f25911695a580a"
+hash = "44e5ea40f34594a5c6d563dd445ff491e0e3f30298256aef777305cff60f4e21"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -1962,7 +1962,7 @@ hash = "c407012b10260913c5a5b471c736b5352b59a98c3b9600cee216a7248fa9a0ae"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "2c8e09657f00e87cdcc7e31530bb37434a4c9739778572f994ab119da600b5fb"
+hash = "fbd9c74234b39e5bc7051a38b89dab51c4488152afb1dc0495c1a478a89e1e91"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -1974,7 +1974,7 @@ hash = "3b53f588592d7d00666670c248569fd27dba085312e398996490183d074291c9"
 
 [[files]]
 file = "config/the_vault/gear_workbench/battlestaff.json"
-hash = "9ec883f60cad99debc0b83e6b96626a1470b9e5b796d35a2444eab92dbd7dbed"
+hash = "82d3f9fddde963862d83e5077181799d29faee0fdc44c9a2d7c7514b5f471a58"
 
 [[files]]
 file = "config/the_vault/gear_workbench/boots.json"
@@ -2026,7 +2026,7 @@ hash = "f230ccbdd543b5f017c9044d18bac41915d6bf2ac93f9a183e4b8dab0b62e9ad"
 
 [[files]]
 file = "config/the_vault/gear_workbench/trident.json"
-hash = "cb4437f77c99405a7eb3f49c671d983a66a73e1f61ad0d3675b8a467273d7f46"
+hash = "fc72772049bb319d102e930f5811a87a19e6ce686977810124b4c6f0f1cfefa6"
 
 [[files]]
 file = "config/the_vault/gear_workbench/wand.json"
@@ -11622,7 +11622,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "6002700341bdc8a9b211a504cfa1b250a5889486e23c5e7bd619b221a12f565f"
+hash = "7fba7a4531d249d2012a9f036a1ebc55923a1a9b83cb18d950b13d859a61ebdc"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -11654,11 +11654,11 @@ hash = "22d364d0ba7c01837bccc029f62fa813cb0651cfbe5c365a5edbcd24f5d9256e"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "7c65fc9352cc15a158de3003b61130b06aba1aeb2fb4021420e8679d794d6429"
+hash = "d596243e07798476d5ab83ca8004e57ed3b661262aa529e1ef8f6051c98c8b22"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
-hash = "0be1f481d4f2b14c18c7153fa89b648b29cc548d5c5f63e6c749695f239451f7"
+hash = "1f9b6aaf653a3788d1212195baf77eb19bfe867ee46ce11d6767c906d74e4421"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -11774,7 +11774,7 @@ hash = "9b3845d6942cf5ad21f2c79809f8024b16fc9916a2d7ea552193dd1117d9727d"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
-hash = "db2eec88942c160ca636b2fcb2d48caa588ae4bec34b5f69cdc18e1dbb81f0df"
+hash = "48ebb9420af285ab6822ce2c3abb32014edba4ef7b0d38c7dc6b9c7654a8984f"
 
 [[files]]
 file = "config/the_vault/vault_entities.json"
@@ -11790,7 +11790,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "f4a1cc562b93f5e069ec56ee3484d724cb420aeb6082f17168106f1acaf7fd59"
+hash = "4ac9d99e56fcfdd8f72e8dc87a2fcdfc33733a9600881a4f146d87660acd5b7b"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -21934,7 +21934,7 @@ hash = "9aebc8d4e9bdead220083de9b7ec0b952d1bf62fef50238552ac5d1e7e7da836"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "bbe917610324d10274605d764ff3e1366ebd52f462991e09d2384ac3a5b21722"
+hash = "e09628d85b56fbf3f9212039cc49ea8acc3fc5550f34c4fe68d99b6df6085b31"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -22475,6 +22475,11 @@ hash = "0cce27c4798642869bf81ff7c5102cd5a454cb1b42e0a2ecdf53b555fe058df1"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
+metafile = true
+
+[[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "828ff9c88dbde0e819795cd631ad91c9530cf4af1b7546a9a5e88ebc16be4606"
 metafile = true
@@ -22717,11 +22722,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "c8b1105b69781d63ca2144b7805c6b7ff530aa6a90a65bf3fd5c15584c90fb64"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "b61137301d238d28d5f193aae83e5d159299d1367c69467373797babed888154"
 metafile = true
 
 [[files]]
@@ -23360,6 +23360,11 @@ hash = "5b9766d2b3accd2a2c756af86195a8a91de30c801210c96c4787ae0a70884c57"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "f00e247eede31df32e4b5b201e3cd99e746c76a5ce504e64a2ea10a8ca0fd576"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "29d9560581661a430c832ec43f86ea0d276623677f038ed94c190d1ca90791eb"
 metafile = true
@@ -23426,12 +23431,12 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "c0c7b361a8bae1759c264111c50d1e0f288f4b7102476255320754e6beb1e8a4"
+hash = "8e2815771e5d119089637ea31ae4885ca98ef2c29be371cdfeeef2445a6e0614"
 metafile = true
 
 [[files]]
 file = "mods/vault-hunters-better-gear-model-unlocks.pw.toml"
-hash = "0ff4cf7718db02d29a644743fffd0a1f5dd50926eb896c17fa660ac5bdbd5113"
+hash = "251e65675a64f8d2dbac0d20bde2651ca0fb68b90666ad758231b913db7eac98"
 metafile = true
 
 [[files]]

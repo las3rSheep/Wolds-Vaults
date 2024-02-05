@@ -2,7 +2,7 @@
     "parent": "izzy_vault:the_vault",
     "display": {
       "icon": {
-        "item": "the_vault:idol_timekeeper"
+        "item": "the_vault:chestplate"
       },
       "title": {"text": "The Next Best thing"},
       "description": {"text": "Find or create a vault gear piece"}
@@ -92,49 +92,25 @@
           ]
         }
       },
-      "idol_benevolent": {
+      "wand": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
               "items": [
-                "the_vault:idol_benevolent"
+                "the_vault:wand"
               ]
             }
           ]
         }
       },
-      "idol_omniscient": {
+      "focus": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
               "items": [
-                "the_vault:idol_omniscient"
-              ]
-            }
-          ]
-        }
-      },
-      "idol_timekeeper": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "the_vault:idol_timekeeper"
-              ]
-            }
-          ]
-        }
-      },
-      "idol_malevolence": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "the_vault:idol_malevolence"
+                "the_vault:focus"
               ]
             }
           ]
@@ -142,6 +118,6 @@
       }
     },
     "requirements": [
-        ["sword","axe","helmet","chestplate","leggings","boots","shield","idol_benevolent","idol_omniscient","idol_timekeeper","idol_malevolence"]
+        ["sword","axe","helmet","chestplate","leggings","boots","shield","wand", "focus"]
     ]
   }

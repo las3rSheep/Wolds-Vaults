@@ -5,8 +5,7 @@
         "item": "the_vault:vault_diffuser"
       },
       "title": {"text": "Selling for a profit"},
-      "description": {"text": "Create a Vault Soul Diffuser"},
-      "frame": "goal"
+      "description": {"text": "Create a Vault Soul Diffuser"}
     },
     "criteria": {
       "craft_item": {

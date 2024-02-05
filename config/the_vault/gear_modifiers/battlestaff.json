@@ -681,7 +681,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -691,7 +691,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -701,7 +701,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -711,7 +711,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -721,7 +721,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -731,7 +731,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -752,7 +752,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -762,7 +762,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -772,7 +772,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -782,7 +782,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -792,7 +792,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -802,7 +802,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -823,7 +823,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -833,7 +833,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -843,7 +843,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -853,7 +853,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -863,7 +863,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -873,7 +873,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -894,7 +894,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -904,7 +904,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -914,7 +914,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -924,7 +924,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -934,7 +934,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -944,10 +944,430 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1.51,
               "max": 2.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_champion",
+        "group": "modDamageChampion",
+        "identifier": "the_vault:mod_damage_champion",
+        "tags": [
+          "focusDamageChampion"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_dungeon",
+        "group": "modDamageDungeon",
+        "identifier": "the_vault:mod_damage_dungeon",
+        "tags": [
+          "focusDamageDungeon"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_assassin",
+        "group": "modDamageDungeon",
+        "identifier": "the_vault:mod_damage_assassin",
+        "tags": [
+          "focusDamageAssassin"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_horde",
+        "group": "modDamageHorde",
+        "identifier": "the_vault:mod_damage_horde",
+        "tags": [
+          "focusDamageHorde"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_tank",
+        "group": "modDamageTank",
+        "identifier": "the_vault:mod_damage_tank",
+        "tags": [
+          "focusDamageTank"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_dweller",
+        "group": "modDamageDweller",
+        "identifier": "the_vault:mod_damage_dweller",
+        "tags": [
+          "focusDamageDweller"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
               "step": 0.01
             }
           }
@@ -1895,8 +2315,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.09,
-              "max": 0.13,
+              "min": 0.1,
+              "max": 0.14,
               "step": 0.01
             }
           },
@@ -1905,7 +2325,7 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.14,
+              "min": 0.15,
               "max": 0.18,
               "step": 0.01
             }
@@ -1916,7 +2336,7 @@
             "weight": 10,
             "value": {
               "min": 0.19,
-              "max": 0.23,
+              "max": 0.24,
               "step": 0.01
             }
           },
@@ -1925,8 +2345,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.24,
-              "max": 0.27,
+              "min": 0.25,
+              "max": 0.29,
               "step": 0.01
             }
           },
@@ -1935,8 +2355,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.28,
-              "max": 0.31,
+              "min": 0.30,
+              "max": 0.34,
               "step": 0.01
             }
           },
@@ -1945,8 +2365,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.32,
-              "max": 0.38,
+              "min": 0.35,
+              "max": 0.40,
               "step": 0.01
             }
           },
@@ -1955,8 +2375,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.39,
-              "max": 0.65,
+              "min": 0.41,
+              "max": 0.7,
               "step": 0.01
             }
           }
@@ -1975,8 +2395,8 @@
             "maxLevel": 79,
             "weight": 10,
             "value": {
-              "min": 0.03,
-              "max": 0.05,
+              "min": 0.04,
+              "max": 0.06,
               "step": 0.01
             }
           },
@@ -1985,8 +2405,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.06,
-              "max": 0.07,
+              "min": 0.07,
+              "max": 0.09,
               "step": 0.01
             }
           },
@@ -1995,8 +2415,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.08,
-              "max": 0.09,
+              "min": 0.1,
+              "max": 0.13,
               "step": 0.01
             }
           },
@@ -2005,8 +2425,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.1,
-              "max": 0.12,
+              "min": 0.14,
+              "max": 0.16,
               "step": 0.01
             }
           },
@@ -2015,8 +2435,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.13,
-              "max": 0.16,
+              "min": 0.17,
+              "max": 0.20,
               "step": 0.01
             }
           },
@@ -2025,8 +2445,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.17,
-              "max": 0.25,
+              "min": 0.21,
+              "max": 0.30,
               "step": 0.01
             }
           }
@@ -2843,6 +3263,432 @@
             }
           }
         ]
+      },
+      {
+        "attribute": "the_vault:damage_champion",
+        "group": "modDamageChampion",
+        "identifier": "the_vault:crafted_damage_champion",
+        "tags": [
+          "focusDamageChampion",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_dungeon",
+        "group": "modDamageDungeon",
+        "identifier": "the_vault:crafted_damage_dungeon",
+        "tags": [
+          "focusDamageDungeon",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_assassin",
+        "group": "modDamageDungeon",
+        "identifier": "the_vault:crafted_damage_assassin",
+        "tags": [
+          "focusDamageAssassin",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_horde",
+        "group": "modDamageHorde",
+        "identifier": "the_vault:crafted_damage_horde",
+        "tags": [
+          "focusDamageHorde",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_tank",
+        "group": "modDamageTank",
+        "identifier": "the_vault:crafted_damage_tank",
+        "tags": [
+          "focusDamageTank",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:damage_dweller",
+        "group": "modDamageDweller",
+        "identifier": "the_vault:crafted_damage_dweller",
+        "tags": [
+          "focusDamageDweller",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 36,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.11,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 62,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.26,
+              "max": 0.30,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 102,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
       }
     ],
     "CRAFTED_SUFFIX": [
@@ -3019,8 +3865,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.04,
-              "max": 0.08,
+              "min": 0.07,
+              "max": 0.13,
               "step": 0.01
             }
           },
@@ -3029,8 +3875,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.09,
-              "max": 0.12,
+              "min": 0.14,
+              "max": 0.16,
               "step": 0.01
             }
           },
@@ -3039,8 +3885,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.13,
-              "max": 0.16,
+              "min": 0.17,
+              "max": 0.20,
               "step": 0.01
             }
           },
@@ -3049,8 +3895,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.17,
-              "max": 0.2,
+              "min": 0.21,
+              "max": 0.24,
               "step": 0.01
             }
           },
@@ -3059,8 +3905,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.21,
-              "max": 0.24,
+              "min": 0.25,
+              "max": 0.30,
               "step": 0.01
             }
           }
@@ -3079,8 +3925,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.04,
-              "max": 0.08,
+              "min": 0.1,
+              "max": 0.14,
               "step": 0.01
             }
           },
@@ -3089,8 +3935,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.09,
-              "max": 0.12,
+              "min": 0.15,
+              "max": 0.18,
               "step": 0.01
             }
           },
@@ -3099,8 +3945,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.13,
-              "max": 0.16,
+              "min": 0.19,
+              "max": 0.24,
               "step": 0.01
             }
           },
@@ -3109,8 +3955,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.17,
-              "max": 0.2,
+              "min": 0.25,
+              "max": 0.29,
               "step": 0.01
             }
           },
@@ -3119,8 +3965,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.21,
-              "max": 0.24,
+              "min": 0.30,
+              "max": 0.34,
               "step": 0.01
             }
           }
@@ -3754,7 +4600,7 @@
             "maxLevel": 79,
             "weight": 10,
             "value": {
-              "min": 0.03,
+              "min": 0.04,
               "max": 0.06,
               "step": 0.01
             }
@@ -3765,7 +4611,7 @@
             "weight": 10,
             "value": {
               "min": 0.07,
-              "max": 0.08,
+              "max": 0.09,
               "step": 0.01
             }
           },
@@ -3774,8 +4620,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.08,
-              "max": 0.09,
+              "min": 0.1,
+              "max": 0.13,
               "step": 0.01
             }
           },
@@ -3784,8 +4630,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.1,
-              "max": 0.12,
+              "min": 0.14,
+              "max": 0.16,
               "step": 0.01
             }
           }

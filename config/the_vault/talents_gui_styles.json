@@ -60,7 +60,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/potion_amount"
     },
-
     "Sorcery": {
       "x": 140,
       "y": 50,
@@ -73,7 +72,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/witchery"
     },
-
     "Nucleus": {
       "x": 280,
       "y": 0,
@@ -86,8 +84,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/dazed"
     },
-   
-    
     "Blizzard": {
       "x": 280,
       "y": 50,
@@ -100,7 +96,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/frostbite"
     },
-
     "Blight": {
       "x": 280,
       "y": 100,
@@ -113,9 +108,8 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/toxic_reaction"
     },
-
     "Lucky_Hit": {
-      "x": 140,
+      "x": 0,
       "y": 170
     },
     "Fatal_Strike": {
@@ -142,19 +136,18 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/cleave"
     },
-    
     "Masteries": {
-      "x": 0,
+      "x": 140,
       "y": 170
     },
     "Arthropod_Mastery": {
-      "x": 0,
+      "x": 70,
       "y": 0,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/arthropod_mastery"
+      "icon": "the_vault:gui/skills/assassin_mastery"
     },
     "Undead_Mastery": {
-      "x": 70,
+      "x": 0,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/undead_mastery"
@@ -163,15 +156,26 @@
       "x": 0,
       "y": 50,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/illager_mastery"
+      "icon": "the_vault:gui/skills/dweller_mastery"
     },
     "Nether_Mastery": {
-      "x": 70,
-      "y": 50,
+      "x": 0,
+      "y": 100,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/nether_mastery"
     },
-
+    "Champion_Mastery": {
+      "x": 70,
+      "y": 100,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/champion_mastery"
+    },
+    "Tank_Mastery": {
+      "x": 70,
+      "y": 50,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/tank_mastery"
+    },
     "Javelin": {
       "x": 280,
       "y": 170

@@ -113,5 +113,5 @@ onEvent("recipes", event => {
         X: 'botania:runic_altar'
     })
 
-    event.shapeless('botania:gaia_ingot', ['the_vault:chromatic_steel_ingot', 'botania:life_essence', 'the_vault:vault_essence'])
+    //event.shapeless('botania:gaia_ingot', ['the_vault:chromatic_steel_ingot', 'botania:life_essence', 'the_vault:vault_essence'])
 })
