@@ -23080,6 +23080,11 @@ hash = "be9967977aab8177f61cca46e4cf0470aca671cbf9d327e49ba8b9d1534ebc8a"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "7e48d194034057c64344761d4271ee520d47a39b05bd5aff9069fd1420ea0826"
+metafile = true
+
+[[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
 metafile = true

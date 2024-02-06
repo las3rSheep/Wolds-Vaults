@@ -264,7 +264,7 @@
     "loyalty": {
       "items": [
         {
-          "id": "emerald",
+          "id": "command_block",
           "count": 5
         }
       ],
@@ -282,7 +282,7 @@
     "riptide": {
       "items": [
         {
-          "id": "emerald",
+          "id": "command_block",
           "count": 5
         }
       ],
@@ -291,7 +291,7 @@
     "channeling": {
       "items": [
         {
-          "id": "emerald",
+          "id": "command_block",
           "count": 5
         }
       ],
