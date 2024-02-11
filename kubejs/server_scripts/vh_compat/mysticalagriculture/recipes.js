@@ -35,6 +35,8 @@ onEvent("recipes", event => {
         r.json = rObj
     })
 
+
+
     event.remove({ output: /mysticalagriculture:.*_helmet/ })
     event.remove({ output: /mysticalagriculture:.*_chestplate/ })
     event.remove({ output: /mysticalagriculture:.*_leggings/ })
@@ -447,7 +449,7 @@ onEvent("recipes", event => {
         ], {
         V: 'mysticalagriculture:prosperity_seed_base',
         X: 'the_vault:gem_pog',
-        E: 'the_vault:gem_black_opal'
+        E: 'the_vault:extraordinary_black_opal'
     })
 
     event.shaped(Item.of('cloudstorage:cloud', 16),

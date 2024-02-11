@@ -8,6 +8,7 @@ onEvent('item.registry', event => {
 	event.create('the_vault:wold_star').group('the_vault')
 	event.create('the_vault:wold_star_chunk').group('the_vault')
 	event.create('mysticalagriculture:pogging_seed_base').group('the_vault')
+	event.create('botania:uninfused_terrasteel_ingot').group('the_vault')
 })
 
 onEvent('block.registry', event => {

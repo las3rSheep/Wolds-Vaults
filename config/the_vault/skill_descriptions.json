@@ -1778,6 +1778,21 @@
         "text": "mod!\n\nLaserIO is a useful mod that seeks to replicate the mechanics of EnderIO - allowing you to interact with items, fluids, energy, and redstone - all from the same block face! There is limitless potential for logistics around transportation of resources."
       }
     ],
+    "Super Factory Manager": [
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Super Factory Manager ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!\n\nSFM is a powerful mod that gives you the Factory Manager block, cables to connect to your manager, and a disk you can program scripts into to control your base!"
+      }
+    ],
     "Xnet": [
       {
         "text": ""

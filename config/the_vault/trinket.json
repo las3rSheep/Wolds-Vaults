@@ -206,7 +206,6 @@
         "curiosSlot": "blue_trinket"
       }
     },
-    
     "the_vault:high_heels": {
       "weight": 10,
       "name": "The Frog",
@@ -269,7 +268,7 @@
       "config": {
         "effect": "",
         "addedAmplifier": 1,
-		    "radius": 16,
+        "radius": 16,
         "curiosSlot": "blue_trinket"
       }
     },
@@ -350,19 +349,6 @@
         "curiosSlot": "blue_trinket",
         "name": "all_abilities",
         "value": 1
-      }
-    },
-    "the_vault:wings": {
-      "weight": 10,
-      "name": "Wings",
-      "effectText": "Gives the player elytra",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
-      "minUses": 20,
-      "maxUses": 30,
-      "config": {
-        "curiosSlot": "blue_trinket"
       }
     }
   }

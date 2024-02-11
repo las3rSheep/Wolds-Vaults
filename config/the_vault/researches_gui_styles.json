@@ -403,10 +403,16 @@
       "icon": "the_vault:gui/researches/xnet"
     },
     "LaserIO": {
-      "x": 60,
+      "x": 10,
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/laserio"
+    },
+    "Super Factory Manager": {
+      "x": 110,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/sfm"
     },
     "Modular Routers": {
       "x": 60,

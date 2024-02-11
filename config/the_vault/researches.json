@@ -16,7 +16,11 @@
       },
       "name": "Mystical Agriculture",
       "cost": 20,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/sword/netherite_flower_sword",
+        "the_vault:gear/sword/diamond_flower_sword"
+      ]
     },
     {
       "modIds": [
@@ -170,7 +174,10 @@
       },
       "name": "Botanical Machinery",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/sword/golden_flower_sword"
+      ]
     },
     {
       "modIds": [
@@ -557,6 +564,23 @@
     },
     {
       "modIds": [
+        "sfm"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Super Factory Manager",
+      "cost": 4,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "laserio"
       ],
       "restrictions": {
@@ -850,7 +874,11 @@
       },
       "name": "Bonsai Pots",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/sword/wooden_flower_sword",
+        "the_vault:gear/sword/stone_flower_sword"
+      ]
     },
     {
       "modIds": [
@@ -1792,13 +1820,7 @@
       "entityRestrictions": {},
       "name": "Big Backpacks",
       "cost": 3,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/scout/helmet",
-        "the_vault:gear/armor/scout/chestplate",
-        "the_vault:gear/armor/scout/leggings",
-        "the_vault:gear/armor/scout/boots"
-      ]
+      "usesKnowledge": true
     },
     {
       "itemRestrictions": {

@@ -11,4 +11,18 @@ onEvent('recipes', event => {
         R: 'the_vault:crystal_seal_hunter',
         B: 'the_vault:extraordinary_painite'
     })
+
+    event.shaped(Item.of('the_vault:crystal_seal_spirits'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:soul_campfire',
+        X: 'the_vault:eternal_soul',
+        R: 'the_vault:crystal_seal_scout',
+        B: 'the_vault:extraordinary_wutodie'
+    })
+
+    event.shapeless('botania:uninfused_terrasteel_ingot', ['botania:manasteel_ingot', 'botania:mana_pearl', 'botania:mana_diamond', 'the_vault:vault_essence', 'the_vault:vault_diamond', 'the_vault:chromatic_steel_ingot'])
 })

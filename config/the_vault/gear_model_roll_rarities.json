@@ -164,7 +164,13 @@
       "the_vault:gear/sword/bamboo",
       "the_vault:gear/sword/idonas_sword",
       "the_vault:gear/sword/honey_wand",
-      "the_vault:gear/sword/godsword"
+      "the_vault:gear/sword/godsword",
+      "the_vault:gear/sword/wooden_flower_sword",
+      "the_vault:gear/sword/stone_flower_sword",
+      "the_vault:gear/sword/iron_flower_sword",
+      "the_vault:gear/sword/golden_flower_sword",
+      "the_vault:gear/sword/diamond_flower_sword",
+      "the_vault:gear/sword/netherite_flower_sword"
     ]
   },
   "AXE_MODEL_ROLLS": {

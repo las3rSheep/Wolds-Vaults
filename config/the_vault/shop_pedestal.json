@@ -455,6 +455,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:crystal_seal_spirits"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:mystery_egg"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -892,6 +903,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:crystal_seal_spirits"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:spicy_hearty_burger"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1310,6 +1332,17 @@
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 12,
             "MAX_COST": 24
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crystal_seal_spirits"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
           },
           "weight": 20
         },

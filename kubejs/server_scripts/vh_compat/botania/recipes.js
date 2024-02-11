@@ -1,4 +1,5 @@
 onEvent("recipes", event => {
+    event.remove({ mod: 'botania', output: 'botania:terrasteel_ingot' })
 
     event.custom({
         "type": "botania:runic_altar",
@@ -26,6 +27,19 @@ onEvent("recipes", event => {
         "output": {
             "count": 1,
             "item": "the_vault:dreamstone"
+        }
+    })
+
+    event.custom({
+        "type": "botania:terra_plate",
+        "ingredients": [
+            {
+                "item": "botania:uninfused_terrasteel_ingot"
+            }
+        ],
+        "mana": 500000,
+        "result": {
+            "item": "botania:terrasteel_ingot"
         }
     })
 

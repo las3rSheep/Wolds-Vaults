@@ -120,6 +120,174 @@
 				item: "lightmanscurrency:coin_chest"
 			}]
 		}
+		{
+			title: "Smashed Gems"
+			x: -7.0d
+			y: -2.5d
+			subtitle: "RNG for your RNG"
+			description: [
+				"In this pack, instead of vault ores having a chance to drop absolutely nothing at all (which totally sucks!), they will drop smashed vault gems instead."
+				""
+				"These can be used to craft a new item \"Gem Boxes\" that work a lot like Mystery Boxes, but for the various vault gems! You might also get lucky and get a pog..."
+			]
+			id: "41AA63C5661C5CC4"
+			tasks: [{
+				id: "38B5D4A2FAEB71D4"
+				type: "item"
+				item: "the_vault:smashed_vault_gem"
+				count: 4L
+			}]
+			rewards: [{
+				id: "52DC27477EEF3483"
+				type: "item"
+				item: "the_vault:gem_box"
+			}]
+		}
+		{
+			title: "Unhinged Scavenger Hunt"
+			x: -5.0d
+			y: -2.5d
+			subtitle: "In case you liked scavenger hunts"
+			description: [
+				"In this pack, there are new harder vault objectives that add a twist to the usual ones!"
+				""
+				"The first of these is the Unhinged Scavenger Hunt, using a Seal of the Psychopath you can set your Vault Crystal to this new objective, and it will also set the theme to Chaos."
+				""
+				"In an Unhinged Scavenger Hunt, the goal is still the same, collect all the scavenger items, but now with all of the previously unused scavenger items thrown into the mix! You'll also need to get mob-specific drops instead of the mob essences! Did I also mention that the normal locations for scavenger items have been changed up?"
+				"To reward you, this objective has the best crate in the game and 2X the XP of a normal scavenger hunt!"
+			]
+			id: "09D234B85E26DABC"
+			tasks: [{
+				id: "390CB5B322DDB8AA"
+				type: "item"
+				item: "the_vault:crystal_seal_unhinged"
+			}]
+			rewards: [{
+				id: "1E230B6A56E19D8B"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 32
+			}]
+		}
+		{
+			title: "Haunted Braziers"
+			x: -1.0d
+			y: -2.5d
+			subtitle: "A little spooky"
+			description: [
+				"The Seal of the Exorcist can be used to set your vault objective to Haunted Braziers, a new harder variation of the normal Brazier vault."
+				""
+				"In this objective, your goal is still to light a number of braziers, but there are some caveats!"
+				""
+				"First, the crystal will always have 2 new Modifiers on it, Spooky and Haunting. Spooky works just like Wild but spawns Wraiths instead of Vault Dwellers, and Haunting works like Voiding but takes less time away on hit."
+				"The Wraiths spawned from this modifier will always spawn with resistance, so you will be unable to kill them. To weaken them, you'll need to light a brazier with them nearby, this will remove their resistance and do a big chunk of damage to them!"
+				""
+				"The modifiers from both lighting braziers and pillaging them has all been changed up as well!"
+				""
+				"To reward you, you get a bit better of a crate than normal and 2X the XP of a normal Brazier vault!"
+			]
+			id: "3FC6742A571AB345"
+			tasks: [{
+				id: "06F18424227A89BA"
+				type: "item"
+				item: "the_vault:crystal_seal_spirits"
+			}]
+			rewards: [{
+				id: "516560B2A5262E7B"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 16
+			}]
+		}
+		{
+			title: "Vault Battlestaffs"
+			x: 1.0d
+			y: -2.5d
+			subtitle: "A two-hander"
+			description: [
+				"In addition to Vault Tridents, there are also Vault Battlestaffs!"
+				""
+				"These are two-handed so they will take up your off-hand slot."
+				""
+				"In trade, they can roll 2 implicits with each being either Mana Regen or Resistance and Ability Power or Lucky Hit Chance."
+				""
+				"The Battlestaff has the best rolls for on-hit modifiers and attacks faster than any other weapon, but it does a bit less damage than a sword."
+				""
+			]
+			id: "385D09E8A57E4A8F"
+			tasks: [{
+				id: "26BD9989A59E8596"
+				type: "item"
+				item: {
+					id: "the_vault:battlestaff"
+					Count: 1b
+					tag: {
+						vaultGearData: [L;
+							1741611668359873355L
+							-1222706149066751146L
+							2392537302042635L
+							576460752303423488L
+							2056L
+						]
+						clientCache: {
+							color: [B; ]
+							gearName: [B; ]
+							rollType: [B; ]
+							jcolors: [I; ]
+							model: [B; ]
+							state: 0
+							colors: [I;11184810]
+							rarity: 0
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Vault Tridents"
+			x: -3.0d
+			y: -2.5d
+			subtitle: "New Vault Weapon!"
+			description: [
+				"In this pack, there is entirely new vault gear to craft or collect!"
+				""
+				"This is the Vault Trident, it works a lot like a vanilla Trident, but you'll roll implicits on it instead of enchanting it with Loyalty/Riptide/Channeling."
+				""
+				"Tridents have the chance to roll Loyalty or Riptide as an implicit, and then also may roll Channeling in addition."
+				""
+				"Thrown Tridents do twice the damage of a normal attack."
+				""
+				"Channeling works differently from vanilla tridents, you need a \"Channeling Chance %\" modifier, and then it will have a chance to trigger the lightning based off this. When the lightning strikes, it will proc any of your effect clouds and do twice the normal thrown trident damage to any hit with the bolt!"
+			]
+			id: "2FED041DD140A1AE"
+			tasks: [{
+				id: "45F59836EA9A2051"
+				type: "item"
+				item: {
+					id: "the_vault:trident"
+					Count: 1b
+					tag: {
+						vaultGearData: [L;
+							-8064874422816432645L
+							-1354406456611281944L
+							2392537302042633L
+							576460752303423488L
+							2056L
+						]
+						clientCache: {
+							color: [B; ]
+							gearName: [B; ]
+							rollType: [B; ]
+							jcolors: [I; ]
+							model: [B; ]
+							state: 0
+							colors: [I;11184810]
+							rarity: 0
+						}
+					}
+				}
+			}]
+		}
 	]
 	quest_links: [ ]
 }

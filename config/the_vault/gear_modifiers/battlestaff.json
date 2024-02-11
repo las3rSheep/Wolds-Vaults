@@ -140,13 +140,13 @@
       },
       {
         "attribute": "the_vault:ability_power",
-        "group": "ModStaffBonus",
+        "group": "ModStaffBonusOffensive",
         "identifier": "the_vault:base_ap",
         "tiers": [
           {
             "minLevel": 0,
             "maxLevel": 24,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 2.5,
               "max": 6.5,
@@ -156,7 +156,7 @@
           {
             "minLevel": 11,
             "maxLevel": 37,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 7.0,
               "max": 11.0,
@@ -166,7 +166,7 @@
           {
             "minLevel": 25,
             "maxLevel": 49,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 11.5,
               "max": 15.5,
@@ -176,7 +176,7 @@
           {
             "minLevel": 38,
             "maxLevel": 60,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 12.0,
               "max": 16.0,
@@ -186,7 +186,7 @@
           {
             "minLevel": 50,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 16.5,
               "max": 24,
@@ -196,7 +196,7 @@
           {
             "minLevel": 61,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 25.0,
               "max": 30.0,
@@ -206,7 +206,7 @@
           {
             "minLevel": 70,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 31.0,
               "max": 36.0,
@@ -216,7 +216,7 @@
           {
             "minLevel": 83,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 37.0,
               "max": 41.0,
@@ -226,7 +226,7 @@
           {
             "minLevel": 96,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 20,
             "value": {
               "min": 42.0,
               "max": 46.0,
@@ -236,14 +236,148 @@
         ]
       },
       {
+        "attribute": "the_vault:lucky_hit_chance",
+        "group": "ModStaffBonusOffensive",
+        "identifier": "the_vault:mod_lucky_hit_chance_implicit",
+        "tiers": [
+          {
+            "minLevel": 25,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.04,
+              "max": 0.06,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.07,
+              "max": 0.09,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 60,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.1,
+              "max": 0.13,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.14,
+              "max": 0.16,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:mana_regen",
+        "group": "ModStaffBonusDefensive",
+        "identifier": "the_vault:mod_mana_regen",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 54,
+            "weight": 10,
+            "value": {
+              "min": 0.1,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 23,
+            "maxLevel": 66,
+            "weight": 10,
+            "value": {
+              "min": 0.21,
+              "max": 0.3,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 34,
+            "maxLevel": 80,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 46,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.41,
+              "max": 0.5,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 55,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.51,
+              "max": 0.6,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 67,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.61,
+              "max": 0.7,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 81,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.71,
+              "max": 0.8,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 92,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.81,
+              "max": 1.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:resistance",
-        "group": "ModStaffBonus",
+        "group": "ModStaffBonusDefensive",
         "identifier": "the_vault:mod_resistance",
         "tiers": [
           {
             "minLevel": 0,
             "maxLevel": 24,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.03,
               "max": 0.06,
@@ -253,7 +387,7 @@
           {
             "minLevel": 11,
             "maxLevel": 37,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.07,
               "max": 0.09,
@@ -263,7 +397,7 @@
           {
             "minLevel": 25,
             "maxLevel": 49,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.9,
               "max": 0.12,
@@ -273,7 +407,7 @@
           {
             "minLevel": 38,
             "maxLevel": 60,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.13,
               "max": 0.16,
@@ -283,7 +417,7 @@
           {
             "minLevel": 50,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.17,
               "max": 0.18,
@@ -293,7 +427,7 @@
           {
             "minLevel": 70,
             "maxLevel": -1,
-            "weight": 50,
+            "weight": 10,
             "value": {
               "min": 0.19,
               "max": 0.20,
@@ -681,7 +815,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -691,7 +825,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -701,7 +835,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -711,7 +845,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -721,7 +855,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -731,7 +865,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -752,7 +886,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -762,7 +896,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -772,7 +906,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -782,7 +916,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -792,7 +926,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -802,7 +936,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -823,7 +957,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -833,7 +967,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -843,7 +977,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -853,7 +987,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -863,7 +997,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -873,7 +1007,7 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.51,
               "max": 2.0,
@@ -894,7 +1028,7 @@
           {
             "minLevel": 0,
             "maxLevel": 79,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.1,
               "max": 0.25,
@@ -904,7 +1038,7 @@
           {
             "minLevel": 36,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.26,
               "max": 0.5,
@@ -914,7 +1048,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.51,
               "max": 0.75,
@@ -924,7 +1058,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 0.76,
               "max": 1.0,
@@ -934,7 +1068,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.01,
               "max": 1.5,
@@ -944,430 +1078,10 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 0,
+            "weight": 10,
             "value": {
               "min": 1.51,
               "max": 2.0,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_champion",
-        "group": "modDamageChampion",
-        "identifier": "the_vault:mod_damage_champion",
-        "tags": [
-          "focusDamageChampion"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_dungeon",
-        "group": "modDamageDungeon",
-        "identifier": "the_vault:mod_damage_dungeon",
-        "tags": [
-          "focusDamageDungeon"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_assassin",
-        "group": "modDamageDungeon",
-        "identifier": "the_vault:mod_damage_assassin",
-        "tags": [
-          "focusDamageAssassin"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_horde",
-        "group": "modDamageHorde",
-        "identifier": "the_vault:mod_damage_horde",
-        "tags": [
-          "focusDamageHorde"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_tank",
-        "group": "modDamageTank",
-        "identifier": "the_vault:mod_damage_tank",
-        "tags": [
-          "focusDamageTank"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_dweller",
-        "group": "modDamageDweller",
-        "identifier": "the_vault:mod_damage_dweller",
-        "tags": [
-          "focusDamageDweller"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
               "step": 0.01
             }
           }
@@ -3259,432 +2973,6 @@
             "value": {
               "min": 0.16,
               "max": 0.2,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_champion",
-        "group": "modDamageChampion",
-        "identifier": "the_vault:crafted_damage_champion",
-        "tags": [
-          "focusDamageChampion",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_dungeon",
-        "group": "modDamageDungeon",
-        "identifier": "the_vault:crafted_damage_dungeon",
-        "tags": [
-          "focusDamageDungeon",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_assassin",
-        "group": "modDamageDungeon",
-        "identifier": "the_vault:crafted_damage_assassin",
-        "tags": [
-          "focusDamageAssassin",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_horde",
-        "group": "modDamageHorde",
-        "identifier": "the_vault:crafted_damage_horde",
-        "tags": [
-          "focusDamageHorde",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_tank",
-        "group": "modDamageTank",
-        "identifier": "the_vault:crafted_damage_tank",
-        "tags": [
-          "focusDamageTank",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:damage_dweller",
-        "group": "modDamageDweller",
-        "identifier": "the_vault:crafted_damage_dweller",
-        "tags": [
-          "focusDamageDweller",
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 79,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 36,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.11,
-              "max": 0.2,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.21,
-              "max": 0.25,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.26,
-              "max": 0.30,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 101,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.31,
-              "max": 0.4,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 102,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.41,
-              "max": 0.5,
               "step": 0.01
             }
           }

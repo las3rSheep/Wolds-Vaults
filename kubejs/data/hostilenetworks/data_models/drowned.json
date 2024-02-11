@@ -16,6 +16,10 @@
 	"trivia": "hostilenetworks.trivia.drowned",
 	"fabricator_drops": [
 		{
+			"item": "minecraft:copper_ingot",
+			"count": 8
+		},
+		{
 			"item": "minecraft:nautilus_shell",
 			"count": 4
 		},

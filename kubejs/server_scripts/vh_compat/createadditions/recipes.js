@@ -27,7 +27,7 @@ onEvent("recipes", event => {
         C: 'createaddition:copper_spool',
         R: 'createaddition:iron_rod',
         X: 'createaddition:capacitor',
-        P: 'the_vault:extraordinary_larimar'
+        P: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('createaddition:alternator'),
@@ -154,4 +154,6 @@ onEvent("recipes", event => {
         }
     )
 
+    event.shapeless('create:experience_nugget', ['4x minecraft:experience_bottle'])
+    event.shapeless('4x minecraft:experience_bottle', ['create:experience_nugget'])
 })

@@ -263,21 +263,6 @@
         ]
       }
     ],
-    "gear_completion_crate_uscav": [
-      {
-        "level": 0,
-        "rollTypeOutcomes": [
-          {
-            "value": "Epic+",
-            "weight": 10
-          },
-          {
-            "value": "Omega",
-            "weight": 2
-          }
-        ]
-      }
-    ],
     "gear_completion_crate_paradox": [
       {
         "level": 0,
@@ -362,7 +347,7 @@
             "value": "Omega",
             "weight": 1
           }
-        ]
+         ]
       }
     ],
     "jewel_high": [

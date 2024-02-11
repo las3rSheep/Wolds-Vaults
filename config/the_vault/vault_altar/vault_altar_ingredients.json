@@ -4050,6 +4050,21 @@
           "value": {
             "items": [
               {
+                "item": "botania:livingrock"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:obsidian"
               }
             ],
@@ -4260,6 +4275,21 @@
           "value": {
             "items": [
               {
+                "item": "integrateddynamics:menril_log"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 1.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:oak_log"
               }
             ],
@@ -4315,6 +4345,21 @@
             "scale": 1.0
           },
           "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botania:livingwood"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.65
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -5107,6 +5152,51 @@
           "value": {
             "items": [
               {
+                "item": "create:sweet_roll"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "mysticalagriculture:inferium_essence"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:menril_berries"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:wheat"
               }
             ],
@@ -5799,6 +5889,162 @@
           "value": {
             "items": [
               {
+                "item": "thermal:electrum_ingot"
+              },
+              {
+                "item": "createaddition:electrum_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:lumium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:signalum_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:enderium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:invar_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:silver_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:apatite_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "mekanism:ingot_steel"
+              }
+            ],
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:crystalized_menril_chunk"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "refinedstorage:silicon"
+              },
+              {
+                "item": "ae2:silicon"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "ae2:certus_quartz_dust"
               }
             ],
@@ -5806,9 +6052,9 @@
               "min": 1,
               "max": 3
             },
-            "scale": 0.8
+            "scale": 0.65
           },
-          "weight": 6
+          "weight": 8
         },
         {
           "value": {
@@ -5829,6 +6075,21 @@
           "value": {
             "items": [
               {
+                "item": "fluxnetworks:flux_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:emerald"
               }
             ],
@@ -5839,6 +6100,21 @@
             "scale": 1.0
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botanicalmachinery:mana_emerald"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 3
         },
         {
           "value": {
@@ -5887,6 +6163,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "powah:uraninite"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -6637,6 +6928,21 @@
           "value": {
             "items": [
               {
+                "item": "botania:livingrock"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:obsidian"
               }
             ],
@@ -6662,6 +6968,36 @@
             "scale": 0.8
           },
           "weight": 6
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:brass_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.7
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:rose_quartz"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.65
+          },
+          "weight": 2
         },
         {
           "value": {
@@ -6862,6 +7198,21 @@
           "value": {
             "items": [
               {
+                "item": "integrateddynamics:menril_log"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 1.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:oak_log"
               }
             ],
@@ -6872,6 +7223,21 @@
             "scale": 1.0
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botania:livingwood"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.65
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -7844,6 +8210,66 @@
           "value": {
             "items": [
               {
+                "item": "industrialforegoing:tinydryrubber"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:menril_berries"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:sweet_roll"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "mysticalagriculture:inferium_essence"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:wheat"
               }
             ],
@@ -8551,6 +8977,144 @@
           "value": {
             "items": [
               {
+                "item": "mekanism:ingot_steel"
+              }
+            ],
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:lumium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:signalum_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:enderium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:invar_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:silver_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:apatite_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:crystalized_menril_chunk"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "refinedstorage:silicon"
+              },
+              {
+                "item": "ae2:silicon"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "ae2:certus_quartz_dust"
               }
             ],
@@ -8558,9 +9122,9 @@
               "min": 1,
               "max": 3
             },
-            "scale": 0.8
+            "scale": 0.65
           },
-          "weight": 6
+          "weight": 8
         },
         {
           "value": {
@@ -8596,6 +9160,21 @@
           "value": {
             "items": [
               {
+                "item": "botanicalmachinery:mana_emerald"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:lapis_lazuli"
               }
             ],
@@ -8626,6 +9205,21 @@
           "value": {
             "items": [
               {
+                "item": "fluxnetworks:flux_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:coal"
               },
               {
@@ -8639,6 +9233,21 @@
             "scale": 1.0
           },
           "weight": 24
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "powah:uraninite"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -9434,6 +10043,21 @@
           "value": {
             "items": [
               {
+                "item": "botania:livingrock"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:obsidian"
               }
             ],
@@ -9669,6 +10293,36 @@
             "scale": 1.0
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:menril_log"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 1.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botania:livingwood"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.65
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -10641,6 +11295,51 @@
           "value": {
             "items": [
               {
+                "item": "mysticalagriculture:inferium_essence"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "create:sweet_roll"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:menril_berries"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:wheat"
               }
             ],
@@ -11348,6 +12047,159 @@
           "value": {
             "items": [
               {
+                "item": "thermal:lumium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:signalum_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:enderium_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 0.5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:invar_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:silver_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "thermal:apatite_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.65
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "mekanism:ingot_steel"
+              }
+            ],
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "integrateddynamics:crystalized_menril_chunk"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.7
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "refinedstorage:silicon"
+              },
+              {
+                "item": "ae2:silicon"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "ae2:singularity"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 1
+            },
+            "scale": 0.1
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "ae2:certus_quartz_dust"
               }
             ],
@@ -11355,9 +12207,9 @@
               "min": 1,
               "max": 3
             },
-            "scale": 0.8
+            "scale": 0.65
           },
-          "weight": 6
+          "weight": 8
         },
         {
           "value": {
@@ -11378,6 +12230,21 @@
           "value": {
             "items": [
               {
+                "item": "fluxnetworks:flux_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:emerald"
               }
             ],
@@ -11388,6 +12255,21 @@
             "scale": 1.0
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botanicalmachinery:mana_emerald"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 3
         },
         {
           "value": {
@@ -11449,6 +12331,21 @@
               "max": 16
             },
             "scale": 1.0
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "powah:uraninite"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "scale": 0.7
           },
           "weight": 4
         },

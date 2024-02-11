@@ -9,7 +9,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "the_vault:gem_gorgnite",
+              "name": "the_vault:gem_gorginite",
               "functions": [
                 {
                   "function": "minecraft:apply_bonus",
