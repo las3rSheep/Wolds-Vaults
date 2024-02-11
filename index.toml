@@ -1698,7 +1698,7 @@ hash = "4918984dfbce7e4310feeb3f2d303f621e38e1990d9f44bceada39808363eccf"
 
 [[files]]
 file = "config/the_vault/ascension_forge.json"
-hash = "d6c23a82a23be7c11ecb20b3bbb647484d01dea44168c9d43c6e461e3587ffa3"
+hash = "fd2f8ff9661a49e3d9c3f86520e910ba4730c77d8aaa29677ac5b10230e82994"
 
 [[files]]
 file = "config/the_vault/augment.json"
@@ -11594,7 +11594,7 @@ hash = "d85bedaea64b531105b27f7a0643ba47039bc3584e44c7eb838292e8bd4f011e"
 
 [[files]]
 file = "config/the_vault/player_titles.json"
-hash = "9a1cb8a4274339622ec15004fe96300e105829b6d902c38db21d313aa4c762d9"
+hash = "257305af4d0fa905a56f57c0cfed068d5ba920aa4f120d8fe4682142d5ca2744"
 
 [[files]]
 file = "config/the_vault/points_reset.json"
@@ -22650,13 +22650,13 @@ hash = "29aecd58b59687206e03a5fd885d36e8e76e0d7fc7c73170c072d3cf17d20a3b"
 metafile = true
 
 [[files]]
-file = "mods/embeddium-plus.pw.toml"
-hash = "402437a82ca8a49552f4390033ef947e745f96324a1492c77978af47d4bcde8d"
+file = "mods/embeddium.pw.toml"
+hash = "2ae51e36f1a9884fb028d488730c478c66b14993e4fdb0d2add4aab9f3c95af3"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "2ae51e36f1a9884fb028d488730c478c66b14993e4fdb0d2add4aab9f3c95af3"
+file = "mods/embeddiumplus.pw.toml"
+hash = "6323439702db51adb9c9f126e0d717f64069eeae600c893fc030556c3684dbc8"
 metafile = true
 
 [[files]]
