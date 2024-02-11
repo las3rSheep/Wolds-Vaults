@@ -21,7 +21,19 @@ let removedOutputsMAG = [
     'mysticalagriculture:inferium_helmet',
     'mysticalagriculture:soulium_seed_base',
     'mysticalagriculture:watering_can',
-    'mysticalagriculture:prosperity_seed_base'
+    'mysticalagriculture:prosperity_seed_base',
+    'mysticalagriculture:air_agglomeratio',
+    'mysticalagriculture:water_agglomeratio',
+    'mysticalagriculture:fire_agglomeratio',
+    'mysticalagriculture:earth_agglomeratio',
+    'mysticalagriculture:nature_agglomeratio',
+    'mysticalagriculture:dye_agglomeratio',
+    'mysticalagriculture:nether_agglomeratio',
+    'mysticalagriculture:coral_agglomeratio',
+    'mysticalagriculture:honey_agglomeratio',
+    'mysticalagriculture:prismarine_agglomeratio',
+    'mysticalagriculture:end_agglomeratio',
+    'mysticalagriculture:mystical_flower_agglomeratio'
 ];
 onEvent("recipes", event => {
     removedOutputsMAG.forEach(id => {
@@ -469,8 +481,147 @@ onEvent("recipes", event => {
         E: 'mysticalagriculture:air_essence'
     })
 
+    event.shaped(Item.of('mysticalagriculture:nature_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:world_seed'
+    })
 
+    event.shaped(Item.of('mysticalagriculture:air_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_air'
+    })
 
+    event.shaped(Item.of('mysticalagriculture:earth_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_earth'
+    })
 
+    event.shaped(Item.of('mysticalagriculture:water_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_water'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:fire_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_fire'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:air_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_air'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:dye_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: '#forge:dyes'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:nether_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_wrath'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:end_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_envy'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:mystical_flower_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: '#botania:mystical_flowers'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:prismarine_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_greed'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:honey_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_autumn'
+    })
+
+    event.shaped(Item.of('mysticalagriculture:coral_agglomeratio'),
+        [
+            'EXE',
+            'XCX',
+            'EXE'
+        ], {
+        E: 'the_vault:vault_diamond',
+        X: 'the_vault:vault_essence_1',
+        C: 'botania:rune_summer'
+    })
 
 })

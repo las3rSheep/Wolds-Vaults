@@ -442,7 +442,7 @@ hash = "6a6ca8a9f1587a69e2e7ef56f9e9a8d0ebfcb31d5ae8b1a96fe3a93ee19fe6b3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "60960cc19f12a51085f5e16ba4cf288c4d25ac3024e232b0139487cad950acef"
+hash = "0abb8cb471e69a3697d623fc0954f79d28a6fccf2775c5418a4bbda1e8bbbc67"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -718,15 +718,15 @@ hash = "501f293cef127055da3fce5060cb7a96efe5b05ccab6da34ece0dd6887a37b34"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "0bbd2ffbdad46e7e426fb04a418d16ae9ef23d0f41f80c6c957605fc64a8627d"
+hash = "e5f6ce809eae7154634556992d3630f54eace4a74ade0de2767fd659d15cd446"
 
 [[files]]
 file = "config/defaultsettings/Default/options.justenoughkeys.txt"
-hash = "de098bcd80909a28da28ab8c3deeeaa96e2d702f499f37acf81ea447a2c3f333"
+hash = "8e7e6f58ad87444073ee0ef556721d940fa4775ab3c5ba5973038ebcf8cf4452"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "92803726a43fc8691c3abc40ffb2e42afb0db84f1ddf46dc8b9ab2b39651b14e"
+hash = "d6b8b9d97b12d4ae21304a99070fa02d3af051a942a410fbcc22c766da82d2b0"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
@@ -1698,7 +1698,7 @@ hash = "4918984dfbce7e4310feeb3f2d303f621e38e1990d9f44bceada39808363eccf"
 
 [[files]]
 file = "config/the_vault/ascension_forge.json"
-hash = "95aa231ae0163aceeac63c1dfb01843f9427477421fe7427d4a4e018026de25c"
+hash = "d6c23a82a23be7c11ecb20b3bbb647484d01dea44168c9d43c6e461e3587ffa3"
 
 [[files]]
 file = "config/the_vault/augment.json"
@@ -1962,7 +1962,7 @@ hash = "c407012b10260913c5a5b471c736b5352b59a98c3b9600cee216a7248fa9a0ae"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "2c8e09657f00e87cdcc7e31530bb37434a4c9739778572f994ab119da600b5fb"
+hash = "3d177f080ab3d5de29c9076c22362f5ca2c397d1065d17bc59b4b57b627c5f1f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -2158,11 +2158,11 @@ hash = "506fa8e3718e1f76acc232478db594f88bbfa947e68d75d886485163ed8d0030"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl0.json"
-hash = "c3816d421b96fa352895cf5806ae849fb342f822d99a63388408a5898535de86"
+hash = "6511ccdcdeb83424dccf156813ceb20f5c9b113f1efe5e610f23bbe79a573df1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl20.json"
-hash = "624227871eecf1e02db8d87e6ec0c21918e4edce9e59d6b3301e233ace261218"
+hash = "96e3efecafa0d9e978a657547d568cddb9976d33675212a0458749200352d6fe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl0.json"
@@ -2290,11 +2290,11 @@ hash = "368bac916c2eeb5ab05b1b204442185fd7661a460616c4677df11380980e4b2e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl20.json"
-hash = "893bcd203e69198020444e5aef0151139196e85507853041fe39a11e91b5147b"
+hash = "5bc8a185c3dd495282a5618a0f34533d24b4bbb6ea394a89c15438416d27fec0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl50.json"
-hash = "893bcd203e69198020444e5aef0151139196e85507853041fe39a11e91b5147b"
+hash = "38d6837913d5006d7584759a0749e4ee8851f3fa0be2320e90878b3db9d48c7b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0.json"
@@ -11594,7 +11594,7 @@ hash = "d85bedaea64b531105b27f7a0643ba47039bc3584e44c7eb838292e8bd4f011e"
 
 [[files]]
 file = "config/the_vault/player_titles.json"
-hash = "556aa30fb98c04b26d9492d8f4033dead18cada40c0ab1cea03e9977d3990fc5"
+hash = "9a1cb8a4274339622ec15004fe96300e105829b6d902c38db21d313aa4c762d9"
 
 [[files]]
 file = "config/the_vault/points_reset.json"
@@ -16453,6 +16453,10 @@ file = "kubejs/assets/the_vault/textures/gui/modifiers/soul_shard_increase_yello
 hash = "b2dd7ed9697d900c4b9ec02f509019f8594f0a42f2fbc2a03b367c32fa7f3d43"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/modifiers/spooky.png"
+hash = "703c3d3dde253d7206b42d5f43cb1807f33e5192c779d01cf158d2e9c10d40c2"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/modifiers/tired.png"
 hash = "6b45acbff24987a5161d75bd92a6cba999e3185e8433ca7defe0addca21bb61a"
 
@@ -17027,6 +17031,10 @@ hash = "2c4c901cebff6985b6aeb22cce8abacf64f5da3b8e1b00200ffeed35d499f513"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/scannable.png"
 hash = "073f8db57deb0ef19f0471670f4eade0d0f53812d9c379b8a5d26cf25697620e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/sfm.png"
+hash = "e3c3937793cf486db24cf00055591aafde6333d797887285335418d5303b404f"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/simple_storage_network.png"
@@ -21617,6 +21625,10 @@ file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/void_dimensi
 hash = "7417f4d9837b1736742d54fedb6ad5d461ec649c8d285bfe6164dba7b83c21f9"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_spirits.json"
+hash = "64bdf4b747859f7b22291ea724fc63d9379b0dce5dd1b4afd8ade9a82b376a1d"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_unhinged.json"
 hash = "cfc67ecfaf813328b306cd6121214a31adde42175297e5fd1acbaa3fff4a8d09"
 
@@ -21970,7 +21982,7 @@ hash = "0fec2dc16964c4c825cfe39dbcd9bf180da4dd96db4cc99c94ab2577418a4374"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/boosters/recipes.js"
-hash = "0b2643b3975f28be327c95dc3c6efadad82d837fc921080190bae0bd9b0b398b"
+hash = "738b6bf3c505480f2367a2b383689021d901953635731a180b1b1b8f6a7cffaa"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/botania/recipes.js"
@@ -22070,11 +22082,11 @@ hash = "fcb22be40e8da7b67f0b86e4d323759bb79fe99d2dd5db85de774a52dee0e1ab"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
-hash = "fa2d72a7208d1ebec9c2afbd08e0d2076a5ff70f663f692260e8c77b08f6e994"
+hash = "649297887a0a81cad00f4c2153a98adeb5f2a178a6ee421ffdc66a02f95e70fd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "2c181a5ed2e842a76d99faa6d10639f1884574d61f6616c4b8bfc9901bde0ec7"
+hash = "49d45e463ce788b98ca71b85ee4e69b69edc715efa40115a36b5af59eec034a1"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/recipes.js"
@@ -23719,7 +23731,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "ef2092d6d155a7bee007fbe4fa1f4348c78cd69f15a6d7c617bf6d6ca3f79027"
+hash = "98730c6bfabd017f5937c189a6287cd50df2045b6ab39b76e7e2d8fc2f243475"
 metafile = true
 
 [[files]]
@@ -24120,8 +24132,56 @@ file = "patchouli_data.json"
 hash = "a772633a521065d83566b1f36cc0426fcbeabd5f6ebedbcf3b8f34a83e78e140"
 
 [[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/alfheim_market.json"
+hash = "08f48fab6869433503c8b4325c193a0bb72be20c58094c3a5c000facfb762ca3"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/industrial_agglomeration_factory.json"
+hash = "21b7d37ad2febb892604ab2ec7e7838e0c6739f5e3048cc1d4380317f8765037"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/mechanical_apothecary.json"
+hash = "e719de40d156643b6aa612ba02657d2f479ad556621071ba2577bc97166878a2"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/mechanical_brewery.json"
+hash = "43173ef6c80b3fe4245fa649aba0da145f3ba359ee3e82707b409d84273af11a"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/mechanical_daisy.json"
+hash = "54c519e4be7f3057f2430790c8547461643463e819a5c064b9d9e3e54d4abf38"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/mechanical_mana_pool.json"
+hash = "8928055367f4efdf9dc0d6f1ec3d7610965a8ba71651618940dc7f33e985861c"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/mechanical_runic_altar.json"
+hash = "ec58d93a98f303234b4c31f6ddc98c87b41d60e492d7dc23fdfe225afac44709"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/textures/block/mana_battery_front.png"
+hash = "276b43e2b55c444c27763abc673a728f70094414c08278aa3b9578e93599146a"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/textures/block/mana_battery_side.png"
+hash = "e0e8e18a5df8f3bc913555bd625d2dc19031cea8f47a5ba7ace3d9b3cbdf22c8"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/textures/block/mana_battery_top.png"
+hash = "6b64871c02ac77765bdf4a4b4adfcbf1557c6642bb4c395876e5ce729fbe477a"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/pack.mcmeta"
+hash = "c73628e279cee2729be1a409fa4940b4a88246fa260e0e605b37ca0cfe85c420"
+
+[[files]]
+file = "resourcepacks/Wold's Vaults Personal Touches/pack.png"
+hash = "7cffec9c760068c14eb138c08b2394fd938983074389c53592e5164854a42be2"
+
+[[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "c1e3f0fa2efdbd24e8f52de0532334ac1f3127c81a781bd7771bf4359a0ec7f0"
+hash = "b0db212db735a5b4c4bf4043d41a34f72cc18e5eb47aad1336783e1a98b9c803"
 
 [[files]]
 file = "scripts/Backpacks.zs"

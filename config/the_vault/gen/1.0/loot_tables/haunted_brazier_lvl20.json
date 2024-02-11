@@ -22,6 +22,17 @@
               }
             },
             {
+              "weight": 24,
+              "item": {
+                "id": "the_vault:soul_shard",
+                "count": {
+                  "type": "uniform",
+                  "min": 8,
+                  "max": 40
+                }
+              }
+            },
+            {
               "weight": 20,
               "item": {
                 "id": "the_vault:vault_meat",

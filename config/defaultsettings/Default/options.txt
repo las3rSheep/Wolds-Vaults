@@ -2,6 +2,8 @@ version:2975
 doVanillaPotionDamageEffects:false
 hunter_CustomColorsEnabled:false
 abilityScrollingEnabled:true
+showPointMessages:true
+showRarityNames:false
 off:off
 hunter_base:BASE,0.8901961,0.5529412,0.0
 hunter_observer:OBSERVER,0.14509805,0.6745098,0.0
@@ -46,11 +48,11 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","contenttweaker:user/client_resources","packmenu","quark:emote_resources","resources/VHBook.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Quark Programmer Art.zip","contenttweaker:user/client_resources","file/Wold\u0027s Vaults Personal Touches"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
-lastServer:localhost
+lastServer:192.168.0.181:25566
 lang:en_us
-soundDevice:sink-sunshine-stereo
+soundDevice:Starship/Matisse HD Audio Controller Analog Stereo
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -84,7 +86,7 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.102649
+soundCategory_master:0.5331126
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

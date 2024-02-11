@@ -33,6 +33,17 @@
               }
             },
             {
+              "weight": 24,
+              "item": {
+                "id": "the_vault:soul_shard",
+                "count": {
+                  "type": "uniform",
+                  "min": 16,
+                  "max": 64
+                }
+              }
+            },
+            {
               "weight": 8,
               "item": {
                 "id": "the_vault:eternal_soul",
