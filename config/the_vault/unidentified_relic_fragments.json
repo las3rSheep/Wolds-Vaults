@@ -2,7 +2,7 @@
   "extraTickPerRelicDiscovered": 1200,
   "fragments": [
     {
-      "value": "the_vault:relic/cupcake/frag2",
+      "value": "the_vault:relic/cupcake/frag1",
       "weight": 2
     },
     {
@@ -22,7 +22,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/elemental/frag2",
+      "value": "the_vault:relic/elemental/frag1",
       "weight": 2
     },
     {
@@ -42,7 +42,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/miner/frag2",
+      "value": "the_vault:relic/miner/frag1",
       "weight": 2
     },
     {
@@ -62,7 +62,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/nazar/frag2",
+      "value": "the_vault:relic/nazar/frag1",
       "weight": 2
     },
     {
@@ -82,7 +82,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/twitch/frag2",
+      "value": "the_vault:relic/twitch/frag1",
       "weight": 2
     },
     {
@@ -102,7 +102,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/warrior/frag2",
+      "value": "the_vault:relic/warrior/frag1",
       "weight": 2
     },
     {
@@ -122,7 +122,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/dragon/frag2",
+      "value": "the_vault:relic/dragon/frag1",
       "weight": 2
     },
     {
@@ -142,7 +142,7 @@
       "weight": 2
     },
     {
-      "value": "the_vault:relic/richity/frag2",
+      "value": "the_vault:relic/richity/frag1",
       "weight": 2
     },
     {

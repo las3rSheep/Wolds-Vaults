@@ -382,7 +382,7 @@ hash = "c69177c87ea6f85cd9d3b4a9372cbcd6b389dae4ea7377e370a23626dddc1c8d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0abb8cb471e69a3697d623fc0954f79d28a6fccf2775c5418a4bbda1e8bbbc67"
+hash = "08a9752835f3e67f6b3d20b57d485ffabafa3d44827aed2c0c9b8fdc9ad702df"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -2158,7 +2158,7 @@ hash = "16bcf800726efb2c53e131cc506c217c7229ab855f8b97827811915af37a8b21"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "d332658de1fb4eee6e9cdc8860d5014bf6c44a5d1f6f25c5b0f2c52b1ae7e754"
+hash = "b4f3e436cb9169b4e82936ca796daf1dbefdc6a47afffbeadee8e6c6211ba79e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -11266,7 +11266,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "6f78960b74bc0c4dcd6234b9f717745f568aeff7433aeb9082c2ae857fc59aff"
+hash = "6860e55347858c9ec89496dfbf7de172f8a6fa9066d16582d8daa67996031a4c"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -19738,7 +19738,7 @@ hash = "e4b0dc8915da6c287a576e4ffc5e64ef95b36eb62ab690deae81ac6f6ea3653c"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "52099cb42575a883923f4d03b839cd70773b0d7a14d21b6641bbc3a79b5e5a1c"
+hash = "70510d4b16416aa8bd20f8b684e3cde7ac8614bbf0bd4c0d2d0ff7649a244038"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -22916,7 +22916,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "ac15396131b1b687f101d279303658c9b1a2f5e5e24e0621f20646640c5db293"
+hash = "2d865a86d8526ce3dd153f57ba82ec374fa375494b9972ff4e6cf9d360d567c7"
 metafile = true
 
 [[files]]
