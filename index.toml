@@ -21630,6 +21630,11 @@ hash = "d8f0f75951f5dbcdb0248a7862bec0810125f6b23e9551a4d8e3e56f9a6dde27"
 metafile = true
 
 [[files]]
+file = "mods/configurable-cane.pw.toml"
+hash = "dcb6b4e3471ddc21a54968bdb4ddd4b4afb9d100689c8e6dc06d7ca10f74317a"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
