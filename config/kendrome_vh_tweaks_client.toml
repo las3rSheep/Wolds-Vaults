@@ -9,7 +9,7 @@
 	"Enable gear comparison tooltips" = true
 	#Require key to show (None for always show)
 	#Allowed Values: None, Shift, Alt, Ctrl
-	"Gear Comparison tooltips key" = "None"
+	"Gear Comparison tooltips key" = "Shift"
 	#Show inscription relative tooltips
 	"Enable inscription relative tooltips" = true
 	#Require key to show (None for always show)

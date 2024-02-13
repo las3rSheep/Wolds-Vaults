@@ -91,9 +91,9 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         R: 'the_vault:echo_pog',
-        X: 'the_vault:extraordinary_larimar',
+        X: 'the_vault:extraordinary_black_opal',
         G: 'the_vault:black_chromatic_steel_block',
-        B: 'minecraft:stone'
+        B: 'the_vault:wold_star_chunk'
     })
 
     event.shaped(Item.of('scannable:common_ores_module'),

@@ -36,6 +36,10 @@ onEvent('jei.hide.items', event => {
     event.hide(/mysticalagriculture:.*_hoe/)
     event.hide(/mysticalagriculture:.*_bow/)
     event.hide(/mysticalagriculture:.*_crossbow/)
+    event.hide(/ae2additions:.*component.*/)
+    event.hide(/ae2additions:.*disk.*/)
+    event.hide(/ae2additions:.*storage.*/)
+    event.hide(/ae2additions:.*cell.*/)
 })
 
 onEvent('jei.add.items', event => {

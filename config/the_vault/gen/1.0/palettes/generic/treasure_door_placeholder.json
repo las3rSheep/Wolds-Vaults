@@ -16,7 +16,7 @@
         },
         {
           "level": 20,
-          "probability": 1.0,
+          "probability": 0.15,
           "success": {
             "the_vault:vendor_door": 1
           },

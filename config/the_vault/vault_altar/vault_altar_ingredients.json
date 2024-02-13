@@ -1447,7 +1447,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
+          "weight": 12
         },
         {
           "value": {
@@ -4359,7 +4359,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -5916,7 +5916,7 @@
             },
             "scale": 0.6
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -5931,7 +5931,7 @@
             },
             "scale": 0.6
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -5946,7 +5946,7 @@
             },
             "scale": 0.5
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -5961,7 +5961,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -5976,7 +5976,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -5991,7 +5991,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -7932,7 +7932,7 @@
             },
             "scale": 0.2
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -7947,7 +7947,7 @@
             },
             "scale": 0.2
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -7962,7 +7962,7 @@
             },
             "scale": 0.2
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -9001,7 +9001,7 @@
             },
             "scale": 0.6
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -9016,7 +9016,7 @@
             },
             "scale": 0.6
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -9031,7 +9031,7 @@
             },
             "scale": 0.5
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -9046,7 +9046,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -9061,7 +9061,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -11002,7 +11002,7 @@
             },
             "scale": 1.0
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -11017,7 +11017,7 @@
             },
             "scale": 0.2
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -11032,7 +11032,7 @@
             },
             "scale": 0.2
           },
-          "weight": 2
+          "weight": 3
         },
         {
           "value": {
@@ -12056,7 +12056,7 @@
             },
             "scale": 0.6
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -12071,7 +12071,7 @@
             },
             "scale": 0.6
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -12086,7 +12086,7 @@
             },
             "scale": 0.5
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -12101,7 +12101,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -12116,7 +12116,7 @@
             },
             "scale": 0.65
           },
-          "weight": 4
+          "weight": 8
         },
         {
           "value": {
@@ -12146,7 +12146,7 @@
             },
             "scale": 0.6
           },
-          "weight": 2
+          "weight": 6
         },
         {
           "value": {
@@ -12239,7 +12239,7 @@
             },
             "scale": 0.5
           },
-          "weight": 4
+          "weight": 6
         },
         {
           "value": {
@@ -12269,7 +12269,7 @@
             },
             "scale": 0.6
           },
-          "weight": 3
+          "weight": 6
         },
         {
           "value": {
@@ -12347,7 +12347,7 @@
             },
             "scale": 0.7
           },
-          "weight": 4
+          "weight": 6
         },
         {
           "value": {

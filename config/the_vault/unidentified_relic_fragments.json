@@ -1,11 +1,8 @@
 {
-
   "extraTickPerRelicDiscovered": 1200,
-  
   "fragments": [
-
     {
-      "value": "the_vault:relic/cupcake/frag1",
+      "value": "the_vault:relic/cupcake/frag2",
       "weight": 2
     },
     {
@@ -22,12 +19,10 @@
     },
     {
       "value": "the_vault:relic/cupcake/frag5",
-      "weight": 1
+      "weight": 2
     },
-
-
     {
-      "value": "the_vault:relic/elemental/frag1",
+      "value": "the_vault:relic/elemental/frag2",
       "weight": 2
     },
     {
@@ -44,12 +39,10 @@
     },
     {
       "value": "the_vault:relic/elemental/frag5",
-      "weight": 1
+      "weight": 2
     },
-    
-
     {
-      "value": "the_vault:relic/miner/frag1",
+      "value": "the_vault:relic/miner/frag2",
       "weight": 2
     },
     {
@@ -66,12 +59,10 @@
     },
     {
       "value": "the_vault:relic/miner/frag5",
-      "weight": 1
+      "weight": 2
     },
-
-
     {
-      "value": "the_vault:relic/nazar/frag1",
+      "value": "the_vault:relic/nazar/frag2",
       "weight": 2
     },
     {
@@ -88,12 +79,10 @@
     },
     {
       "value": "the_vault:relic/nazar/frag5",
-      "weight": 1
+      "weight": 2
     },
-
-
     {
-      "value": "the_vault:relic/twitch/frag1",
+      "value": "the_vault:relic/twitch/frag2",
       "weight": 2
     },
     {
@@ -110,12 +99,10 @@
     },
     {
       "value": "the_vault:relic/twitch/frag5",
-      "weight": 1
+      "weight": 2
     },
-
-
     {
-      "value": "the_vault:relic/warrior/frag1",
+      "value": "the_vault:relic/warrior/frag2",
       "weight": 2
     },
     {
@@ -132,12 +119,10 @@
     },
     {
       "value": "the_vault:relic/warrior/frag5",
-      "weight": 1
+      "weight": 2
     },
-    
-
     {
-      "value": "the_vault:relic/dragon/frag1",
+      "value": "the_vault:relic/dragon/frag2",
       "weight": 2
     },
     {
@@ -154,12 +139,10 @@
     },
     {
       "value": "the_vault:relic/dragon/frag5",
-      "weight": 1
+      "weight": 2
     },
-
-
     {
-      "value": "the_vault:relic/richity/frag1",
+      "value": "the_vault:relic/richity/frag2",
       "weight": 2
     },
     {
@@ -176,9 +159,7 @@
     },
     {
       "value": "the_vault:relic/richity/frag5",
-      "weight": 1
+      "weight": 2
     }
-
   ]
-
 }

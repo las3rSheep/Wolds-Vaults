@@ -410,6 +410,9 @@
       },
       {
         "text": " mod!\n\nThese pots can automate any crop in the game very easily by growing them in tiny pots."
+      },
+      {
+        "text": "\n\nIn this pack, you will also be able to upgrade the Botany Pots to enhanced tiers that have a greater output and speed."
       }
     ],
     "Vault Compass": [
@@ -1269,6 +1272,9 @@
       },
       {
         "text": "mod!\n\nThis mod can store multiple (thousands) of stacks of one item in one block, and drawers can be chained together to create an array of storage."
+      },
+      {
+        "text": "\n\nIn this pack, you also get Fluid Drawers that work very simialar to the normal drawers but for fluids!"
       },
       {
         "text": "\n\nAdds rewards to "
@@ -13421,7 +13427,7 @@
         "color": "#FFEB07"
       },
       {
-        "text": " to have the altar roll Lucky when crafting a crystal, lowering the cost of the crystal by 90%\n\n1 "
+        "text": " to have the altar roll Lucky when crafting a crystal, lowering the cost of the crystal by 100%\n\n1 "
       },
       {
         "text": "10%",

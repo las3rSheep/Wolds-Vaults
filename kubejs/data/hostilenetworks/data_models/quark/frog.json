@@ -24,6 +24,18 @@
     {
       "item": "quark:frog_leg",
       "count": 8
+    },
+    {
+      "item": "wildbackport:ochre_froglight",
+      "count": 8
+    },
+    {
+      "item": "wildbackport:verdant_froglight",
+      "count": 8
+    },
+    {
+      "item": "wildbackport:pearlescent_froglight",
+      "count": 8
     }
   ]
 }

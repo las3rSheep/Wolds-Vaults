@@ -154,14 +154,14 @@
       },
       "the_vault:exorcising": {
         "properties": {
-          "chance": 0.15
+          "chance": 0.4
         },
         "display": {
           "name": "Exorcising",
           "color": "#6410A1",
-          "description": "+15% Soul Shard Drop Rate",
+          "description": "+40% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
-          "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow"
+          "icon": "the_vault:gui/modifiers/soul_shard_increase_pink"
         }
       },
       "the_vault:soul_boost": {

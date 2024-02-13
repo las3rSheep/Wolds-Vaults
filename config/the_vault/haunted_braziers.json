@@ -9,7 +9,7 @@
     {
       "level": 20,
       "stackModifierPool": "the_vault:haunted_brazier",
-      "overStackModifierPool": "the_vault:brazier_pillage",
+      "overStackModifierPool": "the_vault:haunted_brazier_pillage",
       "overStackLootTable": "the_vault:haunted_brazier_lvl20"
     },
     {

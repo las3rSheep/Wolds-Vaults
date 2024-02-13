@@ -83,12 +83,13 @@ onEvent("recipes", event => {
     event.shaped(Item.of('mysticalagriculture:prosperity_shard'),
         [
             'EXE',
-            'XVX',
+            'BVB',
             'EXE'
         ], {
         V: 'the_vault:extraordinary_larimar',
         X: 'botania:mana_diamond',
-        E: 'the_vault:magic_silk_block'
+        E: 'the_vault:magic_silk_block',
+        B: 'the_vault:perfect_benitoite'
     })
 
     event.shaped(Item.of('mysticalagriculture:inferium_gemstone'),
@@ -422,13 +423,14 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('mysticalagriculture:soulium_dust'),
         [
-            'EXE',
+            'EPE',
             'XVX',
-            'EXE'
+            'EPE'
         ], {
         V: 'the_vault:vault_essence',
         X: 'the_vault:eternal_soul',
-        E: 'the_vault:vault_meat_block'
+        E: 'the_vault:vault_meat_block',
+        P: 'the_vault:perfect_painite'
     })
 
     event.shaped(Item.of('mysticalagriculture:soulium_seed_base'),

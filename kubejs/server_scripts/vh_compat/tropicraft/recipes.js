@@ -1,4 +1,9 @@
 let removedOutputsTC = [
+    'tropicraft:bamboo_sign',
+    'tropicraft:mahogany_sign',
+    'tropicraft:thatch_sign',
+    'tropicraft:mangrove_sign',
+    'tropicraft:palm_sign'
 ];
 onEvent("recipes", event => {
     removedOutputsTC.forEach(id => {

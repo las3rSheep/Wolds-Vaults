@@ -1,4 +1,5 @@
 onEvent("recipes", event => {
+    event.remove({ output: 'the_vault:angel_block' })
 
     event.shaped(Item.of('the_vault:crystal_budding'),
         [
@@ -9,6 +10,18 @@ onEvent("recipes", event => {
         C: 'the_vault:living_rock_block_cobble',
         E: 'the_vault:mystical_powder',
         A: 'minecraft:amethyst_block'
+    })
+
+    event.shaped(Item.of('the_vault:angel_block'),
+        [
+            'XBX',
+            'ECE',
+            'XBX'
+        ], {
+        C: 'the_vault:gem_pog',
+        X: 'the_vault:black_chromatic_steel_ingot',
+        B: 'the_vault:phoenix_feather',
+        E: 'the_vault:knowledge_star'
     })
 
     event.shapeless('the_vault:vault_palladium', ['9x the_vault:vault_platinum'])

@@ -710,11 +710,11 @@
             {
               "weight": 1,
               "item": {
-                "id": "the_vault:vault_palladium",
+                "id": "the_vault:vault_platinum",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 6
+                  "min": 2,
+                  "max": 4
                 }
               }
             }

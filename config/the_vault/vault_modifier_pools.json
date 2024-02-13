@@ -517,7 +517,7 @@
             "pool": [
               {
                 "value": "the_vault:low_item_quantity",
-                "weight": 4000
+                "weight": 40
               },
               {
                 "value": "the_vault:copiously",
@@ -850,11 +850,11 @@
             "pool": [
               {
                 "value": "the_vault:exorcising",
-                "weight": 60
+                "weight": 45
               },
               {
                 "value": "the_vault:haunted",
-                "weight": 2
+                "weight": 10
               },
               {
                 "value": "the_vault:soul_boost",
@@ -870,7 +870,7 @@
               },
               {
                 "value": "the_vault:soul_shards",
-                "weight": 140
+                "weight": 25
               }
             ]
           },

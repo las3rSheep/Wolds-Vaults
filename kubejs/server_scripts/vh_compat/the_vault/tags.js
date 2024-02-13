@@ -61,3 +61,7 @@ onEvent('item.tags', event => {
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_milky_eye')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_skull')
 })
+
+onEvent('block.tags', event => {
+    event.add('minecraft:mineable/pickaxe', 'the_vault:vault_salvager')
+})
