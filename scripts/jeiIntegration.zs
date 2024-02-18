@@ -798,7 +798,8 @@ mysteryEgg.addRecipe([
     lootItem("minecraft:panda_spawn_egg", 1, 1, 0.78),
     lootItem("minecraft:strider_spawn_egg", 1, 1, 0.78),
     lootItem("minecraft:turtle_spawn_egg", 1, 1, 0.78),
-    lootItem("alexsmobs:spawn_egg_flutter", 1, 1, 0.78)
+    lootItem("alexsmobs:spawn_egg_flutter", 1, 1, 0.36),
+    lootItem("quark:toretoise_spawn_egg", 1, 1, 0.36)
 ], []);
 
 JEI.addCategory(mysteryEgg);
@@ -1242,3 +1243,32 @@ gemBox.addRecipe([
 ], []);
 
 JEI.addCategory(gemBox);
+
+
+// Gem Box
+var supplyBox = JeiCategory.create<Custom>("supply_box", new TextComponent("Supply Box"), <item:the_vault:supply_box>, [<item:the_vault:supply_box>]) as Custom;
+makeJEIGrid(supplyBox, 4, 5, false);
+
+supplyBox.addRecipe([
+    lootItem("minecraft:iron_ingot", 2, 16, 5.25),
+    lootItem("minecraft:gold_ingot", 2, 16, 5.25),
+    lootItem("minecraft:diamond", 2, 16, 2.34),
+    lootItem("minecraft:emerald", 4, 20, 3.50),
+    lootItem("the_vault:carbon", 1, 10, 9.34),
+    lootItem("the_vault:magic_silk", 1, 12, 9.34),
+    lootItem("the_vault:chromatic_iron_ingot", 8, 64, 9.34),
+    lootItem("the_vault:chromatic_steel_ingot", 1, 8, 7.01),
+    lootItem("the_vault:eternal_soul", 1, 46, 7.01),
+    lootItem("the_vault:vault_diamond", 2, 8, 7.01),
+    lootItem("the_vault:vault_plating", 4, 24, 7.01),
+    lootItem("the_vault:vault_scrap", 4, 24, 4.67),
+    lootItem("the_vault:dreamstone", 2, 8, 3.50),
+    lootItem("the_vault:vault_essence", 4, 24, 5.25),
+    lootItem("the_vault:vault_ingot", 2, 12, 3.50),
+    lootItem("the_vault:magnetite", 2, 12, 2.34),
+    lootItem("the_vault:driftwood", 8, 32, 5.25),
+    lootItem("the_vault:wooden_chunk", 16, 48, 3.50),
+    lootItem("the_vault:black_chromatic_steel_ingot", 1, 2, 0.15)
+], []);
+
+JEI.addCategory(supplyBox);

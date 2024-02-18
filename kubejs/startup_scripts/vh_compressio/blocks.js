@@ -100,11 +100,14 @@ let vaultCompressed = [
     "magic_silk_block_1",
     "vault_diamond_block_1",
     "vault_essence_1",
-    "vault_essence_2"
+    "vault_essence_2",
+    "vault_plating_block_1"
 ]
 
 
 onEvent('block.registry', event => {
+    event.create('the_vault:vault_plating_block').displayName('Block of Vault Plating').tagBlock('minecraft:mineable/pickaxe')
+    event.create('the_vault:carbon_block').displayName('Block of Carbon').tagBlock('minecraft:mineable/pickaxe')
     vanillaStandardCompressed.forEach(block => {
         let splitId = block.split("_")
         var integerOfCompression = 0;

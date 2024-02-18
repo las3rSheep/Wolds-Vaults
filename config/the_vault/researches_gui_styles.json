@@ -1,5 +1,11 @@
 {
   "styles": {
+    "Entangled": {
+      "x": 60,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/entangled"
+    },
     "QuarryPlus": {
       "x": 200,
       "y": 400,

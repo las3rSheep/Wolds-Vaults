@@ -368,9 +368,9 @@
       "weight": 10,
       "name": "Miner's Headlamp",
       "effectText": "Grants night vision, +25% Copiously",
-      "color": 3304444,
-      "minCraftedUses": 20,
-      "maxCraftedUses": 30,
+      "color": 16534066,
+      "minCraftedUses": 12,
+      "maxCraftedUses": 12,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -384,8 +384,8 @@
       "name": "Running Shoes",
       "effectText": "Parkour uses no energy",
       "color": 3304444,
-      "minCraftedUses": 20,
-      "maxCraftedUses": 30,
+      "minCraftedUses": 12,
+      "maxCraftedUses": 12,
       "minUses": 20,
       "maxUses": 30,
       "config": {

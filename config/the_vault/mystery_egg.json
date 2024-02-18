@@ -215,6 +215,14 @@
         "amountMax": 1
       },
       "weight": 2
+    },
+    {
+      "value": {
+        "id": "quark:toretoise_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 2
     }
   ]
 }

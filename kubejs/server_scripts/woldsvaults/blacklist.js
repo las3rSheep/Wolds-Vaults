@@ -47,6 +47,11 @@ global.BLACK_LIST = {
 	// and usage of an item just give it 
 	// the true property like below:
 	'tropicraft:bamboo_sign': true,
+	'tropicraft:palm_sign': true,
+	'tropicraft:mangrove_sign': true,
+	'tropicraft:thatch_sign': true,
+	'tropicraft:mahogany_sign': true,
+	'botania:odin_ring': true,
 
 
 

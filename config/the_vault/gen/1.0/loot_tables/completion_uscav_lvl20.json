@@ -1122,6 +1122,16 @@
                   "max": 1
                 }
               }
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 2,
+                "maxCount": 4
+              },
+              "weight": 12
             }
           ]
         }

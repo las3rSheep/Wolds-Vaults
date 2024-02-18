@@ -17,7 +17,7 @@ onEvent("recipes", event => {
         X: 'the_vault:gem_pog',
         E: 'create:andesite_casing'
     })
-
+    event.recipes.createMechanicalExtruderExtruding(Item.of('minecraft:obsidian'), [Fluid.of('minecraft:lava'), Fluid.of('minecraft:water')]).withCatalyst('quark:blaze_lantern')
     event.recipes.createMechanicalExtruderExtruding(Item.of('the_vault:vault_stone'), [Fluid.of('the_vault:void_liquid'), Fluid.of('minecraft:lava')])
     event.recipes.createMechanicalExtruderExtruding(Item.of('minecraft:deepslate'), [Fluid.of('minecraft:lava'), Item.of('minecraft:packed_ice')]).withCatalyst('minecraft:magma_block')
     event.recipes.createMechanicalExtruderExtruding(Item.of('create:crimsite'), [Fluid.of('minecraft:lava'), Fluid.of('minecraft:water')]).withCatalyst('minecraft:redstone_block')

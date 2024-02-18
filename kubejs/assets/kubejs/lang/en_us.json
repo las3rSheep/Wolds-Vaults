@@ -133,5 +133,6 @@
 	"block.contenttweaker.vault_essence_block": "Vault Essence Block",
 	"block.contenttweaker.vault_essence_block1": "Compressed Vault Essence Block (x1)",
 	"item.the_vault.trident": "Vault Trident",
-	"item.the_vault.battlestaff": "Vault Battlestaff"
+	"item.the_vault.battlestaff": "Vault Battlestaff",
+	"curios.identifier.wireless_terminal": "Wireless Terminal"
 }

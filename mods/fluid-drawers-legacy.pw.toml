@@ -1,13 +1,13 @@
 name = "Fluid Drawers Legacy"
-filename = "FluidDrawersLegacy-1.18.2-forge-2.3.7-hotfix.jar"
+filename = "FluidDrawersLegacy-1.18.2-forge-2.3.6-hotfix.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fefcf631ae9fdab44f86eeb1e89a759d36b92706"
+hash = "3d180b5c83c5ad90aef5975b23bc54e606c8aa8c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5102044
+file-id = 4415469
 project-id = 597669

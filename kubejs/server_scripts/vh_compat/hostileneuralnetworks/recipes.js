@@ -44,13 +44,15 @@ onEvent("recipes", event => {
 
     let thermalMobTypes = ['blizz', 'blitz', 'basalz']
 
-    let quarkMobTypes = ['wraith', 'frog']
+    let quarkMobTypes = ['wraith', 'frog', 'toretoise']
 
     let cloudStorageMobTypes = ['bloviator', 'badloon']
 
     let cageriumMobTypes = ['wither', 'ender_dragon', 'iron_golem']
 
     let tropicraftMobTypes = ['iguana']
+
+    let alexsMobsTypes = ['flutter']
 
     // event.shaped(Item.of('hostilenetworks:deep_learner'),
     //     [
@@ -379,6 +381,54 @@ onEvent("recipes", event => {
             M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:tropicraft/${mob}"}}`)
         })
     })
+
+
+    alexsMobsTypes.forEach(mob => {
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:alexsmobs/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `alexsmobs:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:alexsmobs/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:alexsmobs/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `alexsmobs:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:alexsmobs/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:alexsmobs/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `alexsmobs:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:alexsmobs/${mob}"}}`)
+        })
+
+        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:alexsmobs/${mob}"}}`),
+            [
+                ' E ',
+                'ZMZ',
+                ' Z '
+            ], {
+            Z: 'the_vault:vault_essence',
+            E: `alexsmobs:spawn_egg_${mob}`,
+            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:alexsmobs/${mob}"}}`)
+        })
+    })
+
 
 
 

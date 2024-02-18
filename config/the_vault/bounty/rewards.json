@@ -3580,6 +3580,16 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 30
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:vault_silver"
                 },
                 "minCount": 16,
@@ -3945,6 +3955,16 @@
                 "maxCount": 2
               },
               "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 30
             },
             {
               "value": {
@@ -4374,6 +4394,16 @@
                 "maxCount": 1
               },
               "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 30
             },
             {
               "value": {
@@ -4873,6 +4903,16 @@
                 "maxCount": 8
               },
               "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 30
             },
             {
               "value": {
@@ -5691,6 +5731,16 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:fundamental_focus"
                 },
                 "minCount": 1,
@@ -5927,6 +5977,16 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 4
+              },
+              "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:fundamental_focus"
                 },
                 "minCount": 1,
@@ -6159,6 +6219,16 @@
                 "maxCount": 16
               },
               "weight": 100
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 5
+              },
+              "weight": 40
             },
             {
               "value": {

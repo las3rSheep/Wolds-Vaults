@@ -329,6 +329,16 @@
                   "count": 1
                 }
               }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:supply_box",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
             }
           ]
         }

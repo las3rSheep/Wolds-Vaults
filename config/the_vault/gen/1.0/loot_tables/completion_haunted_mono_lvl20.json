@@ -469,6 +469,16 @@
               }
             },
             {
+              "value": {
+                "stack": {
+                  "item": "the_vault:supply_box"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 12
+            },
+            {
               "weight": 16,
               "item": {
                 "id": "the_vault:mystical_powder",

@@ -125,6 +125,12 @@ onEvent("recipes", event => {
         event.shapeless(`9x minecraft:${ingredient_id.slice(0, -1)}`, `minecraft:${id}`)
     })
 
+    event.shapeless('the_vault:vault_plating_block', ['9x the_vault:vault_plating'])
+    event.shapeless('the_vault:carbon_block', ['9x the_vault:carbon'])
+
+    event.shapeless('9x the_vault:vault_plating', ['the_vault:vault_plating_block'])
+    event.shapeless('9x the_vault:carbon', ['the_vault:carbon_block'])
+
     vaultCompressed.forEach(id => {
 
         let splitId = id.split('_')
