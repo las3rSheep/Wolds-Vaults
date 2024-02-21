@@ -11054,7 +11054,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "830cd7dbb7af5ddf40d494917ce92fdd33663733fe5d9b28c1079e234370de4f"
+hash = "3c4170463eabb92df3f3813ede0506ea0f62626d67c301d0fdfe934c690b0fd2"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -19494,7 +19494,7 @@ hash = "e4b0dc8915da6c287a576e4ffc5e64ef95b36eb62ab690deae81ac6f6ea3653c"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "b4fa6e323a346499b548a9925e3f387ec36bfb8c884c5c7440240e710575299a"
+hash = "15456e17ecaa62fa853d395b1607229fa1ae3c868a093e1b68cdedd979b7ceb1"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -21046,7 +21046,7 @@ hash = "0f574b01900f2379ef73cd403563462888a616f53a96aa6d55c7626dda68e093"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
-hash = "34ab52a8533aa34061d2d9cf7b2f7550c9e9a211a5b6af3874641d4d459f29c7"
+hash = "239a2b6b8e01523ddf4e99d18d691f984122c1a992cc4e23717a9756cd44b52d"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
@@ -23356,7 +23356,7 @@ hash = "0ef4735dc21b0ee1155ab77d8a2ca16d5179124efa8dc0e98cc700f8ae4031fd"
 
 [[files]]
 file = "scripts/extraTags.zs"
-hash = "f05398facf3681b875702c7519a53aaba16dbf67d953205d429e5728924e3b59"
+hash = "710d0fefd4530231755d0249f5f34b45b010d1f43f49688fe2f3d5f50917da1f"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"

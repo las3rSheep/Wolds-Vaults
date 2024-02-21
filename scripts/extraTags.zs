@@ -152,8 +152,8 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:wand>);
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:focus>);
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:magnet>);
-<tag:items:the_vault:seals>.add(<item:the_vault:trident>);
-<tag:items:the_vault:seals>.add(<item:the_vault:battlestaff>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:battlestaff>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:trident>);
 
 // Wooden Chest Loot
 <tag:items:the_vault:wooden_chest_loot>.add(<item:minecraft:shulker_shell>);
@@ -193,6 +193,7 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:burger_lettuce>);
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:burger_pickles>);
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:burger_sauce>);
+<tag:items:the_vault:living_chest_loot>.add(<item:the_vault:burger_chili>);
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:small_charm>);
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:large_charm>);
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:grand_charm>);
@@ -226,6 +227,8 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:shield>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:magnet>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:wand>);
+<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:battlestaff>);
+<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trident>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:focus>);
 //<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trinket>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:repair_core>);
