@@ -21,8 +21,31 @@ onEvent('recipes', event => {
         ], {
         G: 'minecraft:soul_campfire',
         X: 'the_vault:eternal_soul',
-        R: 'the_vault:crystal_seal_hunter',
+        R: 'the_vault:crystal_seal_scout',
         B: 'the_vault:extraordinary_wutodie'
+    })
+
+    event.shaped(Item.of('the_vault:crystal_seal_enchanter'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:enchanting_table',
+        X: 'the_vault:vault_essence_1',
+        R: 'the_vault:crystal_seal_sage',
+        B: 'the_vault:extraordinary_alexandrite'
+    })
+
+    event.shaped(Item.of('the_vault:augment_box'),
+        [
+            'GXG',
+            'XRX',
+            'GXG'
+        ], {
+        G: 'the_vault:gem_larimar',
+        R: 'the_vault:vault_essence_1',
+        X: 'the_vault:augment'
     })
 
     event.shapeless('botania:uninfused_terrasteel_ingot', ['botania:manasteel_ingot', 'botania:mana_pearl', 'botania:mana_diamond', 'the_vault:vault_essence', 'the_vault:vault_diamond', 'the_vault:chromatic_steel_ingot'])

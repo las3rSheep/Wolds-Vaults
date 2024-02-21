@@ -283,6 +283,16 @@
             {
               "weight": 1,
               "item": {
+                "id": "the_vault:crystal_seal_enchanter",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
                   "type": "constant",
@@ -354,6 +364,16 @@
               "weight": 1,
               "item": {
                 "id": "the_vault:supply_box",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:augment_box",
                 "count": {
                   "type": "constant",
                   "count": 1

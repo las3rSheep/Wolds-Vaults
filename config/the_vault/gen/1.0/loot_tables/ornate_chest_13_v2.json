@@ -1,83 +1,85 @@
 {
-    "entries": [
-      {
-        "roll": {
-          "type": "uniform",
-          "min": 9,
-          "max": 12
-        },
-        "pool": [
-          { "weight": 70,
-            "pool": [
-              {
-                  "weight": 16,
-                  "item": {
-                  "id": "minecraft:chain",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 2
-                    }
-                  }
-              },
-              {
-                  "weight": 12,
-                  "item": {
-                  "id": "architects_palette:sunmetal_brick",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 2
-                    }
-                  }
-              },
-              {
-                "weight": 16,
-                "item": {
+  "entries": [
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 9,
+        "max": 12
+      },
+      "pool": [
+        {
+          "weight": 70,
+          "pool": [
+            {
+              "weight": 16,
+              "item": {
+                "id": "minecraft:chain",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "architects_palette:sunmetal_brick",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
                 "id": "minecraft:iron_nugget",
                 "count": {
                   "type": "uniform",
                   "min": 2,
                   "max": 4
-                  }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "minecraft:iron_ingot",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 2
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:chromatic_iron_nugget",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 3
-                    }
-                }
-              },
-              {
-                "weight": 14,
-                "item": {
-                  "id": "the_vault:carbon_nugget",
-                  "count": {
-                    "type": "uniform",
-                    "min": 2,
-                    "max": 8
-                    }
                 }
               }
-            ]
-          },
-          { "weight": 20,
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "minecraft:iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chromatic_iron_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            },
+            {
+              "weight": 14,
+              "item": {
+                "id": "the_vault:carbon_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 8
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 20,
           "pool": [
             {
               "weight": 16,
@@ -87,7 +89,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
               }
             },
             {
@@ -98,7 +100,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
               }
             },
             {
@@ -109,7 +111,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
               }
             },
             {
@@ -120,7 +122,7 @@
                   "type": "uniform",
                   "min": 2,
                   "max": 8
-                  }
+                }
               }
             },
             {
@@ -131,7 +133,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
               }
             },
             {
@@ -142,23 +144,24 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-          { "weight": 8,
-            "pool": [
-              {
-                "weight": 6,
-                "item": {
-                  "id": "the_vault:vault_dust",
-                  "count": {
-                    "type": "uniform",
-                    "min": 4,
-                    "max": 16
-                    }
+        {
+          "weight": 8,
+          "pool": [
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:vault_dust",
+                "count": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
                 }
+              }
             },
             {
               "weight": 10,
@@ -168,7 +171,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -179,7 +182,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 3
-                  }
+                }
               }
             },
             {
@@ -190,164 +193,193 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
-          },
-          { "weight": 2,
-            "pool": [
-              {
-                  "weight": 88,
-                  "item": {
-                    "id": "minecraft:netherite_ingot",
-                    "count": {
-                      "type": "uniform",
-                      "min": 1,
-                      "max": 1
-                      }
-                  }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:boots",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:leggings",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:chestplate",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:helmet",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:sword",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:axe",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 8,
-                "item": {
-                  "id": "the_vault:shield",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 8,
-                "item": {
-                  "id": "the_vault:wand",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 10,
-                "item": {
-                  "id": "the_vault:magnet",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 4,
-                "item": {
-                  "id": "the_vault:ornate_chest_scroll",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
+        },
+        {
+          "weight": 2,
+          "pool": [
+            {
+              "weight": 88,
+              "item": {
+                "id": "minecraft:netherite_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:magnet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:trident",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:battlestaff",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:ornate_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

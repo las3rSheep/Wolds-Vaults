@@ -909,7 +909,7 @@
             "MIN_COST": 12,
             "MAX_COST": 24
           },
-          "weight": 20
+          "weight": 30
         },
         {
           "value": {
@@ -920,7 +920,18 @@
             "MIN_COST": 8,
             "MAX_COST": 16
           },
-          "weight": 20
+          "weight": 30
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crystal_seal_enchanter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 28
+          },
+          "weight": 40
         },
         {
           "value": {
@@ -1020,6 +1031,17 @@
             "MAX_COST": 24
           },
           "weight": 50
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:augment_box"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 32
+          },
+          "weight": 20
         }
       ]
     },
@@ -1488,6 +1510,39 @@
             "MAX_COST": 24
           },
           "weight": 50
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:augment_box"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 32
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crystal_seal_enchanter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 32
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crystal_seal_ordinator_run"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 64
+          },
+          "weight": 10
         }
       ]
     }

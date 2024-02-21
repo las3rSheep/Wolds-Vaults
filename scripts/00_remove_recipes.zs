@@ -1232,7 +1232,6 @@ JEI.hideIngredient(<item:the_vault:rune>);
 JEI.hideIngredient(<item:the_vault:cube_block>);
 JEI.hideIngredient(<item:the_vault:vault_crate_champion>);
 // JEI.hideIngredient(<item:the_vault:legendary_treasure_*>);
-JEI.hideIngredient(<item:the_vault:mystic_pear>);
 JEI.hideIngredient(<item:the_vault:rokkit_launcha>);
 JEI.hideIngredient(<item:the_vault:wild_spawner>);
 JEI.hideIngredient(<item:the_vault:pandoras_box>);

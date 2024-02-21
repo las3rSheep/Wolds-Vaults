@@ -930,7 +930,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.1,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -941,7 +941,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.2,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -952,7 +952,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.3,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -963,7 +963,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.4,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -974,7 +974,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.5,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -985,7 +985,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.6,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -996,7 +996,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.7,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
@@ -1007,7 +1007,7 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.99,
+            "healthThreshold": 0.80,
             "value": 0.8,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,

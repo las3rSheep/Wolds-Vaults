@@ -39,7 +39,12 @@ onEvent("recipes", event => {
         'vindicator',
         'witch',
         'wither_skeleton',
-        'zombified_piglin'
+        'zombified_piglin',
+        'dolphin',
+        'tropical_fish',
+        'salmon',
+        'ravager',
+        'pufferfish'
     ]
 
     let thermalMobTypes = ['blizz', 'blitz', 'basalz']

@@ -564,6 +564,18 @@
           "icon": "the_vault:gui/modifiers/poor"
         }
       },
+      "the_vault:low_item_rarity": {
+        "properties": {
+          "percentage": 0.05
+        },
+        "display": {
+          "name": "Vintage",
+          "color": "#bc8f8f",
+          "description": "+5% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/item_rarity_2"
+        }
+      },
       "the_vault:item_rarity": {
         "properties": {
           "percentage": 0.1
@@ -1661,6 +1673,19 @@
           "icon": "the_vault:gui/modifiers/rich"
         }
       },
+      "the_vault:leeching": {
+        "properties": {
+          "stat": "leech",
+          "addend": 0.05
+        },
+        "display": {
+          "name": "Blood Sucking",
+          "color": "#FF5555",
+          "description": "+5% Leech",
+          "descriptionFormatted": "+%d%% Leech",
+          "icon": "the_vault:gui/modifiers/god_token_idona"
+        }
+      },
       "the_vault:idona_favour_3": {
         "properties": {
           "stat": "leech",
@@ -2310,6 +2335,26 @@
           "icon": "the_vault:gui/modifiers/beginners_grace"
         }
       },
+      "the_vault:all_seeing_eye": {
+        "properties": {
+          "children": {
+            "the_vault:dungeon_doors": 1,
+            "the_vault:treasure_doors": 1,
+            "the_vault:coin_hunter": 1,
+            "the_vault:wooden_hunter": 1,
+            "the_vault:gilded_hunter": 1,
+            "the_vault:ornate_hunter": 1,
+            "the_vault:living_hunter": 1,
+            "the_vault:altar_hunter": 1
+          }
+        },
+        "display": {
+          "name": "All Seeing Eye",
+          "color": "#ad2b2b",
+          "description": "Grants all hunter modifiers.",
+          "icon": "the_vault:gui/modifiers/beginners_grace"
+        }
+      },
       "the_vault:unfair_mobs": {
         "properties": {
           "children": {
@@ -2548,6 +2593,108 @@
           "color": "#685086",
           "description": "Highlights Dungeon Doors in this vault",
           "icon": "the_vault:gui/modifiers/dungeon_doors"
+        }
+      },
+      "the_vault:living_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:living_chest",
+              "radius": 64.0,
+              "color": 65280
+            }
+          ]
+        },
+        "display": {
+          "name": "Living Hunter",
+          "color": "#00FF00",
+          "description": "Highlights Living Chests in this vault",
+          "icon": "the_vault:gui/modifiers/living"
+        }
+      },
+      "the_vault:coin_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:coin_pile",
+              "radius": 64.0,
+              "color": 16750592
+            }
+          ]
+        },
+        "display": {
+          "name": "Coin Hunter",
+          "color": "#FF9800",
+          "description": "Highlights Coin Piles in this vault",
+          "icon": "the_vault:gui/modifiers/wealthy"
+        }
+      },
+      "the_vault:ornate_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:ornate_chest",
+              "radius": 64.0,
+              "color": 16721408
+            }
+          ]
+        },
+        "display": {
+          "name": "Ornate Hunter",
+          "color": "#FF2600",
+          "description": "Highlights Ornate Chests in this vault",
+          "icon": "the_vault:gui/modifiers/ornate"
+        }
+      },
+      "the_vault:gilded_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:gilded_chest",
+              "radius": 64.0,
+              "color": 16776960
+            }
+          ]
+        },
+        "display": {
+          "name": "Gilded Hunter",
+          "color": "#FFFF00",
+          "description": "Highlights Gilded Chests in this vault",
+          "icon": "the_vault:gui/modifiers/gilded"
+        }
+      },
+      "the_vault:wooden_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:wooden_chest",
+              "radius": 64.0,
+              "color": 16738560
+            }
+          ]
+        },
+        "display": {
+          "name": "Wooden Hunter",
+          "color": "#FF6900",
+          "description": "Highlights Wooden Chests in this vault",
+          "icon": "the_vault:gui/modifiers/wooden"
+        }
+      },
+      "the_vault:altar_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:god_altar",
+              "radius": 64.0,
+              "color": 5817009
+            }
+          ]
+        },
+        "display": {
+          "name": "Altar Hunter",
+          "color": "#58C2B1",
+          "description": "Highlights God Altars in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_tenos"
         }
       }
     }

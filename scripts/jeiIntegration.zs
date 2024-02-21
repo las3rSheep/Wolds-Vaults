@@ -836,6 +836,8 @@ mysteryHostileEgg.addRecipe([
     lootItem("minecraft:shulker_spawn_egg", 1, 1, 0.71),
     lootItem("minecraft:vindicator_spawn_egg", 1, 1, 0.71),
     lootItem("minecraft:wither_skeleton_spawn_egg", 1, 1, 0.71),
+    lootItem("cloudstorage:spawn_egg_bloviator", 1, 1, 0.71),
+    lootItem("cloudstorage:spawn_egg_badloon", 1, 1, 0.71),
     lootItem("minecraft:evoker_spawn_egg", 1, 1, 0.53),
     lootItem("minecraft:elder_guardian_spawn_egg", 1, 1, 0.36),
     lootItem("minecraft:hoglin_spawn_egg", 1, 1, 0.36),
@@ -843,6 +845,7 @@ mysteryHostileEgg.addRecipe([
     lootItem("minecraft:zoglin_spawn_egg", 1, 1, 0.36),
     lootItem("cagerium:iron_golem_spawn_egg", 1, 1, 0.36),
     lootItem("cagerium:wither_spawn_egg", 1, 1, 0.36)
+
 ], []);
 
 JEI.addCategory(mysteryHostileEgg);

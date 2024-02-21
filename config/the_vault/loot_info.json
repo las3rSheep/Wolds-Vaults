@@ -155,6 +155,17 @@
         }
       }
     },
+    "the_vault:completion_crate_enchanted_elixir": {
+      "display": "Enchanted Elixir Completion Crate",
+      "lootTableKeys": {
+        "the_vault:completion_enchanted_elix_lvl0": {
+          "level": 0
+        },
+        "the_vault:completion_enchanted_elix_lvl20": {
+          "level": 20
+        }
+      }
+    },
     "the_vault:completion_crate_scavenger": {
       "display": "Scavenger Completion Crate",
       "lootTableKeys": {

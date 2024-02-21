@@ -2,6 +2,22 @@
   "POOL": [
     {
       "value": {
+        "id": "cloudstorage:spawn_egg_bloviator",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "cloudstorage:spawn_egg_badloon",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
         "id": "minecraft:blaze_spawn_egg",
         "amountMin": 1,
         "amountMax": 1

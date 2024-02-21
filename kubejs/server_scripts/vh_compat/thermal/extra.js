@@ -38,6 +38,11 @@ onEvent("recipes", event => {
         event.remove({ 'output': `${id}` })
     })
 
+    event.remove({ id: 'thermal_extra:machine/smelter/soul_infused_ingot' })
+    event.remove({ id: 'thermal_extra:machine/smelter/twinite_ingot' })
+    event.remove({ id: 'thermal_extra:machine/smelter/shellite_ingot' })
+    event.remove({ id: 'thermal_extra:machine/smelter/dragonsteel_ingot' })
+
     const extraMetals = ['soul_infused', 'shellite', 'twinite', 'dragonsteel']
 
     event.shapeless('4x thermal_extra:soul_infused_dust', ['3x thermal_extra:soul_sand_dust', 'thermal:apatite_dust', '2x thermal:invar_dust', '2x the_vault:eternal_soul'])

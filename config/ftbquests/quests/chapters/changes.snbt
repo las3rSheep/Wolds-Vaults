@@ -122,7 +122,7 @@
 		}
 		{
 			title: "Smashed Gems"
-			x: -7.0d
+			x: -3.0d
 			y: -2.5d
 			subtitle: "RNG for your RNG"
 			description: [
@@ -245,7 +245,7 @@
 		}
 		{
 			title: "Vault Tridents"
-			x: -3.0d
+			x: -7.0d
 			y: -2.5d
 			subtitle: "New Vault Weapon!"
 			description: [
@@ -283,6 +283,145 @@
 							state: 0
 							colors: [I;11184810]
 							rarity: 0
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Enchanted Elixir"
+			x: -3.0d
+			y: -1.0d
+			subtitle: "Who came up with this!?"
+			description: [
+				"With a Seal of the Enchanter you can set a crystal's objective to a new objective: Enchanted Elixir. Similar to the other \"cursed\" objective's as they are lovingly called."
+				""
+				"In this objective, you collect elixir like normal. Elixir works like standard elixir where chests/coins/ores can roll a chance for 0 elixir, and the elixir requirement is greater than normal."
+				""
+				"While collecting elixir, you will encounter random events as you hit certain levels of elixir. These could add modifiers to your vault, spawn mobs around you, give you items, give you potion effects, and more. When you complete the objective, you are always guaranteed an \"Omega\" level event, good or bad."
+				""
+				"This objective is even better with friends! Events can \"cascade\" onto your friends, causing the same event to trigger for them too, so get your friends together and get in there! There is a much smaller chance for an event to cascade onto you again."
+				""
+				"For your reward, 2X the XP of a standard elixir, plus that sweet, sweet enhanced crate!"
+			]
+			id: "2FB7F5EC17926451"
+			tasks: [{
+				id: "3611123725225140"
+				type: "item"
+				item: "the_vault:crystal_seal_enchanter"
+			}]
+			rewards: [{
+				id: "52ED96A1BB1BB5DE"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 32
+			}]
+		}
+		{
+			x: -5.0d
+			y: -1.0d
+			subtitle: "I want a new one!"
+			description: [
+				"In this pack, you can buy Augment Boxes from a vendor, or you can craft an augment box from 4 of any augments and a little bit of materials."
+				"Nice to reroll unwanted augments with!"
+			]
+			id: "2924DAF22B0ECE71"
+			tasks: [{
+				id: "56057378B8AB941B"
+				type: "item"
+				item: "the_vault:augment_box"
+			}]
+			rewards: [{
+				id: "35BD21658635E96B"
+				type: "item"
+				item: "minecraft:diamond_block"
+				count: 2
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.0d
+			subtitle: "Refill that storage system"
+			description: ["In this pack, you can buy/find Supply Boxes! These contain a random amount of a useful vault crafting ingredient!"]
+			id: "1C6696A34643C19F"
+			tasks: [{
+				id: "2B45DF840AB12692"
+				type: "item"
+				item: "the_vault:supply_box"
+			}]
+			rewards: [{
+				id: "31357656B27A5A69"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 16
+			}]
+		}
+		{
+			title: "Wold Star Chunk"
+			x: -3.0d
+			y: 0.5d
+			subtitle: "Precious little thing"
+			description: [
+				"The Wold Star Chunk is your first step towards being able to craft Creative items!"
+				""
+				"You can find them in Treasure Chests or enhanced objective completion crates (Haunted Braziers, Unhinged Scavenger, Enchanted Elixir, etc.)"
+				""
+				"They also have a couple other uses such as crafting Trinket Scrap or rerolling relic fragments."
+			]
+			id: "30B49AB14867DC6F"
+			tasks: [{
+				id: "4358BCA04304A021"
+				type: "item"
+				item: "the_vault:wold_star_chunk"
+			}]
+			rewards: [{
+				id: "212CA98EE29B575F"
+				type: "item"
+				item: "the_vault:gem_pog"
+				count: 4
+			}]
+		}
+		{
+			title: "Wold Star"
+			x: -3.0d
+			y: 2.5d
+			subtitle: "I'm a good little grinder"
+			description: [
+				"In this pack, you can use Omega Pogs and Wold Star Chunks to craft the coveted Wold Star."
+				""
+				"This is used to create Creative level items, there are lots of options to choose from, just do U on Wold Star in JEI!"
+				""
+				"You can find Wold Star Chunks in Treasure Chests or any of the enhanced objectives completion crates (Unhinged Scavenger, Enchanted Elixir, Haunted Braziers, etc.)"
+				""
+			]
+			dependencies: ["30B49AB14867DC6F"]
+			id: "6AFC5146399CE7F3"
+			tasks: [{
+				id: "380B3083ADE9B909"
+				type: "item"
+				item: "the_vault:wold_star"
+			}]
+			rewards: [{
+				id: "7F2A90663CC1BFE2"
+				type: "item"
+				item: {
+					id: "minecraft:player_head"
+					Count: 1b
+					tag: {
+						SkullOwner: {
+							Id: [I;
+								1293689036
+								-1234418469
+								-1195714080
+								-1328657367
+							]
+							Properties: {
+								textures: [{
+									Value: "ewogICJ0aW1lc3RhbXAiIDogMTcwODQ2OTE5NjUyMSwKICAicHJvZmlsZUlkIiA6ICI0ZDFjMjBjY2I2NmM0NGRiYjhiYWQ5ZTBiMGNlNGMyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpd29sZmtpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWJhYjYwNzAwNzU0ZTBhZTMxYTZhOTBjNDU2YTI2OWRkYTk5ZDFmNWJmNTUyOGQyMzUyYzQ3NDRiZTM3ZTg3NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9"
+									Signature: "TrtiF9sB0MOhtJmAdwiwJbZuLBxBwtXCEZ5CuFc+J3y94xAb235mv45bl92hlfwszf9hiOzYwZVvw+GczXX6wnDvEJaf21UPrtCmcRqmmDwsUFO6pTuDencjrQ/GwriIlw5Ed0Bf5BzzEhGh6Nbi1mdHue4Sj60vbar/pPc6gIRvaO6UJPDcdSo0UDLeVaKpUrAmEEPJFFJ06EHKz/WwC+vRuiH8oHSXqeHAYHHpG8++86OT670yKoVT7qY4m2L5g+kMkvt4ThjX/36MldwP3mC55OjST705lbP/SRpK5xopA6+agxl9avBNTF0gMEamYeLpNRrQ5Gpcu5H8P6nqRVQjoKjUXz+NJL2KLojLpUifNYMjscd8XdN5gDFov5+ZRQS5f3ktz6flV2eGk0S8F/Phasa9GZyDVGO8DXoWVhNDlh+XqDpOGHUMBaHIAFxdRzMvpJ+W31lsZvX3sCWSj5WAhyoEEWWDbImUcyrgBOuA6JFNdnw5wiKLf1KOdP3ae9863WpiRelD9hFLu7LZ6jpoETGVRMdTQNnimH+F/4JUHhOwsOEaWeBVCloGCuAuMR/whiuJogx6zap7XH65mGxEnbcRn5M5VaWrCPLERA3AnVSgyn+33CkXKbgy/OxCw2CBLO7xAPQhmRnUU3HOE3LjB5Dg8zdQnpy3BQ75eCU="
+								}]
+							}
+							Name: "iwolfking"
 						}
 					}
 				}

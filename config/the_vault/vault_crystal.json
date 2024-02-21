@@ -1600,6 +1600,38 @@
         }
       }
     ],
+    "the_vault:crystal_seal_enchanter": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 30,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 65,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.3
+        }
+      }
+    ],
     "the_vault:crystal_seal_sage": [
       {
         "level": 0,

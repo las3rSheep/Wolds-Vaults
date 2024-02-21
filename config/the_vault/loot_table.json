@@ -11,6 +11,7 @@
         "monolith": "the_vault:completion_mono_lvl0",
         "haunted_braziers": "the_vault:completion_haunted_mono_lvl0",
         "elixir": "the_vault:completion_elix_lvl0",
+        "enchanted_elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
@@ -29,6 +30,7 @@
         "monolith": "the_vault:completion_mono_lvl0",
         "haunted_braziers": "the_vault:completion_haunted_mono_lvl0",
         "elixir": "the_vault:completion_elix_lvl0",
+        "enchanted_elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
@@ -47,6 +49,7 @@
         "monolith": "the_vault:completion_mono_lvl20",
         "haunted_braziers": "the_vault:completion_haunted_mono_lvl20",
         "elixir": "the_vault:completion_elix_lvl20",
+        "enchanted_elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
@@ -65,6 +68,7 @@
         "monolith": "the_vault:completion_mono_lvl20",
         "haunted_braziers": "the_vault:completion_haunted_mono_lvl20",
         "elixir": "the_vault:completion_elix_lvl20",
+        "enchanted_elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",

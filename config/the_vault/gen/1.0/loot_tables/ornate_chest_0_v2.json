@@ -7,38 +7,39 @@
         "max": 9
       },
       "pool": [
-        { "weight": 70,
+        {
+          "weight": 70,
           "pool": [
             {
-                "weight": 16,
-                "item": {
+              "weight": 16,
+              "item": {
                 "id": "minecraft:chain",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
                 }
+              }
             },
             {
-                "weight": 12,
-                "item": {
+              "weight": 12,
+              "item": {
                 "id": "architects_palette:sunmetal_brick",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
                 }
+              }
             },
             {
               "weight": 16,
               "item": {
-              "id": "minecraft:iron_nugget",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 4
+                "id": "minecraft:iron_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 4
                 }
               }
             },
@@ -50,7 +51,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
               }
             },
             {
@@ -61,7 +62,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 3
-                  }
+                }
               }
             },
             {
@@ -72,71 +73,73 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 4
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 20,
-        "pool": [
-          {
-            "weight": 16,
-            "item": {
-              "id": "the_vault:chromatic_iron_ingot",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+        {
+          "weight": 20,
+          "pool": [
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:chromatic_iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
-            }
-          },
-          {
-            "weight": 16,
-            "item": {
-              "id": "the_vault:magnetite",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:magnetite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
-            }
-          },
-          {
-            "weight": 16,
-            "item": {
-              "id": "the_vault:vault_plating",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:vault_plating",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
-            }
-          },
-          {
-            "weight": 6,
-            "item": {
-              "id": "the_vault:vault_dust",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 8
+              }
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:vault_dust",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 8
                 }
-            }
-          },
-          {
-            "weight": 6,
-            "item": {
-              "id": "the_vault:chromatic_steel_nugget",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+              }
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:chromatic_steel_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
+              }
             }
-          }
-        ]
-      },
-        { "weight": 8,
+          ]
+        },
+        {
+          "weight": 8,
           "pool": [
             {
               "weight": 6,
@@ -146,56 +149,57 @@
                   "type": "uniform",
                   "min": 4,
                   "max": 16
-                  }
+                }
               }
-          },
-          {
-            "weight": 10,
-            "item": {
-              "id": "minecraft:netherite_scrap",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "minecraft:netherite_scrap",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
-            }
-          },
-          {
-            "weight": 10,
-            "item": {
-              "id": "the_vault:vault_nugget",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 3
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:vault_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 3
                 }
-            }
-          },
-          {
-            "weight": 12,
-            "item": {
-              "id": "the_vault:wild_focus",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:wild_focus",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
+              }
             }
-          }
-        ]
+          ]
         },
-        { "weight": 2,
+        {
+          "weight": 2,
           "pool": [
             {
-                "weight": 88,
-                "item": {
-                  "id": "minecraft:netherite_ingot",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
+              "weight": 88,
+              "item": {
+                "id": "minecraft:netherite_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
+              }
             },
             {
               "weight": 10,
@@ -208,7 +212,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -222,7 +226,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -236,7 +240,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -250,7 +254,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -264,7 +268,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -278,7 +282,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -292,7 +296,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -306,7 +310,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -320,7 +324,35 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
+              }
+            },
+            {
+              "weight": 3,
+              "item": {
+                "id": "the_vault:trident",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 3,
+              "item": {
+                "id": "the_vault:battlestaff",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
               }
             }
           ]

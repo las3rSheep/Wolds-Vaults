@@ -26,10 +26,10 @@ onEvent('item.tags', event => {
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_spice_jar')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_blue_bangle')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_pink_bangle')
-    event.add('the_vault:scavenger_item', 'the_vault:benitoite_gemstone')
-    event.add('the_vault:scavenger_item', 'the_vault:wutodic_gemstone')
-    event.add('the_vault:scavenger_item', 'the_vault:echoing_gemstone')
-    event.add('the_vault:scavenger_item', 'the_vault:pogging_gemstone')
+    event.add('the_vault:scavenger_item', 'the_vault:scavenger_benitoite_gemstone')
+    event.add('the_vault:scavenger_item', 'the_vault:scavenger_wutodic_gemstone')
+    event.add('the_vault:scavenger_item', 'the_vault:scavenger_echoing_gemstone')
+    event.add('the_vault:scavenger_item', 'the_vault:scavenger_pogging_gemstone')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_spider_vial')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_spider_soul_charm')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_spider_cursed_charm')
@@ -60,6 +60,8 @@ onEvent('item.tags', event => {
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_ribcage')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_milky_eye')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_skull')
+
+
 })
 
 onEvent('block.tags', event => {

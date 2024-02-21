@@ -161,6 +161,16 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl20.json"
     },
     {
+      "id": "the_vault:completion_enchanted_elix_lvl0",
+      "name": "Elixir Crate lvl0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl0.json"
+    },
+    {
+      "id": "the_vault:completion_enchanted_elix_lvl20",
+      "name": "Elixir Crate lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl20.json"
+    },
+    {
       "id": "the_vault:completion_mono_lvl0",
       "name": "Monolith Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl0.json"
