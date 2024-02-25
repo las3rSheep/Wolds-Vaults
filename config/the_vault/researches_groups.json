@@ -4,7 +4,8 @@
       "title": "Omega",
       "research": [
         "Mystical Agriculture",
-        "QuarryPlus"
+        "QuarryPlus",
+        "Automatic Genius"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -21,11 +22,12 @@
         "Extra Storage",
         "Create Crafts and Additions",
         "Create Diesel Generators",
-        "Botanical Machinery"
+        "Botanical Machinery",
+        "Cable Tiers"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Addons": 0
+        "Addons": 1
       }
     },
     "Logistics": {
@@ -143,7 +145,7 @@
         "Big Backpacks",
         "Junk Management",
         "Stack Upgrading",
-        "Auto Refill",
+        "Auto Feeding",
         "Scanner",
         "Soul Harvester"
       ],
@@ -162,7 +164,8 @@
         "Dark Utilities",
         "LaserIO",
         "Super Factory Manager",
-        "Entangled"
+        "Entangled",
+        "Little Logistics"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

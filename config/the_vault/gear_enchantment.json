@@ -1,5 +1,95 @@
 {
   "costs": {
+    "ensorcellation:angler": {
+      "items": [
+        {
+          "id": "emerald",
+          "count": 5
+        }
+      ],
+      "levels": 2
+    },
+    "ensorcellation:volley": {
+      "items": [
+        {
+          "id": "emerald_block",
+          "count": 4
+        }
+      ],
+      "levels": 1
+    },
+    "ensorcellation:trueshot": {
+      "items": [
+        {
+          "id": "emerald_block",
+          "count": 4
+        }
+      ],
+      "levels": 2
+    },
+    "ensorcellation:hunter": {
+      "items": [
+        {
+          "id": "emerald",
+          "count": 5
+        }
+      ],
+      "levels": 2
+    },
+    "ensorcellation:quick_draw": {
+      "items": [
+        {
+          "id": "emerald",
+          "count": 5
+        }
+      ],
+      "levels": 3
+    },
+    "ensorcellation:vitality": {
+      "items": [
+        {
+          "id": "the_vault:hearty_apple",
+          "count": 128
+        }
+      ],
+      "levels": 3
+    },
+    "ensorcellation:air_affinity": {
+      "items": [
+        {
+          "id": "the_vault:phoenix_feather",
+          "count": 1
+        }
+      ],
+      "levels": 1
+    },
+    "ensorcellation:exp_boost": {
+      "items": [
+        {
+          "id": "the_vault:wutodic_mass",
+          "count": 8
+        }
+      ],
+      "levels": 3
+    },
+    "ensorcellation:gourmand": {
+      "items": [
+        {
+          "id": "minecraft:golden_apple",
+          "count": 1
+        }
+      ],
+      "levels": 2
+    },
+    "ensorcellation:soulbound": {
+      "items": [
+        {
+          "id": "the_vault:echo_pog",
+          "count": 1
+        }
+      ],
+      "levels": 1
+    },
     "protection": {
       "items": [
         {
@@ -264,7 +354,7 @@
     "loyalty": {
       "items": [
         {
-          "id": "command_block",
+          "id": "emerald",
           "count": 5
         }
       ],
@@ -282,7 +372,7 @@
     "riptide": {
       "items": [
         {
-          "id": "command_block",
+          "id": "emerald",
           "count": 5
         }
       ],
@@ -291,7 +381,7 @@
     "channeling": {
       "items": [
         {
-          "id": "command_block",
+          "id": "emerald",
           "count": 5
         }
       ],

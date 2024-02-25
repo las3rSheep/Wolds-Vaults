@@ -2,6 +2,40 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "littlelogistics"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Little Logistics",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "cabletiers"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Cable Tiers",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "entangled"
       ],
       "restrictions": {

@@ -360,6 +360,16 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Cable Tiers": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Refined Storage"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Mega Cells": {
         "dependsOn": [
           {

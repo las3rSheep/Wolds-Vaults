@@ -1,13 +1,13 @@
 name = "Wold's Vaults Tweaks and Compat"
-filename = "wolds-vaults-official-mod-0.9.13.jar"
+filename = "wolds-vaults-official-mod-0.9.14a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b19b369ec97100595480413e46ebe1f6abdf3793"
+hash = "213cb574ad8c7aae25aea0c45b9532f025b5f4f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5126333
+file-id = 5136164
 project-id = 958799

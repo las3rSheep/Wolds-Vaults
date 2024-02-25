@@ -15018,6 +15018,33 @@
         "text": " mod!\n\nThis mod allows you to automate your crystal altar with either Refined Storage or Applied Energistics."
       }
     ],
+    "Cable Tiers": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Cable Tiers",
+        "color": "yellow"
+      },
+      {
+        "text": " Refined Storage addon mod!\n\nThis mod adds enhanced versions of the importer, exporter, disk manipulation, constructor, destructor, and requester. They come in 3 different tiers and are progressively faster and have more filter slots."
+      }
+    ],
+    "Little Logistics": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Little Logistics",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nThis mod is focused on efficient, affordable, long-distance transport. It adds vessels and locomotives you can use to move item, fluids, and energy around great distances. Additionally, comes with a faster version of hoppers, and a fluid version of hoppers."
+      },
+      {
+        "text": "\n\nThe mod also comes with Create support so you can put Create contraptions on top of your barges or train cars!"
+      }
+    ],
     "Marketer": [
       {
         "text": "You become accustomed with the "

@@ -1,5 +1,17 @@
 {
   "styles": {
+    "Little Logistics": {
+      "x": 60,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/little_logistics"
+    },
+    "Cable Tiers": {
+      "x": 670,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/cable_tiers"
+    },
     "Entangled": {
       "x": 60,
       "y": 200,
@@ -361,8 +373,8 @@
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
     "Automatic Genius": {
-      "x": 60,
-      "y": 160,
+      "x": 250,
+      "y": 400,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/automatic_genius"
     },
