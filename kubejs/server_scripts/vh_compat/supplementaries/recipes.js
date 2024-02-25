@@ -8,7 +8,7 @@ onEvent("recipes", event => {
             'LLL'
         ], {
         G: 'the_vault:chromatic_steel_ingot',
-        D: 'minecraft:iron_bars',
+        D: 'the_vault:perfect_larimar',
         L: 'the_vault:wooden_planks'
 
     }).id('supplementaries:cage')

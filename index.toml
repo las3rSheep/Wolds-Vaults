@@ -374,7 +374,7 @@ hash = "6d8836a8d591c5965766a161e80689a2de084e675964a00e43a06f9524d1bd47"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f53e4f1c9f3fa0f4e72cfbd70d50bc0b89676671b84dc2100c5264a7ac5cbd40"
+hash = "9aeff251f99674ef76fca879dfc1e8ea7afa3cfb6a61ad9752af73ac84f218e5"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -11382,7 +11382,7 @@ hash = "7ddb5ac17a2cfecff1d688552ee141efed542899d6452941d9027ac0ffcdee10"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "b2426a19a88614d7fd544098fd6d04045cc138685b16ba1a007101f50a86b68b"
+hash = "20ea37c99174407fa17da4f8464046e577406fe6b9c5561269ce160dcacd6a44"
 
 [[files]]
 file = "defaultconfigs/configurablecane-server.toml"
@@ -11414,7 +11414,7 @@ hash = "e7cee97be1c6aa2c39cfa01af35c73d3cb84307ee093914cdf8a14a663776a6c"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "23a22e03bc6da4b3152bd06be1402efd50d6d118b03d56af8c8f0bfe2e95a805"
+hash = "30985de709590838f785b15d981a9b46b2eb3c55a5b377af7e5184036245cebf"
 
 [[files]]
 file = "defaultconfigs/parcool-server.toml"
@@ -21118,7 +21118,7 @@ hash = "dae828862f1efd81b2a2270a65ac730f5b59e83f1a689ae81805681fa8ce74a0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/supplementaries/recipes.js"
-hash = "faa35522c748c4e0e9340c1927ad08e07da910653fa744b2d8c599cc470bc5b4"
+hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
