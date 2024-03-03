@@ -127,7 +127,7 @@ onEvent("recipes", event => {
         M: 'scannable:blank_module',
         R: '#the_vault:vault_ores',
         X: 'the_vault:extraordinary_larimar',
-        V: 'the_vault:vault_essence_2',
+        V: 'the_vault:gem_pog',
         B: 'the_vault:black_chromatic_steel_block'
     })
 
@@ -167,7 +167,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:ornate_chest_placeable',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:echo_pog',
         X: 'the_vault:extraordinary_painite'
     })
 
@@ -179,7 +179,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:living_chest_placeable',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:echo_pog',
         X: 'the_vault:extraordinary_alexandrite'
     })
 
@@ -191,7 +191,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:gilded_chest_placeable',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:echo_pog',
         X: 'the_vault:vault_diamond_block'
     })
 
@@ -226,7 +226,7 @@ onEvent("recipes", event => {
             'XBX'
         ], {
         M: 'scannable:blank_module',
-        A: 'the_vault:vault_platinum',
+        A: 'the_vault:vault_palladium',
         B: 'the_vault:gem_pog',
         X: 'the_vault:vault_diamond_block'
     })

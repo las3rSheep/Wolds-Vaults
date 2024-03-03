@@ -7,8 +7,8 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         C: 'the_vault:treasure_chest_placeable',
-        X: 'the_vault:vault_diamond',
-        I: 'the_vault:black_chromatic_steel_ingot'
+        X: 'the_vault:vault_diamond_block',
+        I: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('sophisticatedstorage:wooden_chest'),
@@ -19,7 +19,7 @@ onEvent("recipes", event => {
         ], {
         C: 'the_vault:wooden_chest_placeable',
         X: 'the_vault:vault_diamond',
-        I: 'the_vault:chromatic_iron_ingot'
+        I: 'the_vault:wooden_planks'
     })
 
     event.shaped(Item.of('sophisticatedstorage:hardened_chest'),
@@ -29,7 +29,7 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         C: 'the_vault:hardened_chest_placeable',
-        X: 'minecraft:stone',
+        X: 'the_vault:vault_stone',
         I: 'the_vault:chromatic_iron_ingot'
     })
 
@@ -40,7 +40,7 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         C: 'the_vault:flesh_chest_placeable',
-        X: 'minecraft:rotten_flesh',
+        X: 'the_vault:regret_chunk',
         I: 'the_vault:vault_meat_block'
     })
 
@@ -51,7 +51,7 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         C: 'the_vault:enigma_chest_placeable',
-        X: 'minecraft:obsidian',
+        X: 'the_vault:black_chromatic_steel_ingot',
         I: 'the_vault:perfect_wutodie'
     })
 
@@ -63,7 +63,7 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         C: 'the_vault:altar_chest_placeable',
-        X: 'minecraft:obsidian',
+        X: 'the_vault:black_chromatic_steel_ingot',
         I: 'the_vault:perfect_larimar'
     })
 
@@ -78,17 +78,6 @@ onEvent("recipes", event => {
         I: 'the_vault:perfect_alexandrite'
     })
 
-    event.shaped(Item.of('sophisticatedstorage:gilded_chest'),
-        [
-            'IXI',
-            'XCX',
-            'IXI'
-        ], {
-        C: 'the_vault:gilded_chest_placeable',
-        X: 'the_vault:chromatic_gold_ingot',
-        I: 'the_vault:gilded_block'
-    })
-
     event.shaped(Item.of('sophisticatedstorage:ornate_chest'),
         [
             'IXI',
@@ -99,6 +88,18 @@ onEvent("recipes", event => {
         X: 'the_vault:ornate_block',
         I: 'the_vault:perfect_painite'
     })
+
+    event.shaped(Item.of('sophisticatedstorage:gilded_chest'),
+        [
+            'IXI',
+            'XCX',
+            'IXI'
+        ], {
+        C: 'the_vault:gilded_chest_placeable',
+        X: 'the_vault:gilded_block',
+        I: 'the_vault:chromatic_gold_ingot'
+    })
+
 
     event.shaped(Item.of('sophisticatedstorage:ornate_strongbox'),
         [
