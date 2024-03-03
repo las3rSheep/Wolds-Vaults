@@ -1,0 +1,17 @@
+{
+  "INFUSION_TIME": 1,
+  "GROW_ETERNAL_TIME": 10,
+  "UNUSED_TRADER_REWARD_CHANCE": 1.0,
+  "TRADERS_REQ": [
+    50,
+    100,
+    150,
+    200,
+    250,
+    300,
+    350,
+    400,
+    500
+  ],
+  "PLAYER_TRADER_REQ_MULTIPLIER": {}
+}

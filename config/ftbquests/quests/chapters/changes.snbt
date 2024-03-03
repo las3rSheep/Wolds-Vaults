@@ -427,6 +427,158 @@
 				}
 			}]
 		}
+		{
+			title: "Sophisticated Vault Chests"
+			x: -7.0d
+			y: -1.0d
+			subtitle: "Useful Vault Decor"
+			description: ["If you are using the best storage mod in the pack, you can craft some more useful versions of the Vault Chests! They work just like other Sophisticated Storage chests. They have a different number of slots depending on the type of chest, ranging from Wooden to Treasure chests."]
+			id: "5DCA907A5F59C654"
+			tasks: [{
+				id: "776AF1A233FCD2F5"
+				type: "item"
+				title: "Sophisticated Vault Decor Chests"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "sophisticatedstorage:treasure_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:wooden_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:ornate_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:gilded_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:altar_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:hardened_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:enigma_chest"
+								Count: 1b
+							}
+							{
+								id: "sophisticatedstorage:flesh_chest"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "057CF4C933659609"
+					type: "item"
+					item: "sophisticatedstorage:stack_upgrade_tier_2"
+					count: 2
+				}
+				{
+					id: "33E7457F9EBC7F28"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 16
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			subtitle: "Who needs hunter?"
+			description: [
+				"Once you unlock the Scanner mod, you can craft and use the many new custom Scanner modules. There is a module corresponding to all of the different Hunter types, plus some extras! "
+				""
+				"Now you can hunt down vault ores with ease, take your treasure door hunting to the next level, or scan for multiple different chest types at a time!"
+			]
+			id: "760D620F2EFEBC32"
+			tasks: [{
+				id: "6E1D18CFA3BD90AD"
+				type: "item"
+				title: "New Scannable Modules"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "scannable:vault_ores_module"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_living"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_ornate"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_gilded"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_wooden"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_raw"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_chests_module_treasure"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_objectives_module"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_doors_module"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_coins_module"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_cake_module"
+								Count: 1b
+							}
+							{
+								id: "scannable:vault_spirit_module"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "21799380B5373254"
+					type: "item"
+					item: "scannable:blank_module"
+				}
+				{
+					id: "7DA589019E5A0271"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 32
+				}
+			]
+		}
 	]
 	quest_links: [ ]
 }

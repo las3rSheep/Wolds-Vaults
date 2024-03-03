@@ -205,14 +205,16 @@
 				id: "7FD1899C4198E665"
 				type: "item"
 				item: {
-					id: "eccentrictome:tome"
+					id: "the_vault:quest_book"
 					Count: 1b
 					tag: {
+						"eccentrictome:version": 1
+						"eccentrictome:is_tome": 1b
 						"eccentrictome:mods": {
 							blockcarpentry: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "blockcarpentry:carpentering_manual"
 									}
@@ -220,17 +222,23 @@
 							}
 							industrialforegoing: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "industrialforegoing:industrial_foregoing"
 									}
 								}
 							}
+							powah: {
+								0: {
+									id: "powah:book"
+									Count: 1b
+								}
+							}
 							sebastrnlib: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
 									}
@@ -238,17 +246,32 @@
 							}
 							pneumaticcraft: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "pneumaticcraft:book"
 									}
 								}
 							}
+							ftbquests: {
+								0: {
+									id: "ftbquests:book"
+									Count: 1b
+								}
+							}
+							littlelogistics: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "littlelogistics:guide"
+									}
+								}
+							}
 							modularrouters: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "modularrouters:book"
 									}
@@ -256,20 +279,20 @@
 							}
 							botania: {
 								0: {
-									Count: 1b
 									id: "botania:lexicon"
+									Count: 1b
 								}
 							}
 							cloudstorage: {
 								0: {
-									Count: 1b
 									id: "cloudstorage:guide_book"
+									Count: 1b
 								}
 							}
 							hexcasting: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "hexcasting:thehexbook"
 									}
@@ -277,8 +300,8 @@
 							}
 							thermal: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "thermal:guidebook"
 									}
@@ -286,8 +309,8 @@
 							}
 							patchouli: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "patchouli:the_vault_main_guide"
 									}
@@ -295,42 +318,38 @@
 							}
 							rftoolsbase: {
 								0: {
-									Count: 1b
 									id: "rftoolsbase:manual"
+									Count: 1b
 								}
 							}
 							integrateddynamics: {
 								0: {
-									Count: 1b
 									id: "integrateddynamics:on_the_dynamics_of_integration"
+									Count: 1b
 								}
 							}
 							laserio: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "laserio:laseriobook"
 									}
 								}
 							}
-							the_vault: {
-								0: {
-									Count: 1b
-									id: "the_vault:quest_book"
-								}
-							}
 							parcool: {
 								0: {
-									Count: 1b
 									id: "patchouli:guide_book"
+									Count: 1b
 									tag: {
 										"patchouli:book": "parcool:parcool_guide"
 									}
 								}
 							}
 						}
-						"eccentrictome:version": 1
+						display: {
+							Name: "{\"translate\":\"eccentrictome.name\",\"with\":[{\"color\":\"green\",\"translate\":\"item.the_vault.quest_book\"}]}"
+						}
 					}
 				}
 			}]
