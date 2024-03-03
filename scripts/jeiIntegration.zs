@@ -37,7 +37,8 @@ armourCat.addRecipe([<item:the_vault:boots>], [<item:minecraft:netherite_ingot>,
 armourCat.addRecipe([<item:the_vault:sword>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:axe>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 armourCat.addRecipe([<item:the_vault:shield>], [<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
-
+armourCat.addRecipe([<item:the_vault:trident>], [<item:the_vault:vault_essence> * 16,<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
+armourCat.addRecipe([<item:the_vault:battlestaff>], [<item:the_vault:driftwood> * 32,<item:minecraft:netherite_ingot>, <item:the_vault:vault_gold>, <item:the_vault:vault_alloy> * 9]);
 // Magnet
 armourCat.addRecipe([<item:the_vault:magnet>], [<item:the_vault:magnetite_ingot> * 9, <item:the_vault:vault_gold>]);
 

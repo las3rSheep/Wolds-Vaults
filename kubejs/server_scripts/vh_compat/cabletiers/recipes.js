@@ -34,7 +34,7 @@ onEvent("recipes", event => {
         ], {
         X: 'the_vault:black_chromatic_steel_block',
         E: 'cabletiers:ultra_exporter',
-        C: 'the_vault:wold_star_chunk'
+        C: 'the_vault:echo_pog'
     })
 
     event.shaped(Item.of('cabletiers:elite_importer'),

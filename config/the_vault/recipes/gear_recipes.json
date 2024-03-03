@@ -256,7 +256,7 @@
       ]
     },
     {
-      "proficiencyType": "SWORD",
+      "proficiencyType": "AXE",
       "id": "the_vault:trident",
       "output": {
         "AMOUNT": 1,
@@ -265,8 +265,8 @@
       },
       "inputs": [
         {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:trident",
+          "AMOUNT": 16,
+          "ITEM": "the_vault:vault_essence",
           "NBT": "{}"
         },
         {

@@ -100,7 +100,8 @@ let vaultCompressed = [
     "magic_silk_block_1",
     "vault_diamond_block_1",
     "vault_essence_1",
-    "vault_essence_2"
+    "vault_essence_2",
+    "vault_plating_block_1"
 ]
 
 onEvent("recipes", event => {

@@ -1,5 +1,86 @@
 {
   "costs": {
+    "minecraft:projectile_protection": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 4
+    },
+    "minecraft:protection": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 4
+    },
+    "minecraft:blast_protection": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 4
+    },
+    "minecraft:fire_protection": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 4
+    },
+    "minecraft:thorns": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 3
+    },
+    "minecraft:sharpness": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 5
+    },
+    "minecraft:smite": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 5
+    },
+    "minecraft:bane_of_arthropods": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 5
+    },
+    "minecraft:knockback": {
+      "items": [
+        {
+          "id": "command_block",
+          "count": 5
+        }
+      ],
+      "levels": 2
+    },
     "ensorcellation:angler": {
       "items": [
         {
@@ -72,6 +153,15 @@
       ],
       "levels": 3
     },
+    "ensorcellation:damage_ender": {
+      "items": [
+        {
+          "id": "minecraft:ender_eye",
+          "count": 32
+        }
+      ],
+      "levels": 1
+    },
     "ensorcellation:gourmand": {
       "items": [
         {
@@ -90,43 +180,7 @@
       ],
       "levels": 1
     },
-    "protection": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "fire_protection": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
     "feather_falling": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "blast_protection": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "projectile_protection": {
       "items": [
         {
           "id": "emerald",
@@ -145,15 +199,6 @@
       "levels": 1
     },
     "aqua_affinity": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "thorns": {
       "items": [
         {
           "id": "emerald",
@@ -198,61 +243,16 @@
       ],
       "levels": 1
     },
-    "sharpness": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "smite": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "bane_of_arthropods": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "knockback": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
     "fire_aspect": {
       "items": [
         {
-          "id": "emerald",
+          "id": "command_block",
           "count": 5
         }
       ],
       "levels": 1
     },
     "looting": {
-      "items": [
-        {
-          "id": "emerald",
-          "count": 5
-        }
-      ],
-      "levels": 1
-    },
-    "sweeping": {
       "items": [
         {
           "id": "emerald",

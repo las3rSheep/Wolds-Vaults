@@ -62,6 +62,7 @@
 		"minecraft:egg",
 		"minecraft:turtle_egg",
 		"supplementaries:slingshot",
+		"hexcasting:*",
 		"supplementaries:globe",
 		"supplementaries:globe_sepia",
 		"byg:aspen_boat",

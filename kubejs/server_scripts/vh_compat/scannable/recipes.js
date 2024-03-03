@@ -87,13 +87,13 @@ onEvent("recipes", event => {
         [
             'XRX',
             'GMG',
-            'XBX'
+            'XRX'
         ], {
         M: 'scannable:blank_module',
         R: 'the_vault:echo_pog',
         X: 'the_vault:extraordinary_black_opal',
         G: 'the_vault:black_chromatic_steel_block',
-        B: 'the_vault:wold_star_chunk'
+        B: 'the_vault:wold_star'
     })
 
     event.shaped(Item.of('scannable:common_ores_module'),
@@ -130,6 +130,161 @@ onEvent("recipes", event => {
         V: 'the_vault:vault_essence_2',
         B: 'the_vault:black_chromatic_steel_block'
     })
+
+    event.shaped(Item.of('scannable:vault_chests_module'),
+        [
+            'ABC',
+            'XMX',
+            'DEF'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'scannable:vault_chests_module_gilded',
+        B: 'scannable:vault_chests_module_living',
+        C: 'scannable:vault_chests_module_ornate',
+        D: 'scannable:vault_chests_module_wooden',
+        E: 'scannable:vault_chests_module_raw',
+        F: 'scannable:vault_chests_module_treasure',
+        X: 'the_vault:echo_pog'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_wooden'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:wooden_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:extraordinary_larimar'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_ornate'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:ornate_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:extraordinary_painite'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_living'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:living_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:extraordinary_alexandrite'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_gilded'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:gilded_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:vault_diamond_block'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_raw'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:enigma_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:extraordinary_larimar'
+    })
+
+    event.shaped(Item.of('scannable:vault_chests_module_treasure'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:treasure_chest_placeable',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:extraordinary_black_opal'
+    })
+
+    event.shaped(Item.of('scannable:vault_coins_module'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:vault_platinum',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:vault_diamond_block'
+    })
+
+    event.shaped(Item.of('scannable:vault_spirit_module'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:eternal_soul',
+        B: 'the_vault:gem_pog',
+        X: 'the_vault:compressed_soot_block'
+    })
+
+
+    event.shaped(Item.of('scannable:vault_cake_module'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:wold_star',
+        B: 'the_vault:omega_pog',
+        X: 'the_vault:vault_sweets_block'
+    })
+
+
+    event.shaped(Item.of('scannable:vault_objectives_module'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:vault_compass',
+        B: 'the_vault:omega_pog',
+        X: 'the_vault:black_chromatic_steel_block'
+    })
+
+
+    event.shaped(Item.of('scannable:vault_doors_module'),
+        [
+            'XBX',
+            'AMA',
+            'XBX'
+        ], {
+        M: 'scannable:blank_module',
+        A: 'the_vault:key_mould',
+        B: 'the_vault:wold_star_chunk',
+        X: 'the_vault:black_chromatic_steel_block'
+    })
+
+
+
+
 
 
 })
