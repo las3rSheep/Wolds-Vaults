@@ -116,7 +116,7 @@
         }
       },
       "name": "Entangled",
-      "cost": 6,
+      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -134,7 +134,7 @@
         }
       },
       "name": "Mystical Agriculture",
-      "cost": 20,
+      "cost": 16,
       "usesKnowledge": true
     },
     {
@@ -151,7 +151,7 @@
         }
       },
       "name": "QuarryPlus",
-      "cost": 20,
+      "cost": 16,
       "usesKnowledge": true
     },
     {
@@ -1329,7 +1329,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Automatic Genius",
-      "cost": 64,
+      "cost": 36,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/atomatic/helmet",

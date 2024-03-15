@@ -1172,7 +1172,7 @@ modBox.addRecipe([
     lootItem("integratedtunnels:part_interface_fluid", 1, 1, 8.0)
 ], []);
 
-//modBox.addRecipe([
+modBox.addRecipe([
     letterItem("i", "blue"),
     letterItem("c", "blue"),
     letterItem("h", "blue"),

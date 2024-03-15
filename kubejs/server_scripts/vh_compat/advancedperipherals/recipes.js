@@ -7,7 +7,10 @@ onEvent("recipes", event => {
         event.remove({ 'output': `${id}` })
     })
     event.remove({ output: /advancedperipherals:.*_core/ })
-
+    event.replaceInput({ id: 'advancedperipherals:computer_tool' }, 'minecraft:iron_ingot', 'the_vault:chromatic_iron_ingot')
+    event.replaceInput({ id: 'advancedperipherals:memory_card' }, 'minecraft:iron_ingot', 'the_vault:chromatic_steel_ingot')
+    event.replaceInput({ id: 'advancedperipherals:nbt_storage' }, 'minecraft:iron_ingot', 'the_vault:chromatic_steel_ingot')
+    event.replaceInput({ id: 'advancedperipherals:ar_goggles' }, 'minecraft:ender_pearl', 'the_vault:perfect_black_opal')
     event.shaped(Item.of('advancedperipherals:peripheral_casing'),
         [
             'IBI',
@@ -27,7 +30,8 @@ onEvent("recipes", event => {
         ], {
         I: 'the_vault:chromatic_steel_block',
         B: 'the_vault:extraordinary_larimar',
-        X: 'the_vault:echo_pog'
+        X: 'the_vault:echo_pog',
+        C: 'advancedperipherals:peripheral_casing'
     }).id('advancedperipherals:inventory_manager')
 
 

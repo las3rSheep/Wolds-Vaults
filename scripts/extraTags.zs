@@ -462,3 +462,14 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:all_skyvault_loot>.add(<tag:items:the_vault:hardened_chest_loot>);
 <tag:items:the_vault:all_skyvault_loot>.add(<tag:items:the_vault:flesh_chest_loot>);
 <tag:items:the_vault:all_skyvault_loot>.add(<tag:items:the_vault:enigma_chest_loot>);
+
+//Gem Reagents
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_ashium>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_bomignite>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_gorginite>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_petzanite>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_iskallium>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_sparkletine>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_xenium>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_tubium>);
+<tag:items:the_vault:gem_reagents>.add(<item:the_vault:gem_reagent_upaline>);

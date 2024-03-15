@@ -78,5 +78,5 @@ onEvent('recipes', event => {
     })
 
     event.shapeless('the_vault:smashed_vault_gem_cluster', ['4x the_vault:smashed_vault_gem'])
-    event.shapeless('4x the_vault:smashed_vault_gem', ['the_vault:smashed_vault_gem_clusterz'])
+    event.shapeless('4x the_vault:smashed_vault_gem', ['the_vault:smashed_vault_gem_cluster'])
 })

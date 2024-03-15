@@ -579,6 +579,117 @@
 				}
 			]
 		}
+		{
+			x: -5.0d
+			y: 0.5d
+			subtitle: "Rerolls, people! Rerolls!"
+			description: [
+				"Is your Vault Altar annoying you? Is 200 cobwebs a chore to collect just to loot your next vault? With the Altar Recatalyzer, you can reroll your current vault altar's recipe to see if you can an easier one. Simply sneak and right-click with a Recatalyzer on your altar, and it will reroll your current recipe for you, using up the Recatalyzer in the process."
+				""
+				"If you have Lucky Altar, your new recipe could even be free!"
+				""
+				"There are some possible (visual) glitches if you have multiple vault altars with vault, especially if they are loaded at the time of a reroll, but you can give your altar a block update to view the correct recipe."
+				""
+				"You can find them in Gilded Strongboxes, Vendor Pedestals, and the Black Market."
+			]
+			id: "425A10DF0CEFB7B4"
+			tasks: [{
+				id: "42F3A204FB102D4A"
+				type: "item"
+				item: "the_vault:altar_recatalyzer"
+			}]
+			rewards: [{
+				id: "46540590BEE2407D"
+				type: "item"
+				item: "the_vault:altar_recatalyzer"
+				count: 4
+			}]
+		}
+		{
+			title: "Gem Reagents"
+			x: -1.0d
+			y: 0.5d
+			subtitle: "No more mismatched player gem counts..."
+			description: [
+				"Ever had a ton of one type of player gem and almost none of another? Now with Gem Reagents, you can spend a little bit of your resources to convert between player gems (finally I can have some gorginite!)."
+				""
+				"There is a reagent for each type of player gem, you can craft these and then craft them with any player gem to duplicate that gem."
+			]
+			id: "471281A59736F34E"
+			tasks: [{
+				id: "24D7838C32DB3391"
+				type: "item"
+				title: "Gem Reagents"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "the_vault:gem_reagent_ashium"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_bomignite"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_gorginite"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_iskallium"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_petzanite"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_sparkletine"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_tubium"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_upaline"
+								Count: 1b
+							}
+							{
+								id: "the_vault:gem_reagent_xenium"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+			rewards: [{
+				id: "6758B95EE058A99E"
+				type: "item"
+				item: "the_vault:gem_box"
+				count: 4
+			}]
+		}
+		{
+			x: -3.0d
+			y: -5.5d
+			subtitle: "The Middle Child of Pogs"
+			description: ["You've heard of Pogs, Echo Pogs, and Omega Pogs, but now there is the Pog Prism! This beauty uses every single one of those coveted vault gems all at once! It's an in-between ingredient between Pogs and Echo Pogs."]
+			id: "4D583521BF52B3C7"
+			tasks: [{
+				id: "1C43A8F3E948F0B7"
+				type: "item"
+				item: "the_vault:pog_prism"
+			}]
+			rewards: [{
+				id: "05C677C7DDD53C95"
+				type: "item"
+				item: "the_vault:gem_box"
+				count: 4
+			}]
+		}
 	]
 	quest_links: [ ]
 }
