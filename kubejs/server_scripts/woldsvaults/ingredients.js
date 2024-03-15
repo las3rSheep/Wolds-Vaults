@@ -48,6 +48,22 @@ onEvent('recipes', event => {
         X: 'the_vault:augment'
     })
 
+    event.shaped(Item.of('the_vault:pog_prism'),
+        [
+            'ABC',
+            'XRX',
+            'DEF'
+        ], {
+        A: 'the_vault:perfect_larimar',
+        B: 'the_vault:perfect_benitoite',
+        C: 'the_vault:perfect_alexandrite',
+        D: 'the_vault:perfect_painite',
+        E: 'the_vault:perfect_wutodie',
+        F: 'the_vault:perfect_black_opal',
+        R: 'the_vault:gem_echo',
+        X: 'the_vault:gem_pog'
+    })
+
     event.shapeless('botania:uninfused_terrasteel_ingot', ['botania:manasteel_ingot', 'botania:mana_pearl', 'botania:mana_diamond', 'the_vault:vault_essence', 'the_vault:vault_diamond', 'the_vault:chromatic_steel_ingot'])
 
     event.shaped(Item.of('the_vault:vault_salvager'),
@@ -60,4 +76,7 @@ onEvent('recipes', event => {
         X: 'the_vault:vault_recycler',
         B: 'the_vault:echo_pog'
     })
+
+    event.shapeless('the_vault:smashed_vault_gem_cluster', ['4x the_vault:smashed_vault_gem'])
+    event.shapeless('4x the_vault:smashed_vault_gem', ['the_vault:smashed_vault_gem_clusterz'])
 })

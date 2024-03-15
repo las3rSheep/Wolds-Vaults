@@ -36,7 +36,7 @@ onEvent("recipes", event => {
         C: 'sophisticatedbackpacks:upgrade_base',
         I: 'the_vault:vault_diamond_block',
         T: 'minecraft:piston',
-        G: 'the_vault:echo_pog',
+        G: 'the_vault:pog_prism',
         X: 'the_vault:vault_essence_2'
     })
 
@@ -75,7 +75,7 @@ onEvent("recipes", event => {
         C: 'sophisticatedbackpacks:smelting_upgrade',
         I: 'the_vault:vault_essence_1',
         T: 'minecraft:hopper',
-        G: 'the_vault:echo_pog',
+        G: 'the_vault:pog_prism',
         X: 'the_vault:chromatic_steel_block'
     })
 
@@ -101,7 +101,7 @@ onEvent("recipes", event => {
         C: 'sophisticatedbackpacks:smoking_upgrade',
         I: 'the_vault:vault_essence_1',
         T: 'minecraft:hopper',
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         X: 'the_vault:chromatic_steel_block'
     })
 
@@ -127,7 +127,7 @@ onEvent("recipes", event => {
         C: 'sophisticatedbackpacks:blasting_upgrade',
         I: 'the_vault:vault_essence_1',
         T: 'minecraft:hopper',
-        G: 'the_vault:echo_pog',
+        G: 'the_vault:pog_prism',
         X: 'the_vault:chromatic_steel_block'
     })
 

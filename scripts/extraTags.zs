@@ -216,6 +216,7 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:gilded_chest_loot>.add(<item:quark:blank_rune>);
 <tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:ancient_copper_ingot>);
 <tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:key_piece>);
+<tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:altar_recatalyzer>);
 
 // Ornate Chest Loot
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:boots>);

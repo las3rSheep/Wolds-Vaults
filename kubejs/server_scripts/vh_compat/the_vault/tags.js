@@ -61,7 +61,14 @@ onEvent('item.tags', event => {
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_milky_eye')
     event.add('the_vault:scavenger_item', 'the_vault:scavenger_skeleton_skull')
 
-
+    event.add('the_vault:spawnegg', 'quark:wraith_spawn_egg')
+    event.add('the_vault:spawnegg', 'quark:toretoise_spawn_egg')
+    event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_badloon')
+    event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_bloviator')
+    event.add('the_vault:spawnegg', 'thermal:blizz_spawn_egg')
+    event.add('the_vault:spawnegg', 'thermal:blitz_spawn_egg')
+    event.add('the_vault:spawnegg', 'thermal:basalz_spawn_egg')
+    event.add('the_vault:spawnegg', 'tropicraft:iguana_spawn_egg')
 })
 
 onEvent('block.tags', event => {

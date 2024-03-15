@@ -230,6 +230,30 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Advanced Peripherals": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "ComputerCraft"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Compressed Creativity": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Create"
+          },
+          {
+            "type": "constant",
+            "id": "PneumaticCraft"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Applied Mekanistics": {
         "dependsOn": [
           {
@@ -239,6 +263,16 @@
           {
             "type": "constant",
             "id": "Mekanism"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Incorporeal": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Botania"
           }
         ],
         "ignoreArrow": true,
@@ -275,6 +309,10 @@
           {
             "type": "constant",
             "id": "Botania Flux Field"
+          },
+          {
+            "type": "constant",
+            "id": "Incorporeal"
           }
         ],
         "ignoreArrow": true,

@@ -5,11 +5,12 @@
       "research": [
         "Mystical Agriculture",
         "QuarryPlus",
-        "Automatic Genius"
+        "Automatic Genius",
+        "Oops, All Iron Mods"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Omega": 16
+        "Omega": 10
       }
     },
     "Addons": {
@@ -23,7 +24,10 @@
         "Create Crafts and Additions",
         "Create Diesel Generators",
         "Botanical Machinery",
-        "Cable Tiers"
+        "Cable Tiers",
+        "Incorporeal",
+        "Advanced Peripherals",
+        "Compressed Creativity"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -113,7 +117,8 @@
         "Mekanism Generators",
         "Thermal Dynamos",
         "Iron Generators",
-        "Botania Flux Field"
+        "Botania Flux Field",
+        "RFTools Power"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

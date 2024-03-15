@@ -38,6 +38,8 @@ onEvent('jei.hide.items', event => {
     event.hide(/ae2additions:.*disk.*/)
     event.hide(/ae2additions:.*storage.*/)
     event.hide(/ae2additions:.*cell.*/)
+    event.hide(/advancedperipherals:.*_core/)
+    event.hide('advancedperipherals:chunk_controller')
 })
 
 onEvent('jei.add.items', event => {

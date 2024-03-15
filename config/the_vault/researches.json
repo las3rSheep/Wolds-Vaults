@@ -2,6 +2,74 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "rftoolspower"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "RFTools Power",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "compressedcreativity"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Compressed Creativity",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "advancedperipherals"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Advanced Peripherals",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "incorporeal"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Incorporeal",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "littlelogistics"
       ],
       "restrictions": {
@@ -463,6 +531,25 @@
       },
       "name": "Drawers",
       "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "ironchests",
+        "ironfurnaces",
+        "irongenerators"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Oops, All Iron Mods",
+      "cost": 5,
       "usesKnowledge": true
     },
     {

@@ -550,6 +550,17 @@
             "MAX_COST": 24
           },
           "weight": 50
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:altar_recatalyzer"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
+          },
+          "weight": 40
         }
       ]
     },
@@ -1042,6 +1053,17 @@
             "MAX_COST": 32
           },
           "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:altar_recatalyzer"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
+          },
+          "weight": 40
         }
       ]
     },
@@ -1543,6 +1565,17 @@
             "MAX_COST": 64
           },
           "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:altar_recatalyzer"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 16
+          },
+          "weight": 40
         }
       ]
     }

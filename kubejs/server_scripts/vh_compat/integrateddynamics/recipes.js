@@ -35,7 +35,6 @@ let removedOutputsID = [
     'integrateddynamics:part_static_light_panel',
     'integrateddynamics:part_display_panel',
     'integrateddynamics:part_connector_mono_directional',
-    'integrateddynamics:part_connector_omni_directional',
     'integratedterminals:part_terminal_storage',
     'integratedterminals:part_terminal_crafting_job',
     'integratedterminals:part_storage_terminal',
@@ -52,6 +51,7 @@ onEvent("recipes", event => {
 
     //Remove JUST the new variable card recipe
     event.remove({ id: 'integrateddynamics:crafting/variable' })
+    event.remove({ id: 'integrateddynamics:crafting/part_connector_omni_directional' })
 
     event.shaped(Item.of('integrateddynamics:wrench'),
         [
@@ -574,7 +574,7 @@ onEvent("recipes", event => {
         C: 'the_vault:wooden_planks',
         O: 'integrateddynamics:variable_transformer_output',
         I: 'integrateddynamics:variable_transformer_input',
-        M: 'the_vault:gem_pog'
+        M: 'the_vault:pog_prism'
     })
 
     event.shaped(Item.of('integratedcrafting:part_crafting_writer'),

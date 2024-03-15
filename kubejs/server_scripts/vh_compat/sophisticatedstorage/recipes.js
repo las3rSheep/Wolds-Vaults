@@ -1,6 +1,136 @@
-let woodTypes = ['oak', 'birch', 'warped', 'spruce', 'dark_oak', 'crimson', 'acacia', 'jungle'];
+let woodTypes = ['oak', 'birch', 'warped', 'spruce', 'dark_oak', 'crimson', 'acacia', 'jungle', 'vault_wooden_planks', 'overgrown', 'chromatic', 'tenos', 'velara', 'driftwood'];
 let dyes = ['white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'gray', 'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black']
 onEvent("recipes", event => {
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `vault_wooden_planks` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:wooden_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `driftwood` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `overgrown` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `chromatic` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `tenos` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:tenos_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `velara` }),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:velara_planks',
+        C: 'minecraft:redstone_torch'
+    })
+
+
+
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `vault_wooden_planks` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:wooden_planks',
+        X: 'the_vault:wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `overgrown` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        X: 'the_vault:overgrown_wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `chromatic` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        X: 'the_vault:chromatic_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `driftwood` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        X: 'the_vault:driftwood_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `tenos` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:tenos_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `velara` }),
+        [
+            'IXI',
+            'ICI',
+            'IXI'
+        ], {
+        I: 'the_vault:velara_planks',
+        X: 'the_vault:gem_alexandrite',
+        C: 'minecraft:redstone_torch'
+    })
+
 
     woodTypes.forEach(wood => {
 
@@ -437,7 +567,7 @@ onEvent("recipes", event => {
         'BIB'
     ], {
         I: 'the_vault:black_chromatic_steel_ingot',
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         B: 'the_vault:chromatic_iron_block',
         L: 'the_vault:extraordinary_larimar'
     }

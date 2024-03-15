@@ -377,20 +377,20 @@
               "AMOUNT": 1,
               "NBT": "{}"
             },
-            "minPrice": 5000,
-            "maxPrice": 7000
+            "minPrice": 3200,
+            "maxPrice": 6400
           },
           "weight": 8
         },
         {
           "value": {
             "item": {
-              "ITEM": "minecraft:potion",
+              "ITEM": "the_vault:altar_recatalyzer",
               "AMOUNT": 1,
-              "NBT": "{\"Potion\":\"parcool:energy_drink\"}"
+              "NBT": "{}"
             },
-            "minPrice": 800,
-            "maxPrice": 1600
+            "minPrice": 300,
+            "maxPrice": 700
           },
           "weight": 16
         },
@@ -1247,20 +1247,20 @@
               "AMOUNT": 1,
               "NBT": "{}"
             },
-            "minPrice": 5000,
-            "maxPrice": 7000
+            "minPrice": 3200,
+            "maxPrice": 6400
           },
           "weight": 8
         },
         {
           "value": {
             "item": {
-              "ITEM": "minecraft:potion",
+              "ITEM": "the_vault:altar_recatalyzer",
               "AMOUNT": 1,
-              "NBT": "{\"Potion\":\"parcool:energy_drink\"}"
+              "NBT": "{}"
             },
-            "minPrice": 800,
-            "maxPrice": 1600
+            "minPrice": 300,
+            "maxPrice": 700
           },
           "weight": 16
         },
@@ -1961,20 +1961,20 @@
               "AMOUNT": 1,
               "NBT": "{}"
             },
-            "minPrice": 5000,
-            "maxPrice": 7000
+            "minPrice": 3200,
+            "maxPrice": 6400
           },
           "weight": 8
         },
         {
           "value": {
             "item": {
-              "ITEM": "minecraft:potion",
+              "ITEM": "the_vault:altar_recatalyzer",
               "AMOUNT": 1,
-              "NBT": "{\"Potion\":\"parcool:energy_drink\"}"
+              "NBT": "{}"
             },
-            "minPrice": 800,
-            "maxPrice": 1600
+            "minPrice": 300,
+            "maxPrice": 700
           },
           "weight": 16
         },

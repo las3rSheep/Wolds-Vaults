@@ -1074,6 +1074,31 @@
         "text": "!"
       }
     ],
+    "Oops, All Iron Mods": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Iron Generators, Iron Furnaces, and Iron Chests ",
+        "color": "yellow"
+      },
+      {
+        "text": "mods!\n\nIron Generators are a great entry point to "
+      },
+      {
+        "text": "Forge Energy (FE)",
+        "color": "aqua"
+      },
+      {
+        "text": " that is required by other mods to run. While Iron Generators is fairly basic, it can certainly be the best choice for early to mid game power generation!"
+      },
+      {
+        "text": "\n\nIron Chests is a simple way to expand your storage with some upgraded chests."
+      },
+      {
+        "text": "\n\nIron Furnaces provides you with upgraded furnaces, making your smelting processing much quicker."
+      }
+    ],
     "Iron Generators": [
       {
         "text": "Unlocks the "
@@ -1467,6 +1492,30 @@
         "text": "mods\n\nThese mods provides you with some fun and useful furniture as well as Bamboo Spikes that can be very useful in mob farms."
       }
     ],
+    "Compressed Creativity": [
+      {
+        "text": "Unlocks the"
+      },
+      {
+        "text": " Compressed Creativity ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Create and PneumaticCraft\n\nThis mod adds some new blocks and items that add better integration between Create and PneumaticCraft, such as letting you convert air pressure into SU/RPM."
+      }
+    ],
+    "Advanced Peripherals": [
+      {
+        "text": "Unlocks the"
+      },
+      {
+        "text": " Advanced Peripherals ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for ComputerCraft\n\nThis mod adds lots of new blocks that integrate with ComputerCraft such as the Chat Box and Environmental Scanner, among many more! Take your computing to the next level."
+      }
+    ],
     "ComputerCraft": [
       {
         "text": "Unlocks the"
@@ -1560,11 +1609,18 @@
       },
       {
         "text": "mod\n\nThis mod generates power through a few different options using fuel.\n\n"
+      }
+    ],
+    "Incorporeal": [
+      {
+        "text": "Unlocks the "
       },
       {
-        "text": "Note, requires machine cases from RFTools Base",
-        "italic": true,
-        "color": "#FFF5CF"
+        "text": "Incorporeal ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Botania\n\nThis mod adds new ways of interacting with your Corporea system, some decorative blocks, and some other nifty and fun little things.\n\n"
       }
     ],
     "Easy Villagers": [

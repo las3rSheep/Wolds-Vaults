@@ -20,11 +20,11 @@ onEvent("recipes", event => {
             'DCD',
             'LBL'
         ], {
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         D: 'the_vault:chromatic_steel_block',
         C: 'minecraft:redstone_block',
         L: 'the_vault:black_chromatic_steel_ingot',
-        B: 'the_vault:perfect_echo_gem'
+        B: 'the_vault:extraordinary_benitoite'
     })
 
     event.shaped(Item.of('scannable:blank_module'),
@@ -127,7 +127,7 @@ onEvent("recipes", event => {
         M: 'scannable:blank_module',
         R: '#the_vault:vault_ores',
         X: 'the_vault:extraordinary_larimar',
-        V: 'the_vault:gem_pog',
+        V: 'the_vault:pog_prism',
         B: 'the_vault:black_chromatic_steel_block'
     })
 
@@ -155,7 +155,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:wooden_chest_placeable',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:extraordinary_larimar'
     })
 
@@ -167,7 +167,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:ornate_chest_placeable',
-        B: 'the_vault:echo_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:extraordinary_painite'
     })
 
@@ -179,7 +179,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:living_chest_placeable',
-        B: 'the_vault:echo_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:extraordinary_alexandrite'
     })
 
@@ -191,7 +191,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:gilded_chest_placeable',
-        B: 'the_vault:echo_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:vault_diamond_block'
     })
 
@@ -203,7 +203,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:enigma_chest_placeable',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:extraordinary_larimar'
     })
 
@@ -215,8 +215,8 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:treasure_chest_placeable',
-        B: 'the_vault:gem_pog',
-        X: 'the_vault:extraordinary_black_opal'
+        B: 'the_vault:pog_prism',
+        X: 'the_vault:extraordinary_larimar'
     })
 
     event.shaped(Item.of('scannable:vault_coins_module'),
@@ -227,7 +227,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:vault_palladium',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:vault_diamond_block'
     })
 
@@ -239,7 +239,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:eternal_soul',
-        B: 'the_vault:gem_pog',
+        B: 'the_vault:pog_prism',
         X: 'the_vault:compressed_soot_block'
     })
 

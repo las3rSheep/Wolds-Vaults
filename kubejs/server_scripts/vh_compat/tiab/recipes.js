@@ -12,13 +12,15 @@ onEvent("recipes", event => {
             'DCD',
             'LBL'
         ], {
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         D: 'the_vault:vault_diamond_block',
         C: 'minecraft:clock',
         L: 'the_vault:gem_echo',
         B: 'minecraft:glass_bottle'
 
     })
+
+
 
 
 })

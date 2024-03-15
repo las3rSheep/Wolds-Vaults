@@ -14,8 +14,8 @@ onEvent("recipes", event => {
             'PXP'
         ], {
         P: 'the_vault:extraordinary_painite',
-        X: 'the_vault:black_chromatic_steel_block',
-        T: 'the_vault:echo_pog'
+        X: 'the_vault:black_chromatic_steel_ingot',
+        T: 'the_vault:pog_prism'
     })
 
     event.shaped(Item.of('entangled:item'),

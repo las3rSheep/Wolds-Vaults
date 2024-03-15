@@ -2,13 +2,14 @@
 onEvent("recipes", event => {
     event.shaped(Item.of('sophisticatedstorage:treasure_chest'),
         [
-            'IXI',
+            'ITI',
             'XCX',
-            'IXI'
+            'ITI'
         ], {
         C: 'the_vault:treasure_chest_placeable',
         X: 'the_vault:vault_diamond_block',
-        I: 'the_vault:gem_pog'
+        I: 'the_vault:pog_prism',
+        T: 'the_vault:extraordinary_larimar'
     })
 
     event.shaped(Item.of('sophisticatedstorage:wooden_chest'),

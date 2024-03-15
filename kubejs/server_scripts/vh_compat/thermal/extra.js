@@ -187,7 +187,7 @@ onEvent("recipes", event => {
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         D: 'thermal_extra:dragonsteel_gear',
         C: 'thermal_extra:area_radius_augment_3'
     })
@@ -242,7 +242,7 @@ onEvent("recipes", event => {
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         D: 'thermal_extra:dragonsteel_gear',
         C: 'thermal_extra:rf_coil_storage_augment_4'
     })
@@ -297,7 +297,7 @@ onEvent("recipes", event => {
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         D: 'thermal_extra:dragonsteel_gear',
         C: 'thermal_extra:rf_coil_xfer_augment_4'
     })
@@ -352,7 +352,7 @@ onEvent("recipes", event => {
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         D: 'thermal_extra:dragonsteel_gear',
         C: 'thermal_extra:fluid_tank_augment_4'
     })
@@ -396,7 +396,7 @@ onEvent("recipes", event => {
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:gem_pog',
+        P: 'the_vault:pog_prism',
         D: 'thermal_extra:twinite_gear',
         C: 'thermal_extra:machine_speed_augment_3'
     })

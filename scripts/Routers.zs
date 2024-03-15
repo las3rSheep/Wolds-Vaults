@@ -16,8 +16,8 @@ craftingTable.addShaped("modularrouters_sender_module_2", <item:modularrouters:s
 ]);
 
 craftingTable.addShapeless("modularrouters_sender_module_3", <item:modularrouters:sender_module_3>, [
-    <item:modularrouters:sender_module_2>, <item:the_vault:perfect_echo_gem>, <item:minecraft:ender_chest>,
-    <item:the_vault:gem_pog>, <item:the_vault:echo_pog>, <item:the_vault:gem_pog>,
+    <item:modularrouters:sender_module_2>, <item:the_vault:extraordinary_black_opal>, <item:minecraft:ender_chest>,
+    <item:the_vault:gem_pog>, <item:the_vault:pog_prism>, <item:the_vault:gem_pog>,
     <item:modularrouters:sender_module_2>, <item:modularrouters:blank_upgrade>
 ]);
 

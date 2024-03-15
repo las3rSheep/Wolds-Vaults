@@ -1151,6 +1151,29 @@ modBox.addRecipe([
 
 modBox.addRecipe([
     letterItem("i", "blue"),
+    letterItem("d", "blue"),
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    <item:minecraft:air>,
+    lootItem("integrateddynamics:variable", 8, 16, 15.8),
+    lootItem("integrateddynamics:cable", 4, 6, 15.8),
+    lootItem("integrateddynamics:crystalized_menril_block", 4, 8, 15.8),
+    lootItem("integrateddynamics:logic_director", 1, 1, 3.0),
+    lootItem("integrateddynamics:variable_transformer_output", 2, 2, 11.1),
+    lootItem("integrateddynamics:variable_transformer_input", 2, 2, 11.1),
+    lootItem("integrateddynamics:variablestore", 1, 1, 3.0),
+    lootItem("integrateddynamics:menril_berries", 1, 1, 8.0),
+    lootItem("integrateddynamics:part_connector_mono_directional", 1, 1, 3.2),
+    lootItem("integrateddynamics:part_connector_omni_directional", 1, 1, 0.32),
+    lootItem("integratedtunnels:part_interface_energy", 1, 1, 8.0),
+    lootItem("integratedtunnels:part_interface_item", 1, 1, 8.0),
+    lootItem("integratedtunnels:part_interface_fluid", 1, 1, 8.0)
+], []);
+
+//modBox.addRecipe([
+    letterItem("i", "blue"),
     letterItem("c", "blue"),
     letterItem("h", "blue"),
     letterItem("e", "blue"),

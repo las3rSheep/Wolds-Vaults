@@ -1,7 +1,8 @@
 {
   "modifierGroup": {
     "IMPLICIT": [
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
         "tiers": [
@@ -27,7 +28,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:range",
+      {
+        "attribute": "the_vault:range",
         "group": "BaseRange",
         "identifier": "the_vault:base_range",
         "tiers": [
@@ -113,7 +115,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:velocity",
+      {
+        "attribute": "the_vault:velocity",
         "group": "BaseVelocity",
         "identifier": "the_vault:base_velocity",
         "tiers": [
@@ -159,11 +162,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:soulbound",
+      {
+        "attribute": "the_vault:soulbound",
         "group": "BaseSoulbound",
         "identifier": "the_vault:base_soulbound",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -175,11 +178,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:soulbound",
+      {
+        "attribute": "the_vault:soulbound",
         "group": "BaseSoulbound",
         "identifier": "the_vault:base_no_soulbound",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -190,10 +193,43 @@
             }
           }
         ]
+      },
+      {
+        "attribute": "the_vault:endergized",
+        "group": "BaseEndergized",
+        "identifier": "the_vault:base_endergized",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:endergized",
+        "group": "BaseEndergized",
+        "identifier": "the_vault:base_no_endergized",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 90,
+            "value": {
+              "flag": false
+            }
+          }
+        ]
       }
     ],
     "PREFIX": [
-      { "attribute": "the_vault:mining_speed",
+      {
+        "attribute": "the_vault:mining_speed",
         "group": "ModMiningSpeed",
         "identifier": "the_vault:mod_mining_speed",
         "tags": [
@@ -252,7 +288,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:range",
+      {
+        "attribute": "the_vault:range",
         "group": "ModRange",
         "identifier": "the_vault:mod_range",
         "tags": [
@@ -331,7 +368,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:velocity",
+      {
+        "attribute": "the_vault:velocity",
         "group": "ModVelocity",
         "identifier": "the_vault:mod_velocity",
         "tags": [
@@ -420,7 +458,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:reach",
+      {
+        "attribute": "the_vault:reach",
         "group": "ModReach",
         "identifier": "the_vault:mod_reach",
         "tags": [
@@ -499,7 +538,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "ModDurability",
         "identifier": "the_vault:mod_durability",
         "tags": [
@@ -560,7 +600,8 @@
       }
     ],
     "SUFFIX": [
-      { "attribute": "the_vault:item_quantity",
+      {
+        "attribute": "the_vault:item_quantity",
         "group": "ModItemQuantity",
         "identifier": "the_vault:mod_item_quantity",
         "tags": [
@@ -639,7 +680,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModItemRarity",
         "identifier": "the_vault:mod_item_rarity",
         "tags": [
@@ -717,8 +759,9 @@
             }
           }
         ]
-      },     
-      { "attribute": "the_vault:copiously",
+      },
+      {
+        "attribute": "the_vault:copiously",
         "group": "ModCopiously",
         "identifier": "the_vault:copiously",
         "tags": [
@@ -797,7 +840,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:soul_chance",
+      {
+        "attribute": "the_vault:soul_chance",
         "group": "ModSoulChance",
         "identifier": "the_vault:mod_soul_chance",
         "tags": [
@@ -864,11 +908,10 @@
               "step": 0.01
             }
           }
-          
-          
         ]
       },
-      { "attribute": "the_vault:trap_disarming",
+      {
+        "attribute": "the_vault:trap_disarming",
         "group": "ModTrapDisarming",
         "identifier": "the_vault:mod_trap_disarming",
         "tags": [
@@ -939,7 +982,8 @@
       }
     ],
     "CRAFTED_PREFIX": [
-      { "attribute": "the_vault:mining_speed",
+      {
+        "attribute": "the_vault:mining_speed",
         "group": "ModMiningSpeed",
         "identifier": "the_vault:crafted_mining_speed",
         "tags": [
@@ -978,7 +1022,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:range",
+      {
+        "attribute": "the_vault:range",
         "group": "ModRange",
         "identifier": "the_vault:crafted_range",
         "tags": [
@@ -1037,7 +1082,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:velocity",
+      {
+        "attribute": "the_vault:velocity",
         "group": "ModVelocity",
         "identifier": "the_vault:crafted_velocity",
         "tags": [
@@ -1106,7 +1152,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:reach",
+      {
+        "attribute": "the_vault:reach",
         "group": "ModReach",
         "identifier": "the_vault:crafted_reach",
         "tags": [
@@ -1165,7 +1212,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "ModDurability",
         "identifier": "the_vault:crafted_durability",
         "tags": [
@@ -1206,7 +1254,8 @@
       }
     ],
     "CRAFTED_SUFFIX": [
-      { "attribute": "the_vault:item_quantity",
+      {
+        "attribute": "the_vault:item_quantity",
         "group": "ModItemQuantity",
         "identifier": "the_vault:crafted_item_quantity",
         "tags": [
@@ -1265,7 +1314,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModItemRarity",
         "identifier": "the_vault:crafted_item_rarity",
         "tags": [
@@ -1343,10 +1393,9 @@
             }
           }
         ]
-      },     
-
-
-      { "attribute": "the_vault:copiously",
+      },
+      {
+        "attribute": "the_vault:copiously",
         "group": "ModCopiously",
         "identifier": "the_vault:crafted_copiously",
         "tags": [
@@ -1405,7 +1454,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:soul_chance",
+      {
+        "attribute": "the_vault:soul_chance",
         "group": "ModSoulChance",
         "identifier": "the_vault:crafted_soul_chance",
         "tags": [
@@ -1452,11 +1502,10 @@
               "step": 0.01
             }
           }
-          
-          
         ]
       },
-      { "attribute": "the_vault:trap_disarming",
+      {
+        "attribute": "the_vault:trap_disarming",
         "group": "ModTrapDisarming",
         "identifier": "the_vault:crafted_trap_disarming",
         "tags": [

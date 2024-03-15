@@ -19,7 +19,7 @@ onEvent("recipes", event => {
         T: 'the_vault:extraordinary_larimar'
     })
 
-    
+
     event.shaped(Item.of('effortlessbuilding:reach_upgrade2'),
         [
             'PXP',
@@ -31,7 +31,7 @@ onEvent("recipes", event => {
         T: 'the_vault:extraordinary_larimar'
     })
 
-    
+
     event.shaped(Item.of('effortlessbuilding:reach_upgrade3'),
         [
             'PXP',
@@ -39,8 +39,8 @@ onEvent("recipes", event => {
             'PXP'
         ], {
         P: 'the_vault:extraordinary_benitoite',
-        X: 'the_vault:gem_echo',
-        T: 'the_vault:gem_pog'
+        X: 'the_vault:extraordinary_larimar',
+        T: 'the_vault:pog_prism'
     })
 
 
