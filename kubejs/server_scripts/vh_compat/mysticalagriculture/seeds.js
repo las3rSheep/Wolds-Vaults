@@ -242,7 +242,7 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:supremium_essence').toJson(),
             Item.of('the_vault:perfect_echo_gem').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
-            Item.of('powah:enderium_ingot').toJson(),
+            Item.of('thermal:enderium_ingot').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
             Item.of('the_vault:perfect_echo_gem').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson()
@@ -271,13 +271,13 @@ onEvent("recipes", event => {
         type: 'mysticalagriculture:infusion',
         input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
         ingredients: [
-            Item.of('minecraft:lapis_lazuli_block').toJson(),
+            Item.of('minecraft:lapisblock').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson(),
-            Item.of('minecraft:lapis_lazuli_block').toJson(),
+            Item.of('minecraft:lapis_block').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson(),
-            Item.of('minecraft:lapis_lazuli_block').toJson(),
+            Item.of('minecraft:lapis_block').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson(),
-            Item.of('minecraft:lapis_lazuli_block').toJson(),
+            Item.of('minecraft:lapis_block').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:lapis_lazuli_seeds').toResultJson()

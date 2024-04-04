@@ -180,6 +180,15 @@
       ],
       "levels": 1
     },
+    "ensorcellation:curse_mercy": {
+      "items": [
+        {
+          "id": "the_vault:mystical_powder",
+          "count": 1
+        }
+      ],
+      "levels": 1
+    },
     "feather_falling": {
       "items": [
         {

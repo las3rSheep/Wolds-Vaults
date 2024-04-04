@@ -119,6 +119,9 @@
         },
         "the_vault:completion_haunted_mono_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_haunted_mono_lvl100": {
+          "level": 100
         }
       }
     },
@@ -130,6 +133,9 @@
         },
         "the_vault:completion_mono_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_mono_lvl100": {
+          "level": 100
         }
       }
     },
@@ -141,6 +147,9 @@
         },
         "the_vault:completion_kill_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_kill_lvl100": {
+          "level": 100
         }
       }
     },
@@ -152,6 +161,9 @@
         },
         "the_vault:completion_elix_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_elix_lvl100": {
+          "level": 100
         }
       }
     },
@@ -163,6 +175,9 @@
         },
         "the_vault:completion_enchanted_elix_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_enchanted_elix_lvl100": {
+          "level": 100
         }
       }
     },
@@ -174,6 +189,9 @@
         },
         "the_vault:completion_scav_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_scav_lvl100": {
+          "level": 100
         }
       }
     },
@@ -185,6 +203,9 @@
         },
         "the_vault:completion_uscav_lvl20": {
           "level": 20
+        },
+        "the_vault:completion_uscav_lvl100": {
+          "level": 100
         }
       }
     },
@@ -210,6 +231,9 @@
       "lootTableKeys": {
         "the_vault:completion_paradox": {
           "level": 0
+        },
+        "the_vault:completion_paradoxlvl100": {
+          "level": 100
         }
       }
     },

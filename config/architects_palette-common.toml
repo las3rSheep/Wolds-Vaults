@@ -21,4 +21,3 @@ sunstoneSpreadChance = 0.35
 		globalWorldGenToggle = true
 		#Controls the spawning of Monazite, Ekanite, and Heliodor rods in various Nether biomes.
 		netherCrystalGeneration = true
-

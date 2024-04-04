@@ -751,7 +751,7 @@
       "goalCount": {
         "type": "uniform",
         "min": 4,
-        "max": 6
+        "max": 5
       },
       "itemCount": {
         "type": "uniform",

@@ -983,6 +983,62 @@
     {
       "item": "vaultintegrations:teleport_enhancement",
       "value": "Teleports items transported by the Altar Conduit"
+    },
+    {
+      "item": "woldsvaults:expertise_orb",
+      "value": "Requires Vault Level 100 to use, adds 1 Expertise point unless you are maxed."
+    },
+    {
+      "item": "woldsvaults:altar_recatalyzer",
+      "value": "Sneak and right-click on your Vaultar to reroll the recipe."
+    },
+    {
+      "item": "woldsvaults:obelisk",
+      "value": "Decorative version of the Obelisk. Right-click the base to summon lightning!"
+    },
+    {
+      "item": "woldsvaults:lodestone",
+      "value": "Decorative version of the Lodestone. Sneak and right-click to get a message!"
+    },
+    {
+      "item": "woldsvaults:monolith",
+      "value": "Decorative version of the Brazier. Right-click to cycle through display options."
+    },
+    {
+      "item": "woldsvaults:scavenger_altar",
+      "value": "Decorative version of the Scavenger Altar."
+    },
+    {
+      "item": "woldsvaults:general_decor_scroll",
+      "value": "Used to create decorative versions of the Vault Objective blocks."
+    },
+    {
+      "item": "the_vault:pog_prism",
+      "value": "Ingredient for mid-tier crafting recipes."
+    },
+    {
+      "item": "woldsvaults:extraordinary_pog_prism",
+      "value": "Ingredient for high-end crafting recipes."
+    },
+    {
+      "item": "woldsvaults:inscription_box",
+      "value": "Use to create a random Inscription, including some special ones."
+    },
+    {
+      "item": "woldsvaults:omega_box",
+      "value": "Use to create a random valuable item."
+    },
+    {
+      "item": "the_vault:wold_star_chunk",
+      "value": "An extremely rare item used in crafting a Wold Star."
+    },
+    {
+      "item": "the_vault:wold_star",
+      "value": "Used in crafting Creative items."
+    },
+    {
+      "item": "the_vault:smashed_vault_gem",
+      "value": "Obtained when a vault ore would normally drop nothing."
     }
   ]
 }

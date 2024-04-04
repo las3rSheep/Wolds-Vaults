@@ -30,18 +30,18 @@ onEvent("recipes", event => {
         X: 'the_vault:packed_vault_meat_block'
     })
 
-    event.shaped(Item.of('ae2:creative_item_cell'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'megacells:item_storage_cell_256m',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'ae2:singularity'
-    })
+    // event.shaped(Item.of('ae2:creative_item_cell'),
+    //     [
+    //         'XVX',
+    //         'ECE',
+    //         'XBX'
+    //     ], {
+    //     C: 'megacells:item_storage_cell_256m',
+    //     B: 'the_vault:wold_star',
+    //     E: 'the_vault:echo_pog',
+    //     V: 'the_vault:vault_diamond_block_1',
+    //     X: 'ae2:singularity'
+    // })
 
     event.shaped(Item.of('ae2:creative_fluid_cell'),
         [

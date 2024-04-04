@@ -188,6 +188,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "woldsvaults:general_decor_scroll"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 111
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:helmet",
               "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
             },
@@ -592,6 +603,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "woldsvaults:general_decor_scroll"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 111
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "sophisticatedbackpacks:diamond_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -943,6 +965,17 @@
             "MAX_COST": 28
           },
           "weight": 40
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:general_decor_scroll"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 111
+          },
+          "weight": 4
         },
         {
           "value": {
@@ -1508,6 +1541,17 @@
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 64,
             "MAX_COST": 128
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:general_decor_scroll"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 111
           },
           "weight": 4
         },

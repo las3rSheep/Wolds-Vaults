@@ -25,11 +25,10 @@ onEvent("recipes", event => {
     event.shaped(Item.of('advancedperipherals:inventory_manager'),
         [
             'IXI',
-            'BCB',
+            'XCX',
             'IXI'
         ], {
         I: 'the_vault:chromatic_steel_block',
-        B: 'the_vault:extraordinary_larimar',
         X: 'the_vault:echo_pog',
         C: 'advancedperipherals:peripheral_casing'
     }).id('advancedperipherals:inventory_manager')

@@ -72,7 +72,8 @@ onEvent("recipes", event => {
         ], {
         I: 'the_vault:chromatic_iron_ingot',
         S: '#minecraft:wooden_stairs',
-        C: 'littlelogistics:barge'
+        C: 'littlelogistics:barge',
+        L: 'the_vault:perfect_larimar'
     }).id('littlelogistics:seater_barge')
 
     event.shaped(Item.of('littlelogistics:tug'),
@@ -111,7 +112,7 @@ onEvent("recipes", event => {
         [
             ' R ',
             'LTL',
-            ' R'
+            ' R '
         ], {
         R: 'minecraft:redstone',
         L: 'the_vault:perfect_larimar',
@@ -122,7 +123,7 @@ onEvent("recipes", event => {
         [
             ' R ',
             'LTL',
-            ' R'
+            ' R '
         ], {
         R: 'minecraft:redstone',
         L: 'the_vault:perfect_larimar',

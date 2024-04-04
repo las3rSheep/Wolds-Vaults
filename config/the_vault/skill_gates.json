@@ -322,7 +322,7 @@
         "dependsOn": [
           {
             "type": "constant",
-            "id": "Iron Furnaces"
+            "id": "Oops, All Iron Mods"
           },
           {
             "type": "constant",
@@ -544,6 +544,10 @@
           {
             "type": "constant",
             "id": "RFTools Utility"
+          },
+          {
+            "type": "constant",
+            "id": "Thermal Expansion"
           }
         ],
         "ignoreArrow": true,

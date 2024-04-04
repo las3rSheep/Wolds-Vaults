@@ -190,7 +190,8 @@
     },
     {
       "modIds": [
-        "tiab"
+        "tiab",
+        "weather_control"
       ],
       "restrictions": {
         "restricts": {
@@ -202,7 +203,7 @@
         }
       },
       "name": "Time in a Bottle",
-      "cost": 2,
+      "cost": 4,
       "usesKnowledge": true
     },
     {
@@ -535,6 +536,23 @@
     },
     {
       "modIds": [
+        "functionalstorage"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Functional Storage",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "ironchests",
         "ironfurnaces",
         "irongenerators"
@@ -550,23 +568,6 @@
       },
       "name": "Oops, All Iron Mods",
       "cost": 5,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "ironchests"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Iron Chests",
-      "cost": 1,
       "usesKnowledge": true
     },
     {
@@ -637,23 +638,6 @@
         "the_vault:gear/armor/robotic/leggings",
         "the_vault:gear/armor/robotic/boots"
       ]
-    },
-    {
-      "modIds": [
-        "ironfurnaces"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Iron Furnaces",
-      "cost": 4,
-      "usesKnowledge": true
     },
     {
       "modIds": [
@@ -1933,64 +1917,6 @@
       "entityRestrictions": {},
       "name": "Big Backpacks",
       "cost": 3,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "irongenerators:stone_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "irongenerators:iron_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "irongenerators:gold_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "irongenerators:diamond_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "irongenerators:netherite_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "irongenerators:copper_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "ironfurnaces:augment_generator": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Iron Generators",
-      "cost": 1,
       "usesKnowledge": true
     },
     {

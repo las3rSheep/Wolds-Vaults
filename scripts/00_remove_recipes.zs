@@ -715,23 +715,6 @@ craftingTable.remove(<item:buildinggadgets:gadget_exchanging>);
 craftingTable.remove(<item:rftoolsbase:crafting_card>);
 craftingTable.remove(<item:rftoolsbase:machine_frame>);
 
-// Simple Storage
-craftingTable.remove(<item:storagenetwork:inventory_remote>);
-craftingTable.remove(<item:storagenetwork:builder_remote>);
-craftingTable.remove(<item:storagenetwork:crafting_remote>);
-craftingTable.remove(<item:storagenetwork:inventory>);
-craftingTable.remove(<item:storagenetwork:request>);
-craftingTable.remove(<item:storagenetwork:master>);
-craftingTable.remove(<item:storagenetwork:kabel>);
-craftingTable.remove(<item:storagenetwork:storage_kabel>);
-craftingTable.remove(<item:storagenetwork:filter_kabel>);
-craftingTable.remove(<item:storagenetwork:speed_upgrade>);
-craftingTable.remove(<item:storagenetwork:stack_upgrade>);
-craftingTable.remove(<item:storagenetwork:collector_remote>);
-craftingTable.remove(<item:storagenetwork:picker_remote>);
-craftingTable.remove(<item:storagenetwork:export_kabel>);
-craftingTable.remove(<item:storagenetwork:import_filter_kabel>);
-craftingTable.remove(<item:storagenetwork:import_kabel>);
 
 // Xnet
 for cable in cables {
@@ -1175,17 +1158,6 @@ JEI.hideIngredient(<item:thermal:drill_head>);
 JEI.hideIngredient(<item:thermal:device_potion_diffuser>);
 JEI.hideIngredient(<item:thermal:chiller_rod_cast>);
 JEI.hideIngredient(<item:thermal:chiller_ingot_cast>);
-// Simple Storage
-JEI.hideIngredient(<item:storagenetwork:inventory_remote>);
-JEI.hideIngredient(<item:storagenetwork:builder_remote>);
-JEI.hideIngredient(<item:storagenetwork:crafting_remote>);
-JEI.hideIngredient(<item:storagenetwork:collector_remote>);
-JEI.hideIngredient(<item:storagenetwork:picker_remote>);
-JEI.hideIngredient(<item:storagenetwork:request>);
-JEI.hideIngredient(<item:storagenetwork:export_kabel>);
-JEI.hideIngredient(<item:storagenetwork:filter_kabel>);
-JEI.hideIngredient(<item:storagenetwork:import_filter_kabel>);
-JEI.hideIngredient(<item:storagenetwork:import_kabel>);
 
 // Vault
 var gems = {

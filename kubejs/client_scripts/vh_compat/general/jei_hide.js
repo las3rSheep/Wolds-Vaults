@@ -40,6 +40,12 @@ onEvent('jei.hide.items', event => {
     event.hide(/ae2additions:.*cell.*/)
     event.hide(/advancedperipherals:.*_core/)
     event.hide('advancedperipherals:chunk_controller')
+    event.hide('angelring:itemring')
+    event.hide('angelring:energetic_angel_ring')
+    event.hide('angelring:leadstone_angel_ring')
+    event.hide('angelring:hardened_angel_ring')
+    event.hide('angelring:reinforced_angel_ring')
+    event.hide('angelring:resonant_angel_ring')
 })
 
 onEvent('jei.add.items', event => {

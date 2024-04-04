@@ -2,7 +2,8 @@ let removedOutputsHNN = [
     'hostilenetworks:deep_learner',
     'hostilenetworks:blank_data_model',
     'hostilenetworks:sim_chamber',
-    'hostilenetworks:loot_fabricator'
+    'hostilenetworks:loot_fabricator',
+    'hostilenetworks:empty_prediction'
 ];
 onEvent("recipes", event => {
     removedOutputsHNN.forEach(id => {
@@ -434,6 +435,7 @@ onEvent("recipes", event => {
         })
     })
 
+    event.shapeless('hostilenetworks:empty_prediction', ['4x #forge:glass_panes', 'minecraft:lapis_lazuli', 'the_vault:chromatic_iron_ingot'])
 
 
 

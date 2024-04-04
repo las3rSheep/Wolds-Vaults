@@ -53,9 +53,9 @@
         "Colossal Chests",
         "Sophisticated Storage",
         "Drawers",
-        "Iron Chests",
         "Cloud Storage",
-        "RFTools Storage"
+        "RFTools Storage",
+        "Functional Storage"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -165,7 +165,6 @@
         "Xnet",
         "Modular Routers",
         "Pipez",
-        "Iron Furnaces",
         "Dark Utilities",
         "LaserIO",
         "Super Factory Manager",

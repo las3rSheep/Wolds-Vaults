@@ -1,5 +1,5 @@
-onEvent("recipes", event => {
-    Ingredient.of('@storagenetwork').itemIds.forEach(id => {
-        event.remove({ 'output': `${id}` })
-    })
-})
+// onEvent("recipes", event => {
+//     Ingredient.of('@storagenetwork').itemIds.forEach(id => {
+//         event.remove({ 'output': `${id}` })
+//     })
+// })

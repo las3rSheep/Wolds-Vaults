@@ -131,14 +131,24 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl20.json"
     },
     {
+      "id": "the_vault:completion_scav_lvl100",
+      "name": "Scav Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl100.json"
+    },
+    {
       "id": "the_vault:completion_uscav_lvl0",
       "name": "Unhinged Scav Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl0.json"
     },
     {
       "id": "the_vault:completion_uscav_lvl20",
-      "name": "Unhinged Scav Crate lvl20",
+      "name": "Unhinged Scav Crate lvl100",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl20.json"
+    },
+    {
+      "id": "the_vault:completion_uscav_lvl100",
+      "name": "Scav Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl100.json"
     },
     {
       "id": "the_vault:completion_kill_lvl0",
@@ -151,6 +161,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl20.json"
     },
     {
+      "id": "the_vault:completion_kill_lvl100",
+      "name": "Kill Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl100.json"
+    },
+    {
       "id": "the_vault:completion_elix_lvl0",
       "name": "Elixir Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl0.json"
@@ -159,6 +174,11 @@
       "id": "the_vault:completion_elix_lvl20",
       "name": "Elixir Crate lvl20",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl20.json"
+    },
+    {
+      "id": "the_vault:completion_elix_lvl100",
+      "name": "Elixir Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl100.json"
     },
     {
       "id": "the_vault:completion_enchanted_elix_lvl0",
@@ -171,6 +191,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl20.json"
     },
     {
+      "id": "the_vault:completion_enchanted_elix_lvl100",
+      "name": "Elixir Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl100.json"
+    },
+    {
       "id": "the_vault:completion_mono_lvl0",
       "name": "Monolith Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl0.json"
@@ -181,6 +206,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl20.json"
     },
     {
+      "id": "the_vault:completion_mono_lvl100",
+      "name": "Monolith Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl100.json"
+    },
+    {
       "id": "the_vault:completion_haunted_mono_lvl0",
       "name": "Haunted Braziers Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl0.json"
@@ -189,6 +219,11 @@
       "id": "the_vault:completion_haunted_mono_lvl20",
       "name": "Haunted Braziers Crate lvl20",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl20.json"
+    },
+    {
+      "id": "the_vault:completion_haunted_mono_lvl100",
+      "name": "Haunted Braziers Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl100.json"
     },
     {
       "id": "the_vault:digsite_sand_lvl0",
@@ -371,9 +406,19 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_paradox.json"
     },
     {
+      "id": "the_vault:completion_paradox",
+      "name": "Paradox Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_paradoxlvl100.json"
+    },
+    {
       "id": "the_vault:cake_crate",
       "name": "Cake Crate",
       "1.0": "config/the_vault/gen/1.0/loot_tables/cake_crate.json"
+    },
+    {
+      "id": "the_vault:cake_crate",
+      "name": "Cake Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/cake_cratelvl100.json"
     },
     {
       "id": "the_vault:brazier_lvl0",

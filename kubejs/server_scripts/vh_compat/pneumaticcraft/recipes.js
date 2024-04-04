@@ -585,7 +585,7 @@ onEvent("recipes", event => {
         H: 'pneumaticcraft:omnidirectional_hopper',
         P: 'the_vault:echo_pog',
         S: 'minecraft:nether_star',
-        T: 'pneumaticcraft:advanced_pressure_tube'
+        T: 'the_vault:wold_star'
     })
 
     event.shaped(Item.of('pneumaticcraft:pressure_chamber_wall'),

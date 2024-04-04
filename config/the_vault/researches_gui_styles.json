@@ -108,6 +108,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/drawers"
     },
+    "Functional Storage": {
+      "x": -130,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/functional_storage"
+    },
     "Mekanism QIO": {
       "x": 570,
       "y": 0,

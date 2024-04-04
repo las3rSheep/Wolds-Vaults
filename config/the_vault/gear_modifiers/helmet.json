@@ -1,7 +1,8 @@
 {
   "modifierGroup": {
     "IMPLICIT": [
-      { "attribute": "the_vault:armor",
+      {
+        "attribute": "the_vault:armor",
         "group": "BaseModArmor",
         "identifier": "the_vault:base_armor",
         "tiers": [
@@ -97,7 +98,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
         "tiers": [
@@ -193,15 +195,15 @@
           }
         ]
       },
-      { "attribute": "the_vault:critical_hit_mitigation",
+      {
+        "attribute": "the_vault:critical_hit_mitigation",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_critical_hit_mitigation",
-        
         "tiers": [
           {
             "minLevel": 20,
             "maxLevel": 64,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 0.05,
               "max": 0.15,
@@ -211,7 +213,7 @@
           {
             "minLevel": 40,
             "maxLevel": 78,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 0.16,
               "max": 0.24,
@@ -221,7 +223,7 @@
           {
             "minLevel": 65,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 0.25,
               "max": 0.3,
@@ -231,7 +233,7 @@
           {
             "minLevel": 79,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 0.31,
               "max": 0.4,
@@ -240,15 +242,15 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power",
+      {
+        "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_ap",
-
         "tiers": [
           {
             "minLevel": 0,
             "maxLevel": 33,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 2.0,
               "max": 6.0,
@@ -258,7 +260,7 @@
           {
             "minLevel": 12,
             "maxLevel": 46,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 7.0,
               "max": 12.0,
@@ -268,7 +270,7 @@
           {
             "minLevel": 20,
             "maxLevel": 61,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 13.0,
               "max": 16.0,
@@ -278,7 +280,7 @@
           {
             "minLevel": 34,
             "maxLevel": 79,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 17.0,
               "max": 20.0,
@@ -288,7 +290,7 @@
           {
             "minLevel": 47,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 21.0,
               "max": 24.0,
@@ -298,7 +300,7 @@
           {
             "minLevel": 62,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 25.0,
               "max": 28.0,
@@ -308,7 +310,7 @@
           {
             "minLevel": 71,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 29.0,
               "max": 33.0,
@@ -318,7 +320,7 @@
           {
             "minLevel": 80,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 34.0,
               "max": 38.0,
@@ -328,7 +330,7 @@
           {
             "minLevel": 86,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 39.0,
               "max": 44.0,
@@ -338,7 +340,7 @@
           {
             "minLevel": 96,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 10,
             "value": {
               "min": 45.0,
               "max": 50.0,
@@ -347,7 +349,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:lucky_hit_chance",
+      {
+        "attribute": "the_vault:lucky_hit_chance",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_lucky_hit_chance",
         "tiers": [
@@ -373,11 +376,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:soulbound",
+      {
+        "attribute": "the_vault:soulbound",
         "group": "BaseSoulbound",
         "identifier": "the_vault:base_soulbound",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -389,11 +392,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:soulbound",
+      {
+        "attribute": "the_vault:soulbound",
         "group": "BaseSoulbound",
         "identifier": "the_vault:base_no_soulbound",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -405,10 +408,10 @@
           }
         ]
       }
-
     ],
     "PREFIX": [
-      { "attribute": "the_vault:armor",
+      {
+        "attribute": "the_vault:armor",
         "group": "ModArmor",
         "identifier": "the_vault:mod_armor",
         "tags": [
@@ -487,7 +490,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:health",
+      {
+        "attribute": "the_vault:health",
         "group": "ModHealthMana",
         "identifier": "the_vault:mod_health",
         "tags": [
@@ -576,7 +580,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_additive_percentile",
+      {
+        "attribute": "the_vault:mana_additive_percentile",
         "group": "ModHealthMana",
         "identifier": "the_vault:mod_mana_additive_percentile",
         "tags": [
@@ -645,7 +650,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:resistance",
+      {
+        "attribute": "the_vault:resistance",
         "group": "ModResistance",
         "identifier": "the_vault:mod_resistance",
         "tags": [
@@ -714,7 +720,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:damage_increase",
+      {
+        "attribute": "the_vault:damage_increase",
         "group": "ModResistance",
         "identifier": "the_vault:mod_damage_increase",
         "tags": [
@@ -793,7 +800,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power_percent",
+      {
+        "attribute": "the_vault:ability_power_percent",
         "group": "ModResistance",
         "identifier": "the_vault:mod_ability_increase",
         "tags": [
@@ -862,7 +870,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:knockback_resistance",
+      {
+        "attribute": "the_vault:knockback_resistance",
         "group": "ModKnockbackResistance",
         "identifier": "the_vault:mod_knockback_resistance",
         "tags": [
@@ -941,7 +950,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "ModDurability",
         "identifier": "the_vault:mod_durability",
         "tags": [
@@ -1023,7 +1033,8 @@
       }
     ],
     "SUFFIX": [
-      { "attribute": "the_vault:cooldown_reduction",
+      {
+        "attribute": "the_vault:cooldown_reduction",
         "group": "ModCooldownReduction",
         "identifier": "the_vault:mod_cooldown_reduction",
         "tags": [
@@ -1112,8 +1123,8 @@
           }
         ]
       },
-      
-      { "attribute": "the_vault:effect_avoidance",
+      {
+        "attribute": "the_vault:effect_avoidance",
         "group": "ModEffectAvoidance",
         "identifier": "the_vault:mod_effect_avoidance_poison",
         "tags": [
@@ -1144,7 +1155,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect_avoidance",
+      {
+        "attribute": "the_vault:effect_avoidance",
         "group": "ModEffectAvoidance",
         "identifier": "the_vault:mod_effect_avoidance_wither",
         "tiers": [
@@ -1172,7 +1184,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect_avoidance",
+      {
+        "attribute": "the_vault:effect_avoidance",
         "group": "ModEffectAvoidance",
         "identifier": "the_vault:mod_effect_avoidance_slowness",
         "tags": [
@@ -1203,7 +1216,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_quantity",
+      {
+        "attribute": "the_vault:item_quantity",
         "group": "ModItemQuantity",
         "identifier": "the_vault:mod_item_quantity",
         "tags": [
@@ -1282,7 +1296,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModItemRarity",
         "identifier": "the_vault:mod_item_rarity",
         "tags": [
@@ -1361,7 +1376,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:trap_disarming",
+      {
+        "attribute": "the_vault:trap_disarming",
         "group": "ModTrapDisarming",
         "identifier": "the_vault:mod_trap_disarming",
         "tags": [
@@ -1430,7 +1446,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:healing_effectiveness",
+      {
+        "attribute": "the_vault:healing_effectiveness",
         "group": "ModHealthEff",
         "identifier": "the_vault:mod_healing_efficiency",
         "tags": [
@@ -1519,7 +1536,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_regen",
+      {
+        "attribute": "the_vault:mana_regen",
         "group": "ModManaRegen",
         "identifier": "the_vault:mod_mana_regen",
         "tags": [
@@ -1628,7 +1646,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:soul_chance",
+      {
+        "attribute": "the_vault:soul_chance",
         "group": "ModSoulChance",
         "identifier": "the_vault:mod_soul_chance",
         "tags": [
@@ -1695,11 +1714,10 @@
               "step": 0.01
             }
           }
-          
-          
         ]
       },
-      { "attribute": "the_vault:area_of_effect",
+      {
+        "attribute": "the_vault:area_of_effect",
         "group": "ModEffectRadius",
         "identifier": "the_vault:mod_area_of_effect",
         "tags": [
@@ -2803,7 +2821,8 @@
       }
     ],
     "CRAFTED_PREFIX": [
-      { "attribute": "the_vault:armor",
+      {
+        "attribute": "the_vault:armor",
         "group": "ModArmor",
         "identifier": "the_vault:crafted_armor",
         "tags": [
@@ -2862,7 +2881,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:health",
+      {
+        "attribute": "the_vault:health",
         "group": "ModHealthMana",
         "identifier": "the_vault:crafted_health",
         "tags": [
@@ -2931,7 +2951,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "ModDurability",
         "identifier": "the_vault:crafted_durability",
         "tags": [
@@ -2990,7 +3011,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_additive_percentile",
+      {
+        "attribute": "the_vault:mana_additive_percentile",
         "group": "ModHealthMana",
         "identifier": "the_vault:crafted_mana_additive_percentile",
         "tags": [
@@ -3039,7 +3061,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:resistance",
+      {
+        "attribute": "the_vault:resistance",
         "group": "ModResistance",
         "identifier": "the_vault:crafted_resistance",
         "tags": [
@@ -3088,7 +3111,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:knockback_resistance",
+      {
+        "attribute": "the_vault:knockback_resistance",
         "group": "ModKnockbackResistance",
         "identifier": "the_vault:crafted_knockback_resistance",
         "tags": [
@@ -3147,7 +3171,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:damage_increase",
+      {
+        "attribute": "the_vault:damage_increase",
         "group": "ModResistance",
         "identifier": "the_vault:crafted_damage_increase",
         "tags": [
@@ -3206,7 +3231,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power_percent",
+      {
+        "attribute": "the_vault:ability_power_percent",
         "group": "ModResistance",
         "identifier": "the_vault:crafted_ap_increase",
         "tags": [
@@ -3257,7 +3283,8 @@
       }
     ],
     "CRAFTED_SUFFIX": [
-      { "attribute": "the_vault:cooldown_reduction",
+      {
+        "attribute": "the_vault:cooldown_reduction",
         "group": "ModCooldownReduction",
         "identifier": "the_vault:crafted_cooldown_reduction",
         "tags": [
@@ -3326,7 +3353,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:healing_effectiveness",
+      {
+        "attribute": "the_vault:healing_effectiveness",
         "group": "ModHealthEff",
         "identifier": "the_vault:crafted_healing_efficiency",
         "tags": [
@@ -3395,7 +3423,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_quantity",
+      {
+        "attribute": "the_vault:item_quantity",
         "group": "ModItemQuantity",
         "identifier": "the_vault:crafted_item_quantity",
         "tags": [
@@ -3454,7 +3483,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModItemRarity",
         "identifier": "the_vault:crafted_item_rarity",
         "tags": [
@@ -3513,7 +3543,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:trap_disarming",
+      {
+        "attribute": "the_vault:trap_disarming",
         "group": "ModTrapDisarming",
         "identifier": "the_vault:crafted_trap_disarming",
         "tags": [
@@ -3562,7 +3593,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_regen",
+      {
+        "attribute": "the_vault:mana_regen",
         "group": "ModManaRegen",
         "identifier": "the_vault:crafted_mana_regen",
         "tags": [
@@ -3651,7 +3683,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:soul_chance",
+      {
+        "attribute": "the_vault:soul_chance",
         "group": "ModSoulChance",
         "identifier": "the_vault:crafted_soul_chance",
         "tags": [
@@ -3700,7 +3733,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:area_of_effect",
+      {
+        "attribute": "the_vault:area_of_effect",
         "group": "ModEffectRadius",
         "identifier": "the_vault:crafted_area_of_effect",
         "tags": [
