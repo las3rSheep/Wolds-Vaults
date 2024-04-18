@@ -63,6 +63,7 @@ onEvent('item.tags', event => {
 
     event.add('the_vault:spawnegg', 'quark:wraith_spawn_egg')
     event.add('the_vault:spawnegg', 'quark:toretoise_spawn_egg')
+    event.add('the_vault:spawnegg', 'quark:frog_spawn_egg')
     event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_badloon')
     event.add('the_vault:spawnegg', 'cloudstorage:spawn_egg_bloviator')
     event.add('the_vault:spawnegg', 'thermal:blizz_spawn_egg')

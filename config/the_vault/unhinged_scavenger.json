@@ -689,6 +689,54 @@
             "the_vault:deep_dark_skeleton",
             "rottencreatures:dead_beard"
           ]
+        },
+        "the_vault:scavenger_enderman_eye": {
+          "weight": 1,
+          "multiplier": 0.8,
+          "color": 7012096,
+          "mobs": [
+            "minecraft:enderman",
+            "the_vault:t1_enderman",
+            "the_vault:t2_enderman",
+            "the_vault:t3_enderman",
+            "the_vault:elite_enderman"
+          ]
+        },
+        "the_vault:scavenger_ender_heart": {
+          "weight": 1,
+          "multiplier": 0.8,
+          "color": 7012096,
+          "mobs": [
+            "minecraft:enderman",
+            "the_vault:t1_enderman",
+            "the_vault:t2_enderman",
+            "the_vault:t3_enderman",
+            "the_vault:elite_enderman"
+          ]
+        },
+        "the_vault:scavenger_ender_artifact": {
+          "weight": 1,
+          "multiplier": 0.8,
+          "color": 7012096,
+          "mobs": [
+            "minecraft:enderman",
+            "the_vault:t1_enderman",
+            "the_vault:t2_enderman",
+            "the_vault:t3_enderman",
+            "the_vault:elite_enderman"
+          ]
+        },
+        "the_vault:scavenger_ender_crystal": {
+          "weight": 1,
+          "multiplier": 0.8,
+          "color": 7012096,
+          "mobs": [
+            "minecraft:enderman",
+            "the_vault:t1_enderman",
+            "the_vault:t2_enderman",
+            "the_vault:t3_enderman",
+            "the_vault:elite_enderman"
+          ]
         }
       }
     }

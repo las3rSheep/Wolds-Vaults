@@ -153,6 +153,20 @@
         }
       }
     },
+    "the_vault:completion_crate_brutal_bosses": {
+      "display": "Brutal Bosses Completion Crate",
+      "lootTableKeys": {
+        "the_vault:completion_brutal_lvl0": {
+          "level": 0
+        },
+        "the_vault:completion_brutal_lvl20": {
+          "level": 20
+        },
+        "the_vault:completion_brutal_lvl100": {
+          "level": 100
+        }
+      }
+    },
     "the_vault:completion_crate_elixir": {
       "display": "Elixir Completion Crate",
       "lootTableKeys": {

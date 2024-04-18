@@ -45,4 +45,15 @@ onEvent('recipes', event => {
         C: 'minecraft:campfire'
     })
 
+    event.shaped(Item.of('woldsvaults:mob_barrier_red', 16),
+        [
+            'XYX',
+            'YGY',
+            'XYX'
+        ], {
+        X: 'the_vault:gem_painite',
+        Y: 'minecraft:red_stained_glass',
+        G: 'minecraft:bone'
+    })
+
 })

@@ -153,12 +153,11 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of(`functionalstorage:gold_upgrade`),
         [
-            'cCc',
+            'ccc',
             'SDS',
-            'CcC'
+            'cCc'
         ], {
         c: 'the_vault:chromatic_gold_ingot',
-        C: 'the_vault:chromatic_gold_block',
         S: 'the_vault:perfect_larimar',
         D: 'functionalstorage:copper_upgrade'
     }).id('functionalstorage:gold_upgrade')

@@ -39,6 +39,18 @@ onEvent('recipes', event => {
         B: 'the_vault:extraordinary_alexandrite'
     })
 
+    event.shaped(Item.of('the_vault:crystal_seal_titan'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:diamond_sword',
+        X: 'the_vault:vault_essence_1',
+        R: 'the_vault:crystal_seal_executioner',
+        B: 'the_vault:vault_diamond_block'
+    })
+
     event.shaped(Item.of('the_vault:augment_box'),
         [
             'GXG',
@@ -139,7 +151,7 @@ onEvent('recipes', event => {
     event.shapeless('8x the_vault:gem_black_opal', ['the_vault:block_gem_black_opal'])
     event.shapeless('8x the_vault:gem_echo', ['the_vault:block_gem_echo'])
 
-    event.shapeless('8x the_vault:gem_sparkletine', ['the_vault:block_gem_larimar'])
+    event.shapeless('8x the_vault:gem_sparkletine', ['the_vault:block_gem_sparkletine'])
     event.shapeless('8x the_vault:gem_iskallium', ['the_vault:block_gem_iskallium'])
     event.shapeless('8x the_vault:gem_ashium', ['the_vault:block_gem_ashium'])
     event.shapeless('8x the_vault:gem_xenium', ['the_vault:block_gem_xenium'])

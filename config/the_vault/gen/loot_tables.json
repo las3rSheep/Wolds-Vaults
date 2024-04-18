@@ -166,6 +166,21 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl100.json"
     },
     {
+      "id": "the_vault:completion_brutal_lvl0",
+      "name": "Kill Crate lvl0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl0.json"
+    },
+    {
+      "id": "the_vault:completion_brutal_lvl20",
+      "name": "Kill Crate lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl20.json"
+    },
+    {
+      "id": "the_vault:completion_brutal_lvl100",
+      "name": "Kill Crate lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl100.json"
+    },
+    {
       "id": "the_vault:completion_elix_lvl0",
       "name": "Elixir Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl0.json"
@@ -406,7 +421,7 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_paradox.json"
     },
     {
-      "id": "the_vault:completion_paradox",
+      "id": "the_vault:completion_paradoxlvl100",
       "name": "Paradox Crate lvl100",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_paradoxlvl100.json"
     },
@@ -416,7 +431,7 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/cake_crate.json"
     },
     {
-      "id": "the_vault:cake_crate",
+      "id": "the_vault:cake_cratelvl100",
       "name": "Cake Crate lvl100",
       "1.0": "config/the_vault/gen/1.0/loot_tables/cake_cratelvl100.json"
     },

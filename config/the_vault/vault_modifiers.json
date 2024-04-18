@@ -2083,6 +2083,18 @@
           "description": "Unknown Negative Modifier",
           "icon": "the_vault:gui/modifiers/impossible"
         }
+      },
+      "the_vault:random_harsh_negative": {
+        "properties": {
+          "pool": "the_vault:random_harsh_negative",
+          "level": 0
+        },
+        "display": {
+          "name": "Random Harsh Negative",
+          "color": "#fe3333",
+          "description": "Unknown Negative Modifier",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
       }
     },
     "the_vault:modifier_type/decorator_cascade": {

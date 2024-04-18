@@ -1,12 +1,7 @@
 [
     {
+        "mod": "naturalist",
         "dimension": "minecraft:overworld",
-        "hostile": true,
-        "mincount": {
-            "amount": 20,
-            "hostile": true,
-            "perplayer": true
-        },
         "result": "deny"
     },
     {

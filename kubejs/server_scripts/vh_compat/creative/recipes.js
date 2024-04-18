@@ -30,32 +30,6 @@ onEvent("recipes", event => {
         X: 'the_vault:packed_vault_meat_block'
     })
 
-    // event.shaped(Item.of('ae2:creative_item_cell'),
-    //     [
-    //         'XVX',
-    //         'ECE',
-    //         'XBX'
-    //     ], {
-    //     C: 'megacells:item_storage_cell_256m',
-    //     B: 'the_vault:wold_star',
-    //     E: 'the_vault:echo_pog',
-    //     V: 'the_vault:vault_diamond_block_1',
-    //     X: 'ae2:singularity'
-    // })
-
-    event.shaped(Item.of('ae2:creative_fluid_cell'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'megacells:fluid_storage_cell_256m',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'ae2:singularity'
-    })
-
     event.shaped(Item.of('botania:creative_pool'),
         [
             'XVX',
@@ -67,32 +41,6 @@ onEvent("recipes", event => {
         E: 'the_vault:wold_star',
         V: 'the_vault:vault_diamond_block_1',
         X: 'botania:gaia_ingot'
-    })
-
-    event.shaped(Item.of('appbot:creative_mana_cell'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'appbot:mana_storage_cell_256k',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'ae2:singularity'
-    })
-
-    event.shaped(Item.of('appmek:creative_chemical_cell'),
-        [
-            'XVX',
-            'ECE',
-            'XBX'
-        ], {
-        C: 'appmek:chemical_storage_cell_256k',
-        B: 'the_vault:wold_star',
-        E: 'the_vault:echo_pog',
-        V: 'the_vault:vault_diamond_block_1',
-        X: 'ae2:singularity'
     })
 
     event.shaped(Item.of('thermal:rf_coil_creative_augment'),

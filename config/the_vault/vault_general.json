@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"woldsvaults:mob_barrier_red",
 		"cabletiers:*",
 		"littlelogistics:*",
 		"botania:odin_ring",
@@ -682,7 +683,8 @@
 		"industrialforegoing:*",
 		"appbot:*",
 		"appmek:*",
-		"createdieselgenerators:*"
+		"createdieselgenerators:*",
+		"woldsvaults:mob_barrier_red"
 	],
 	"VAULT_EXIT_TNL_MIN": 0.5,
 	"VAULT_EXIT_TNL_MAX": 1.0,

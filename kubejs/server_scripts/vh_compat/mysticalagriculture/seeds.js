@@ -17,7 +17,8 @@ let removedOutputsMAGS = [
     'mysticalagriculture:lapis_lazuli_seeds',
     'mysticalagriculture:uraninite_seeds',
     'mysticalagriculture:obsidian_seeds',
-    'mysticalagriculture:redstone_seeds'
+    'mysticalagriculture:redstone_seeds',
+    'mysticalagriculture:rubber_seeds'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGS.forEach(id => {
@@ -271,7 +272,7 @@ onEvent("recipes", event => {
         type: 'mysticalagriculture:infusion',
         input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
         ingredients: [
-            Item.of('minecraft:lapisblock').toJson(),
+            Item.of('minecraft:lapis_block').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson(),
             Item.of('minecraft:lapis_block').toJson(),
             Item.of('mysticalagriculture:imperium_essence').toJson(),
@@ -361,6 +362,38 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:tertium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:redstone_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:prosperity_seed_base'),
+        ingredients: [
+            Item.of('industrialforegoing:dryrubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('industrialforegoing:dryrubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('industrialforegoing:dryrubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('industrialforegoing:dryrubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:rubber_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:prosperity_seed_base'),
+        ingredients: [
+            Item.of('thermal:rubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('thermal:rubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('thermal:rubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson(),
+            Item.of('thermal:rubber').toJson(),
+            Item.of('mysticalagriculture:inferium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:rubber_seeds').toResultJson()
     })
 
 

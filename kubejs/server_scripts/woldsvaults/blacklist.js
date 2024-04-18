@@ -52,6 +52,10 @@ global.BLACK_LIST = {
 	'tropicraft:thatch_sign': true,
 	'tropicraft:mahogany_sign': true,
 	'botania:odin_ring': true,
+	'appbot:creative_mana_cell': true,
+	'appmek:creative_chemical_cell': true,
+	'ae2:creative_item_cell': true,
+	'ae2:creative_fluid_cell': true,
 
 
 

@@ -5,6 +5,7 @@
       "ALTAR": "the_vault:altar/altar_0",
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl0",
+        "brutal_bosses": "the_vault:completion_brutal_lvl0",
         "scavenger": "the_vault:completion_scav_lvl0",
         "unhinged_scavenger": "the_vault:completion_uscav_lvl0",
         "cake": "the_vault:cake_crate",
@@ -24,6 +25,7 @@
       "ALTAR": "the_vault:altar/altar_5",
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl0",
+        "brutal_bosses": "the_vault:completion_brutal_lvl0",
         "scavenger": "the_vault:completion_scav_lvl0",
         "unhinged_scavenger": "the_vault:completion_uscav_lvl0",
         "cake": "the_vault:cake_crate",
@@ -43,6 +45,7 @@
       "ALTAR": "the_vault:altar/altar_25",
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl20",
+        "brutal_bosses": "the_vault:completion_brutal_lvl20",
         "scavenger": "the_vault:completion_scav_lvl20",
         "unhinged_scavenger": "the_vault:completion_uscav_lvl20",
         "cake": "the_vault:cake_crate",
@@ -62,6 +65,7 @@
       "ALTAR": "the_vault:altar/altar_25",
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl20",
+        "brutal_bosses": "the_vault:completion_brutal_lvl20",
         "scavenger": "the_vault:completion_scav_lvl20",
         "unhinged_scavenger": "the_vault:completion_uscav_lvl20",
         "cake": "the_vault:cake_crate",
@@ -81,6 +85,7 @@
       "ALTAR": "the_vault:altar/altar_25",
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl100",
+        "brutal_bosses": "the_vault:completion_brutal_lvl100",
         "scavenger": "the_vault:completion_scav_lvl100",
         "unhinged_scavenger": "the_vault:completion_uscav_lvl100",
         "cake": "the_vault:cake_cratelvl100",

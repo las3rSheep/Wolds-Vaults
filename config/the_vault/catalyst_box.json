@@ -1,0 +1,310 @@
+{
+  "POOL": [
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:plentiful\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:extended\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:living_cascade\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:champion_paradox\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:champion_chance\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:all_seeing_eye\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:prosperous\",\"the_vault:medium_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1920
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:prismatic\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:haunted\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:coin_pile\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:living\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:gilded\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:wooden\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:ornate\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:item_quantity\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:trinket_chance\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:hoard\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:item_rarity\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:pristine\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:frenzy\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:energizing\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:reinforced\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:speedy\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:copiously\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:leeching\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:easy\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:xp_gain\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:enlighted\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:treasure_hunter\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{modifiers: [\"the_vault:dungeon_hunter\",\"the_vault:random_negative\"]}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 192
+    }
+  ]
+}

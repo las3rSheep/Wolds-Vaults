@@ -1,5 +1,447 @@
 {
   "pools": {
+    "the_vault:bb_wither": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:regeneration",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_webber": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:swift",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_weakness": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_vengeance": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:reinforced",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_storm": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_sprint": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:swift",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_sapper": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:cherry",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_regen": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:regeneration",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_quicksand": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_poisonous": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_gravity": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:swift",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_ghastly": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_fiery": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:extended",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_exhaust": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:swift",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_darkness": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 2,
+            "pool": [
+              {
+                "value": "the_vault:copiously",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_cloaking": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:exorcising",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_choke": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:energizing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:regeneration",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_blastoff": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:cherry",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_berserk": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_alchemist": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:energizing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_1up": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:phoenix",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:afterlife",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bb_bulwark": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:reinforced",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "the_vault:curses": [
       {
         "level": 0,
@@ -103,14 +545,6 @@
               },
               {
                 "value": "the_vault:champion_paradox",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:treasure_doors",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dungeon_doors",
                 "weight": 1
               },
               {
