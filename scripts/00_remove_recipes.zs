@@ -940,6 +940,11 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 JEI.hideMod("alexsmobs");
 JEI.addIngredient(<item:alexsmobs:rainbow_glass>);
 JEI.addIngredient(<item:alexsmobs:spawn_egg_flutter>);
+JEI.addIngredient(<item:alexsmobs:dimensional_carver>);
+JEI.addIngredient(<item:alexsmobs:vine_lasso>);
+JEI.addIngredient(<item:alexsmobs:squid_grapple>);
+JEI.addIngredient(<item:alexsmobs:hemolymph_blaster>);
+
 // Backpacks
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:pump_upgrade>);

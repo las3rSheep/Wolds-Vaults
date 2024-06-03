@@ -106,11 +106,11 @@
             {
               "weight": 6,
               "item": {
-                "id": "the_vault:vault_nugget",
+                "id": "the_vault:vault_ingot",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
-                  "max": 2
+                  "min": 2,
+                  "max": 4
                 }
               }
             }
@@ -122,11 +122,11 @@
             {
               "weight": 20,
               "item": {
-                "id": "the_vault:vault_nugget",
+                "id": "the_vault:vault_ingot",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
-                  "max": 7
+                  "min": 2,
+                  "max": 6
                 }
               }
             },

@@ -29,7 +29,7 @@ onEvent("recipes", event => {
             'XVX',
             'EYE'
         ], {
-        V: 'mysticalagriculture:extraordinary_pog_prism',
+        V: 'woldsvaults:extraordinary_pog_prism',
         X: 'mysticalagradditions:withering_soul',
         Y: 'minecraft:nether_star',
         E: 'mysticalagradditions:insanium_essence'
@@ -41,7 +41,7 @@ onEvent("recipes", event => {
             'XVX',
             'EYE'
         ], {
-        V: 'mysticalagriculture:extraordinary_pog_prism',
+        V: 'woldsvaults:extraordinary_pog_prism',
         X: 'mysticalagradditions:dragon_scale',
         Y: 'the_vault:black_chromatic_steel_block',
         E: 'mysticalagradditions:insanium_essence'
@@ -53,7 +53,7 @@ onEvent("recipes", event => {
             'XVX',
             'EXE'
         ], {
-        V: 'mysticalagriculture:extraordinary_pog_prism',
+        V: 'woldsvaults:extraordinary_pog_prism',
         X: 'botania:gaia_ingot',
         Y: 'botania:terrasteel_block',
         E: 'mysticalagradditions:insanium_essence'
@@ -65,7 +65,7 @@ onEvent("recipes", event => {
             'XVX',
             'EYE'
         ], {
-        V: 'mysticalagriculture:extraordinary_pog_prism',
+        V: 'woldsvaults:extraordinary_pog_prism',
         X: 'the_vault:omega_pog',
         Y: 'powah:crystal_nitro',
         E: 'mysticalagradditions:insanium_essence'

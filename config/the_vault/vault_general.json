@@ -237,7 +237,8 @@
 		"industrialforegoing:*",
 		"appbot:*",
 		"appmek:*",
-		"createdieselgenerators:*"
+		"createdieselgenerators:*",
+		"alexsmobs:dimensional_carver"
 	],
 	"BLOCK_BLACKLIST": [
 		"entangled:*",

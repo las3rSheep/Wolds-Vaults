@@ -572,7 +572,6 @@ onEvent("recipes", event => {
         L: 'the_vault:extraordinary_larimar'
     }
     )
-
     event.shaped(Item.of('sophisticatedstorage:basic_to_iron_tier_upgrade'),
         [
             'III',
@@ -583,15 +582,39 @@ onEvent("recipes", event => {
         C: 'sophisticatedstorage:basic_tier_upgrade'
     })
 
+    event.shaped(Item.of('sophisticatedstorage:basic_to_gold_tier_upgrade'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: 'minecraft:gold_ingot',
+        I: 'the_vault:chromatic_iron_ingot',
+        D: 'the_vault:perfect_larimar',
+        C: Item.of('sophisticatedstorage:basic_to_iron_tier_upgrade')
+    })
 
+    event.shaped(Item.of('sophisticatedstorage:basic_to_diamond_tier_upgrade'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: 'the_vault:perfect_larimar',
+        D: 'the_vault:vault_diamond',
+        C: Item.of('sophisticatedstorage:basic_to_gold_tier_upgrade')
+    })
 
-
-
-
-
-
-
-
+    event.shaped(Item.of('sophisticatedstorage:basic_to_netherite_tier_upgrade'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: 'the_vault:vault_diamond',
+        I: 'the_vault:black_chromatic_steel_ingot',
+        C: Item.of('sophisticatedstorage:basic_to_diamond_tier_upgrade')
+    })
 
     event.shaped(Item.of('sophisticatedstorage:iron_to_gold_tier_upgrade'),
         [
@@ -627,6 +650,38 @@ onEvent("recipes", event => {
         C: Item.of('minecraft:redstone_torch')
     })
 
+    event.shaped(Item.of('sophisticatedstorage:iron_to_diamond_tier_upgrade'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: 'the_vault:perfect_larimar',
+        D: 'the_vault:vault_diamond',
+        C: Item.of('sophisticatedstorage:iron_to_gold_tier_upgrade')
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:iron_to_netherite_tier_upgrade'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: 'the_vault:vault_diamond',
+        I: 'the_vault:black_chromatic_steel_ingot',
+        C: Item.of('sophisticatedstorage:iron_to_diamond_tier_upgrade')
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:gold_to_netherite_tier_upgrade'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: 'the_vault:vault_diamond',
+        I: 'the_vault:black_chromatic_steel_ingot',
+        C: Item.of('sophisticatedstorage:gold_to_diamond_tier_upgrade')
+    })
 
 
     event.shaped(Item.of('sophisticatedstorage:storage_tool'),
