@@ -3245,10 +3245,6 @@
                 "weight": 4
               },
               {
-                "value": "the_vault:shortened",
-                "weight": 4
-              },
-              {
                 "value": "the_vault:mob_increase",
                 "weight": 6
               }

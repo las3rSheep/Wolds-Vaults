@@ -13386,31 +13386,31 @@
     ],
     "Mystic": [
       {
-        "text": "Gain a resistance to crystal instability when modifying a crystal by lowering the "
+        "text": "Gain extra "
       },
       {
-        "text": "chance",
+        "text": "capacity",
         "color": "#FFEB07"
       },
       {
-        "text": " for the crystal to become cursed or unmodifiable.\n\n1 "
+        "text": " on crystals that you craft, allowing you to modify them further before cursing them.\n\n1 "
       },
       {
-        "text": "12%",
+        "text": "+5",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "24%",
+        "text": "+10",
         "color": "#FFEB07"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "36%",
+        "text": "+15",
         "color": "#FFEB07"
       }
     ],

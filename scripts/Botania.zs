@@ -189,6 +189,3 @@ craftingTable.addShaped("botania_alchemy_catalyst", <item:botania:alchemy_cataly
     10000,
     <block:botania:alchemy_catalyst>
 );
-
-// <recipetype:botania:mana_infusion>.addRecipe("mana_infusion_vault_stone",  <item:the_vault:chipped_vault_rock>,
-//  <item:the_vault:vault_stone> *2, 10000, <block:botania:alchemy_catalyst>);

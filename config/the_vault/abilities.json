@@ -13,7 +13,6 @@
             "id": "Heal_Base",
             "name": "Heal",
             "maxLearnableTier": 8,
-
             "tiers": [
               {
                 "type": "heal",
@@ -1038,8 +1037,6 @@
                 "cooldownTicks": 140,
                 "unlockLevel": 0
               },
-
-
               {
                 "type": "dash",
                 "extraDistance": 9,
@@ -1217,9 +1214,7 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0
-              }
-
-            ,
+              },
               {
                 "type": "dash_damage",
                 "attackDamagePercentPerDash": 2.25,
@@ -1400,8 +1395,6 @@
                 "cooldownTicks": 100,
                 "unlockLevel": 0
               },
-
-
               {
                 "type": "dash_warp",
                 "projectileLaunchForce": 2.4,
@@ -2095,9 +2088,7 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0
-              }
-
-            ,
+              },
               {
                 "type": "nova_dot",
                 "durationSeconds": 8,
@@ -12278,7 +12269,7 @@
             "tiers": [
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 6.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12289,7 +12280,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 8.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12300,7 +12291,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 10.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12311,7 +12302,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 12.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12322,7 +12313,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 14.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12333,7 +12324,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 16.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,
@@ -12344,7 +12335,7 @@
               },
               {
                 "type": "fireball_fireshot",
-                "manaCost": 20.0,
+                "manaCost": 18.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 40,

@@ -70,6 +70,11 @@ onEvent('item.tags', event => {
     event.add('the_vault:spawnegg', 'thermal:blitz_spawn_egg')
     event.add('the_vault:spawnegg', 'thermal:basalz_spawn_egg')
     event.add('the_vault:spawnegg', 'tropicraft:iguana_spawn_egg')
+
+    event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_spirits')
+    event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_unhinged')
+    event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_titan')
+    event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_enchanter')
 })
 
 onEvent('block.tags', event => {
