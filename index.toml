@@ -11542,7 +11542,7 @@ hash = "9c55ca2c289b1906b600182a67c220f80efe3b7762b46461324a18331a070d8f"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
-hash = "ba150e35f5e7df7c5f1d5c4c134a7690eecd889ab0afb1c1fa01e50e182d609b"
+hash = "8b629c558cb187e39b5f6118014aa9f534d0f3fbef510ec11c6cc79def3e7d56"
 
 [[files]]
 file = "config/the_vault/item_groups.json"
