@@ -23,7 +23,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:false
+showSubtitles:true
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -39,7 +39,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:2
+guiScale:4
 particles:0
 maxFps:260
 difficulty:2
@@ -48,11 +48,11 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Quark Programmer Art.zip","contenttweaker:user/client_resources","file/Wold\u0027s Vaults Personal Touches"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","contenttweaker:user/client_resources","packmenu","quark:emote_resources","resources/VHBook.zip"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
-lastServer:192.168.0.181:25566
+lastServer:192.168.0.181:21027
 lang:en_us
-soundDevice:Starship/Matisse HD Audio Controller Analog Stereo
+soundDevice:
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -86,7 +86,7 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.5331126
+soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

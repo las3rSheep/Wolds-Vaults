@@ -489,6 +489,36 @@
                   "count": 1
                 }
               }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:crystal_seal_titan",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:treasure_hunter",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:dungeon_hunter",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
             }
           ]
         }

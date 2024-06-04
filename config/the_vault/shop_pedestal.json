@@ -969,6 +969,39 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:crystal_seal_titan"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 28
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_dungeon_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 73
+          },
+          "weight": 25
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_treasure_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 112
+          },
+          "weight": 25
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "woldsvaults:general_decor_scroll"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1195,6 +1228,39 @@
             "MAX_COST": 32
           },
           "weight": 80
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crystal_seal_titan"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 28
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_dungeon_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 48,
+            "MAX_COST": 73
+          },
+          "weight": 25
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_treasure_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 112
+          },
+          "weight": 25
         },
         {
           "value": {

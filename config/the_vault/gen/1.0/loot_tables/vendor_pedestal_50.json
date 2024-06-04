@@ -293,6 +293,36 @@
             {
               "weight": 1,
               "item": {
+                "id": "the_vault:crystal_seal_titan",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:capstone_treasure_hunter",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:capstone_dungeon_hunter",
+                "count": {
+                  "type": "constant",
+                  "count": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
                   "type": "constant",

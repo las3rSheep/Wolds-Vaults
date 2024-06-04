@@ -634,19 +634,19 @@ hash = "501f293cef127055da3fce5060cb7a96efe5b05ccab6da34ece0dd6887a37b34"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "d27b1575fd753b133cc792e32ef8d0789e8b687046ba60158dca9b094c01007e"
+hash = "dd0c050a274c5ec2e47c3291490d048393229ef39682e951ce768f3906d177fd"
 
 [[files]]
 file = "config/defaultsettings/Default/options.justenoughkeys.txt"
-hash = "ff0a8096e8eeae997aa5fcb9097f037ee2bb7e42bbd494afcac903c3f4dc6683"
+hash = "97eaf6e6eb37578cdbaa02031c9edc4bdbbe19c069e66dd093f498267d96a2d0"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "d6b8b9d97b12d4ae21304a99070fa02d3af051a942a410fbcc22c766da82d2b0"
+hash = "24df2c57696165eb9d6ceecbb8e90dcc0609bea700e5fd62f5c26d4ff7b27479"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
-hash = "e8bc4f2c3e704afe62ee8e37f2e20594862f8cc1962f321ad29ae83e29ed1ee8"
+hash = "1111e60b19f807d19b11de7cd6595ffa942e4133fbbaabac86d2df1dc79e3805"
 
 [[files]]
 file = "config/drippyloadingscreen/.checked_for_old_layouts"
@@ -2578,7 +2578,7 @@ hash = "16bcf800726efb2c53e131cc506c217c7229ab855f8b97827811915af37a8b21"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "b5ab6369d6cdce707d61c9b9f476ed28b970e5423ef53212d48b49a834cbc03e"
+hash = "1a3fa2c5487c9f86d952d36a3a6364bcdc16e159c1cb2e7afe74f65d5674d569"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -2598,11 +2598,11 @@ hash = "0f4ce59fff72d5756b9035c90ed5a2eb0e8b2c24456fd7342d4bafc48065153a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_50.json"
-hash = "8b1dcd5dffb9829765238c9a243700d0680660db7d53c74eabd06d4014c5ec44"
+hash = "931db4c6b71204b6cf70baf520d6836fde33290c70b4535376924ebe77ec80c9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_65.json"
-hash = "f34be2f5787b6bede282b4b2cd591f7997df8e3277ca376e3f497107dca83849"
+hash = "966565481dad41d8c3e951aefc280b82e99f1a28250e1db831ea831e718261ad"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
@@ -11614,7 +11614,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "36ad54aa4a19dda5bf0bbb462fe0fc1c2f736dfb4087a170cd591f9e5f10421e"
+hash = "403bb54790d264724d61d601f8737f22e2e0e774fe628101111c4029483a4e28"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
@@ -11730,7 +11730,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "4b6fd7cd424e63c98d40d6cc71d5d3d014ecadd7a95834ff0ac4e17036d934c1"
+hash = "3276b719a8848ca6a5e371c3c121418e8ec1f87e51d30994f95bc9451ce248cb"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -11798,7 +11798,7 @@ hash = "8f78aee2915ac6d627b29e2581db58b7e97183924b51828cb57cee86fa996c5c"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "d931022972a07b387e06c8afdf107d28f17ab3f15bfed9d09371e3a05465942b"
+hash = "a6eff5886199ba9303151bf40ed4fb39b531a7b96044a20f5de2ca68523e8bf2"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -13099,58 +13099,6 @@ hash = "aa941fe28dad6653df83a7f578c87cb3ed3879a706fa3ac61699c8a97062c9ad"
 [[files]]
 file = "kubejs/assets/minecraft/models/item/xp_catalyst.json"
 hash = "9c4d236b2af9bfbedf189ff42c6fe4f56ce073384a6e1a88f40636f59ab8e311"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/extended_catalyst.properties"
-hash = "d7df18d8725c300f6d301824fd5c6c8ee843eca2e6c2765a8f076b2c373ddb5a"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/gilded_catalyst.properties"
-hash = "8aaad960493315ce99ba2dd0be62f6b9c9ad6a07792dd85d28b698957e1d60b1"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/gilded_catalyst_2.properties"
-hash = "51a38f9766d1de68abea146b66b3a9db84b8535563b744ba0cd2c0bf929f42c2"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/living_catalyst.properties"
-hash = "1f3b598954fd274088b81f9353283e4ab3c224cf51c9437a3e5e8a49de0cf1f9"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/living_catalyst_2.properties"
-hash = "42c5c6aae92c9553c3a8ef7508c196891a2ca32f6bb64d7c35511497ff2b0ca9"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/ornate_catalyst.properties"
-hash = "596aa2b2bdee1772ae192663787c0965da9bfb77e5a7e54ba2abf036728d9da2"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/ornate_catalyst_2.properties"
-hash = "1e5584e8ffa24824cf4e8541383fe53b7e58947286da55eb9224cf0c2d1d384c"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/plentiful_catalyst.properties"
-hash = "68b931111184980966bd24ca1e18e6ddf71b731d2cc12d9a3baacb4f9d499195"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/wealthy_catalyst.properties"
-hash = "6a4173372f7777bde8c4fca348e6a0d3f6c302ae1483f4bcaa6e2c21f37fa795"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/wealthy_catalyst_2.properties"
-hash = "0fc63904fd2cc68ef6e59162c4a568c039d4586fade2b408fc1f6c0d67fea0e9"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/wooden_catalyst.properties"
-hash = "c404f2c89477d4995babb2b1cf38158b1312ece7271ae7c2c27ce01e9ae988c9"
-
-[[files]]
-file = "kubejs/assets/minecraft/optifine/cit/catalysts/xp_catalyst.properties"
-hash = "9268065c7ad2dc6a3b0880db773fb5d127b2152d24e7eed810db8d18a72f54af"
 
 [[files]]
 file = "kubejs/assets/minecraft/shaders/core/position_tex.fsh"
@@ -20261,7 +20209,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "ea5ecf110c9574e3025f4af37d43e02aa0d6d79509969ba2fe3300432c7fcd37"
+hash = "db398cd4926170db0b32aeebe6a7700a87c9ae9fe3a1fe67750481463173ecf8"
 metafile = true
 
 [[files]]
