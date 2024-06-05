@@ -429,6 +429,10 @@ file = "config/betterdungeons-forge-1_18.toml"
 hash = "7c81d323e4c41ca87733e7065c93887514adc50673c327690e1bfacbd272d3b3"
 
 [[files]]
+file = "config/betterfoliage-client.toml"
+hash = "fdfbafbcccef7779d0f1b923d6f7735142c61039c2dda85c7e8c6630a1b116ba"
+
+[[files]]
 file = "config/betterfortresses-forge-1_18_2.toml"
 hash = "df75411b88809fda1616c13cdd6600d7c97562215f7822e6d1ab1fe6243d9a34"
 
@@ -18668,6 +18672,11 @@ hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "6fcf1d3b6215f426109166bc847ed9cf879ba5e3f3e215dccef7de7a707783ba"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
 metafile = true
@@ -19408,11 +19417,6 @@ hash = "d591f0fc9610eb1450e6a71e0da3a18b2d50081dd265027fd65f044b00f33ceb"
 metafile = true
 
 [[files]]
-file = "mods/kendromes-vault-hunters-tweaks.pw.toml"
-hash = "d23e88c4e40b22533bcdddbc4bf11b54df1a361d1a15792abf210cb8c10dfb52"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "79c8d4d4d88a1a307b939ed38f34cfd0550380d276557af6a24ea16f264f148c"
 metafile = true
@@ -19638,6 +19642,11 @@ hash = "fea1c7d6b98b6606ae17a2e436d7158dd1ec86c29c8af4a500b42d66fa70a00e"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "1ee7d87999bcae5ecdfab2f55efb62bcc56fc76138fa0a59bf9d6c461506eba6"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "e595b7223439bd5526304657fa34cfc7ed514475dd6e0c5ec30ef27a1cdfb9b3"
 metafile = true
@@ -19813,6 +19822,11 @@ hash = "f1044e24b9e955e36679df348d7c9e28b78b930ffa2ec52da217ad26e24ca6bd"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "7e2c108fb8b1a9b673bbc5b7bad239520791df0ece978e58c8f656ce25f5db0b"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "5ee8f362f34bfa3a763b934a8d5e1b0cbf44aeb5fa4b9c3bfd87a1667fcae533"
 metafile = true
@@ -19985,6 +19999,11 @@ metafile = true
 [[files]]
 file = "mods/skin-fighters.pw.toml"
 hash = "2fa93b1e31a0883c6894b1ad6b8495c345f514af2fd468e855d7315929df379a"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "8f27a7288de92c9f01af83c4d9f01197951563a22acb663e190a44b18e8377b1"
 metafile = true
 
 [[files]]

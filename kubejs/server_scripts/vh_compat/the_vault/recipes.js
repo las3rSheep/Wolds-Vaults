@@ -1,5 +1,6 @@
 onEvent("recipes", event => {
     event.remove({ output: 'the_vault:angel_block' })
+    event.remove({ id: 'the_vault:vault_catalyst_reroll' })
 
     event.shaped(Item.of('the_vault:crystal_budding'),
         [

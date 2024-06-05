@@ -37,6 +37,7 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:workstations>.add(<item:the_vault:cryo_chamber>);
 <tag:items:the_vault:workstations>.add(<item:the_vault:transmog_table>);
 <tag:items:the_vault:workstations>.add(<item:the_vault:catalyst_infusion_table>);
+<tag:items:the_vault:workstations>.add(<item:the_vault:crystal_workbench>);
 <tag:items:the_vault:workstations>.add(<item:the_vault:vault_charm_controller>);
 <tag:items:the_vault:workstations>.add(<item:the_vault:demagnetizer>);
 <tag:items:the_vault:workstations>.add(<item:the_vault:vault_forge>);
@@ -231,7 +232,6 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:battlestaff>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trident>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:focus>);
-//<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trinket>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:repair_core>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:wild_focus>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:amplifying_focus>);

@@ -11,22 +11,23 @@ onEvent("recipes", event => {
     })
 
 
-    event.custom({
-        "type": "mekanism:nucleosynthesizing",
-        "duration": 1250,
-        "gasInput": {
-            "amount": 10,
-            "gas": "mekanism:antimatter"
-        },
-        "itemInput": {
-            "ingredient": {
-                "item": "minecraft:netherite_scrap"
-            }
-        },
-        "output": {
-            "item": "the_vault:vault_catalyst_fragment"
-        }
-    })
+    //TODO: Rework Mekanism catalyst generating
+    // event.custom({
+    //     "type": "mekanism:nucleosynthesizing",
+    //     "duration": 1250,
+    //     "gasInput": {
+    //         "amount": 10,
+    //         "gas": "mekanism:antimatter"
+    //     },
+    //     "itemInput": {
+    //         "ingredient": {
+    //             "item": "minecraft:netherite_scrap"
+    //         }
+    //     },
+    //     "output": {
+    //         "item": "the_vault:vault_catalyst_fragment"
+    //     }
+    // })
 
     mekanismMetals.forEach(metal => {
         event.custom(
