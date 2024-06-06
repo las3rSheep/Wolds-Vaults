@@ -11542,7 +11542,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "9c55ca2c289b1906b600182a67c220f80efe3b7762b46461324a18331a070d8f"
+hash = "d51141cfe0f803ab3492fc97f202c89d97e2d172c50d06e2cf484754bc9047b0"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -11666,11 +11666,11 @@ hash = "dcf2d161601ba964a5524d2859c9473f9368b773d417faf7b55aa3ad0e9c30ca"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "705b4f7597622e715fb82a2746c3e675eb0d053156d2521f757718c51f89cd40"
+hash = "0c0af893430b8f176dd79cc839a5cafa8be5e2678a28434bf14e08f416ba47d5"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
-hash = "940323869fca467e64ab43185b5af266c468839a25e2f8c347bc85a6e8113eff"
+hash = "0de39a64fae47ddd837b261ce54c99bd9d784f48523557ec1cbe1b3b607e56b4"
 
 [[files]]
 file = "config/the_vault/quests.json"
@@ -11678,7 +11678,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "ae01543eb8087a4a557356e223b4b52cb979412d76c5be7e8153fc87e5a669ee"
+hash = "8fa962fd7c358e840b9aec55432083d48c22efd9e3fc2e0105c71ae1a5b11412"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -12618,7 +12618,7 @@ hash = "f3899afbfa24695d72d02f8fc785cc1e72d345769557f0e1efc2f6542139bb48"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "9cecb64d1bef945ae7a5d25ad86fba4a309f6fa324bf5549b7f46a81209daacf"
+hash = "ef4da1596b8d98b1a932a39377bf63a7c8d302bdb95e468f33f0b3ea32c19c13"
 
 [[files]]
 file = "defaultconfigs/sophisticatedcore-server.toml"
@@ -18197,8 +18197,12 @@ file = "kubejs/server_scripts/vh_compat/botanical_machinery/recipes.js"
 hash = "45bb350133d3322d0c91f50a696eb76e401ed9a3dd3ccf2764f4f882a22be996"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/botanypottiers/fixes.js"
+hash = "11077e97ce46d221d054299b1d94fe6d001e7faaa2a7cd9a74d566ce7ce8245b"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/botanypottiers/recipes.js"
-hash = "cb4a8a91ef02f83dc6ad75c629dacecf0a8a939942d24f59a335ea0c73702ba6"
+hash = "374c454c91f7e32d82ea8263467a1fa7095f8bfb438e2928d0c6e91bc84ed934"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/cabletiers/recipes.js"
@@ -18330,7 +18334,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"
-hash = "125eb58d96a6bcec7eb4cd40ca012014bcffb0be71a25c735a5bebfc0b5701d4"
+hash = "6ee18b1a953fa338dbb0d3ab70140fadd3aa7b90cb8b93e14bd95f54d093b85b"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mining_and_void_dimension/recipes.js"
@@ -18434,7 +18438,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "0419ea3067aadb055da63a0e568f2d962693c031a7e56f1fe25b316c732ff523"
+hash = "3c7ac921d67a0cf966ca3dd4ce5a56d9e5808048fb04e7f5da93f65e04fca59a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -18478,7 +18482,7 @@ hash = "b511e77ec0b3f703ea8cab8915515252614c24610b4799c1becb27de24950c66"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/blacklist.js"
-hash = "bfb6aeace545102982145015e9d52c46feaf485d5587ff3ceea5bee8caed0640"
+hash = "5e94f4ac54f239517672d2e6f70cb887d9fb79de027c456f4efc5a2e39ebb70d"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/deco.js"
@@ -19058,12 +19062,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2ae51e36f1a9884fb028d488730c478c66b14993e4fdb0d2add4aab9f3c95af3"
+hash = "b3a5704f1f395bbcfa2c239665e7fa505cc45bde1fff1901863a88e0c2458ffa"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "6323439702db51adb9c9f126e0d717f64069eeae600c893fc030556c3684dbc8"
+hash = "7bb7a2e813c40f06a5df45a7c815f178a01457d90eaa37cbdc827d40b068a14f"
 metafile = true
 
 [[files]]
@@ -19847,6 +19851,11 @@ hash = "ddd9b4bd28d0c422945e0e74bb1137920b6c44bf911c74f97f4731ac3b981227"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "da0a599c4b281e84482e1c1f06668cb426d9f34659621e16f273b6a22c6ac21e"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "a7083d387aad375d0cbc1d708b015798859adcd5124bac4987ba7f696059f4f6"
 metafile = true
@@ -20182,6 +20191,11 @@ hash = "b0f0bba8306a63ebcc937b453a5d6622315008a3aea831f8f5ac003ccd5d0b16"
 metafile = true
 
 [[files]]
+file = "mods/vault-hunters-better-gear-model-unlocks.pw.toml"
+hash = "2ba135a941856b159296fc67cb38becdc9c17f72301e3b2f40839c27cb2dc7f2"
+metafile = true
+
+[[files]]
 file = "mods/vault-hunters-easy-caking.pw.toml"
 hash = "e37a1c468e5a4b50527191a9f8c2409fa1245d4699d49e2e9290718c3d452cad"
 metafile = true
@@ -20193,7 +20207,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "ffa75f994dd8ec5a8e1008c88fcb8e2750d1dbdc112431a84931b569b5b14189"
+hash = "4bf3046b6aa9072f446b711c91edd7c8083bfc24b00b9ae05f87a8d6528b6c75"
 metafile = true
 
 [[files]]
@@ -20203,7 +20217,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-integrations.pw.toml"
-hash = "ce42ed2114bcc8cbbc08cf71985a14e193b61f60d104a88326cb8b5668950ef5"
+hash = "0bfdedc0813076c6eec1e1eda8c7878d8ff287ecf9406f6b13002d3ad8cfd471"
 metafile = true
 
 [[files]]
@@ -20832,7 +20846,7 @@ hash = "0ef4735dc21b0ee1155ab77d8a2ca16d5179124efa8dc0e98cc700f8ae4031fd"
 
 [[files]]
 file = "scripts/extraTags.zs"
-hash = "6c9d98631a8deac68ddf0205c91142e0f5ebe7a662c82c959eb7690ea64e18b0"
+hash = "fcdea6bf6f2de562400479379e96b79cdbcd8327545257a74b3d28b8975785b0"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"

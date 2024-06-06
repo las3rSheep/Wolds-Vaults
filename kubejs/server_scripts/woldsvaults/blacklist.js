@@ -46,7 +46,7 @@ global.BLACK_LIST = {
 	// For simply removing all creation
 	// and usage of an item just give it 
 	// the true property like below:
-	'tropicraft:bamboo_sign': true,
+	//'tropicraft:bamboo_sign': true,
 	'tropicraft:palm_sign': true,
 	'tropicraft:mangrove_sign': true,
 	'tropicraft:thatch_sign': true,

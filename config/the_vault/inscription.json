@@ -892,6 +892,7 @@
                   "color": 7012096
                 }
               ],
+
               "size": {
                 "type": "uniform",
                 "min": 10,
@@ -1168,22 +1169,6 @@
               }
             },
             "weight": 12
-          },
-          {
-            "value": {
-              "entries": [],
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 360
           }
         ]
       }
@@ -1477,22 +1462,6 @@
               }
             },
             "weight": 12
-          },
-          {
-            "value": {
-              "entries": [],
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 200
           }
         ]
       }
@@ -1796,7 +1765,8 @@
         "pool": [
           {
             "value": {
-              "entries": [],
+              "entries": [
+              ],
               "instability": {
                 "type": "uniform",
                 "min": 0.00,
@@ -1819,7 +1789,8 @@
         "pool": [
           {
             "value": {
-              "entries": [],
+              "entries": [
+              ],
               "instability": {
                 "type": "uniform",
                 "min": 0.0,
@@ -2289,10 +2260,5 @@
     "the_vault:vault/rooms/challenge/wildwest": 14,
     "the_vault:vault/rooms/challenge/x-mark": 15
   },
-  "ringWeights": [
-    50,
-    40,
-    7,
-    3
-  ]
+  "ringWeights": [ 50, 40, 7, 3 ]
 }

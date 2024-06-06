@@ -1,11 +1,5 @@
-let removedOutputsBPT = [
-    'craftingstation:crafting_station',
-    'craftingstation:crafting_station_slab',
-];
+
 onEvent("recipes", event => {
-    removedOutputsBPT.forEach(id => {
-        event.remove({ 'output': `${id}` })
-    })
 
     let colors = ['white', 'orange', 'magenta', 'light_blue', 'blue', 'brown', 'red', 'green', 'cyan', 'black', 'yellow', 'lime', 'pink', 'gray', 'light_gray', 'purple']
 
