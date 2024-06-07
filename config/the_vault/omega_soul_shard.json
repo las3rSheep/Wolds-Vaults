@@ -541,7 +541,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -553,7 +553,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -565,7 +565,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -577,7 +577,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:3,modifiers:[\"the_vault:living_cascade\"],pool:\"the_vault:craft_living_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -589,7 +589,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:5,modifiers:[\"the_vault:coin_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_coin_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -601,7 +601,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
+              "NBT": "{model:5,modifiers:[\"the_vault:coin_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_coin_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -613,7 +613,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
+              "NBT": "{model:3,modifiers:[\"the_vault:living_cascade\"],pool:\"the_vault:craft_living_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -625,7 +625,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -637,7 +637,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -649,7 +649,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1038,7 +1038,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1050,7 +1050,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1062,7 +1062,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1074,7 +1074,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:3,modifiers:[\"the_vault:living_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_living_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1086,7 +1086,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:5,modifiers:[\"the_vault:coin_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_coin_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1098,7 +1098,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
+              "NBT": "{model:5,modifiers:[\"the_vault:coin_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_coin_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1110,7 +1110,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
+              "NBT": "{model:3,modifiers:[\"the_vault:living_cascade\"],pool:\"the_vault:craft_living_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1122,7 +1122,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1134,7 +1134,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1146,7 +1146,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1800
@@ -1571,7 +1571,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1583,7 +1583,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1595,7 +1595,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1607,7 +1607,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:3,modifiers:[\"the_vault:living_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_living_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
@@ -1619,72 +1619,12 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
+              "NBT": "{model:5,modifiers:[\"the_vault:coin_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_coin_cascade\",size:10}"
             },
             "minPrice": 500,
             "maxPrice": 900
           },
           "weight": 8
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:vault_catalyst_infused",
-              "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate\",\"the_vault:wild\"]}"
-            },
-            "minPrice": 2000,
-            "maxPrice": 2500
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:vault_catalyst_infused",
-              "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:living\",\"the_vault:wild\"]}"
-            },
-            "minPrice": 2000,
-            "maxPrice": 2500
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:vault_catalyst_infused",
-              "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded\",\"the_vault:wild\"]}"
-            },
-            "minPrice": 2000,
-            "maxPrice": 2500
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:vault_catalyst_infused",
-              "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_pile\",\"the_vault:wild\"]}"
-            },
-            "minPrice": 2000,
-            "maxPrice": 2500
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:vault_catalyst_infused",
-              "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-            },
-            "minPrice": 1000,
-            "maxPrice": 1500
-          },
-          "weight": 3
         },
         {
           "value": {
@@ -1703,7 +1643,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+              "NBT": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1500
@@ -1715,7 +1655,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
+              "NBT": "{model:4,modifiers:[\"the_vault:ornate_cascade\"],pool:\"the_vault:craft_ornate_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1500
@@ -1727,7 +1667,7 @@
             "item": {
               "ITEM": "the_vault:vault_catalyst_infused",
               "AMOUNT": 1,
-              "NBT": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+              "NBT": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
             },
             "minPrice": 1000,
             "maxPrice": 1500

@@ -1,0 +1,13 @@
+name = "Vault Hunters Jewel Sorting"
+filename = "vault_hunters_jewel_sorting-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92f16b2c2ce0158bbbfcb722e156b14a81040af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5400364
+project-id = 896210

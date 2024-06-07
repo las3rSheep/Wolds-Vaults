@@ -1319,7 +1319,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -1330,7 +1330,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -1699,7 +1699,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -1710,7 +1710,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -2120,7 +2120,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -2131,7 +2131,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -2541,7 +2541,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -2552,7 +2552,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -3912,7 +3912,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -3923,7 +3923,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4363,7 +4363,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4374,7 +4374,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4814,7 +4814,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -4825,7 +4825,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -5215,7 +5215,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -5226,7 +5226,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 1
@@ -5738,7 +5738,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -5749,7 +5749,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -6026,7 +6026,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -6037,7 +6037,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -6355,7 +6355,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -6662,7 +6662,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2
@@ -6673,7 +6673,7 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
                 },
                 "minCount": 1,
                 "maxCount": 2

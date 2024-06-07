@@ -386,7 +386,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cc5afa42cc1d991c856fee560e9ccd0cb1d1c37accd71594c62a406a5b190604"
+hash = "1328b8610e5fef6cf2c4ea1471232b094545b12c4fe057b1c8fd554b62ec9992"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -1310,7 +1310,7 @@ hash = "30c82bc5cb0c8a1b855a57c15de4e5111bd334da0208da2154dcd969d9702c9d"
 
 [[files]]
 file = "config/minimotd/main.conf"
-hash = "af3efb401c66e647e54ac53b2f6e9e76de83bcd08ffafdd16b4d1b4f54717054"
+hash = "37d13f79b000b375a404ecf92a3177f3f3263de425f0166a2aa0645b9aff890c"
 
 [[files]]
 file = "config/mininggadgets-client.toml"
@@ -1526,7 +1526,7 @@ hash = "f110e67b9dd1926d739b78fde482ae2839d0e0fb2456586d96a78066c8423ba4"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "0471e99c70c9524a91df105884ef413b3238b2576f8cb2b23b76285a5f2f8dba"
+hash = "c874bf3127e9e25e0dae3d568c2dd4382ae25f7962c947d84c41615fe3e4e258"
 
 [[files]]
 file = "config/shetiphiancore.toml"
@@ -16722,7 +16722,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "8c7c1668283708615fa8d33dc7f4686343fc4b5fd1e48d2d011d7674b3f3d356"
+hash = "7fabd941c9e828ab66b481f638bf43735529b26a35e3f47138f0713158677f27"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18482,7 +18482,7 @@ hash = "b511e77ec0b3f703ea8cab8915515252614c24610b4799c1becb27de24950c66"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/blacklist.js"
-hash = "5e94f4ac54f239517672d2e6f70cb887d9fb79de027c456f4efc5a2e39ebb70d"
+hash = "bfb6aeace545102982145015e9d52c46feaf485d5587ff3ceea5bee8caed0640"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/deco.js"
@@ -18514,7 +18514,7 @@ hash = "89d9076d049fc8df375c4eec2ac4a8873d503810e81cb7748e085f177e4ce5d0"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "4c068029f90eb99226e2d972b5f55911f4f79ca7c182a8a2f1050dbb05dff7c5"
+hash = "55b57a1a14be4b65dde4084fbc82c940fd5e8f99c930e9cf44991410ca635498"
 
 [[files]]
 file = "kubejs/startup_scripts/vh_compressio/blocks.js"
@@ -20201,6 +20201,11 @@ hash = "e37a1c468e5a4b50527191a9f8c2409fa1245d4699d49e2e9290718c3d452cad"
 metafile = true
 
 [[files]]
+file = "mods/vault-hunters-jewel-sorting.pw.toml"
+hash = "25283cb9197ef0f78c0757ffaa3fbae05d744d0236aa19396b6bbc71b919d737"
+metafile = true
+
+[[files]]
 file = "mods/vault-hunters-jewel-voiding.pw.toml"
 hash = "a577210f94e33fc64e2f2273c82524415d02d0fe9616910c7c150b6b01f1fb1b"
 metafile = true
@@ -20242,7 +20247,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "db398cd4926170db0b32aeebe6a7700a87c9ae9fe3a1fe67750481463173ecf8"
+hash = "d34fbac0c47d486dff88f5c85f82aac534dee2ff7e5c48ca3e4102ebde79f774"
 metafile = true
 
 [[files]]
