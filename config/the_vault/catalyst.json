@@ -1,5 +1,24 @@
 {
   "pools": {
+    "the_vault:catalyst_box": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 15,
+                "type": "uniform"
+              },
+              "modifiers": [],
+              "model": 1
+            },
+            "weight": 9.0
+          }
+        ]
+      }
+    ],
     "the_vault:craft_wooden_cascade": [
       {
         "level": 0,
@@ -223,7 +242,7 @@
                 "min": 5,
                 "max": 20,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -270,7 +289,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -426,7 +444,7 @@
                 "min": 5,
                 "max": 20,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -473,7 +491,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -616,7 +633,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -772,7 +788,7 @@
                 "min": 5,
                 "max": 20,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",

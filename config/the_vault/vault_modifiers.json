@@ -36,6 +36,42 @@
           "descriptionFormatted": "Lowers the artifact chance of this vault by 10%",
           "icon": "the_vault:gui/modifiers/more_artifact1"
         }
+      },
+      "the_vault:purified": {
+        "properties": {
+          "chance": 0.0
+        },
+        "display": {
+          "name": "Purified",
+          "color": "#EBFF8D",
+          "description": "This Crystal had a Curse removed using a Mote of Purity.",
+          "descriptionFormatted": "A random curse was removed.",
+          "icon": "the_vault:gui/modifiers/more_artifact1"
+        }
+      },
+      "the_vault:sanctified": {
+        "properties": {
+          "chance": 0.0
+        },
+        "display": {
+          "name": "Sanctified",
+          "color": "#EBFF8D",
+          "description": "This Crystal had all curses removed using a Mote of Sanctity.",
+          "descriptionFormatted": "All curses were removed.",
+          "icon": "the_vault:gui/modifiers/more_artifact1"
+        }
+      },
+      "the_vault:clarified": {
+        "properties": {
+          "chance": 0.0
+        },
+        "display": {
+          "name": "Clarified",
+          "color": "#EBFF8D",
+          "description": "This Crystal had all curses revealed using a Mote of Clarity.",
+          "descriptionFormatted": "Has no effect.",
+          "icon": "the_vault:gui/modifiers/more_artifact1"
+        }
       }
     },
     "the_vault:modifier_type/chance_catalyst": {

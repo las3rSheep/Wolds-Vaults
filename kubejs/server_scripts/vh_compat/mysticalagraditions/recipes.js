@@ -1,5 +1,5 @@
 let removedOutputsMAGA = [
-    'mysticalagriculture:inferium_farmland',
+    'mysticalagradditions:insanium_farmland'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGA.forEach(id => {

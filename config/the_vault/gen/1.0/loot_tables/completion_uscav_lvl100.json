@@ -799,17 +799,6 @@
               }
             },
             {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:mote_purity",
-                "count": {
-                  "type": "uniform",
-                  "min": 2,
-                  "max": 2
-                }
-              }
-            },
-            {
               "weight": 8,
               "item": {
                 "id": "the_vault:mod_box",

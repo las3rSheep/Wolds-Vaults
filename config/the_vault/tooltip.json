@@ -29,6 +29,18 @@
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Treasure Hunter' modifier"
     },
     {
+      "item": "woldsvaults:capstone_frenzy",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Frenzy' curse."
+    },
+    {
+      "item": "woldsvaults:capstone_prosperous",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Prosperous' modifier."
+    },
+    {
+      "item": "woldsvaults:capstone_all_seeing_eye",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'All Seeing Eye' modifier."
+    },
+    {
       "item": "the_vault:phoenix_feather",
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Phoenix' modifier"
     },

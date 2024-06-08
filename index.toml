@@ -1698,11 +1698,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "2532e2a646880184d87b1bfb95a17e192a6e92763d6b08d19e8a0e6238451133"
-
-[[files]]
-file = "config/the_vault/bounty/rewards_new.json"
-hash = "ab95c32498afd4d1a6e19b9297455a7b8d2f1bbfa97b0672856a5ca7c5fce989"
+hash = "3488525c518289efc671bbdac5e4736eae9fe560f29aa4ec1f4def4d057719f1"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -1730,11 +1726,11 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "322957b9beb76f47a27873c9a5c5ca1b4fac0ed53861fea23f980d4e6f2dd40b"
+hash = "2eca67a0c4fdcb08a53a929ba1935bea17b8e8a8af095c00aa3e84dc88caeaba"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
-hash = "9ffaa5024328aa8b50cfaa864402e40f211cc75b9171e6e4a95908cd7c75f367"
+hash = "a39d2799bbd7ca449bd9757cff3ab189f4f8d9888f6c1d6708d7aee6bd4e3c3c"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"
@@ -2606,7 +2602,7 @@ hash = "931db4c6b71204b6cf70baf520d6836fde33290c70b4535376924ebe77ec80c9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_65.json"
-hash = "966565481dad41d8c3e951aefc280b82e99f1a28250e1db831ea831e718261ad"
+hash = "bf2416b4d3073572da0d664021f6a2e18a2be738530867b446efddaf113ddb5d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
@@ -11622,7 +11618,7 @@ hash = "403bb54790d264724d61d601f8737f22e2e0e774fe628101111c4029483a4e28"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
-hash = "b5d88c6872289726277424dd265cf17877c674ce7110409eb1c053fb06197000"
+hash = "73009c4f4b777603f85ea05d868d9b864d7a705cee3532f27be1a4263ef28fc4"
 
 [[files]]
 file = "config/the_vault/overlevel_enchant.json"
@@ -11754,7 +11750,7 @@ hash = "3b963abc61de312810327ddfbaec1e23810c6ca324e1820d6016f39553418542"
 
 [[files]]
 file = "config/the_vault/soul_shard.json"
-hash = "60de67406cffada723d83dc91d63762322324e32073fadeb016b058fa561e500"
+hash = "ec8d5374f3eea61eb4858e53d9e46a2dc0301e49e8b319431dcafd0a55b5a60b"
 
 [[files]]
 file = "config/the_vault/spirit.json"
@@ -11802,7 +11798,7 @@ hash = "8f78aee2915ac6d627b29e2581db58b7e97183924b51828cb57cee86fa996c5c"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "a6eff5886199ba9303151bf40ed4fb39b531a7b96044a20f5de2ca68523e8bf2"
+hash = "ec5943cd94f334b7c3654c3bdd41d46fc4218164ba9019f12bd21999864d570b"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -18346,7 +18342,7 @@ hash = "7e9859c4b328b086b536c5b97b359841bad8cc3cdb011a9a81832c8f324d27b7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagraditions/recipes.js"
-hash = "16a97398d6526e23c1c87cb8ab9348de88693b2d86c02a78d4201e7be355ade5"
+hash = "e002403ce4e949756137824ed47457263126956736b711e60588b17e05bc5b49"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagraditions/seeds.js"
@@ -18442,7 +18438,7 @@ hash = "3c7ac921d67a0cf966ca3dd4ce5a56d9e5808048fb04e7f5da93f65e04fca59a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "980a25089f750771ed5a1936ab530b9e7d85ae4b7d41c2b362ba67da2081901c"
+hash = "a4ec36ddc2583643f6d285a445b67c3a568f1b89da98204e97f8d6c8788220c4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
@@ -18591,6 +18587,11 @@ hash = "ded5617add3da3b177026712395a61fb5e59c0c97d3571bc30f5930b4124c4fe"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
@@ -18673,11 +18674,6 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
-metafile = true
-
-[[files]]
-file = "mods/better-foliage-renewed.pw.toml"
-hash = "6fcf1d3b6215f426109166bc847ed9cf879ba5e3f3e215dccef7de7a707783ba"
 metafile = true
 
 [[files]]
@@ -19823,11 +19819,6 @@ metafile = true
 [[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "f1044e24b9e955e36679df348d7c9e28b78b930ffa2ec52da217ad26e24ca6bd"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "7e2c108fb8b1a9b673bbc5b7bad239520791df0ece978e58c8f656ce25f5db0b"
 metafile = true
 
 [[files]]

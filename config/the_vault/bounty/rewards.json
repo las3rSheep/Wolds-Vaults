@@ -1319,45 +1319,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
+              "weight": 32
             },
             {
               "value": {
@@ -1699,76 +1666,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
+              "weight": 32
             },
             {
               "value": {
@@ -2120,76 +2023,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
+              "weight": 32
             },
             {
               "value": {
@@ -2541,76 +2380,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
+              "weight": 32
             },
             {
               "value": {
@@ -3891,77 +3666,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
+              "weight": 32
             },
             {
               "value": {
@@ -4342,77 +4053,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
+              "weight": 32
             },
             {
               "value": {
@@ -4793,77 +4440,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
+              "weight": 32
             },
             {
               "value": {
@@ -5215,76 +4798,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_clarity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:mote_purity"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
+              "weight": 32
             },
             {
               "value": {
@@ -5738,56 +5257,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 1
               },
-              "weight": 12
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 12
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 12
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 12
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 12
+              "weight": 32
             },
             {
               "value": {
@@ -6026,56 +5501,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 1
               },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
+              "weight": 32
             },
             {
               "value": {
@@ -6355,45 +5786,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 1
               },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
+              "weight": 32
             },
             {
               "value": {
@@ -6662,56 +6060,12 @@
               "value": {
                 "stack": {
                   "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:2,modifiers:[\"the_vault:gilded_cascade\"],pool:\"the_vault:craft_gilded_cascade\",size:10}"
+                  "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 1
               },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{model:1,modifiers:[\"the_vault:wooden_cascade\"],pool:\"the_vault:craft_wooden_cascade\",size:10}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_catalyst_infused",
-                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 10
+              "weight": 32
             },
             {
               "value": {

@@ -262,15 +262,12 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:wand>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:focus>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mystical_powder>);
-<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mote_purity>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:fundamental_focus>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:artifact_fragment>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:regret_orb>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mod_box>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:crystal_seal_empty>);
-<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mote_clarity>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:vault_diamond>);
-<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mote_sanctity>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:dreamstone>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:treasure_chest_scroll>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:jewel>);
@@ -284,10 +281,11 @@ Updated for Version 3.13.0 */
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:vault_catalyst_infused>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:unidentified_relic_fragment>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:neuralizer>);
-//<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:trinket>);
+<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:trinket>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:wold_star_chunk>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:crystal_seal_ordinator_run>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mystic_pear>);
+<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:capstone_dungeon_hunter>);
 
 // Hardened Chest Loot (Skyvaults)
 <tag:items:the_vault:hardened_chest_loot>.add(<item:minecraft:bread>);

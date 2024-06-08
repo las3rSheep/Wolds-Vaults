@@ -503,7 +503,7 @@
             {
               "weight": 1,
               "item": {
-                "id": "the_vault:treasure_hunter",
+                "id": "the_vault:capstone_treasure_hunter",
                 "count": {
                   "type": "constant",
                   "count": 1
@@ -513,7 +513,7 @@
             {
               "weight": 1,
               "item": {
-                "id": "the_vault:dungeon_hunter",
+                "id": "the_vault:capstone_dungeon_hunter",
                 "count": {
                   "type": "constant",
                   "count": 1
