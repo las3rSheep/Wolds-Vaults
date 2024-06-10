@@ -34,6 +34,7 @@ onEvent('jei.hide.items', event => {
     event.hide(/mysticalagriculture:.*_axe/)
     event.hide(/mysticalagriculture:.*_bow/)
     event.hide(/mysticalagriculture:.*_crossbow/)
+    event.hide(/mysticalagriculture:.*_augment/)
     event.hide(/ae2additions:.*component.*/)
     event.hide(/ae2additions:.*disk.*/)
     event.hide(/ae2additions:.*storage.*/)
