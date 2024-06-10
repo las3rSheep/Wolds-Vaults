@@ -37,7 +37,6 @@
       "slowness": "#d1d0ae",
       "text": "#192022",
       "unbreaking": "#dcc4f0"
-      
     },
     "custom": {
       "castType": "#1e1e1e",
@@ -45,7 +44,7 @@
       "baby": "#f5b2f9",
       "weakness": "#afb477",
       "shocking": "#fffb81",
-      "stun": "#19A6E4", 
+      "stun": "#19A6E4",
       "level": "#c1579d",
       "luckyHit": "#6DF5A3",
       "piercing": "#4020b8",
@@ -97,7 +96,8 @@
       "velara": "#54fc54",
       "normal": "#81f19b",
       "impossible": "#7721e1",
-      "gold": "#ffd42a"
+      "gold": "#ffd42a",
+      "titleLine": "#08ffce"
     }
   }
 }

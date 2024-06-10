@@ -1,6 +1,38 @@
 {
   "listings": [
     {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/leggings",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/boots",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/leggings",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/boots",
+      "cost": 25
+    },
+    {
       "modelId": "the_vault:gear/armor/soulflame/helmet",
       "cost": 25
     },

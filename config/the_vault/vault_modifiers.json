@@ -348,7 +348,7 @@
       "the_vault:collapsing": {
         "properties": {
           "output": "the_vault:vault_bedrock",
-          "attemptsPerChunk": 256,
+          "attemptsPerChunk": 16,
           "requireConditions": false
         },
         "display": {
@@ -376,7 +376,7 @@
       "the_vault:explosive": {
         "properties": {
           "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"tnt\"}",
-          "attemptsPerChunk": 16,
+          "attemptsPerChunk": 8,
           "requireConditions": false
         },
         "display": {
@@ -384,7 +384,7 @@
           "color": "#ff0000",
           "description": "This vault is explosive",
           "descriptionFormatted": "This vault is explosive",
-          "icon": "the_vault:gui/modifiers/impossible"
+          "icon": "the_vault:gui/modifiers/volcanic"
         }
       },
       "the_vault:shulker": {
@@ -2647,6 +2647,20 @@
         },
         "display": {
           "name": "Ethereal",
+          "color": "#a996ca",
+          "description": "Mobs in this vault can spawn in as ethereal, being immune to any damage.",
+          "icon": "the_vault:gui/modifiers/haunted"
+        }
+      },
+      "the_vault:curse_ethereal": {
+        "properties": {
+          "filter": "",
+          "effect": "the_vault:immortality",
+          "amplifier": 0,
+          "chance": 0.04
+        },
+        "display": {
+          "name": "Curse Ethereal",
           "color": "#a996ca",
           "description": "Mobs in this vault can spawn in as ethereal, being immune to any damage.",
           "icon": "the_vault:gui/modifiers/haunted"

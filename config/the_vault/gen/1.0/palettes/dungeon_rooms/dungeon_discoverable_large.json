@@ -21,7 +21,7 @@
           "probability": 0.7,
           "success": {
             "the_vault:modifier_discovery": 8,
-            "the_vault:enhancement_altar": 2,
+            "the_vault:enhancement_altar": 1,
             "the_vault:alchemy_archive": 2
           },
           "failure": {

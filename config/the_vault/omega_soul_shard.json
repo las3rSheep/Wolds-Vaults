@@ -224,6 +224,18 @@
           },
           "weight": 1
         },
+{
+          "value": {
+            "item": {
+              "ITEM": "the_vault:capstone_dungeon_hunter",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minPrice": 1200,
+            "maxPrice": 3000
+          },
+          "weight": 4
+        },
         {
           "value": {
             "item": {
@@ -745,6 +757,18 @@
           },
           "weight": 16
         },
+	{
+          "value": {
+            "item": {
+              "ITEM": "the_vault:capstone_dungeon_hunter",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minPrice": 1200,
+            "maxPrice": 3000
+          },
+          "weight": 4
+        },
         {
           "value": {
             "item": {
@@ -942,6 +966,30 @@
     {
       "minLevel": 75,
       "shardTrades": [
+	{
+          "value": {
+            "item": {
+              "ITEM": "the_vault:capstone_dungeon_hunter",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minPrice": 1200,
+            "maxPrice": 3000
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:capstone_treasure_hunter",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minPrice": 2000,
+            "maxPrice": 4000
+          },
+          "weight": 4
+        },
         {
           "value": {
             "item": {

@@ -1,0 +1,13 @@
+name = "VaultFaster"
+filename = "vaultfaster-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b559a9e04c7e4197bedb751126acd3b0dadf35e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5246082
+project-id = 988487

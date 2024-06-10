@@ -177,6 +177,39 @@
         {
           "value": {
             "OFFER": {
+              "item": "woldsvaults:capstone_frenzy"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 18
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_prosperous"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 80
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_all_seeing_eye"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 80,
+            "MAX_COST": 160
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "sophisticatedbackpacks:gold_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -578,6 +611,39 @@
     {
       "MIN_LEVEL": 50,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_frenzy"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 18
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_prosperous"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 80
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_all_seeing_eye"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 80,
+            "MAX_COST": 160
+          },
+          "weight": 2
+        },
         {
           "value": {
             "OFFER": {
@@ -1002,6 +1068,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:capstone_dungeon_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 24,
+            "MAX_COST": 64
+          },
+          "weight": 26
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "woldsvaults:general_decor_scroll"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1079,6 +1156,18 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:vault_catalyst_infused",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 24
+          },
+          "weight": 320
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:enigma_chest_scroll"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1136,6 +1225,39 @@
     {
       "MIN_LEVEL": 65,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_frenzy"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 18
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_prosperous"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 50,
+            "MAX_COST": 80
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_all_seeing_eye"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 80,
+            "MAX_COST": 160
+          },
+          "weight": 2
+        },
         {
           "value": {
             "OFFER": {
@@ -1686,6 +1808,40 @@
             "MAX_COST": 16
           },
           "weight": 40
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_dungeon_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 24,
+            "MAX_COST": 64
+          },
+          "weight": 26
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_treasure_hunter"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 24,
+            "MAX_COST": 64
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:vault_catalyst_infused",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 12,
+            "MAX_COST": 24
+          },
+          "weight": 80
         }
       ]
     }

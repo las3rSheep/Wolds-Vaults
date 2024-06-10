@@ -19,7 +19,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -44,7 +44,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -69,7 +69,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -94,7 +94,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -119,7 +119,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -144,7 +144,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -169,7 +169,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -194,7 +194,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
           "NBT": "{}"
         }
@@ -219,8 +219,33 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 1,
           "ITEM": "the_vault:mystical_powder",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:catalyst_box",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "woldsvaults:catalyst_box",
+        "NBT": ""
+      },
+      "inputs": [
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_catalyst",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 2,
+          "ITEM": "the_vault:mystical_powder",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 8,
+          "ITEM": "the_vault:gem_larimar",
           "NBT": "{}"
         }
       ]

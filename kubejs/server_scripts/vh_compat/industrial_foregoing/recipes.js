@@ -25,7 +25,19 @@ let removedOutputsIFG = [
     'industrialforegoing:pity_black_hole_tank',
     'industrialforegoing:simple_black_hole_tank',
     'industrialforegoing:advanced_black_hole_tank',
-    'industrialforegoing:supreme_black_hole_tank'
+    'industrialforegoing:supreme_black_hole_tank',
+    'industrialforegoing:range_addon0',
+    'industrialforegoing:range_addon1',
+    'industrialforegoing:range_addon2',
+    'industrialforegoing:range_addon3',
+    'industrialforegoing:range_addon4',
+    'industrialforegoing:range_addon5',
+    'industrialforegoing:range_addon6',
+    'industrialforegoing:range_addon7',
+    'industrialforegoing:range_addon8',
+    'industrialforegoing:range_addon9',
+    'industrialforegoing:range_addon10',
+    'industrialforegoing:range_addon11'
 ];
 onEvent("recipes", event => {
     removedOutputsIFG.forEach(id => {

@@ -146,6 +146,15 @@
     {
       "value": {
         "id": "the_vault:vault_catalyst_infused",
+        "nbt": "{model:17,modifiers:[\"the_vault:pristine\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:10}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 16
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_catalyst_infused",
         "nbt": "{model:14,modifiers:[\"the_vault:energizing\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:10}",
         "amountMin": 1,
         "amountMax": 1
@@ -178,33 +187,6 @@
         "amountMax": 1
       },
       "weight": 24
-    },
-    {
-      "value": {
-        "id": "the_vault:capstone_treasure_hunter",
-        "nbt": "",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "id": "the_vault:capstone_dungeon_hunter",
-        "nbt": "",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
-    },
-    {
-      "value": {
-        "id": "woldsvaults:capstone_frenzy",
-        "nbt": "",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
     }
   ]
 }

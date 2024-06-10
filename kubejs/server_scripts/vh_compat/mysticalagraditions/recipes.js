@@ -1,5 +1,9 @@
 let removedOutputsMAGA = [
-    'mysticalagradditions:insanium_farmland'
+    'mysticalagradditions:insanium_farmland',
+    'mysticalagradditions:nitro_crystal_crux',
+    'mysticalagradditions:dragon_egg_crux',
+    'mysticalagradditions:gaia_spirit_crux',
+    'mysticalagradditions:nether_star_crux'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGA.forEach(id => {

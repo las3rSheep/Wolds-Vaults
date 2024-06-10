@@ -737,8 +737,8 @@
               "AMOUNT": 1,
               "NBT": "{}"
             },
-            "minPrice": 400,
-            "maxPrice": 800
+            "minPrice": 6000,
+            "maxPrice": 8000
           },
           "weight": 16
         },
@@ -1333,18 +1333,6 @@
             },
             "minPrice": 700,
             "maxPrice": 1400
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:soul_flame",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
           },
           "weight": 32
         },
@@ -1999,18 +1987,6 @@
             },
             "minPrice": 800,
             "maxPrice": 1600
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:soul_flame",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
           },
           "weight": 32
         },

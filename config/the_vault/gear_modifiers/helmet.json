@@ -2105,7 +2105,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 4,
+            "weight": 0,
             "value": {
               "specialModificationKey": "the_vault:tank_immunity",
               "abilityKey": "Tank"
@@ -2204,7 +2204,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "amount": -0.6,
               "abilityKey": "Summon Eternal"
@@ -2213,7 +2213,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 4,
+            "weight": 0,
             "value": {
               "amount": -1.0,
               "abilityKey": "Summon Eternal"
@@ -2516,7 +2516,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "amount": -0.2,
               "abilityKey": "Summon Eternal"
@@ -2525,7 +2525,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 4,
+            "weight": 0,
             "value": {
               "amount": -0.45,
               "abilityKey": "Summon Eternal"
