@@ -2,7 +2,7 @@
   "styles": {
     "Oops, All Iron Mods": {
       "x": 250,
-      "y": 440,
+      "y": 480,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/iron_chests"
     },
@@ -44,13 +44,13 @@
     },
     "QuarryPlus": {
       "x": 200,
-      "y": 400,
+      "y": 440,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/quarryplus"
     },
     "Mystical Agriculture": {
       "x": 300,
-      "y": 400,
+      "y": 440,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/mystical_agriculture"
     },
@@ -252,6 +252,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create"
     },
+    "Immersive Engineering": {
+      "x": 250,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/immersiveengineering"
+    },
     "Waystones": {
       "x": 390,
       "y": 120,
@@ -350,55 +356,55 @@
     },
     "Easy Villagers": {
       "x": 200,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/easy_villagers"
     },
     "Botany Pots": {
       "x": 300,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botany_pots"
     },
     "Bonsai Pots": {
       "x": 200,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/bonsai_pots"
     },
     "Create Mechanical Extruder": {
       "x": 200,
-      "y": 280,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create_mechanical_extruder"
     },
     "Cagerium": {
       "x": 250,
-      "y": 280,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/cagerium"
     },
     "Hostile Neural Networks": {
       "x": 250,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/hostile_neural_networks"
     },
     "Mob Spawners": {
       "x": 300,
-      "y": 280,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mob_spawners"
     },
     "Phytogenic Insulator": {
       "x": 250,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
     "Automatic Genius": {
       "x": 250,
-      "y": 400,
+      "y": 440,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/automatic_genius"
     },

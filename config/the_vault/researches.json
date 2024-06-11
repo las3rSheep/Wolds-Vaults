@@ -2,6 +2,26 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "immersiveengineering",
+        "controlengineering",
+        "more_immersive_wires",
+        "immersivepetroleum"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Immersive Engineering",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "rftoolspower"
       ],
       "restrictions": {

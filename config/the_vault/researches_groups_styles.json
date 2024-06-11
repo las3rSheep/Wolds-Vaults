@@ -5,7 +5,7 @@
       "headerColor": -8598175,
       "headerTextColor": -1,
       "x": 180,
-      "y": 375,
+      "y": 415,
       "boxWidth": 170,
       "boxHeight": 135,
       "icon": "the_vault:gui/research_groups/omega"
@@ -85,7 +85,7 @@
       "headerColor": -11298849,
       "headerTextColor": -1,
       "x": 180,
-      "y": 215,
+      "y": 255,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/farming"
@@ -97,7 +97,7 @@
       "x": 180,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {

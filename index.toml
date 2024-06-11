@@ -3730,7 +3730,7 @@ hash = "4a7ae8e0cf9eb051e437aca32e904714b4b6a2a0b66055575f3413fc735a4190"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/modded_ore_placeholder.json"
-hash = "f6614245452785ad88eebcc95d321be7c15df12b5ffa7964fbb9216eb25d3fb6"
+hash = "d32574ea3dc8e2489a8b7b8cf0196ba2e3bcc0c493cd7dfdb49de48617af230c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/nether/base.json"
@@ -11702,19 +11702,19 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "5da9a407647a37c657c4ceae54e3fe0b68b024a74faa204de8c0c73d84017a57"
+hash = "8c26829e0d9e9beb77cd6113e58b188000d3cda03bc1eebc38a1ce54f7a1fbf6"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "e304ad7037840c7eba43f43cda1f4f43a645044c5ccab3cfdca2842acb01c6c0"
+hash = "c7af38bccac628561efaab9415c8732a6a05365606fdaafc9217e29fafbe528a"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "cc74f0690a496b729773a2c99a90cc21787576c0776b7f7653610f40a719eabc"
+hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "b87367e8ef4253f40417e1af71adebc2411c0518c77338c0e975df529ebef90b"
+hash = "3ab1a06fe285f778f922f24dca5026e2751be53a8e3a944e9ceb6820acc2d3df"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -11962,7 +11962,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "7dda018d60ad319bebe18ff885569c067bcefeea8aa05c9bd919eaa40606a963"
+hash = "f10d4a4f958ebdbd3436b7003a26247936628a5f979910336e976fc7970a51ca"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -15549,6 +15549,10 @@ file = "kubejs/assets/the_vault/textures/gui/researches/hostile_neural_networks.
 hash = "9be6ab6efdf9744206bace5eda6b85f60b0d27934b5195f0c9c6e3965e4739e4"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/immersiveengineering.png"
+hash = "a6c933d684933b6892f0ffbf916ea27ffa5444210e70d426367eb92e0ccfdeb7"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/incorporeal.png"
 hash = "ad12df7fb32f7a7fff544d5e88c00fe1378525cbc418474168366edd5c56db96"
 
@@ -18294,7 +18298,7 @@ hash = "80288f1ec63b8c8648dc5cc968205e60ae5ed83d6a48bd2e9dee5daef0a366c0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "69ed314c7204b1632dce90a656f9224ecf2141282b4b7b126884aace49b91af2"
+hash = "66faf5ca0b84c08056fcf8b5c088c699ec4977550dffd2b4e48b2ba3ff34a12a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -18446,7 +18450,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "43d1bf0550200f02da362108d768164941dbb9b052928fd1bb81fc0a7dac7eb8"
+hash = "5554cdfe77d9775558b26475b5a34ccb8fcafbf16ed50b34b99222de599445fc"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -18869,6 +18873,11 @@ hash = "435c6f0e90801714828024d7b03680975e6600c8fd48c6e2da0917806a6a667b"
 metafile = true
 
 [[files]]
+file = "mods/control-engineering.pw.toml"
+hash = "a0170247ae8ce4c8123017e656315641fefee167005d1ee22869465caa8b415d"
+metafile = true
+
+[[files]]
 file = "mods/controllable.pw.toml"
 hash = "14b9f341171651c94158f11328946dab9c2a251f3c93875167085975ed66fc86"
 metafile = true
@@ -19249,8 +19258,18 @@ hash = "0290a32259171f66475edba23f9c510e08547ec517ce256ced8043a5a2fff2b5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "980979f2954864dad4a53005ba7dea2952ca1ad0d006b14b8e132aace954ddbe"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "9c4c4eb27c5b487c0303aa05300670147b1087ac6303da0f3ed4fb5f6ade725c"
 metafile = true
 
 [[files]]
@@ -19651,6 +19670,11 @@ metafile = true
 [[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "c849dff8207c698f17614d04359ad0cc41230aeb7d4a50ad6ba5b97d0947d756"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "b4effaf1113db96eba258ccbfbe774e3cd5b8dfc550dee2914ba58bb07a87ec3"
 metafile = true
 
 [[files]]
