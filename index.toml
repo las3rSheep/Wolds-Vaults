@@ -386,7 +386,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1328b8610e5fef6cf2c4ea1471232b094545b12c4fe057b1c8fd554b62ec9992"
+hash = "cfdaf6cbc7dca44003fdc3fcd8a575e3373a32b41d1578c6a0b77f6605bf0033"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -11798,7 +11798,7 @@ hash = "5e5e3498cccef01ba588e8b238dcb55d5dee59043e45f402ddbcfcd0ddbec3c6"
 
 [[files]]
 file = "config/the_vault/tool/pulverizing.json"
-hash = "8f78aee2915ac6d627b29e2581db58b7e97183924b51828cb57cee86fa996c5c"
+hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
@@ -11862,7 +11862,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "a14d4f3f9c9ab2e0daf4d54f06ef2e409c833fa309a4cd4cf129527e750d1495"
+hash = "f26a3003e4a052cfea2bafbcbe3dfb554d7b5de2ade1b39a713ec7429def85da"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -11906,7 +11906,7 @@ hash = "5129faa571c3265472307e4d47ae7aa98a9d34d2eeeccc3297562354c83c3c81"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "838b98fdaf1ab00cc51b04df0764021aeab537ef8f5909ffa5d8f71b63388977"
+hash = "400fbf2549b673bb958526b633108243ceba3ec576b66f6609fe5ed7c0b8570b"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -16722,7 +16722,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "7fabd941c9e828ab66b481f638bf43735529b26a35e3f47138f0713158677f27"
+hash = "dccc95d2daabb6dcdbfa5cb1c9a782f7b0483925e102bdd89290203b39001bc1"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18294,7 +18294,7 @@ hash = "80288f1ec63b8c8648dc5cc968205e60ae5ed83d6a48bd2e9dee5daef0a366c0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "66faf5ca0b84c08056fcf8b5c088c699ec4977550dffd2b4e48b2ba3ff34a12a"
+hash = "69ed314c7204b1632dce90a656f9224ecf2141282b4b7b126884aace49b91af2"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -18302,7 +18302,7 @@ hash = "2b6b4166979177df0b5f644f9bdc832459048642543863082e8cf0b950e2fd38"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/ore_laser.js"
-hash = "ab69b102ecd4cb16de4fcf30b1d4a55a721ff05785b630e5daa4507d345e9055"
+hash = "7c04c2b5d4d242f11817713737b51a333e60d61f0e9cee8547e3fa08dd3b8599"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
@@ -18378,7 +18378,7 @@ hash = "83d8db250afb4346153e29147789f43e5a328f2e8b243ccf52fac809920486a8"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/recipes.js"
-hash = "dab7ddbf20125501859826571cdbd2b7e775dce8b47de9658ad1f6232771f93f"
+hash = "9b88498f6247b51ef719c488178722cc0fa27dea10e6d3f60d707abc7e7916d0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/tags.js"
@@ -18446,7 +18446,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "3c7ac921d67a0cf966ca3dd4ce5a56d9e5808048fb04e7f5da93f65e04fca59a"
+hash = "43d1bf0550200f02da362108d768164941dbb9b052928fd1bb81fc0a7dac7eb8"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -20239,11 +20239,6 @@ hash = "34660ffdde4a413c9f3804258b1a3bca59cfa08aa1e250a621fdf1a835e2d917"
 metafile = true
 
 [[files]]
-file = "mods/vaultfaster.pw.toml"
-hash = "dd85424effecbd961044719093f88379a35eddfbaee5950068da9ec0a9e0e4bf"
-metafile = true
-
-[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "2a228f8a66a1816c1b692c78c0aa962b7737c9f7d6eca4e70ef6f7250caa200d"
 metafile = true
@@ -20265,7 +20260,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "d34fbac0c47d486dff88f5c85f82aac534dee2ff7e5c48ca3e4102ebde79f774"
+hash = "50a917fb58676ecfbee48392eb3c27cfeaa9d0db78958d386540ddeef1209357"
 metafile = true
 
 [[files]]

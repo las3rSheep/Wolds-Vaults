@@ -59,4 +59,8 @@ onEvent("recipes", event => {
         },
         "processingTime": 200
     })
+
+    event.shapeless('9x the_vault:vault_catalyst_fragment', ['the_vault:vault_catalyst'])
+    event.shapeless('the_vault:phoenix_feather', ['9x the_vault:phoenix_dust'])
+    event.shapeless('9x the_vault:phoenix_dust', ['9x the_vault:phoenix_feather'])
 })

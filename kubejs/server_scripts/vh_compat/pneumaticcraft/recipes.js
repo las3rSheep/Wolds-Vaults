@@ -295,25 +295,25 @@ onEvent("recipes", event => {
         ]
     });
 
-    event.custom({
-        "type": 'pneumaticcraft:pressure_chamber',
-        "inputs": [
-            {
-                "type": "pneumaticcraft:stacked_item",
-                "item": 'the_vault:vault_catalyst_fragment',
-                "count": 6
-            },
-            {
-                "item": 'pneumaticcraft:plastic'
-            }
-        ],
-        "pressure": 5.0,
-        "results": [
-            {
-                "item": "the_vault:vault_catalyst"
-            }
-        ]
-    });
+    // event.custom({
+    //     "type": 'pneumaticcraft:pressure_chamber',
+    //     "inputs": [
+    //         {
+    //             "type": "pneumaticcraft:stacked_item",
+    //             "item": 'the_vault:vault_catalyst_fragment',
+    //             "count": 6
+    //         },
+    //         {
+    //             "item": 'pneumaticcraft:plastic'
+    //         }
+    //     ],
+    //     "pressure": 5.0,
+    //     "results": [
+    //         {
+    //             "item": "the_vault:vault_catalyst"
+    //         }
+    //     ]
+    // });
 
     event.custom({
         "type": 'pneumaticcraft:thermo_plant',

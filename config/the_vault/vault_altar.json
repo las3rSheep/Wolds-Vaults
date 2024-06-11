@@ -133,6 +133,16 @@
             "Objective": {
               "type": "herald"
             },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:herald",
+                  "size": 1
+                }
+              ]
+            },
             "Layout": {
               "type": "herald"
             },
