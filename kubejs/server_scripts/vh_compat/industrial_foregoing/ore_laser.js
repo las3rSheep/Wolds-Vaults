@@ -22,8 +22,8 @@ onEvent("recipes", event => {
                         "minecraft:soul_sand_valley"
                     ]
                 },
-                "depth_min": -30,
-                "depth_max": -65,
+                "depth_min": -65,
+                "depth_max": -30,
                 "weight": 10
             }
         ],

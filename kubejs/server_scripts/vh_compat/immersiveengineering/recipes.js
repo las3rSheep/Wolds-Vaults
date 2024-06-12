@@ -238,6 +238,43 @@ onEvent("recipes", event => {
 
     }).id('immersiveengineering:crafting/rs_engineering')
 
+    event.shapeless('immersiveengineering:blastbrick_reinforced', ['immersiveengineering:blastbrick', '#forge:plates/steel', 'the_vault:magic_silk'])
+
+    event.shaped(Item.of('immersiveengineering:hemp_fabric', 1),
+        [
+            'XXX',
+            'TBT',
+            'XXX'
+        ], {
+        X: 'immersiveengineering:hemp_fiber',
+        T: 'the_vault:magic_silk',
+        B: 'the_vault:driftwood'
+
+    }).id('immersiveengineering:crafting/hemp_fabric')
+
+    event.shaped(Item.of('immersiveengineering:conveyor_basic', 8),
+        [
+            '   ',
+            'TTT',
+            'XBX'
+        ], {
+        T: 'immersiveengineering:ersatz_leather',
+        X: 'the_vault:chromatic_iron_ingot',
+        B: 'the_vault:vault_diamond'
+
+    }).id('immersiveengineering:crafting/conveyor_basic')
+
+    event.shaped(Item.of('immersiveengineering:alloybrick', 2),
+        [
+            'TXe',
+            'XT ',
+            '   '
+        ], {
+        T: '#forge:sandstone',
+        X: '#forge:ingots/brick',
+        B: 'the_vault:vault_diamond'
+
+    }).id('immersiveengineering:crafting/alloybrick')
 
 
 })

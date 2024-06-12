@@ -7,6 +7,8 @@ onEvent("recipes", event => {
         event.remove({ 'output': `${id}` })
     })
 
+    event.shapeless('entangled:block', ['entangled:block'])
+
     event.shaped(Item.of('entangled:block'),
         [
             'PXP',

@@ -2186,7 +2186,7 @@ hash = "53dcb5eec22a2e1429b1f46de4535cb268fb77d6d9b1ecd94184879810162555"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl20.json"
-hash = "db369680c7988d154d747f30e6773b003d47ff030ddb2df21d1c8acf8bbfcbf6"
+hash = "e62afa92393ee152e643b24ab6c165cdf600926a22a22ff34e420997e669b10f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl0.json"
@@ -2262,7 +2262,7 @@ hash = "a3c782b855de67b2073fa4840569750155fc0ee374197c464b8435631d6dfec2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl20.json"
-hash = "8a7181a25cf93e800082a4336a7e3b194fb205e37da914333ad9b8804772f238"
+hash = "743a2d6d45d350923eae47bb9bc230212eb6fc03f6b1ad4963e2d2ffa2535f38"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cube_block_0.json"
@@ -2578,7 +2578,7 @@ hash = "8b3f80185f33b44787d6986064df92bdc11c92690f3b7ac6ca91b7198aeba155"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_0.json"
-hash = "daa70539c3a9a71174ad10a068e1cca7b5b3336499379af93743441a9f0fe1d0"
+hash = "68830f462e0c31b5ce9d2ab8d387d5ef617773a134fcccaefd98e65ecdb2d23f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
@@ -11702,7 +11702,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "8c26829e0d9e9beb77cd6113e58b188000d3cda03bc1eebc38a1ce54f7a1fbf6"
+hash = "a6ad196af6237a884a91afd29f7b22690b352a9f615d1f78361063b236b562f5"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -18250,7 +18250,7 @@ hash = "bedaf9278e15cbee0078183a9b6b4af1bd664f940ba11e7867cbf22b14f8eb03"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/createadditions/recipes.js"
-hash = "ceb5cdfe42000947f5c003243882511c686d8251f9b281bc809eddc0180de6ea"
+hash = "d9edf2cb5d77a2e2b61b4d3306dd51713b4f4aee0c635e6e9c59a612c92bddcf"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/createdieselgenerators/recipes.js"
@@ -18266,7 +18266,7 @@ hash = "40e000f2d1780248d4c080a8fb4c28b628e556f394814552fa0af4f2913cacda"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/entangled/recipes.js"
-hash = "22148cea29345fcfd584026ac82e0be22cfd9b1fa5e485cc2d402474a9c75718"
+hash = "30ad01baf5542a528b45640872dd68921cd88f98c5389729d43bc684f2eccf3f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/explorerscompass/recipes.js"
@@ -18297,8 +18297,12 @@ file = "kubejs/server_scripts/vh_compat/hostileneuralnetworks/recipes.js"
 hash = "80288f1ec63b8c8648dc5cc968205e60ae5ed83d6a48bd2e9dee5daef0a366c0"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/immersiveengineering/blueprints.js"
+hash = "15eed3e070ea3cba6ea685b862435b78ae8a445860d35a3cfbc388c1fbf5fec8"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "66faf5ca0b84c08056fcf8b5c088c699ec4977550dffd2b4e48b2ba3ff34a12a"
+hash = "8d67d26fe8660dba4d2f230deaeafaa2f970c5b4ae7aca3002989ed471418956"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -18306,7 +18310,7 @@ hash = "2b6b4166979177df0b5f644f9bdc832459048642543863082e8cf0b950e2fd38"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/ore_laser.js"
-hash = "7c04c2b5d4d242f11817713737b51a333e60d61f0e9cee8547e3fa08dd3b8599"
+hash = "60b306cfb570b8e4d863a818a885b2a755b357411c278c00577b6d4d7b470091"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
@@ -18450,7 +18454,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "5554cdfe77d9775558b26475b5a34ccb8fcafbf16ed50b34b99222de599445fc"
+hash = "64dee05174e071d14e264590f3161d10079d954e76b531b719ac3ef34458d237"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -19445,6 +19449,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-vh.pw.toml"
+hash = "6945d66454952a7bb22c630278f1c47374da4888e619a816f24e35fc28356d43"
 metafile = true
 
 [[files]]
@@ -20893,10 +20902,6 @@ hash = "8b8d17c98b8d0eb10ddb5330f56aecaa42fac07f0087d5211f4482070293222c"
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"
 hash = "4dfb72eb87c209ce374bc1920e0a37fcd4f06359a2ce9f454f167d4cf6f196a8"
-
-[[files]]
-file = "scripts/jeiIntegration.zs"
-hash = "d333fc280da822f75e50c6567af362be4e98a07a5131c8d0569bd7c546003ba8"
 
 [[files]]
 file = "scripts/mushroomEvents.zs"
