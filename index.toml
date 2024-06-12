@@ -11702,11 +11702,11 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "a6ad196af6237a884a91afd29f7b22690b352a9f615d1f78361063b236b562f5"
+hash = "e96206c5e1e1607f88ac153ab8dd775a8081d29068304a86fd232fe1b9a9cab6"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "c7af38bccac628561efaab9415c8732a6a05365606fdaafc9217e29fafbe528a"
+hash = "a989234b588b4aaace896a9e9a43ca18252c2b103678942a2babf9fc25b26dd1"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -11714,7 +11714,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "3ab1a06fe285f778f922f24dca5026e2751be53a8e3a944e9ceb6820acc2d3df"
+hash = "03e0cb73358ba70393e8520e6c870bb92cf221d324781937e611946fa8c64088"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -11742,7 +11742,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "bcaa6c7fbd240bf0da64484268e3386f856e01e7d5c0daccbf9e65772d7c0f71"
+hash = "8ab95a6c20e3243fb24b32dc2f72f3b90707bebda74fe7ef39fdc7f53ecbf6de"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -12591,6 +12591,10 @@ hash = "da67d09c865c8b3e15a4efb947eb5f7bbde6086d144c11aad24fe8ee96b7dd05"
 [[files]]
 file = "defaultconfigs/curios-server.toml"
 hash = "e56a90f08e78deae2e659a7c0b180aef664fe99c26c8aa5be0a30b03357ac48a"
+
+[[files]]
+file = "defaultconfigs/davespotioneering-server.toml"
+hash = "66a993a2af0d99e61f5c51b091dc884e3af17fa561cf25edf46b7020dc70b5ff"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -15501,6 +15505,10 @@ file = "kubejs/assets/the_vault/textures/gui/researches/dark_utilities.png"
 hash = "c834d31a935936373b9d35aecda133a188b727ec9796a8b721050c101065c3ea"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/davespotioneering.png"
+hash = "268b0663f2e0376bf6ee9e7189c2670fee541fe088d186cd8000e2ed288238be"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/digital_miner.png"
 hash = "c6679b7f25164bd05264ac74a672d33399650505bb71212e146ef9c3f2681093"
 
@@ -16726,7 +16734,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "dccc95d2daabb6dcdbfa5cb1c9a782f7b0483925e102bdd89290203b39001bc1"
+hash = "9dc43d499bfd123e1b07b1e0ab61ed5ecee0431726d1167cf7c949d650398835"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18261,6 +18269,10 @@ file = "kubejs/server_scripts/vh_compat/creative/recipes.js"
 hash = "b89ead3fbf1180c75f665fab8ed3f3f44f22ebde8dfcc98ca3b53931ac80748e"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/davespotioneering/recipes.js"
+hash = "540775c2a27fefc4434a336be3d0a6b215a9a3c1aa016efb651aec9730320d92"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/effortlessbuilding/recipes.js"
 hash = "40e000f2d1780248d4c080a8fb4c28b628e556f394814552fa0af4f2913cacda"
 
@@ -18510,7 +18522,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "f03b728c4f28d6db6583edb82d2d5de3b0c6161c49069377589236fdfb3053cb"
+hash = "2e2d302671d34561e11ad320653e04dac642151e33499e49c6aad32e0100f5ce"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"

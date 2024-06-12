@@ -2,6 +2,23 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "davespotioneering"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Dave's Potioneering",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "immersiveengineering",
         "controlengineering",
         "more_immersive_wires",

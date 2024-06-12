@@ -1,5 +1,11 @@
 {
   "styles": {
+    "Dave's Potioneering": {
+      "x": 440,
+      "y": 310,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/davespotioneering"
+    },
     "Oops, All Iron Mods": {
       "x": 250,
       "y": 480,

@@ -1,5 +1,17 @@
 {
   "descriptions": {
+    "Dave's Potioneering": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Dave's Potioneering",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nDave's Potioneering is a mod that adds an upgraded Brewing Stand that's faster and has double potion output, a new Reinforced Cauldron that allows you to coat your weapons or tools with potion effects, and a Potioneer Gauntlet that can store up to 6 potion effects and apply them on attack."
+      }
+    ],
     "QuarryPlus": [
       {
         "text": "Unlocks the "

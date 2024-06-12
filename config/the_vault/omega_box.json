@@ -29,15 +29,6 @@
     },
     {
       "value": {
-        "id": "the_vault:mote_clarity",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
-      },
-      "weight": 192
-    },
-    {
-      "value": {
         "id": "the_vault:cheese_burger_feast",
         "nbt": "{}",
         "amountMin": 8,
