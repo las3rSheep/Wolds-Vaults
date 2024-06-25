@@ -135,7 +135,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:conveyor_basic",
+          "id": "immersiveengineering:conveyor_basic",
           "amountMin": 8,
           "amountMax": 16
         },
@@ -143,7 +143,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:heavy_engineering",
+          "id": "immersiveengineering:heavy_engineering",
           "amountMin": 1,
           "amountMax": 2
         },
@@ -151,7 +151,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:fluid_pump",
+          "id": "immersiveengineering:fluid_pump",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -159,7 +159,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:storage_steel",
+          "id": "immersiveengineering:storage_steel",
           "amountMin": 1,
           "amountMax": 3
         },
@@ -167,7 +167,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:radiator",
+          "id": "immersiveengineering:radiator",
           "amountMin": 2,
           "amountMax": 2
         },
@@ -175,7 +175,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:fluid_pipe",
+          "id": "immersiveengineering:fluid_pipe",
           "amountMin": 8,
           "amountMax": 16
         },
@@ -183,7 +183,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:capacitor_lv",
+          "id": "immersiveengineering:capacitor_lv",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -191,7 +191,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:capacitor_mv",
+          "id": "immersiveengineering:capacitor_mv",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -199,7 +199,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:capacitor_hv",
+          "id": "immersiveengineering:capacitor_hv",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -207,7 +207,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:coil_lv",
+          "id": "immersiveengineering:coil_lv",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -215,7 +215,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:wooden_barrel",
+          "id": "immersiveengineering:wooden_barrel",
           "amountMin": 1,
           "amountMax": 2
         },
@@ -223,7 +223,7 @@
       },
       {
         "value": {
-          "id": "immersiveengineeering:treated_wood_horizontal",
+          "id": "immersiveengineering:treated_wood_horizontal",
           "amountMin": 8,
           "amountMax": 24
         },
