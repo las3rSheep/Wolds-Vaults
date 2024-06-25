@@ -292,21 +292,21 @@
         "tiers": [
           {
             "type": "experience",
-            "increasedExpPercentage": 10.0,
+            "increasedExpPercentage": 0.1,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "experience",
-            "increasedExpPercentage": 20.0,
+            "increasedExpPercentage": 0.2,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "experience",
-            "increasedExpPercentage": 30.0,
+            "increasedExpPercentage": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
