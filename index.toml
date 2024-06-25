@@ -370,7 +370,7 @@ hash = "a79f61400c2eeaf5f29ccc384638df588374cc794838c6e4529a61e2cc31412c"
 
 [[files]]
 file = "config/appliedenergistics2/client.json"
-hash = "33fe9ecb2aa657985416275b36d142f50ac656b1b2112b3836024c47d20bb2f9"
+hash = "a7d94df09356a6e8fca3917939a029022f628556691465ba3cb04332965a710d"
 
 [[files]]
 file = "config/appliedenergistics2/common.json"
@@ -1934,7 +1934,7 @@ hash = "765f047ab907a5d67e66947d65b759642118e31b876648b6eec2c5c10ca9d315"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/jewel.json"
-hash = "5bebf75d734e2b690fdc587f32f25ef068ffb7288a50b0949650eb4e59b491b9"
+hash = "ab4eedef353ea2e5ec8da977543b23ad6b8f78eefbf7d8d362c203ea01d09bda"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
@@ -2142,47 +2142,47 @@ hash = "aa96e0a5b9a8481a07e85aecbb09a322d1aa81a8e7731fb319311a504f0a2188"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl0.json"
-hash = "13be704f46c1cfd15423694ae4483afc3a870047a46c05282f832ffb5796055f"
+hash = "91e452720e3ae24e4e4330f2e06754a6e0dd4e24267a13967696710d7215136b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl100.json"
-hash = "53dcb5eec22a2e1429b1f46de4535cb268fb77d6d9b1ecd94184879810162555"
+hash = "f6eac793a3ab4f1576ec59327229dc85069d92d488ce7b383ecde57857567128"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_brutal_lvl20.json"
-hash = "db369680c7988d154d747f30e6773b003d47ff030ddb2df21d1c8acf8bbfcbf6"
+hash = "e62afa92393ee152e643b24ab6c165cdf600926a22a22ff34e420997e669b10f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_crate_0.json"
-hash = "211199e4a2f59d9bb1a7c7bbbfca0ce3c95b9dbd76884e7f8c677545ba536cd5"
+hash = "f37ff08e408dbb0fb4554f68e05ab658d55677ce7e1280f8eaf3d6c925760405"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_crate_20.json"
-hash = "4ed63552fef7e772e68562460ed33aad37c7a5395f2fa13adc34375dc6f18feb"
+hash = "01dbba622ad088598639ff873c9558203a08f5167156da9906998fdbb7ce2312"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_crate_monolith.json"
-hash = "711eff0d5c11a97f72a0e631da19d03500f51819f55e86335cba6c63670502b4"
+hash = "95be96c0568f4ca505e6c46813710aa8f8ed6a85f49ebab22b7aae65399645f1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl0.json"
-hash = "34012956dddff6c9b54b0a5d41a7d120ccf0bde540ac482866f112c1c96dc589"
+hash = "80ff9c2806a60e8ed1da6bf42ac74e60ce5b87428b78cd857711ef1f9b5ef84f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl100.json"
-hash = "66ccb91d9cf86b16526de01c0f58542aaf790c79ba585663b7d105ecd2a1bc56"
+hash = "9091d8b848ab5de314d11e31c5efa7036d0d11409b814039eb45fff0bc162e77"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_elix_lvl20.json"
-hash = "0769b2bc708c1fd6d34156306350a42649fc186aa7323026130d02f08f11dd3a"
+hash = "b1d59b374b7708265c7aba5d83891aae5b1d74e9246a80efa1096df814051d7d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl0.json"
-hash = "13be704f46c1cfd15423694ae4483afc3a870047a46c05282f832ffb5796055f"
+hash = "91e452720e3ae24e4e4330f2e06754a6e0dd4e24267a13967696710d7215136b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl100.json"
-hash = "53dcb5eec22a2e1429b1f46de4535cb268fb77d6d9b1ecd94184879810162555"
+hash = "f6eac793a3ab4f1576ec59327229dc85069d92d488ce7b383ecde57857567128"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_enchanted_elix_lvl20.json"
@@ -2190,27 +2190,27 @@ hash = "e62afa92393ee152e643b24ab6c165cdf600926a22a22ff34e420997e669b10f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl0.json"
-hash = "6511ccdcdeb83424dccf156813ceb20f5c9b113f1efe5e610f23bbe79a573df1"
+hash = "d1f92c59227f37ee039bc434476c2a5a183180ad2414d22ac6c4dbaf8ee3d88c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl100.json"
-hash = "0790c5fa8084d0f3fe4ef9497dff0f7720c77498b965cb49cf4ece91d4eb14ea"
+hash = "c64b217d27310a61774b88bb5ff7aa29dfaf0f04f3a285bf73b696bba8b56a5a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_haunted_mono_lvl20.json"
-hash = "d3876a8e6290fabd286da989a4d7a10d8f2f556f81c219cb0d95012b3e398ec6"
+hash = "f1dceb3fe0ec551b1669f637527bae4c42d8187bd730842b851c8eeccce784f9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl0.json"
-hash = "ffac8633064831ee9d8e1c3b419cb0afaea171406a51b3c03efd628396b81b10"
+hash = "8c33e30227588a0a1c8af6b134c5bf473e9ea784fe4dc16c9f898ac8fd2724cd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl100.json"
-hash = "095f1ace99f1e74c3a5781bc254ad148329ea7b18de2c7bc95f27b38756b6854"
+hash = "74f979d88773f42c8bd35047137fe9ad71ee9a3dc8f35eb42277cdeb9d4329e2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_kill_lvl20.json"
-hash = "4d6fd728ec2bac57ff3c6ccb21f33658a0d32a81fa0f3ecaf764d39ba201f8b7"
+hash = "4e94c603a31333b1217d7a38cbb38cb3923eec88e483f216b24c8507e8aa5571"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_lvl0.json"
@@ -2222,43 +2222,43 @@ hash = "82fb931d4fa837060f2d94f52bd7f6ee4c0c666838c26ab9b20891e669ec5564"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl0.json"
-hash = "ced29d819a2b4fa6d88109b2b6d3e7eadc9b15408266cd773fc8d942c291b73d"
+hash = "ccf5c3b3eadf0f6bfb876f0002339d50ab10d760213dee8de6fc67e538917919"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl100.json"
-hash = "04ab770580028e34a9f4c4383f58e07ea7fe74b72899f29134157833391c2b3a"
+hash = "4899446b66dbcb6c33c389c6a74e6110691e185814d72de08df3330b2f2e65cc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_mono_lvl20.json"
-hash = "0ce98568deabb3c374804eef1358e60e0a287a71c85f6716f6066b2b99dd483f"
+hash = "51e74717e02ddb05b942ef8caa1e630350459251037c705a6c271098f9a3cd85"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_paradox.json"
-hash = "fad155cf342ca29ba89633dd1bdd3bff0d6937223f350f5ea52e1a550feb2860"
+hash = "9057b4fe5e36c1cd441b0fea1293dec37a5d3edf19aa5dfc7addb9008242ed9d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_paradoxlvl100.json"
-hash = "4eace661bd783b510b6d058aa8de4c4b84e8ce2abfdaba4ed5fa9e7316646448"
+hash = "cc3c29b4d2a01e74da0a61bdb04563847a0a213353a26860d7d03725cfda3c88"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl0.json"
-hash = "9e86b7a006dbc68c8a726303aedd5ecb88e0d08412e41c4cd953ceaf90190009"
+hash = "a4162d74008d2152247c0a54d2c5a7da383c802909e00713c9c15f206925e0bc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl100.json"
-hash = "adafa7f12eac45ed2f0daada437a8579c163ce16c391a10113853539c5acf3db"
+hash = "b6fde4ef8755fa3328dc54e386d922b64051f7ee137962594b00a0ee75ba34e6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl20.json"
-hash = "c9b0980091ade10af64df6c7f14fc91a8cd4ffd1de0f26c6ce2ecf6d796524d0"
+hash = "64784284a39104bd7b157cbe43757fa29e46c6e7e64b5995e7989d02a6425f59"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl0.json"
-hash = "50b9ca48016d1b5c2aeb860b2a29ecb8b81ad2868739afa9b0e47c7268d41998"
+hash = "a25035f28d75c72dedb66fb143eb7c88a082a1c5696c8f3b27d8bd325333286f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl100.json"
-hash = "a3c782b855de67b2073fa4840569750155fc0ee374197c464b8435631d6dfec2"
+hash = "1a55b411bdedf8876d71fef4d7d741d35151083f55e788b6c3cd884c605bdd6f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_uscav_lvl20.json"
@@ -11574,7 +11574,7 @@ hash = "0b62f8fef705fde960907f2b82ad25a803b1303ac349565a0db6efce2010a567"
 
 [[files]]
 file = "config/the_vault/loot_info.json"
-hash = "497ac8631f0a001924a0e71c81e032a5511d973f9f64b144c04804dbea2b3543"
+hash = "8e5f4161a55bc939f52d71e7692524363a6f3e712c2a4fe42939dddb741eca63"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
@@ -11618,7 +11618,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "403bb54790d264724d61d601f8737f22e2e0e774fe628101111c4029483a4e28"
+hash = "2ca58b4e6f44403aae30b9cfc6e70a51043afd591d8612f346d575e0baa30532"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
@@ -11714,7 +11714,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "03e0cb73358ba70393e8520e6c870bb92cf221d324781937e611946fa8c64088"
+hash = "f7a54b68acd3538d0bffbbae850a736c696b927c82cacc1a776b34144e34b287"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -18310,11 +18310,15 @@ hash = "80288f1ec63b8c8648dc5cc968205e60ae5ed83d6a48bd2e9dee5daef0a366c0"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/blueprints.js"
-hash = "15eed3e070ea3cba6ea685b862435b78ae8a445860d35a3cfbc388c1fbf5fec8"
+hash = "865f2fd09b4d36f5c8b727851885f8e9dfd3c3413b99f741c2c46090014168c8"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/immersiveengineering/petro.js"
+hash = "5f244d5427c52dfc5d5b5fe040369eaefe8b8bf7693f4cdb38753fd39eddec6e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "8d67d26fe8660dba4d2f230deaeafaa2f970c5b4ae7aca3002989ed471418956"
+hash = "58b2e625e5a984a0dbb1234c76817a8c81b66785712e2e8404937be985f34bfe"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -19126,6 +19130,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "769c1fcb95cfb5efb1415b13629a0035e0ce67f48b64d1a0681efd95dde447f2"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c894d7c35153acd7273a63753651f88c8c66f3cc0e35099572bcc0d91a7b3334"
 metafile = true
 
 [[files]]
@@ -20031,11 +20040,6 @@ metafile = true
 [[files]]
 file = "mods/serverconfig-updater.pw.toml"
 hash = "1b3e35cff5ec97143fb686765f024d4aab6f39db8b37a62cd02cf2902e52161f"
-metafile = true
-
-[[files]]
-file = "mods/shetiphiancore.pw.toml"
-hash = "ca17408a56af36a652baddf95f0c47d8c563472e4aea2d536cf2727df3137002"
 metafile = true
 
 [[files]]

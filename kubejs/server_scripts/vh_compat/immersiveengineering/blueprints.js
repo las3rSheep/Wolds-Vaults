@@ -97,4 +97,35 @@ onEvent("recipes", event => {
             "item": "immersiveengineering:circuit_board"
         }
     }).id('immersiveengineering:blueprint/circuit_board')
+
+    event.custom({
+        "type": "immersiveengineering:blueprint",
+        "inputs": [
+            {
+                "tag": "forge:glass"
+            },
+            {
+                "count": 3,
+                "base_ingredient": [
+                    {
+                        "item": "minecraft:paper"
+                    },
+                    {
+                        "item": "minecraft:bamboo"
+                    }
+                ]
+            },
+            {
+                "tag": "forge:ingots/copper"
+            },
+            {
+                "item": "the_vault:perfect_larimar"
+            }
+        ],
+        "category": "components",
+        "result": {
+            "item": "immersiveengineering:light_bulb",
+            "count": 3
+        }
+    })
 })

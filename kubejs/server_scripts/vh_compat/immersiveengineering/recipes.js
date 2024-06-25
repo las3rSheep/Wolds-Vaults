@@ -276,5 +276,83 @@ onEvent("recipes", event => {
 
     }).id('immersiveengineering:crafting/alloybrick')
 
+    event.shaped(Item.of('immersiveengineering:alloybrick', 2),
+        [
+            '  H',
+            'SR ',
+            'IS '
+        ], {
+        T: 'immersive:sandstone',
+        X: '#forge:ingots/brick',
+        B: 'the_vault:vault_diamond'
+
+    }).id('immersiveengineering:crafting/alloybrick')
+
+    event.shaped(Item.of('immersiveengineering:cloche', 1),
+        [
+            'GBG',
+            'GXG',
+            'WCW'
+        ], {
+        W: '#forge:treated_wood',
+        G: '#forge:glass',
+        C: 'immersiveengineering:component_iron',
+        B: 'immersiveengineering:light_bulb',
+        X: 'the_vault:black_chromatic_steel_ingot'
+
+    }).id('immersiveengineering:crafting/cloche')
+
+    event.shaped(Item.of('immersiveengineering:coil_lv', 1),
+        [
+            'WWW',
+            'WLW',
+            'WWW'
+        ], {
+        W: 'immersiveengineering:wirecoil_copper',
+        L: 'the_vault:vault_diamond_block'
+    }).id('immersiveengineering:crafting/coil_lv')
+
+    event.shaped(Item.of('immersiveengineering:coil_mv', 1),
+        [
+            'WWW',
+            'WLW',
+            'WWW'
+        ], {
+        W: 'immersiveengineering:wirecoil_electrum',
+        L: 'the_vault:chromatic_gold_block'
+    }).id('immersiveengineering:crafting/coil_mv')
+
+    event.shaped(Item.of('immersiveengineering:coil_hv', 1),
+        [
+            'WWW',
+            'WLW',
+            'WWW'
+        ], {
+        W: 'immersiveengineering:wirecoil_steel',
+        L: 'the_vault:black_chromatic_steel_ingot'
+    }).id('immersiveengineering:crafting/coil_hv')
+
+    event.shaped(Item.of('immersiveengineering:steel_scaffolding_standard', 6),
+        [
+            'III',
+            ' R',
+            'RSR'
+        ], {
+        I: '#forge:ingots/steel',
+        R: '#forge:rods/steel',
+        S: 'the_vault:chromatic_steel_ingot'
+    }).id('immersiveengineering:crafting/steel_scaffolding_standard')
+
+    event.shaped(Item.of('immersivepetroleum:gas_generator', 1),
+        [
+            'PPP',
+            'XGE',
+            'PPP'
+        ], {
+        P: '#forge:plates/iron',
+        G: 'immersiveengineering:generator',
+        E: 'immersiveengineering:capacitor_lv',
+        X: 'the_vault:gem_pog'
+    }).id('immersivepetroleum:gas_generator')
 
 })
