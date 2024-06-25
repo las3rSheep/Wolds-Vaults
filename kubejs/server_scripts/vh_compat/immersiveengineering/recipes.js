@@ -210,7 +210,7 @@ onEvent("recipes", event => {
         ], {
         X: 'immersiveengineering:sheetmetal_iron',
         T: 'immersiveengineering:component_iron',
-        B: 'the_vault:vault_diamond'
+        B: 'the_vault:chromatic_iron_block'
 
     }).id('immersiveengineering:crafting/light_engineering')
 
@@ -222,7 +222,7 @@ onEvent("recipes", event => {
         ], {
         X: 'immersiveengineering:sheetmetal_steel',
         T: 'immersiveengineering:component_steel',
-        B: '#forge:ingots/electrum'
+        B: 'the_vault:chromatic_gold_block'
 
     }).id('immersiveengineering:crafting/heavy_engineering')
 
@@ -282,7 +282,7 @@ onEvent("recipes", event => {
             'SR ',
             'IS '
         ], {
-        T: 'immersive:sandstone',
+        T: '#forge:sandstone',
         X: '#forge:ingots/brick',
         B: 'the_vault:vault_diamond'
 
@@ -354,5 +354,85 @@ onEvent("recipes", event => {
         E: 'immersiveengineering:capacitor_lv',
         X: 'the_vault:gem_pog'
     }).id('immersivepetroleum:gas_generator')
+
+    event.shaped(Item.of('immersiveengineering:connector_lv', 4),
+        [
+            ' X',
+            'BCB',
+            'BCB'
+        ], {
+        C: '#forge:ingots/copper',
+        B: '#immersiveengineering:connector_insulator',
+        X: 'the_vault:chromatic_steel_ingot'
+    }).id('immersiveengineering:crafting/connector_lv')
+
+    event.shaped(Item.of('immersiveengineering:connector_mv', 4),
+        [
+            ' X',
+            'BCB',
+            'BCB'
+        ], {
+        C: '#forge:ingots/electrum',
+        B: '#immersiveengineering:connector_insulator',
+        X: 'the_vault:chromatic_gold_ingot'
+    }).id('immersiveengineering:crafting/connector_mv')
+
+    event.shaped(Item.of('immersiveengineering:connector_hv', 4),
+        [
+            ' X',
+            'BCB',
+            'BCB'
+        ], {
+        C: '#forge:ingots/aluminum',
+        B: '#immersiveengineering:connector_insulator',
+        X: 'the_vault:perfect_larimar'
+    }).id('immersiveengineering:crafting/connector_hv')
+
+    event.shaped(Item.of('controlengineering:bus_relay', 4),
+        [
+            ' X',
+            'PCP',
+            'BBB'
+        ], {
+        C: 'minecraft:redstone',
+        B: 'minecraft:terracotta',
+        X: 'the_vault:vault_diamond',
+        P: '#forge:plates/aluminum'
+    }).id('controlengineering:bus_relay')
+
+    event.shaped(Item.of('controlengineering:bus_interface', 1),
+        [
+            ' X',
+            'PCP',
+            'BTB'
+        ], {
+        C: 'minecraft:redstone',
+        B: 'minecraft:terracotta',
+        X: 'the_vault:perfect_larimar',
+        P: '#forge:plates/aluminum',
+        T: 'controlengineering:bus_wire_coil'
+    }).id('controlengineering:bus_interface')
+
+    event.shaped(Item.of('controlengineering:empty_tape', 1),
+        [
+            'WWW',
+            'WLW',
+            'WWW'
+        ], {
+        W: 'the_vault:magic_silk',
+        L: 'minecraft:pink_dye'
+
+    }).id('controlengineering:empty_tape')
+
+    event.shaped(Item.of('immersiveengineering:fluid_pipe', 8),
+        [
+            'WWW',
+            ' X ',
+            'WWW'
+        ], {
+        W: '#railways:internal/plates/iron_plates',
+        X: 'the_vault:perfect_larimar'
+
+    }).id('immersiveengineering:crafting/fluid_pipe')
 
 })

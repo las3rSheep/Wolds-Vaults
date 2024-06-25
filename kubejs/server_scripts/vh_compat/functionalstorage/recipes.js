@@ -1,5 +1,4 @@
 let removedOutputsFSS = [
-
 ];
 let functionalDrawerTypes = ['oak', 'spruce', 'birch', 'jungle', 'acacia', 'dark_oak', 'crimson', 'warped']
 onEvent("recipes", event => {
@@ -159,7 +158,8 @@ onEvent("recipes", event => {
         ], {
         c: 'the_vault:chromatic_gold_ingot',
         S: 'the_vault:perfect_larimar',
-        D: 'functionalstorage:copper_upgrade'
+        D: 'functionalstorage:copper_upgrade',
+        C: 'the_vault:chromatic_gold_block'
     }).id('functionalstorage:gold_upgrade')
 
     event.shaped(Item.of(`functionalstorage:diamond_upgrade`),

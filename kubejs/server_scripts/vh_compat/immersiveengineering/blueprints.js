@@ -89,7 +89,7 @@ onEvent("recipes", event => {
                 "tag": "forge:plates/copper"
             },
             {
-                "item": "the_vault:magic_silk"
+                "item": "the_vault:magic_silk_block"
             }
         ],
         "category": "components",
