@@ -1934,7 +1934,7 @@ hash = "765f047ab907a5d67e66947d65b759642118e31b876648b6eec2c5c10ca9d315"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/jewel.json"
-hash = "ab4eedef353ea2e5ec8da977543b23ad6b8f78eefbf7d8d362c203ea01d09bda"
+hash = "013a3eb20c78e89fb2f35c2df861f394c04f86d1f37a75217c6c502e22ed5657"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
@@ -11618,7 +11618,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "2ca58b4e6f44403aae30b9cfc6e70a51043afd591d8612f346d575e0baa30532"
+hash = "334c3801301f604825ca01905e5b60caa274f27e6dbcc165d820ed6474dba3ab"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
@@ -19474,7 +19474,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-vh.pw.toml"
-hash = "6945d66454952a7bb22c630278f1c47374da4888e619a816f24e35fc28356d43"
+hash = "ccc9307f463f5ee95dab6c421651753cef291221276bcf255d4ad72b333bd740"
 metafile = true
 
 [[files]]
