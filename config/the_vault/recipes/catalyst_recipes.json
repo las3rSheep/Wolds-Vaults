@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "the_vault:catalyst_accustomed",
+      "id": "the_vault:catalyst_random_positive",
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:vault_catalyst_infused",
-        "NBT": "{model:7,modifiers:[\"the_vault:xp_gain\",\"the_vault:random_negative\"],pool:\"the_vault:craft_accustomed\",size:10}"
+        "NBT": "{model:7,modifiers:[\"the_vault:random_positive\",\"the_vault:random_negative\"],pool:\"the_vault:craft_random_positive\",size:10}"
       },
       "inputs": [
         {
@@ -234,7 +234,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 3,
+          "AMOUNT": 1,
           "ITEM": "the_vault:vault_catalyst",
           "NBT": "{}"
         },

@@ -1830,7 +1830,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "ee4128c1afa58ffc986630fe4ebe8daa64b4be157a98deca1ca131460759d0f8"
+hash = "16a51fbc2d69fbb8360c83fb947e41d7d717bba08fcad157a533dba1b511a5e2"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -1874,7 +1874,7 @@ hash = "c729fa0daad96bb17a4e8647d3773ec53ef9a1b4eda3ffa5ed1ba5a32b7adfa5"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "74e125b85a324bc4f4ea2032f49cfddd02bb6312a2d02cf5a2967f1f413947d9"
+hash = "1b9f40778725ad041ea843f3dacf9f22308d31f05bde1e3718c507c5509a4379"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -1954,7 +1954,7 @@ hash = "17654ac7f27ce9c963a51fe1de1523ec20e38f7804fb126c642b5659c40069ea"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "5a2ee39570f1e27b0b3a55467229eb4ce279ecf9d6dd76af5f7c0f94fff9efcc"
+hash = "8b625b423734b8d9c6785a829be313856b51ecf969e13226bcf664721ca60ae9"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -11594,7 +11594,7 @@ hash = "c08fdb86c302895d920e9c6212b628f50f0a2a6264fcb0398f3a5ea84b406957"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
-hash = "a185e7c1d051a4972cbff86bb63845176c895311efb577cec75ec92a90ee0390"
+hash = "0917e1549c8ca0ffd4654423b3a57a1c58ac931bf2517685f713478ddc6937e8"
 
 [[files]]
 file = "config/the_vault/monolith.json"
@@ -11678,7 +11678,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "aeaf933bdd5252ff98078480be18aa066034a988cfbe1199fa8581e06260e553"
+hash = "30c9d7830b5a97a1c4013782bd6ea131424eacf80bcfccf5412bc70df39ab6bf"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -11742,7 +11742,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "8ab95a6c20e3243fb24b32dc2f72f3b90707bebda74fe7ef39fdc7f53ecbf6de"
+hash = "f6dc06ecf2ca1e69d6e0269466a96db49068fe06c38455acaf2ea9d63e2921bb"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -11962,11 +11962,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "f10d4a4f958ebdbd3436b7003a26247936628a5f979910336e976fc7970a51ca"
+hash = "4938ec69e63d82382255d93a4264be4b284f19b94c8935a59f355430c5ec215f"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "d94218be418213939100702309ac03cc9e2322335267baf92b11aaef6421b4da"
+hash = "4623a9bbcb8e993cfed459cb8fc901452cd7e87234e566dd5d437d5166d7fa72"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18298,7 +18298,7 @@ hash = "7da79b94a9b3b17158ce14cf98c622dc8c14c45987ee75011b595e73ffbd5261"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/functionalstorage/recipes.js"
-hash = "5014bbe724692fb74666200f06dd76bd5c4d0e642c98b5681b42dd43e2a87c84"
+hash = "8073a21b3fec1e81b389a86815d0900c14773c34ffb392bc70067531325b9f03"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/hexcasting/recipes.js"
@@ -18438,7 +18438,7 @@ hash = "6f197482fa45e5d343b719c97a8d42d001c41bb083c382fd5bd86d2909dd2b4f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/scannable/recipes.js"
-hash = "8d42e2ae07a675ba7de3cbbc2be931af0ba94ff9b8d813045b7daeb7def6297c"
+hash = "56aa8028858dc7201a6f2d6019e073fc1119fd4ee1f35bfd513e6ae27b6820c4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedbackpacks/recipes.js"

@@ -2120,6 +2120,18 @@
           "icon": "the_vault:gui/modifiers/impossible"
         }
       },
+      "the_vault:random_positive": {
+        "properties": {
+          "pool": "the_vault:random_positive",
+          "level": 0
+        },
+        "display": {
+          "name": "Random Positive",
+          "color": "#fe3333",
+          "description": "Unknown Positive Modifier",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
       "the_vault:random_harsh_negative": {
         "properties": {
           "pool": "the_vault:random_harsh_negative",
