@@ -1874,7 +1874,7 @@ hash = "c729fa0daad96bb17a4e8647d3773ec53ef9a1b4eda3ffa5ed1ba5a32b7adfa5"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "1b9f40778725ad041ea843f3dacf9f22308d31f05bde1e3718c507c5509a4379"
+hash = "00ffe41afedb7b74f97b30ee20f9617b1e98531c900188e62eb5d3e0d8577ab5"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -1954,7 +1954,7 @@ hash = "17654ac7f27ce9c963a51fe1de1523ec20e38f7804fb126c642b5659c40069ea"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "8b625b423734b8d9c6785a829be313856b51ecf969e13226bcf664721ca60ae9"
+hash = "3e74cc1ef114facf31bde36de93052d278a55b37fd7fc02978de1f4b92358fe2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -18609,6 +18609,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "9f995d56c618dbeeefcd66855cdd64ff8ef8d5920b33b026668ae996677b6704"
 metafile = true
 
 [[files]]
