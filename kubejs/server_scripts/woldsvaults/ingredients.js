@@ -181,4 +181,38 @@ onEvent('recipes', event => {
         O: 'the_vault:orb_frame'
     })
 
+    event.shaped(Item.of('woldsvaults:waning_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:waning_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+    event.shaped(Item.of('woldsvaults:waxing_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:waxing_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+    event.shaped(Item.of('woldsvaults:repair_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:resilient_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+
 })

@@ -1754,7 +1754,7 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "bf0f0988f220e83643e7a8b8e432447f8afe3514e426c8a41235392d3ae5d029"
+hash = "1b6eb7dce35b91eb97e8e673611297c8c1e26d5c9e2f521844897d490f86f8d9"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -11930,7 +11930,7 @@ hash = "5129faa571c3265472307e4d47ae7aa98a9d34d2eeeccc3297562354c83c3c81"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "400fbf2549b673bb958526b633108243ceba3ec576b66f6609fe5ed7c0b8570b"
+hash = "ddd8b989b09b74b6803984c0e0af7dee0d25d01bcc31c3b7e8025334997f1054"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -11990,7 +11990,7 @@ hash = "4938ec69e63d82382255d93a4264be4b284f19b94c8935a59f355430c5ec215f"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "4623a9bbcb8e993cfed459cb8fc901452cd7e87234e566dd5d437d5166d7fa72"
+hash = "293c26327e8ceeb1a30cf0f36ad70fca81d871d7008f670ac66373e6ba8b5c0f"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -16957,6 +16957,10 @@ file = "kubejs/data/izzy_vault/advancements/blocks/cryo_chamber.json"
 hash = "0ea506ffca29b7189212715ad203722356c519823e2a818f4afb85c7f0022e9c"
 
 [[files]]
+file = "kubejs/data/izzy_vault/advancements/blocks/crystal_workbench.json"
+hash = "7cd008b11bebafad8f5005b3492408a59358c1275c7a67fcc1418cbab597a445"
+
+[[files]]
 file = "kubejs/data/izzy_vault/advancements/blocks/driftwood_log.json"
 hash = "ff5cbbf5cde31314493ed60fe1c6806c8ff0eb3a85dc737216d87d19eab25cd4"
 
@@ -17090,7 +17094,7 @@ hash = "a77d0d926b5074bf5f02de3c43722ce9ff27fa31056808c02be8416b916612b0"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/afterlife.json"
-hash = "a6e090441d455d004a81de4048853eb73634304994f9a613eed36fff0412aef3"
+hash = "f4da665a1d350f5a65577e939c10c1502df5d9013dacc5843a095888997d014a"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/banished_soul.json"
@@ -17102,31 +17106,27 @@ hash = "592cf4bb0c562223d6df7f50f625890455d2edf77be25f70e081178afac996f7"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/chaos_catalyst.json"
-hash = "164f8debccd5ec2284157014137906571516e8b196be4cb553501a8bc479f139"
+hash = "8c4c0dc85fd8f09a249fc5cfbc6698e4b3162b5015d7a61fe38efe2cb27c79fc"
+
+[[files]]
+file = "kubejs/data/izzy_vault/advancements/catalyst/dungeon_capstone.json"
+hash = "a1d01a23991b9b0b415baa8b1f3bc9567a305f74d85d57047521a1779f34013b"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/eye_of_avarice.json"
-hash = "f85d1c98668fdd867e4c32357cf7e3107ab50f850d984f494913c7c7e796be63"
+hash = "738206fea299f1c8fe9e7feed1941478c13e8e00893e12bfe241b6caa3d54877"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/infused_catalyst.json"
 hash = "03cc84ea1d21a2d428643959b201accc01c0f5067352718fc585f4830a64cf1e"
 
 [[files]]
-file = "kubejs/data/izzy_vault/advancements/catalyst/mote_clarity.json"
-hash = "568881e8ba92b7a4735d11d5388539406bb33c1ccf2286d8217d16fd81706182"
-
-[[files]]
-file = "kubejs/data/izzy_vault/advancements/catalyst/mote_purity.json"
-hash = "8a27966014b7fa4805c989597135377bbc893fdfe63178365ed64bdc31934c38"
-
-[[files]]
-file = "kubejs/data/izzy_vault/advancements/catalyst/mote_sanctity.json"
-hash = "6e4522dfa7991ceb0ff6c76ab20cd87bf3f35c199f5cd4b861924cc37293d5b2"
-
-[[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/phoenix.json"
-hash = "2421bbd4fac366d5fc9fda018b2201522a54729c9c14180c4c800940ba3fd6d3"
+hash = "497273b7a05ba4a1c0ff04770025289323bbc107ed3db2876478f313cfe77f2d"
+
+[[files]]
+file = "kubejs/data/izzy_vault/advancements/catalyst/treasure_capstone.json"
+hash = "bea0ec51cec8c137a4c3faf95ae0a984d9de495890ee645cacd5cf66495d0597"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/catalyst/vault_catalyst.json"
@@ -17155,10 +17155,6 @@ hash = "3397b756a76fac09c19608a0a39f34ce75e55d7cf9947112ce1fc4eb36115c72"
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/chests/wooden_chest.json"
 hash = "a01b43dc9ec2dd29ce1f0dd6d96e23aae0ae3a126bfcd11be784fd46ec838985"
-
-[[files]]
-file = "kubejs/data/izzy_vault/advancements/chipped_vault_rock.json"
-hash = "37c21fad316c0ad80eae14cb45dc9b12aaa370a0bcf7017f4b4a7079ca7cbfb2"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/chromatic_iron.json"
@@ -17282,15 +17278,15 @@ hash = "061bab400835be3517cc1cc719acac16791ef8c69ee1a3d0d211d01c38caaf20"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/crystal_seal_herald.json"
-hash = "f6c3aaf866a8d5385d144b06379c662a5e3fff27542d26f1b8bd7e0c723c9d42"
+hash = "a01d71b224cabd1cea48281e58d2486c587cb6a5344201ed1f1e6a1d637deb50"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/god_token.json"
-hash = "3819dea1f8905c893050cb9890ffacf6c0ba69c248193e1002796c067a2532e3"
+hash = "44b2684591b697843dc701bae3ba091da7cd39bfad5329bd02fb2c7e114ee2bc"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/god_token_all.json"
-hash = "6cc3833b46fd75f36d0f1f0388d4d46d6e553beda38074276bdbd278723f20a0"
+hash = "b829fc7fbfb8d8caa65954cb414ffba9090ef38c3815a2a172a4f6320ca1d443"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/goodie_box.json"
@@ -17338,7 +17334,7 @@ hash = "4fc0cb9bb79ed92ebf7d47a35e1325a5a89bf9ce98b14a1f1d30930477c87409"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/plunders_pearl.json"
-hash = "82a3cf5101637217bda922cd750515fc4b5ca8302170025487b5873c83b9564d"
+hash = "b80108115072681f88abbf528e0bf8c9b469923d2a8ed01afbb31fb4cb1d9778"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/items/potion.json"
@@ -17546,7 +17542,7 @@ hash = "28cb4e656dab0c704caa8c10eb73114d29fc517666e481b5087dbc7d0afa3cfd"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/blank_seal.json"
-hash = "eae30c4d6688ef6870cd9af4e373292b44110926101ab737b9c7cee13be48500"
+hash = "a7ca8b207dba3bafd520466be98ab47e48d2056c4ff9b6815f1c0cb421a49987"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/brazier_crate.json"
@@ -17558,7 +17554,7 @@ hash = "049092354aec1f5cb6d5c5a3a190abbe4f0d1ae08b248dc53597c3f794e58730"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/cake.json"
-hash = "d9428f2af371ca98d8205ac53bbe84cc27cfd5efd8437d11548769529dfb512d"
+hash = "17e5e6d5196b5c4937ff3183b8838de76a13bdb041c9f453340d6c377370872d"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/cake_crate.json"
@@ -17574,7 +17570,7 @@ hash = "de03a2b9cec3002c0e3e97d92647ef36085f186059b37d6f530baaf5e2d5c05e"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/elixir_crate.json"
-hash = "9d706c5305f83905a5bf188a2028b3f3aa1a12113de34b8b14c1d8cf48d37170"
+hash = "de5127a9d5da4e16e4aa86af6adf848c8ae844bbe4a5317e7b189647e8f8df93"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/executioner.json"
@@ -17614,7 +17610,7 @@ hash = "2084ba257caeb82f04d0bf43b99cd83902ba1a6b1ed0e3d783e4ad92a702b07e"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/paradox_build.json"
-hash = "433aebe44660b5821935ae369745f062f3f07e9cbed643807c1eddf790d35c84"
+hash = "26e454a1e6f907f3dcbf2b89b4e4b319d12ada04c8235fd0e7969efb17702135"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/paradox_crate.json"
@@ -17622,7 +17618,7 @@ hash = "0cba0692862e2ec59e792918cc5ab9756a778aad0d0203a49f68fcb480497dee"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/paradox_run.json"
-hash = "e0eaeb3ff752b1ef07aeaa9952a0aaa54123ccbaabd9ff494e87e390971807a1"
+hash = "1825c1087e30739e3f1c892b06bcb53c5ff4cbe37817a2fc533ddaa080e9ae34"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/objectives/paradoxical_gem.json"
@@ -17646,7 +17642,7 @@ hash = "b4be883c9ad38142715ed9612ebeab3440a65429ebd66234e2ed942087c378f4"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/soul/soul_flame.json"
-hash = "ce9b24bde555b9cec466b0f19ab8f6c92d4381448b509aaf094b9993e79dfc7f"
+hash = "04013071ac7739eb3ef3ad5ff751c866440f62983b8197a93d50d68bea2aeea7"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/soul/soul_plaque_1.json"
@@ -17698,7 +17694,7 @@ hash = "5a1f713a383cf5b322c4f5664e2db1dd5fb9399677418b98b6c1e96d7f75b803"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/vault_rock.json"
-hash = "131921a8feccdccf1cb79f61b264fc2236a40fa88891a5bd65be580a6efdbb79"
+hash = "4770d296c55f5862d878995299096905409846b365dbd72bf9897aeba0e6a9e3"
 
 [[files]]
 file = "kubejs/data/izzy_vault/functions/info.mcfunction"
@@ -18414,7 +18410,7 @@ hash = "178a14f4356f8f41808b8b37f8ce9d82eb5f27a9fabf4d6e3ae6cca0d4fcaeff"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/essences.js"
-hash = "794692484b8187c13f17be43f6ae825725abc21c78c0b1284cfc4f5a2af1f701"
+hash = "e2b52723d2ee3e5456b9bef97692f7f163e4dd654b7d480ad06bd6ec03c586d1"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
@@ -18422,7 +18418,7 @@ hash = "239a2b6b8e01523ddf4e99d18d691f984122c1a992cc4e23717a9756cd44b52d"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "8d9a8335c6651414971202200fdc571448776fbd6ffd975f8408c3b50f6289d6"
+hash = "4c8bfbce20c51a99f216eac0c0413519c6fe49bb99babfa8f0ffa413fca795f3"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/loot.js"
@@ -18562,7 +18558,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "2e2d302671d34561e11ad320653e04dac642151e33499e49c6aad32e0100f5ce"
+hash = "58e46488fb6451a7786a1ab48eb6e4188de130e329b1bedd76e0506fb776b88b"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
