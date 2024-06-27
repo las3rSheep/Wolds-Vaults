@@ -1357,6 +1357,30 @@ file = "config/mysticalagriculture-common.toml"
 hash = "d1d9e16824208cacaadf3898d0181468eab0986c2ec7db5cee1b559a54bd0ea6"
 
 [[files]]
+file = "config/mysticalcustomization/configure-augments.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mysticalcustomization/configure-crops.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mysticalcustomization/configure-mobsoultypes.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mysticalcustomization/configure-tiers.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mysticalcustomization/configure-types.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mysticalcustomization/crops/chromatic_iron.json"
+hash = "b5f0e5ac136c1ff0d775dc5181c203f283b3d9500a8a6d8791e394815e290943"
+
+[[files]]
 file = "config/naturescompass-common.toml"
 hash = "19e32515b4d9338aaa605bcd30dda6634d0a999f82ed0689749d95cb40397f5a"
 
@@ -18390,7 +18414,7 @@ hash = "178a14f4356f8f41808b8b37f8ce9d82eb5f27a9fabf4d6e3ae6cca0d4fcaeff"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/essences.js"
-hash = "0f574b01900f2379ef73cd403563462888a616f53a96aa6d55c7626dda68e093"
+hash = "794692484b8187c13f17be43f6ae825725abc21c78c0b1284cfc4f5a2af1f701"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
@@ -18398,7 +18422,7 @@ hash = "239a2b6b8e01523ddf4e99d18d691f984122c1a992cc4e23717a9756cd44b52d"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "2b63ac5bcec0c20cbbbacf4f840a041dece72e1c4902d5c6f78c7a1586f8516d"
+hash = "8d9a8335c6651414971202200fdc571448776fbd6ffd975f8408c3b50f6289d6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/loot.js"
@@ -18426,7 +18450,7 @@ hash = "755a4d46acca7925889e12cf90316875ae4931a63cd916c36852b773082c581f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/qol/wool_to_string.js"
-hash = "d45b6251474536c21c099a2e6da447bc767c59b5fa08a7779a03b781da45bdc4"
+hash = "724e55c1cca06dd90fc0b56dcd74c4b227f9943a2aeb7939e442007acd102a65"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/quarryplus/recipes.js"
@@ -19765,6 +19789,11 @@ hash = "c44bfa45702ac9395dbf6feedeaedb2657040e22a263ed00c3d75b85c7229736"
 metafile = true
 
 [[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "ab93a41957062727b2574691ad276d0e412f0683e68dee40bd4336ed3311d184"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "7f42dfc337c4a6510d3a8e240cdbe9cb9a71df4623e1d0775d8e9f3dc350d57e"
 metafile = true
@@ -20307,6 +20336,11 @@ metafile = true
 [[files]]
 file = "mods/vaultarhud.pw.toml"
 hash = "34660ffdde4a413c9f3804258b1a3bca59cfa08aa1e250a621fdf1a835e2d917"
+metafile = true
+
+[[files]]
+file = "mods/vh-mining-speedometer.pw.toml"
+hash = "5025c2ab3e140f3638d3f17d5cc9f392003183b6bc48d49925488bf4c6d97eb2"
 metafile = true
 
 [[files]]

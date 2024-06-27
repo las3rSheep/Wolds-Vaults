@@ -18,7 +18,8 @@ let removedOutputsMAGS = [
     'mysticalagriculture:uraninite_seeds',
     'mysticalagriculture:obsidian_seeds',
     'mysticalagriculture:redstone_seeds',
-    'mysticalagriculture:rubber_seeds'
+    'mysticalagriculture:rubber_seeds',
+    'mysticalagriculture:chromatic_iron_seeds'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGS.forEach(id => {
@@ -152,6 +153,22 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:supremium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:diamond_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        ingredients: [
+            Item.of('the_vault:chromatic_iron_block').toJson(),
+            Item.of('mysticalagriculture:supremium_essence').toJson(),
+            Item.of('the_vault:chromatic_iron_block').toJson(),
+            Item.of('mysticalagriculture:supremium_essence').toJson(),
+            Item.of('the_vault:chromatic_iron_block').toJson(),
+            Item.of('mysticalagriculture:supremium_essence').toJson(),
+            Item.of('the_vault:chromatic_iron_block').toJson(),
+            Item.of('mysticalagriculture:supremium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:chromatic_iron_seeds').toResultJson()
     })
 
     event.custom({

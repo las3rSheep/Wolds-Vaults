@@ -23,7 +23,8 @@
         "the_vault:plentiful",
         "the_vault:extended",
         "the_vault:xp_gain",
-        "the_vault:soul_boost"
+        "the_vault:soul_boost",
+        "the_vault:random_positive"
       ]
     },
     "CURSE": {

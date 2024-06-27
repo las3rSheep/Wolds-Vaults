@@ -2127,7 +2127,7 @@
         },
         "display": {
           "name": "Random Positive",
-          "color": "#fe3333",
+          "color": "#00FF00",
           "description": "Unknown Positive Modifier",
           "icon": "the_vault:gui/modifiers/impossible"
         }
