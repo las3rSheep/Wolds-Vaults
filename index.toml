@@ -11678,7 +11678,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "30c9d7830b5a97a1c4013782bd6ea131424eacf80bcfccf5412bc70df39ab6bf"
+hash = "069e637c038422b888f3ba40c134760c93ec9f54b3d6e70e3396f8a2428caf9a"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -20244,6 +20244,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
+metafile = true
+
+[[files]]
+file = "mods/vault-beacon-vault-hunters-addon.pw.toml"
+hash = "37d6f32dfe7f2fe72e3277fb679b622e8ca4ca0c1c998ce41f32d5dc3c01a52c"
 metafile = true
 
 [[files]]

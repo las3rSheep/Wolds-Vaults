@@ -29,8 +29,8 @@ onEvent("recipes", event => {
         ], {
         C: 'the_vault:magic_silk_block',
         P: 'create:copper_casing',
-        X: 'the_vault:magic_silk_block',
-        L: 'the_vault:chromatic_steel_ingot'
+        X: 'the_vault:extraordinary_pog_prism',
+        L: 'the_vault:black_chromatic_steel_block'
     })
 
     event.recipes.createMixing(Fluid.of('create_enchantment_industry:hyper_experience', 10), [

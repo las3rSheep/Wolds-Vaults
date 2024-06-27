@@ -697,6 +697,32 @@ onEvent("recipes", event => {
         I: 'industrialforegoing:gold_gear'
     })
 
+    event.shaped(Item.of('industrialforegoing:enchantment_extractor'),
+        [
+            'PNP',
+            'BMB',
+            'ITI'
+        ], {
+        P: '#forge:plastic',
+        N: 'the_vault:omega_pog',
+        B: 'the_vault:pog_prism',
+        M: 'industrialforegoing:machine_frame_supreme',
+        I: 'the_vault:vault_diamond_block_1',
+        T: 'the_vault:chromatic_gold_block'
+    }).id('industrialforegoing:enchantment_extractor')
+
+    event.shaped(Item.of('industrialforegoing:enchantment_applicator'),
+        [
+            'PPP',
+            'BMB',
+            'IBI'
+        ], {
+        P: '#forge:plastic',
+        B: 'the_vault:vault_anvil',
+        M: 'industrialforegoing:machine_frame_supreme',
+        I: 'industrialforegoing:gold_gear'
+    }).id('industrialforegoing:enchantment_applicator')
+
     event.shaped(Item.of('industrialforegoing:mob_crusher'),
         [
             'PpP',
@@ -710,6 +736,8 @@ onEvent("recipes", event => {
         T: 'minecraft:redstone_block',
         I: 'industrialforegoing:diamond_gear'
     })
+
+
 
     event.shaped(Item.of('industrialforegoing:hydroponic_bed'),
         [
