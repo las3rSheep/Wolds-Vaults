@@ -18246,7 +18246,7 @@ hash = "c2ff24795cb2ec78af08907b59bab7331400a0e633257c8c100e1d89a8a4a7b6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_enchantment_industry/recipes.js"
-hash = "9844972b213601db38df391c1f17aea75f670d6a85a243697a546f031966915b"
+hash = "0332743144e184d71004b02a27aa2a55b9c98660338b2b9a1aaa524b4f1c4d91"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_mechanical_extruder/recipes.js"
@@ -18426,7 +18426,7 @@ hash = "755a4d46acca7925889e12cf90316875ae4931a63cd916c36852b773082c581f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/qol/wool_to_string.js"
-hash = "cc93cb4a5df3afdc529de4b6a221f9e3db37313a4b7658703948fea9b5e9d1b1"
+hash = "d45b6251474536c21c099a2e6da447bc767c59b5fa08a7779a03b781da45bdc4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/quarryplus/recipes.js"
