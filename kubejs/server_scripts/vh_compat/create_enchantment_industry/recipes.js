@@ -29,7 +29,7 @@ onEvent("recipes", event => {
         ], {
         C: 'the_vault:magic_silk_block',
         P: 'create:copper_casing',
-        X: 'the_vault:extraordinary_pog_prism',
+        X: 'woldsvaults:extraordinary_pog_prism',
         L: 'the_vault:black_chromatic_steel_block'
     })
 

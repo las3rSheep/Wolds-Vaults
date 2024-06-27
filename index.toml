@@ -818,7 +818,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "d25a65610cc13328a66c0601c80ffa4821d02714f8f1ea2b08ba6a766e3ee9cd"
+hash = "59ca2d457189d48f8be629a6fbcc7fdb5e8b455c1150cea4002960cd4c11e7eb"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -11910,7 +11910,7 @@ hash = "400fbf2549b673bb958526b633108243ceba3ec576b66f6609fe5ed7c0b8570b"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
-hash = "f851804c8c6009ff3c19efdfc7ce20c081b60932b82140ebeef44163abf32f10"
+hash = "4416939652f7b723b364a83a7a929818005a8ea52a4e1ef793a4e204ff418007"
 
 [[files]]
 file = "config/the_vault/vault_entities.json"
@@ -12583,6 +12583,10 @@ hash = "15e258f5581f452128834f1f7578bd5bff057046517435dc825a2169fefa6967"
 [[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "313ae8e1ab28d3e6054c0992cc817388e0aaea9c832e73e62f44a4f6df05d38f"
+
+[[files]]
+file = "defaultconfigs/create_enchantment_industry-server.toml"
+hash = "a17f21332f422258e7fd36e742c000810ab0726600d4bf5c68e9cf5c700fc6a3"
 
 [[files]]
 file = "defaultconfigs/createdieselgenerators-server.toml"
@@ -18242,7 +18246,7 @@ hash = "c2ff24795cb2ec78af08907b59bab7331400a0e633257c8c100e1d89a8a4a7b6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_enchantment_industry/recipes.js"
-hash = "0ca486c0150e3e1be611edb8dce29fc17e590f80c9a868be2b0975b0bfb9d308"
+hash = "9844972b213601db38df391c1f17aea75f670d6a85a243697a546f031966915b"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_mechanical_extruder/recipes.js"
@@ -18330,7 +18334,7 @@ hash = "60b306cfb570b8e4d863a818a885b2a755b357411c278c00577b6d4d7b470091"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
-hash = "688bd458198ada85ecf80f6c84698927f94257e44513316fb57e4dd81507f928"
+hash = "177fe293c9f4727d846c0f97b7e51e81d8d790663919ed8f66ee39cc61d899e2"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/integrateddynamics/recipes.js"
@@ -18503,6 +18507,10 @@ hash = "7664859fff643b767b073d3cdab1168bd5f1f3d99b4f562e198ecc143b0896bb"
 [[files]]
 file = "kubejs/server_scripts/vh_compat/vanilla/loot.js"
 hash = "8ecebbfca94b70d3734a993e23e4b75ea3e550e16f95414f29905b8243919e1d"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/vaultbeacon/recipes.js"
+hash = "2d9653dbe6829395244e90f19ec6035e2712c04fe44554d85e974fd8bcee31c7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/waystones/recipes.js"
