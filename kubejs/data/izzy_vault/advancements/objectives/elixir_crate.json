@@ -43,6 +43,7 @@
     },
     "requirements": [
         ["elixir_place"],
+        ["elixir_open"],
         ["lodestone_touch"]
     ]
   }

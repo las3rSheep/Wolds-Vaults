@@ -2582,7 +2582,91 @@
             "pool": [
               {
                 "value": "the_vault:curse",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:volcanic",
                 "weight": 10
+              },
+              {
+                "value": "the_vault:explosive",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:fatiguing",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:freezing",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:poisonous",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:wither",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:voiding",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:mana_leak",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:corrosive",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:hunger",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:locked",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:nullifying",
+                "weight": 5
+              },
+              {
+                "value": "the_vault:enervated",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:curse_voiding",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:curse_explosive",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:curse_freezing",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:chemical_bath",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:curse_ethereal",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:soulless",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:fading",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:impossible_difficulty",
+                "weight": 2
               }
             ]
           }
@@ -3101,6 +3185,63 @@
               {
                 "value": "the_vault:mob_increase",
                 "weight": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:random_positive": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:gilded_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:ornate_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:living_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:coin_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:wooden_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:soul_boost",
+                "weight": 8
               }
             ]
           }

@@ -19,11 +19,10 @@
         ]
       }
     ],
-    "PREFIX": [
-      
-    ],
+    "PREFIX": [],
     "SUFFIX": [
-      { "attribute": "the_vault:wooden_affinity",
+      {
+        "attribute": "the_vault:wooden_affinity",
         "group": "ModAffinity",
         "identifier": "the_vault:wooden_affinity",
         "tags": [
@@ -48,7 +47,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ornate_affinity",
+      {
+        "attribute": "the_vault:ornate_affinity",
         "group": "ModAffinity",
         "identifier": "the_vault:ornate_affinity",
         "tags": [
@@ -73,7 +73,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:gilded_affinity",
+      {
+        "attribute": "the_vault:gilded_affinity",
         "group": "ModAffinity",
         "identifier": "the_vault:gilded_affinity",
         "tags": [
@@ -98,7 +99,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:living_affinity",
+      {
+        "attribute": "the_vault:living_affinity",
         "group": "ModAffinity",
         "identifier": "the_vault:living_affinity",
         "tags": [
@@ -123,7 +125,34 @@
           }
         ]
       },
-      { "attribute": "the_vault:picking",
+      {
+        "attribute": "the_vault:reaping",
+        "group": "ModReaping",
+        "identifier": "the_vault:reaping",
+        "tags": [
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 49,
+            "weight": 75,
+            "value": {
+              "flag": true
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 50,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:picking",
         "group": "ModPicking",
         "identifier": "the_vault:picking",
         "tags": [
@@ -148,7 +177,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:axing",
+      {
+        "attribute": "the_vault:axing",
         "group": "ModAxing",
         "identifier": "the_vault:axing",
         "tags": [
@@ -173,7 +203,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:shovelling",
+      {
+        "attribute": "the_vault:shovelling",
         "group": "ModShovelling",
         "identifier": "the_vault:shovelling",
         "tags": [
@@ -198,7 +229,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:coin_affinity",
+      {
+        "attribute": "the_vault:coin_affinity",
         "group": "ModCoinAffinity",
         "identifier": "the_vault:coin_affinity",
         "tags": [
@@ -223,7 +255,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:smelting",
+      {
+        "attribute": "the_vault:smelting",
         "group": "ModSmeltingAffinity",
         "identifier": "the_vault:smelting",
         "tags": [
@@ -248,7 +281,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:pulverizing",
+      {
+        "attribute": "the_vault:pulverizing",
         "group": "ModPulverizingAffinity",
         "identifier": "the_vault:pulverizing",
         "tags": [
@@ -273,7 +307,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:hydrovoid",
+      {
+        "attribute": "the_vault:hydrovoid",
         "group": "ModHydrovoidAffinity",
         "identifier": "the_vault:hydrovoid",
         "tags": [
@@ -298,7 +333,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mining_speed",
+      {
+        "attribute": "the_vault:mining_speed",
         "group": "ModMiningSpeed",
         "identifier": "the_vault:mining_speed",
         "tiers": [
@@ -354,7 +390,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "ModDurability",
         "identifier": "the_vault:durability",
         "tiers": [
@@ -420,7 +457,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:copiously",
+      {
+        "attribute": "the_vault:copiously",
         "group": "ModCopiously",
         "identifier": "the_vault:copiously",
         "tiers": [
@@ -486,7 +524,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_quantity",
+      {
+        "attribute": "the_vault:item_quantity",
         "group": "ModLoot",
         "identifier": "the_vault:item_quantity",
         "tiers": [
@@ -542,7 +581,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModLoot",
         "identifier": "the_vault:item_rarity",
         "tiers": [
@@ -598,7 +638,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:soulbound",
+      {
+        "attribute": "the_vault:soulbound",
         "group": "ModSoulbound",
         "identifier": "the_vault:soulbound",
         "tags": [
@@ -623,7 +664,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:trap_disarming",
+      {
+        "attribute": "the_vault:trap_disarming",
         "group": "ModTrapDisarm",
         "identifier": "the_vault:trap_disarming",
         "tiers": [
@@ -679,7 +721,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:immortality",
+      {
+        "attribute": "the_vault:immortality",
         "group": "ModImmortality",
         "identifier": "the_vault:immortality",
         "tiers": [
@@ -745,7 +788,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:reach",
+      {
+        "attribute": "the_vault:reach",
         "group": "ModReach",
         "identifier": "the_vault:mod_reach",
         "tiers": [
@@ -801,7 +845,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:hammer_size",
+      {
+        "attribute": "the_vault:hammer_size",
         "group": "ModReach",
         "identifier": "the_vault:hammer_size",
         "tags": [

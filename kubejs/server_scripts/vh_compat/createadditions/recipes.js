@@ -154,6 +154,6 @@ onEvent("recipes", event => {
         }
     )
 
-    event.shapeless('create:experience_nugget', ['4x minecraft:experience_bottle'])
+    //event.shapeless('create:experience_nugget', ['4x minecraft:experience_bottle'])
     event.shapeless('4x minecraft:experience_bottle', ['create:experience_nugget'])
 })

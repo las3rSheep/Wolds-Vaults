@@ -270,5 +270,14 @@ onEvent("recipes", event => {
         E: 'mysticalagriculture:saltpeter_essence'
     }).id('mysticalagriculture:essence/common/niter')
 
+    event.shaped(Item.of('the_vault:chromatic_iron_ingot', 6),
+        [
+            'EEE',
+            'E E',
+            'E E'
+        ], {
+        E: 'mysticalagriculture:chromatic_iron_essence'
+    }).id('mysticalagriculture:essence/common/chromatic_iron')
+
 
 })

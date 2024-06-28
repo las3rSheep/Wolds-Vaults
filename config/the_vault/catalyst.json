@@ -1,5 +1,27 @@
 {
   "pools": {
+    "the_vault:craft_random_positive": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:random_positive",
+                "the_vault:random_negative"
+              ],
+              "model": 22
+            },
+            "weight": 9.0
+          }
+        ]
+      }
+    ],
     "the_vault:catalyst_box": [
       {
         "level": 0,

@@ -20,19 +20,10 @@
     },
     {
       "value": {
-        "id": "the_vault:mystical_essence",
+        "id": "the_vault:mystical_powder",
         "nbt": "{}",
         "amountMin": 4,
         "amountMax": 12
-      },
-      "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:mote_clarity",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
       },
       "weight": 192
     },
@@ -182,15 +173,6 @@
     },
     {
       "value": {
-        "id": "the_vault:vault_catalyst",
-        "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 6
-      },
-      "weight": 192
-    },
-    {
-      "value": {
         "id": "the_vault:trinket",
         "nbt": "{}",
         "amountMin": 1,
@@ -290,7 +272,7 @@
     },
     {
       "value": {
-        "id": "the_vault:general_decor_scroll",
+        "id": "woldsvaults:general_decor_scroll",
         "nbt": "{}",
         "amountMin": 1,
         "amountMax": 1

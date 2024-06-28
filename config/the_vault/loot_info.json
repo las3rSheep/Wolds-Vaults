@@ -111,6 +111,14 @@
         }
       }
     },
+    "the_vault:brazier_pillage": {
+      "display": "Brazier Pillage",
+      "lootTableKeys": {
+        "the_vault:brazier_lvl0": {
+          "level": 0
+        }
+      }
+    },
     "the_vault:completion_crate_haunted_mono": {
       "display": "Haunted Braziers Completion Crate",
       "lootTableKeys": {

@@ -1,5 +1,12 @@
 [
     {
+        "mob": "quark:frog",
+        "mincount": {
+            "amount": 15
+        },
+        "result": "deny"
+    },
+    {
         "mod": "naturalist",
         "dimension": "minecraft:overworld",
         "result": "deny"

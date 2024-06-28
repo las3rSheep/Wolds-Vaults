@@ -2,10 +2,7 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
-        "immersiveengineering",
-        "controlengineering",
-        "more_immersive_wires",
-        "immersivepetroleum"
+        "davespotioneering"
       ],
       "restrictions": {
         "restricts": {
@@ -13,7 +10,27 @@
           "BLOCK_INTERACTABILITY": true,
           "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Dave's Potioneering",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "immersiveengineering",
+        "controlengineering",
+        "more_immersive_wires",
+        "immersivepetroleum"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
         }
       },
       "name": "Immersive Engineering",

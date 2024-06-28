@@ -22,7 +22,7 @@ onEvent("recipes", event => {
         ], {
         G: 'the_vault:pog_prism',
         D: 'the_vault:chromatic_steel_block',
-        C: 'minecraft:redstone_block',
+        C: 'the_vault:vault_diamond_block',
         L: 'the_vault:black_chromatic_steel_ingot',
         B: 'the_vault:extraordinary_benitoite'
     })
@@ -36,7 +36,7 @@ onEvent("recipes", event => {
         G: 'the_vault:vault_essence_1',
         D: 'the_vault:perfect_larimar',
         C: 'the_vault:magic_silk_block',
-        B: 'the_vault:vault_diamond'
+        B: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('scannable:range_module'),
@@ -47,7 +47,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         R: 'minecraft:ender_pearl',
-        X: 'the_vault:extraordinary_larimar'
+        X: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('scannable:hostile_entity_module'),
@@ -126,7 +126,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         R: '#the_vault:vault_ores',
-        X: 'the_vault:extraordinary_larimar',
+        X: 'the_vault:gem_pog',
         V: 'the_vault:pog_prism',
         B: 'the_vault:black_chromatic_steel_block'
     })
@@ -273,13 +273,14 @@ onEvent("recipes", event => {
     event.shaped(Item.of('scannable:vault_doors_module'),
         [
             'XBX',
-            'AMA',
+            'AMP',
             'XBX'
         ], {
         M: 'scannable:blank_module',
         A: 'the_vault:key_mould',
         B: 'the_vault:wold_star_chunk',
-        X: 'the_vault:black_chromatic_steel_block'
+        X: 'the_vault:black_chromatic_steel_block',
+        P: 'woldsvaults:extraordinary_pog_prism'
     })
 
 

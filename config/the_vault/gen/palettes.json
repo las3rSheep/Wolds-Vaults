@@ -961,6 +961,16 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/diamond_ore_placeholder.json"
     },
     {
+      "id": "the_vault:wold/ore/base_larimar",
+      "name": "Larimar Caves Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/wold/ore/base_larimar.json"
+    },
+    {
+      "id": "the_vault:wold/ore/larimar_ore_placeholder",
+      "name": "Larimar Ore Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/wold/ore/larimar_ore_placeholder.json"
+    },
+    {
       "id": "the_vault:raw/shulker_spawner",
       "name": "Shulker Spawner",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/shulker_spawner.json"

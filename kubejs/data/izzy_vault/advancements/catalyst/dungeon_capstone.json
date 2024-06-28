@@ -1,11 +1,11 @@
 {
-    "parent": "izzy_vault:catalyst/mote_clarity",
+    "parent": "izzy_vault:catalyst/afterlife",
     "display": {
       "icon": {
-        "item": "the_vault:mote_purity"
+        "item": "the_vault:capstone_dungeon_hunter"
       },
-      "title": {"text": "Pure Streams"},
-      "description": {"text": "Find a Mote of Purity"}
+      "title": {"text": "More Loot comes with more Battles"},
+      "description": {"text": "Find yourself a Dungeon Capstone"}
     },
     "criteria": {
       "craft_item": {
@@ -14,7 +14,7 @@
           "items": [
             {
               "items": [
-                "the_vault:mote_purity"
+                "the_vault:capstone_dungeon_hunter"
               ]
             }
           ]

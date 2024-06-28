@@ -85,6 +85,7 @@
       "value": {
         "id": "the_vault:vault_catalyst_infused",
         "nbt": "{model:9,modifiers:[\"the_vault:soul_boost\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:10}",
+        "amountMin": 1,
         "amountMax": 1
       },
       "weight": 192

@@ -2509,6 +2509,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/diamond_caves.json"
     },
     {
+      "id": "the_vault:wold/rooms/ore/larimar_cave",
+      "name": "Larimar Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/wold/rooms/ore/larimar_caves.json"
+    },
+    {
       "id": "the_vault:vault/decor/raw/end/island_structure",
       "name": "Raw End Island Structure",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/raw/end/island_structure.json"

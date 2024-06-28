@@ -163,7 +163,7 @@ onEvent('recipes', event => {
 
 
     //Chromatic Gold
-    event.shapeless('the_vault:chromatic_gold_ingot', ['4x minecraft:gold_ingot', 'the_vault:vault_essence_1'])
+    event.shapeless('the_vault:chromatic_gold_ingot', ['2x minecraft:gold_ingot', 'the_vault:vault_essence_1', 'the_vault:magic_silk'])
     event.shapeless('9x the_vault:chromatic_gold_nugget', ['the_vault:chromatic_gold_ingot'])
     event.shapeless('the_vault:chromatic_gold_ingot', ['9x the_vault:chromatic_gold_nugget'])
     event.shapeless('9x the_vault:chromatic_gold_ingot', ['the_vault:chromatic_gold_block'])
@@ -180,5 +180,39 @@ onEvent('recipes', event => {
         X: 'woldsvaults:arcane_shard',
         O: 'the_vault:orb_frame'
     })
+
+    event.shaped(Item.of('woldsvaults:waning_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:waning_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+    event.shaped(Item.of('woldsvaults:waxing_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:waxing_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+    event.shaped(Item.of('woldsvaults:repair_augmenter'),
+        [
+            'XTX',
+            'TOT',
+            'XTX'
+        ], {
+        X: 'the_vault:resilient_focus',
+        O: 'the_vault:pog_prism',
+        T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
 
 })

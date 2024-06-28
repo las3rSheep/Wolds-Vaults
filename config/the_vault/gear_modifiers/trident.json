@@ -532,7 +532,9 @@
         "attribute": "the_vault:trident_wind_up_percent",
         "group": "ModWindUp",
         "identifier": "the_vault:mod_trident_windup",
-        "tags": [],
+        "tags": [
+          "focusWindUp"
+        ],
         "tiers": [
           {
             "minLevel": 0,
@@ -600,7 +602,9 @@
         "attribute": "the_vault:trident_channeling_chance",
         "group": "ModWindUp",
         "identifier": "the_vault:mod_trident_channeling_chance",
-        "tags": [],
+        "tags": [
+          "focusChannelingChance"
+        ],
         "tiers": [
           {
             "minLevel": 0,
