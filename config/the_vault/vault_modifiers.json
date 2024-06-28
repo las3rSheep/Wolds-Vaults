@@ -1239,7 +1239,7 @@
           "durabilityDamageTakenMultiplier": 3.0
         },
         "display": {
-          "name": "Frail",
+          "name": "Corrosive",
           "color": "#7B7E7F",
           "description": "+200% Durability Damage",
           "descriptionFormatted": "+%d%% Durability Damage",

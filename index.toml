@@ -4081,6 +4081,14 @@ file = "config/the_vault/gen/1.0/palettes/wildwest/trap_spawner_settings.json"
 hash = "909d33d4f7a9273bc94a77d07e3ab2104675cf55bcac87e8dac3406f25943fd0"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/wold/ore/base_larimar.json"
+hash = "156811df91f4cd3b22fa53e89a8bfdff1f84b95c0a7a20abe1e2d1009d0527bc"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/wold/ore/larimar_ore_placeholder.json"
+hash = "3d5970b64a0d7d125e3660ef5970b85e1393b7ea0c8aa986a3d1749e63ae8870"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/x-mark/base.json"
 hash = "9cee5c4e5fd0c1b246e53dbfde1cc2145575002bf299a05b5d10072041f082e3"
 
@@ -10182,7 +10190,7 @@ hash = "447b6afeaef66d37efae129c30029ab681d20ecdb0d8128927482bb133d46bb8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/lush_cave_resource_rooms.json"
-hash = "4b19c04eb2d69bf88df69a959f7d561dc1a51156c8f4044dc8d7592c41e22892"
+hash = "8afbc8a1b3d702ce58303f823da1a3117ae9a1b639d5d657e4d3316721bffc03"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/lush_cave_rooms.json"
@@ -11241,6 +11249,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/white_tunnels.json
 hash = "46a40551bc3bcb042f915be169bd47541c11ffbe59ba5841b2c912b11a7ce4eb"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/wold/rooms/ore/larimar_caves.json"
+hash = "c8e17d18762eebcfec93af8876344f6bcb41ff1f9267648da9f60bfdb5f0fa3b"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_beach.json"
 hash = "80af17d5d044aef2cb136128959b2750cfc868d0d30f4d9bc16f8f93e0dd7169"
 
@@ -11538,15 +11550,15 @@ hash = "f52125d300370c8200b41f5989679e94a7cfe5cf57bc988783ec8cae005dfb0f"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "9e06b64388b8dd659b1270f7c5eea7fa2224e9177846ddf92c992b5e29bc042d"
+hash = "11e5d52ef4037ddd32c73e657c0bf1c759e1b77c22d23079c14b3768a9f78eb7"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "5768bc789c7997a7389d4ca66f13da79c41366a255a9c61ba2b467e92d74503e"
+hash = "3bb9141407935a4fb371746b6ffb0780652a0562bc73d10212808ee4d0df0ada"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "678c16a659152804bd9993b5f722efd45fc44d12bf3ff07b1bc68abd49fc302f"
+hash = "5e2366a7ecc8d999895ad8eae55e928dd6ffeda56443a41090ebfc103fa13085"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -11726,7 +11738,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "e96206c5e1e1607f88ac153ab8dd775a8081d29068304a86fd232fe1b9a9cab6"
+hash = "abab5c6386d9fbf2dcd5a45b7ceec09fdad02206bb929a5fdd04e563b4d9331b"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11826,7 +11838,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "ec5943cd94f334b7c3654c3bdd41d46fc4218164ba9019f12bd21999864d570b"
+hash = "49499c136abb505a8d2db3590478ed98211cd7111c408a34b88bc5546f58eb02"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -11930,7 +11942,7 @@ hash = "5129faa571c3265472307e4d47ae7aa98a9d34d2eeeccc3297562354c83c3c81"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "ddd8b989b09b74b6803984c0e0af7dee0d25d01bcc31c3b7e8025334997f1054"
+hash = "ec49438715f7e5197aac1a27f65d4ef9be1516414f7134caa3058bcec35c81c2"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -11986,11 +11998,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "4938ec69e63d82382255d93a4264be4b284f19b94c8935a59f355430c5ec215f"
+hash = "0675b9d10d7762d9e595ccd52cc57d0ac6d35556e588e82f4206fba9c92077ff"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "293c26327e8ceeb1a30cf0f36ad70fca81d871d7008f670ac66373e6ba8b5c0f"
+hash = "ef1d496699c5ca56d6ec17722074f466e042b9278c11abdf534e3d3fd76da855"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -15585,6 +15597,10 @@ file = "kubejs/assets/the_vault/textures/gui/researches/hostile_neural_networks.
 hash = "9be6ab6efdf9744206bace5eda6b85f60b0d27934b5195f0c9c6e3965e4739e4"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/immersive_petroleum.png"
+hash = "dd64c708c9d706ee98d7b4fcf1e2a4967bb0771db9f022638fb6c0e984abeb6f"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/immersiveengineering.png"
 hash = "a6c933d684933b6892f0ffbf916ea27ffa5444210e70d426367eb92e0ccfdeb7"
 
@@ -18558,7 +18574,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "58e46488fb6451a7786a1ab48eb6e4188de130e329b1bedd76e0506fb776b88b"
+hash = "c469482441e91cd2d03750881e19d7201517f87f6b9620a0ecc0479679519343"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
