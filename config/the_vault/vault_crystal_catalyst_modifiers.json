@@ -53,7 +53,15 @@
         "the_vault:curse_voiding",
         "the_vault:curse_explosive",
         "the_vault:curse_freezing",
-        "the_vault:curse"
+        "the_vault:curse",
+        "the_vault:poor",
+        "the_vault:mediocre",
+        "the_vault:corrosive",
+        "the_vault:nullifying",
+        "the_vault:piercing",
+        "the_vault:enervated",
+        "the_vault:chemical_bath",
+        "the_vault:impossible_difficulty"
       ]
     }
   },

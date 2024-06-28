@@ -600,6 +600,18 @@
           "icon": "the_vault:gui/modifiers/poor"
         }
       },
+      "the_vault:mediocre": {
+        "properties": {
+          "percentage": -0.25
+        },
+        "display": {
+          "name": "Mediocre",
+          "color": "#896760",
+          "description": "-25% Item Rarity",
+          "descriptionFormatted": "-%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/poor"
+        }
+      },
       "the_vault:low_item_rarity": {
         "properties": {
           "percentage": 0.05
@@ -1222,6 +1234,18 @@
           "icon": "the_vault:gui/modifiers/frail"
         }
       },
+      "the_vault:corrosive": {
+        "properties": {
+          "durabilityDamageTakenMultiplier": 3.0
+        },
+        "display": {
+          "name": "Frail",
+          "color": "#7B7E7F",
+          "description": "+200% Durability Damage",
+          "descriptionFormatted": "+%d%% Durability Damage",
+          "icon": "the_vault:gui/modifiers/frail"
+        }
+      },
       "the_vault:reinforced": {
         "properties": {
           "durabilityDamageTakenMultiplier": 0.9
@@ -1683,6 +1707,19 @@
           "icon": "the_vault:gui/modifiers/inert"
         }
       },
+      "the_vault:nullifying": {
+        "properties": {
+          "stat": "cooldown_reduction",
+          "addend": -0.5
+        },
+        "display": {
+          "name": "Nullified",
+          "color": "#6DACB5",
+          "description": "-50% Cooldown Reduction",
+          "descriptionFormatted": "%d%% Cooldown Reduction",
+          "icon": "the_vault:gui/modifiers/inert"
+        }
+      },
       "the_vault:vulnerable": {
         "properties": {
           "stat": "resistance",
@@ -1692,6 +1729,19 @@
           "name": "Vulnerable",
           "color": "#CA9A5B",
           "description": "-10% Resistance",
+          "descriptionFormatted": "%d%% Resistance",
+          "icon": "the_vault:gui/modifiers/vulnerable"
+        }
+      },
+      "the_vault:piercing": {
+        "properties": {
+          "stat": "resistance",
+          "addend": -0.5
+        },
+        "display": {
+          "name": "Piercing",
+          "color": "#CA9A5B",
+          "description": "-50% Resistance",
           "descriptionFormatted": "%d%% Resistance",
           "icon": "the_vault:gui/modifiers/vulnerable"
         }
@@ -2532,9 +2582,9 @@
           }
         },
         "display": {
-          "name": "Unfair Mobs",
+          "name": "Chemical Bath",
           "color": "#da6d5a",
-          "description": "+10% Mob Speed, +1 Slowness",
+          "description": "+2 Freezing, Poisoning, and Withering Mobs",
           "icon": "the_vault:gui/modifiers/armored_mobs"
         }
       },
@@ -2713,6 +2763,17 @@
           "name": "Difficult",
           "color": "#8f3b3b",
           "description": "Increases objective difficulty by 20%",
+          "icon": "the_vault:gui/modifiers/injured"
+        }
+      },
+      "the_vault:impossible_difficulty": {
+        "properties": {
+          "increase": 1.0
+        },
+        "display": {
+          "name": "Impossible",
+          "color": "#8f3b3b",
+          "description": "Increases objective difficulty by 100%",
           "icon": "the_vault:gui/modifiers/injured"
         }
       },
