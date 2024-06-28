@@ -386,7 +386,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cfdaf6cbc7dca44003fdc3fcd8a575e3373a32b41d1578c6a0b77f6605bf0033"
+hash = "7cb55d34430363e914ac8da10600b202557358e9416124a0f61bc68803d94842"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -10190,7 +10190,7 @@ hash = "447b6afeaef66d37efae129c30029ab681d20ecdb0d8128927482bb133d46bb8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/lush_cave_resource_rooms.json"
-hash = "8afbc8a1b3d702ce58303f823da1a3117ae9a1b639d5d657e4d3316721bffc03"
+hash = "4b19c04eb2d69bf88df69a959f7d561dc1a51156c8f4044dc8d7592c41e22892"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/lush_cave_rooms.json"
@@ -11962,7 +11962,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "7110d823736c1c60dd6f91f447e606bf4e4ec42648661095b9e470f3deb87d61"
+hash = "1f856af40ffac1ffc967a54d23fd7ab0f1fa68baed1472ef103a6c8d697f9045"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -19091,6 +19091,11 @@ hash = "3a90df6833d6cd7a83fc879a41916faeaf1a7ba1f5d4eb6d02b57917627ba1c0"
 metafile = true
 
 [[files]]
+file = "mods/daves-potioneering.pw.toml"
+hash = "8f3aa20abe25033ffa5d28f608ea270a84a2131e2b8e903eae3f1bc1241e0974"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
@@ -19638,6 +19643,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "90a0852575af8546740b37eb9aca1f22d0546a2c0ff66177500e574cd80c8429"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "0595f2d185ccf018f81638bc959574ced40a6e5a72417f59a860c2887a51527b"
 metafile = true
 
 [[files]]
@@ -20377,7 +20387,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "50a917fb58676ecfbee48392eb3c27cfeaa9d0db78958d386540ddeef1209357"
+hash = "17f5131684be62487c9fc6db92dac7d71e39d123549a9c8c76ac4d7c0e4edddc"
 metafile = true
 
 [[files]]
