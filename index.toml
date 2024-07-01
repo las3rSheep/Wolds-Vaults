@@ -19327,7 +19327,7 @@ metafile = true
 
 [[files]]
 file = "mods/iammusicplayer.pw.toml"
-hash = "a5ef07c20e332ca0bad41c280228fd8cf676d8c1dd9c65045230a03e8d89600a"
+hash = "ebf78434e0fcbd691e5b5ae22ca3f42f8e8ab71b3952c25d1a634a36e440ff39"
 metafile = true
 
 [[files]]
@@ -19453,6 +19453,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "9f1d7474eb3566de74ae0642d672ec909c56b3a899f8712f27960357a713394b"
+metafile = true
+
+[[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "98fceafed7d7f5c9b1f7d1e0e9a00bb046caf0c556c2b8c6400f654a5d703647"
 metafile = true
 
 [[files]]

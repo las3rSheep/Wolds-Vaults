@@ -178,7 +178,7 @@ onEvent("recipes", event => {
         ], {
         P: 'the_vault:black_chromatic_steel_ingot',
         D: 'thermal_extra:twinite_gear',
-        C: 'thermal_extra:area_radius_augment_3'
+        C: 'thermal_extra:rf_coil_augment_3'
     })
 
     event.shaped(Item.of('thermal_extra:rf_coil_augment_5'),
@@ -189,7 +189,7 @@ onEvent("recipes", event => {
         ], {
         P: 'the_vault:pog_prism',
         D: 'thermal_extra:dragonsteel_gear',
-        C: 'thermal_extra:area_radius_augment_3'
+        C: 'thermal_extra:rf_coil_augment_4'
     })
 
     event.shaped(Item.of('thermal_extra:rf_coil_storage_augment_1'),
