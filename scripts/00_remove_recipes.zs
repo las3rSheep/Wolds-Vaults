@@ -594,7 +594,6 @@ craftingTable.remove(<item:ironfurnaces:upgrade_obsidian2>);
 
 // Dark Utilities
 craftingTable.remove(<item:darkutils:charm_portal>);
-craftingTable.remove(<item:darkutils:charm_sleep>);
 craftingTable.remove(<item:darkutils:charm_warding>);
 craftingTable.remove(<item:darkutils:tome_enchanting>);
 craftingTable.remove(<item:darkutils:tome_sga>);
@@ -1119,7 +1118,6 @@ for coin in coins{
 }
 // Dark Utilities
 JEI.hideIngredient(<item:darkutils:charm_portal>);
-JEI.hideIngredient(<item:darkutils:charm_sleep>);
 JEI.hideIngredient(<item:darkutils:charm_warding>);
 JEI.hideIngredient(<item:darkutils:tome_enchanting>);
 JEI.hideIngredient(<item:darkutils:tome_sga>);
