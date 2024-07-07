@@ -846,7 +846,7 @@ hash = "242b86ab5232a77b28383ac676b81a101ddf71151a58fe90b9003da1ccce6b27"
 
 [[files]]
 file = "config/industrialforegoing/machine-misc.toml"
-hash = "d41245b78f3278a245c9a81dc6ae49d4d19543617404853c8df6adc774a459d5"
+hash = "20a124626a26b81dc635d07423621c1c975e6c9b32e3cb0a45b296a6dec80d60"
 
 [[files]]
 file = "config/industrialforegoing/machine-resource-production.toml"
@@ -17729,6 +17729,54 @@ file = "kubejs/data/minecraft/tags/functions/load.json"
 hash = "dbb3fbe97ae1967b4e4da6b29ccefc1b88e082eb23cb857f8e16900b89be6654"
 
 [[files]]
+file = "kubejs/data/psi/advancements/main/ebony_assembly_pickup.json"
+hash = "0390cbead719526f0978b302aad00a84bae4e6cda427d6194d266bff5a2df65d"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/ebony_pickup.json"
+hash = "3c4948940be6d2e53771f29c48bc9203c4a9d43ecde71ba8a5cf5408622a6e60"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/encyclopaedia_psionica.json"
+hash = "2900df4e4f30f9c4b30984dce158d85dd568ac605283f39c22c272e037de089c"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/gold_assembly_pickup.json"
+hash = "422e40b3bfdb9061b41ce2cb855ee08994d6a74e24dfc4ea4f091e019dcbcab9"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/iron_cad_pickup.json"
+hash = "c827f1e7247426e5a5700c8e99f39bf3423e64c2a8edd4ccc1955763817d2327"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/ivory_assembly_pickup.json"
+hash = "564bc5f0f95c5a5be78375d0121209c1927b10f46a40145f4b5383e75d551db4"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/ivory_pickup.json"
+hash = "79fea20507458588d10b10fa2a6a2cc7134c658c6cdde4b08ae347f54388b4c6"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/psidust.json"
+hash = "0dc32a7727aa787d577d8572775fe25ff474617f41fef9d76e4aff5a183a1305"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/psigem_pickup.json"
+hash = "7bd41a5346c70b7264240ccd6c63a471045b8c733786cac3e12dedd9539a4364"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/psimetal_assembly_pickup.json"
+hash = "2b4ca464bc4e73b7843d78a72075e5bc25a363b63f055018eaa1c585f6673e12"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/psimetal_pickup.json"
+hash = "a7c9b7cf2e55eb5228db3aa7cd52da36f2b9360592f12ee86fb9e54a987b495f"
+
+[[files]]
+file = "kubejs/data/psi/advancements/main/root.json"
+hash = "6e80234c36af06ff0a631def23b19cca618e259fff0ee51ba04755e58a230929"
+
+[[files]]
 file = "kubejs/data/the_vault/advancements/main/grasshopper_ninja.json"
 hash = "dd5d5f58c246d11e0ba7eeca642323fe0f4761e88fafe05b61c4873981726d7d"
 
@@ -18505,6 +18553,10 @@ file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/tags.js"
 hash = "aba812838954ff1b581fa5461d09c96302a37ffc721e198bba4b2368ed9df941"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/sophisticatedvaultupgrades/recipes.js"
+hash = "114d6405ce0a60cc961b0554e350c69033fedd9419d0d4614722110295e40ebc"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/ssn/recipes.js"
 hash = "3b0350550912e372318081f5e579bb6f184bd935b8285deb8713fc8ce174d3fa"
 
@@ -18661,11 +18713,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
-metafile = true
-
-[[files]]
-file = "mods/almost-unified.pw.toml"
-hash = "9f995d56c618dbeeefcd66855cdd64ff8ef8d5920b33b026668ae996677b6704"
 metafile = true
 
 [[files]]
@@ -19529,11 +19576,6 @@ hash = "5f7fa50339c00d7860116385151950d48195034f04c32792640d1f6afcb77ad6"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-keys.pw.toml"
-hash = "07d20b42fbe434d155cb457129b7b475363e9677bbc695abf764e38c64955c60"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-mekanism-multiblocks.pw.toml"
 hash = "935af5065db8393ca516c54580f319a9b04fa4ed286665399c285253a4725dc9"
 metafile = true
@@ -19550,7 +19592,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-vh.pw.toml"
-hash = "ccc9307f463f5ee95dab6c421651753cef291221276bcf255d4ad72b333bd740"
+hash = "d179a2b1dc30c7076ee7fad5cb32cc0314678ad753a354fe03c298e638b069fd"
 metafile = true
 
 [[files]]
@@ -20345,7 +20387,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "b7b9296c17d5dbb523783bc7a913cec0a2e7f6c1a6725c6461ffd1ceee227d29"
+hash = "d91193cb52e3dd2dad4bd4dd04f36c74a76bd0a7217861933053848631dd14e0"
 metafile = true
 
 [[files]]
