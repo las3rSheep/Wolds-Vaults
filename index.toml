@@ -1822,7 +1822,7 @@ hash = "d8bee6efa7ede897d5ec5f9383cf5356edcca02bf6a15c7c17dd2329b821a415"
 
 [[files]]
 file = "config/the_vault/enigma_egg.json"
-hash = "a79601b3098b4341d0e595347500c0d2c5461be227c8f5085df580f2be7be4f5"
+hash = "297bb34a55014a86cae8a9e73673e702e264489df956002b238d9b137b678518"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
@@ -11738,11 +11738,11 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "abab5c6386d9fbf2dcd5a45b7ceec09fdad02206bb929a5fdd04e563b4d9331b"
+hash = "996ba597bb0bc9035a29c05e97dc83c9625193f8d58fb1bab1de126dda257943"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "a989234b588b4aaace896a9e9a43ca18252c2b103678942a2babf9fc25b26dd1"
+hash = "246ba9af6e668b193ed231fe0038b20497ab5fc7803e6da2468ecd1c6ae62107"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -11750,7 +11750,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "f7a54b68acd3538d0bffbbae850a736c696b927c82cacc1a776b34144e34b287"
+hash = "086e18c2e7d6be8722e82496366fa769c6b8cbea589695ca829581c330d29e41"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -11962,7 +11962,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "1f856af40ffac1ffc967a54d23fd7ab0f1fa68baed1472ef103a6c8d697f9045"
+hash = "1d7f13701b6c90780dbd0643de03f291447eae7e9587c03b45dc883bbae5c4a9"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -12659,6 +12659,10 @@ hash = "1be4314a83cc1174659b84bca02eed99db5b454586cd02668a77518628f9b28b"
 [[files]]
 file = "defaultconfigs/pickupnotifier/pickupnotifier-server.toml"
 hash = "f3899afbfa24695d72d02f8fc785cc1e72d345769557f0e1efc2f6542139bb48"
+
+[[files]]
+file = "defaultconfigs/skinfighters-server.toml"
+hash = "470cc2203262cfaa8cc7231a8c02e4cedb0f74d1c7572fcee89e4e5f3791114e"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -18449,6 +18453,10 @@ file = "kubejs/server_scripts/vh_compat/pneumaticcraft/tags.js"
 hash = "678644137d26c85ded57417f4d8289b0d1a9f67fa55609949b16816276153363"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/psi/recipes.js"
+hash = "2c659e3489607ac5680cf75c9d023c20700cdfa8e346f0cebc0bf4c423665bc4"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/qol/crushing.js"
 hash = "64c24dbbee65177f022edfdd59902f5dc437fabe8b953c3f7a3b937e1d8749f3"
 
@@ -18490,7 +18498,7 @@ hash = "20f660d494d54e021685e2f6a62ca5e4244a598df75f980489d5532c92e0f9e4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/recipes.js"
-hash = "ddbc027f789f600603ae10a1a71a3226ffcd874ecd8743a2bafb49668bba4d0e"
+hash = "c0e9d6324709f5d7cef3aea085273bfb7c3dc93eae09156d674ed2768151d249"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/tags.js"
@@ -18518,7 +18526,7 @@ hash = "a4ec36ddc2583643f6d285a445b67c3a568f1b89da98204e97f8d6c8788220c4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
-hash = "f57de8b5a0fa730a231e957b6f7c40ff19fc78bdb1e82d9fd86fb7309483383f"
+hash = "dae7789de3e8d4aae7cedda93b57ac516cadafc95057e01903525894579f2dcd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/recipes.js"
@@ -18953,6 +18961,11 @@ metafile = true
 [[files]]
 file = "mods/controllable.pw.toml"
 hash = "14b9f341171651c94158f11328946dab9c2a251f3c93875167085975ed66fc86"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
 metafile = true
 
 [[files]]
@@ -19971,6 +19984,11 @@ hash = "5ee8f362f34bfa3a763b934a8d5e1b0cbf44aeb5fa4b9c3bfd87a1667fcae533"
 metafile = true
 
 [[files]]
+file = "mods/psi.pw.toml"
+hash = "d8763d26745bb7bc3d652aee9e66d70b2c40b71511df857192d52e6c64f9bd7e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6900fa6938b07374b653534cf0a99f6cb98774047bcc301ca11eb817bd80df09"
 metafile = true
@@ -20181,6 +20199,11 @@ hash = "e74a4be8fc5ae991ba37a531ec3877350df5224bbd436c13238d9ee96b895db2"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-vault-upgrades.pw.toml"
+hash = "bf964664425449d91d5a1c503fd55475c223a53caaa6dad6c3cea41b7aef4cd7"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
 metafile = true
@@ -20328,6 +20351,11 @@ metafile = true
 [[files]]
 file = "mods/vault-hunters-better-gear-model-unlocks.pw.toml"
 hash = "2ba135a941856b159296fc67cb38becdc9c17f72301e3b2f40839c27cb2dc7f2"
+metafile = true
+
+[[files]]
+file = "mods/vault-hunters-copiously-fix.pw.toml"
+hash = "bcdfc22961143fbb9b9f0fe08d12aba8c6ebe4d0825052e53d51e64eba0543d7"
 metafile = true
 
 [[files]]
@@ -20851,7 +20879,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "53451b7051115c087e5af91ed628aaad8ab42860a2f9af55b2631053d7e507f2"
+hash = "77d2834b8ec0e10ca67df5728d82c8bbd0405902318269191ae0e0e587075882"
 
 [[files]]
 file = "scripts/Backpacks.zs"

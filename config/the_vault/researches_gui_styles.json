@@ -337,6 +337,12 @@
       "icon": "the_vault:gui/researches/building_gadgets"
     },
     "ComputerCraft": {
+      "x": 60,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/computercraft"
+    },
+    "Psi": {
       "x": 10,
       "y": 310,
       "frameType": "RECTANGULAR",

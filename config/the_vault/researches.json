@@ -348,8 +348,7 @@
     },
     {
       "modIds": [
-        "megacells",
-        "ae2additions"
+        "megacells"
       ],
       "restrictions": {
         "restricts": {
@@ -655,7 +654,8 @@
       "modIds": [
         "ae2",
         "appliedcooking",
-        "merequester"
+        "merequester",
+        "ae2additions"
       ],
       "restrictions": {
         "restricts": {
@@ -816,6 +816,23 @@
         }
       },
       "name": "ComputerCraft",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "psi"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Psi",
       "cost": 4,
       "usesKnowledge": true
     },

@@ -68,9 +68,9 @@
         "Mining Gadgets",
         "Digital Miner",
         "Building Gadgets",
-        "ComputerCraft",
         "Create Ore Excavation",
-        "Hexcasting"
+        "Hexcasting",
+        "Psi"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -170,7 +170,8 @@
         "LaserIO",
         "Super Factory Manager",
         "Entangled",
-        "Little Logistics"
+        "Little Logistics",
+        "ComputerCraft"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

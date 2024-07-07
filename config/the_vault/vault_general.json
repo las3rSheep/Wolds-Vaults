@@ -171,6 +171,7 @@
 		"minecraft:filled_map",
 		"mekanism:*",
 		"minecraft:*_banner",
+		"psi:*",
 		"buildinggadgets:*",
 		"minecraft:splash_potion",
 		"minecraft:suspicious_stew",
@@ -242,6 +243,7 @@
 		"alexsmobs:dimensional_carver"
 	],
 	"BLOCK_BLACKLIST": [
+		"psi:*",
 		"entangled:*",
 		"integratedterminals:*",
 		"integrateddynamics:*",
