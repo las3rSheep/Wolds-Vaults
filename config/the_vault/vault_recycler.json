@@ -71,7 +71,7 @@
     "extraOutput1": {
       "chance": 0.2,
       "stack": {
-        "item": "the_vault:chromatic_iron_nugget"
+        "item": "the_vault:chromatic_steel_nugget"
       },
       "minCount": 1,
       "maxCount": 2

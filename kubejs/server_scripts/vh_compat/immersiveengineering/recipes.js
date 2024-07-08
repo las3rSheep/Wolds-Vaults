@@ -1,6 +1,5 @@
 
 onEvent("recipes", event => {
-
     event.shaped(Item.of('immersiveengineering:cokebrick', 3),
         [
             'XLX',

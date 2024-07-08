@@ -37,7 +37,8 @@ let removedOutputsIFG = [
     'industrialforegoing:range_addon8',
     'industrialforegoing:range_addon9',
     'industrialforegoing:range_addon10',
-    'industrialforegoing:range_addon11'
+    'industrialforegoing:range_addon11',
+    'industrialforegoing:enchantment_factory'
 ];
 onEvent("recipes", event => {
     removedOutputsIFG.forEach(id => {

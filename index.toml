@@ -766,7 +766,7 @@ hash = "f1792897b1dc077d5967e36db6ce48e95be2e931ba830750244a9d47df579ac8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/changes.snbt"
-hash = "6304bab11e2f27c355af9657afb5a79fc6505dc5d983f7c63f88ea1aa13b2f3f"
+hash = "c14d8f611a1694675d8bc7264e23f85bb5820029cd087ab3e2ea24e912127508"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/useful_items.snbt"
@@ -17893,6 +17893,14 @@ file = "kubejs/data/wolds_vaults/advancements/items/augment_box.json"
 hash = "b2e362a1a128201bab0df25095e33412dfa986fb5124afda47a84d9c75e8fc10"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/capstone_all_seeing_eye.json"
+hash = "c35e02ae9de9b2d7ec6f44d14041475271395ae6ec6901e4184c4fcda8c92d7d"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/chromatic_iron_angel_ring.json"
+hash = "ec773ce4f5f11ea2f065d45ddcca284e71e9b36f50b47e5ebbc330bac2807377"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_enchanter.json"
 hash = "6dc63d3700a73045d50f5058249740f259cc7697504154a3967b8b6e07fdd530"
 
@@ -17901,12 +17909,36 @@ file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_spirits.json"
 hash = "b0ce8b53ca508591737a7331a01d24e79436254b63f782ba480afbb8be9e1833"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_titan.json"
+hash = "0915b2f8fac67790ac34e08f540dafc573838c42d1a72c63455202a784bcb019"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_unhinged.json"
 hash = "cfc67ecfaf813328b306cd6121214a31adde42175297e5fd1acbaa3fff4a8d09"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/enigma_egg.json"
+hash = "519f12e5838da93cf4d4f62bd692e891c8478b6416b20f017da6ac9fe2d07649"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/expertise_orb.json"
 hash = "9fa9ef82f8b92d259f1bf29f22d4c99870b2b0e5d1027f860c53d96f3bab33dc"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/extrordinary_pog_prism.json"
+hash = "20868723bf4ae1ae342998318cb86d5a76ea0636575e8b413d7e3a7f6a55e5db"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/frenzy_capstone.json"
+hash = "b2e73de92833586ec04cf238221774e74fe03b594925d0778b51869aa14bfa85"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/inscription_box.json"
+hash = "e9cd1a2c8895ca7f0bf903c29268efc455b28fc18dd2d1f48d5a4c23811c22f4"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/kill_wold.json"
+hash = "c771a595285b39d053ddaf15630309499670605b19f9b5beaa81eafdae7d01e8"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/mystic_pear.json"
@@ -17919,6 +17951,18 @@ hash = "6342ea92f3d6ae5ba915fc36781f4ce6209d0b9e080481dd6251e10cb8f0a390"
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/pogging_seed_base.json"
 hash = "18e1755cc6a5c647c557212d54ce736c7617ff170cbd1e38401b00f3169801ca"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/prismatic_angel_ring.json"
+hash = "351d9826d42d343267445cc25c3b2da7d66fd61f627d8e149af02458faf9e26a"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/vault_deco_scroll.json"
+hash = "28cee713582e7b0141e919d53ee5b46e638ed7176065919b195552b937cde3a3"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/vault_rock_candy.json"
+hash = "bfe562fe4ab68775771b142016d57f41700bff1e2ff9d5bf90ea6e10a5337a02"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/vault_salvager.json"
@@ -18554,7 +18598,7 @@ hash = "aba812838954ff1b581fa5461d09c96302a37ffc721e198bba4b2368ed9df941"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedvaultupgrades/recipes.js"
-hash = "114d6405ce0a60cc961b0554e350c69033fedd9419d0d4614722110295e40ebc"
+hash = "7bea53ca89e8bc8ff900313660795a7d850c0de09ad4a164f2a059935510fab6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ssn/recipes.js"
@@ -19598,6 +19642,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom-forge.pw.toml"
 hash = "d591f0fc9610eb1450e6a71e0da3a18b2d50081dd265027fd65f044b00f33ceb"
+metafile = true
+
+[[files]]
+file = "mods/kendromes-vault-hunters-tweaks.pw.toml"
+hash = "f0a50cddd587136cf5e3be337e4577db0e3aed6a193c560d5698c1cc55825879"
 metafile = true
 
 [[files]]
