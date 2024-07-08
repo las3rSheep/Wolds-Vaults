@@ -435,4 +435,103 @@ onEvent("recipes", event => {
 
     }).id('immersiveengineering:crafting/fluid_pipe')
 
+    event.custom({
+        "type": "immersiveengineering:crusher",
+        "secondaries": [
+            {
+                "chance": 0.33333334,
+                "output": {
+                    "item": "the_vault:chromatic_iron_dust"
+                }
+            }
+        ],
+        "result": {
+            "item": "the_vault:chromatic_iron_dust"
+        },
+        "input": {
+            "item": "the_vault:raw_chromatic_iron"
+        },
+        "energy": 6000
+    })
+
+    event.custom({
+        "type": "immersiveengineering:mineral_mix",
+        "ores": [
+            {
+                "chance": 1.0,
+                "output": {
+                    "item": "the_vault:chromatic_iron_ore"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "the_vault:vault_stone"
+                }
+            }
+        ],
+        "spoils": [
+            {
+                "chance": 0.2,
+                "output": {
+                    "item": "minecraft:deepslate"
+                }
+            },
+            {
+                "chance": 0.5,
+                "output": {
+                    "item": "the_vault:vault_cobblestone"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "minecraft:cobbled_deepslate"
+                }
+            }
+        ],
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "weight": 10,
+        "fail_chance": 0.10
+    })
+
+    event.custom({
+        "type": "immersiveengineering:mineral_mix",
+        "ores": [
+            {
+                "chance": 1.0,
+                "output": {
+                    "item": "ae2:quartz_ore"
+                }
+            }
+        ],
+        "spoils": [
+            {
+                "chance": 0.2,
+                "output": {
+                    "item": "ae2:sky_stone_block"
+                }
+            },
+            {
+                "chance": 0.5,
+                "output": {
+                    "item": "minecraft:cobblestone"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "minecraft:stone"
+                }
+            }
+        ],
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "weight": 15,
+        "fail_chance": 0.2
+    })
+
 })

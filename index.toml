@@ -18410,7 +18410,7 @@ hash = "5f244d5427c52dfc5d5b5fe040369eaefe8b8bf7693f4cdb38753fd39eddec6e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "54e454c5c62b9873ad13ebd0ed1f6532fc8be8b87a438a471cc9938a941662b2"
+hash = "c5e10ba2b2046a0bbb6d5ad44f72a3b95e3def22662015cecae51336127481f5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -18634,7 +18634,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "c469482441e91cd2d03750881e19d7201517f87f6b9620a0ecc0479679519343"
+hash = "7a7dd24d961928264899606c7998b61151336021f388c084ee6fd19c805ef8fe"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"

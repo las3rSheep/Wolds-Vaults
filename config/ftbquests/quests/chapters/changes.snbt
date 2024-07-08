@@ -584,11 +584,11 @@
 			y: 0.5d
 			subtitle: "Rerolls, people! Rerolls!"
 			description: [
-				"Is your Vault Altar annoying you? Is 200 cobwebs a chore to collect just to loot your next vault? With the Altar Recatalyzer, you can reroll your current vault altar's recipe to see if you can an easier one. Simply sneak and right-click with a Recatalyzer on your altar, and it will reroll your current recipe for you, using up the Recatalyzer in the process."
+				"Is your Vault Altar annoying you? Is 200 cobwebs a chore to collect just to loot your next vault? With the Altar Recatalyzer, you can reroll your current vault altar's recipe to see if you can roll an easier one. Simply sneak and right-click with a Recatalyzer on your altar, and it will reroll your current recipe for you, using up the Recatalyzer in the process."
 				""
 				"If you have Lucky Altar, your new recipe could even be free!"
 				""
-				"There are some possible (visual) glitches if you have multiple vault altars with vault, especially if they are loaded at the time of a reroll, but you can give your altar a block update to view the correct recipe."
+				"There are some possible (visual) glitches if you have multiple vault altars that are active, especially if they are loaded at the time of a reroll, but you can give your altar a block update to view the correct recipe."
 				""
 				"You can find them in Gilded Strongboxes, Vendor Pedestals, and the Black Market."
 			]

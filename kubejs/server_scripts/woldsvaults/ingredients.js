@@ -215,4 +215,16 @@ onEvent('recipes', event => {
     })
 
 
+    event.shaped(Item.of('woldsvaults:vault_rock_candy'),
+        [
+            'XSX',
+            'XOX',
+            'XSX'
+        ], {
+        X: 'the_vault:vault_rock',
+        O: 'the_vault:vault_sweets',
+        S: 'minecraft:sugar'
+    })
+
+
 })
