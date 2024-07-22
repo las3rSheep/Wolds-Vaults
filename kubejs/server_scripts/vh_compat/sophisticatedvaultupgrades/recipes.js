@@ -9,7 +9,8 @@ onEvent("recipes", event => {
         X: 'the_vault:vault_diamond_block',
         O: 'the_vault:vault_salvager',
         B: 'the_vault:black_chromatic_steel_ingot',
-        P: 'the_vault:pog_prism'
+        P: 'the_vault:pog_prism',
+        U: 'sophisticatedbackpacks:upgrade_base'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/recycler_upgrade')
 
     event.shaped(Item.of('sophisticatedbackpacks:recycler_upgrade_advanced'),
@@ -21,7 +22,8 @@ onEvent("recipes", event => {
         X: 'the_vault:vault_diamond_block',
         O: 'the_vault:vault_essence_2',
         B: 'the_vault:black_chromatic_steel_ingot',
-        P: 'the_vault:pog_prism'
+        P: 'the_vault:pog_prism',
+        U: 'sophisticatedbackpacks:recycler_upgrade'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/recycler_upgrade_advanced')
 
     event.shaped(Item.of('sophisticatedbackpacks:diffuser_upgrade'),
@@ -33,7 +35,8 @@ onEvent("recipes", event => {
         X: 'the_vault:vault_diamond_block',
         O: 'the_vault:vault_harvester',
         B: 'the_vault:black_chromatic_steel_ingot',
-        P: 'woldsvaults:extraordinary_pog_prism'
+        P: 'woldsvaults:extraordinary_pog_prism',
+        U: 'sophisticatedbackpacks:upgrade_base'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/diffuser_upgrade')
 
     event.shaped(Item.of('sophisticatedbackpacks:diffuser_upgrade_advanced'),
@@ -45,7 +48,8 @@ onEvent("recipes", event => {
         X: 'the_vault:wutodic_mass',
         O: 'the_vault:black_chromatic_steel_block',
         B: 'the_vault:echo_pog',
-        P: 'woldsvaults:extraordinary_pog_prism'
+        P: 'woldsvaults:extraordinary_pog_prism',
+        U: 'sophisticatedbackpacks:diffuser_upgrade'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/diffuser_upgrade_advanced')
 
     event.shaped(Item.of('sophisticatedbackpacks:activator_upgrade'),
@@ -57,7 +61,8 @@ onEvent("recipes", event => {
         X: 'the_vault:magic_silk_block',
         O: 'the_vault:blank_key',
         B: 'the_vault:pog_prism',
-        P: 'the_vault:extraordinary_black_opal'
+        P: 'the_vault:extraordinary_black_opal',
+        U: 'sophisticatedstorage:upgrade_base'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/activator_upgrade')
 
     event.shaped(Item.of('sophisticatedstorage:recycler_upgrade'),
@@ -69,7 +74,8 @@ onEvent("recipes", event => {
         X: 'the_vault:magic_silk_block',
         O: 'the_vault:vault_salvager',
         B: 'the_vault:chromatic_steel_block',
-        P: 'the_vault:pog_prism'
+        P: 'the_vault:pog_prism',
+        U: 'sophisticatedstorage:upgrade_base'
     }).id('sophisticatedvaultstorage:sophisticatedstorage/recycler_upgrade')
 
 })

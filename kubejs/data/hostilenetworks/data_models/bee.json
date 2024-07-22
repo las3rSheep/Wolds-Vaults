@@ -20,11 +20,11 @@
   "fabricator_drops": [
     {
       "item": "minecraft:honeycomb",
-      "count": 32
+      "count": 8
     },
     {
       "item": "minecraft:honey_bottle",
-      "count": 2
+      "count": 3
     }
   ]
 }

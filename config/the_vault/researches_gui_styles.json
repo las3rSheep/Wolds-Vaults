@@ -346,7 +346,7 @@
       "x": 10,
       "y": 310,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/computercraft"
+      "icon": "the_vault:gui/researches/psi"
     },
     "Mining Gadgets": {
       "x": 110,
