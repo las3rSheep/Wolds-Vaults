@@ -11738,7 +11738,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "996ba597bb0bc9035a29c05e97dc83c9625193f8d58fb1bab1de126dda257943"
+hash = "7589446f9a3d513990487c365b38c31e708aa1aac0b4b64f33afbd9ba0e31656"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11778,7 +11778,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "f6dc06ecf2ca1e69d6e0269466a96db49068fe06c38455acaf2ea9d63e2921bb"
+hash = "bf0ced216d8161290dcecffb1f2086bce22204b6c2a52a53a7735c44954799e7"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -11962,7 +11962,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "1d7f13701b6c90780dbd0643de03f291447eae7e9587c03b45dc883bbae5c4a9"
+hash = "b80ee310bedc7e048366640fa4c6d48a1717c86550816c07266df3e64d1d354a"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
