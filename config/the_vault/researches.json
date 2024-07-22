@@ -678,7 +678,8 @@
     },
     {
       "modIds": [
-        "elevatorid"
+        "elevatorid",
+        "travel_anchors"
       ],
       "restrictions": {
         "restricts": {

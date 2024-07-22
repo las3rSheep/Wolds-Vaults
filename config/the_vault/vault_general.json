@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"travel_anchors:*",
 		"quark:trowel",
 		"create:minecart_contraption",
 		"woldsvaults:mob_barrier_red",
@@ -243,6 +244,7 @@
 		"alexsmobs:dimensional_carver"
 	],
 	"BLOCK_BLACKLIST": [
+		"travel_anchors:*",
 		"psi:*",
 		"entangled:*",
 		"integratedterminals:*",
