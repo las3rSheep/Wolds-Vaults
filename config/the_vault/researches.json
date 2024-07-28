@@ -103,7 +103,7 @@
         }
       },
       "name": "Incorporeal",
-      "cost": 3,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -120,7 +120,7 @@
         }
       },
       "name": "Little Logistics",
-      "cost": 2,
+      "cost": 1,
       "usesKnowledge": true
     },
     {
@@ -154,7 +154,7 @@
         }
       },
       "name": "Entangled",
-      "cost": 3,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -223,7 +223,7 @@
         }
       },
       "name": "Scanner",
-      "cost": 4,
+      "cost": 8,
       "usesKnowledge": true
     },
     {
@@ -276,28 +276,12 @@
         }
       },
       "name": "Create Crafts and Additions",
-      "cost": 3,
+      "cost": 4,
       "usesKnowledge": true
     },
     {
       "modIds": [
-        "appbot"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Applied Botanics",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
+        "appbot",
         "appmek"
       ],
       "restrictions": {
@@ -309,7 +293,7 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Applied Mekanistics",
+      "name": "Applied Compatability",
       "cost": 1,
       "usesKnowledge": true
     },
@@ -344,7 +328,7 @@
         }
       },
       "name": "Extra Storage",
-      "cost": 2,
+      "cost": 8,
       "usesKnowledge": true
     },
     {
@@ -361,7 +345,7 @@
         }
       },
       "name": "Mega Cells",
-      "cost": 2,
+      "cost": 8,
       "usesKnowledge": true
     },
     {
@@ -395,7 +379,7 @@
         }
       },
       "name": "RFTools Storage",
-      "cost": 2,
+      "cost": 1,
       "usesKnowledge": true
     },
     {
@@ -604,7 +588,7 @@
         }
       },
       "name": "Oops, All Iron Mods",
-      "cost": 5,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -622,7 +606,7 @@
         }
       },
       "name": "Refined Storage",
-      "cost": 4,
+      "cost": 2,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/arcade/helmet",
@@ -648,7 +632,7 @@
         }
       },
       "name": "Integrated Dynamics",
-      "cost": 6,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -668,7 +652,7 @@
         }
       },
       "name": "Applied Energistics",
-      "cost": 4,
+      "cost": 2,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/robotic/helmet",
@@ -898,7 +882,7 @@
         }
       },
       "name": "PneumaticCraft",
-      "cost": 6,
+      "cost": 2,
       "usesKnowledge": true
     },
     {
@@ -1565,7 +1549,7 @@
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Altar Automation",
-      "cost": 32,
+      "cost": 16,
       "usesKnowledge": true
     },
     {

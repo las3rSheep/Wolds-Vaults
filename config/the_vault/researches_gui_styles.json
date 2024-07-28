@@ -126,17 +126,11 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
-    "Applied Botanics": {
+    "Applied Compatability": {
       "x": 620,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/applied_botanics"
-    },
-    "Applied Mekanistics": {
-      "x": 620,
-      "y": 80,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/applied_mekanistics"
     },
     "Botanical Machinery": {
       "x": 570,

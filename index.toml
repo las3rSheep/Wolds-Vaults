@@ -1858,7 +1858,7 @@ hash = "5fb9279452a96b2b3ad8de966d2933c035ac1c53f89050f9aaabb63d7fb42154"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "0fc12df474d26cf574c6f5903aa086937882f33b41f4d02308d9d4fb7e3a6efd"
+hash = "7bfc15018a7c9b2972547d939b8adb6c7804a4ac8c29b3a77a914b972bab00eb"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -11738,7 +11738,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "7589446f9a3d513990487c365b38c31e708aa1aac0b4b64f33afbd9ba0e31656"
+hash = "024b146caea9f3af11b975ee94d9d1b0771c7ba0e4f34094dc5c8e226a5de402"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11778,7 +11778,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "bf0ced216d8161290dcecffb1f2086bce22204b6c2a52a53a7735c44954799e7"
+hash = "f7a8c05d3687e2b7a0114b8d0a539dac37e993e331e776a465b354c8ba4affbc"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18318,7 +18318,7 @@ hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
-hash = "fb59b232429cc14a9a0dcae6d3e767fb78f12bb26ad87e7124ad99c350f62afd"
+hash = "964506b243babdab4643adcb2c401605de1d5f6ec8e497616a01f6e81e755d63"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2additions/recipes.js"
@@ -18543,6 +18543,14 @@ hash = "239a2b6b8e01523ddf4e99d18d691f984122c1a992cc4e23717a9756cd44b52d"
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
 hash = "4c8bfbce20c51a99f216eac0c0413519c6fe49bb99babfa8f0ffa413fca795f3"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/peripherals/recipes.js"
+hash = "8e5db733a641e9e0657c97eeaa051a4dccb32a48abeaba47214542cb26824d61"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/playerrtrackingcompass/recipes.js"
+hash = "39f25c994035aea1acdf0ea549ab5de42e7b6c11667c39eb78ce766da44b20f9"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/pneumaticcraft/loot.js"
@@ -20118,6 +20126,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6900fa6938b07374b653534cf0a99f6cb98774047bcc301ca11eb817bd80df09"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
