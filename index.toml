@@ -20477,7 +20477,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "d91193cb52e3dd2dad4bd4dd04f36c74a76bd0a7217861933053848631dd14e0"
+hash = "9bef0633c40ffc28c961ad838159bccd62b5b16e536944484fbc7c64669e7b74"
 metafile = true
 
 [[files]]
@@ -20493,6 +20493,16 @@ metafile = true
 [[files]]
 file = "mods/vault-hunters-easy-caking.pw.toml"
 hash = "e37a1c468e5a4b50527191a9f8c2409fa1245d4699d49e2e9290718c3d452cad"
+metafile = true
+
+[[files]]
+file = "mods/vault-hunters-extra-commands.pw.toml"
+hash = "3f878936373259a26f931947b0ae3ff60384abf44f0e29d539f34ef8d4d02e8c"
+metafile = true
+
+[[files]]
+file = "mods/vault-hunters-invhud-fix.pw.toml"
+hash = "21d1cfdb830dd844205c1fce1795ff1992c6d5ca76f6bddbaa4d903ed7b9cad9"
 metafile = true
 
 [[files]]

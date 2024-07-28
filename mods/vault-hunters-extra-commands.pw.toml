@@ -1,0 +1,13 @@
+name = "Vault Hunters Extra Commands"
+filename = "vault_hunters_extra_commands-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "472682536ddf775fe48e37d3599915adc663b1db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5574348
+project-id = 1062425

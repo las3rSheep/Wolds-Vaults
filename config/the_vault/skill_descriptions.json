@@ -14054,6 +14054,35 @@
         "color": "#8BD0C9"
       }
     ],
+    "Craftsman": [
+      {
+        "text": "Become an expert Vault Gear craftsman and enhance the capabilities and versatility of your crafted gear. "
+      },
+      {
+        "text": "Each level unlocks a new perk when or for crafted gear."
+      },
+      {
+        "text": " \n\n1 "
+      },
+      {
+        "text": "Crafted Gear can roll legendary modifiers.",
+        "color": "#8BD0C9"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "Crafted Gear can have +1 additional Crafted modifier at the Modifier Workbench.",
+        "color": "#8BD0C9"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "Crafted Gear can have +2 additional Crafted modifiers at the Modifier Workbench.",
+        "color": "#8BD0C9"
+      }
+    ],
     "Frostbite": [
       {
         "text": "Hitting a "

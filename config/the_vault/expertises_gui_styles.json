@@ -91,7 +91,7 @@
       "icon": "the_vault:gui/skills/fortuitous_finesse"
     },
     "Craftsman": {
-      "x": 140,
+      "x": 210,
       "y": 190,
       "frameType": "STAR",
       "icon": "the_vault:gui/quests/reroll"
