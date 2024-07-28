@@ -73,7 +73,8 @@
     },
     {
       "modIds": [
-        "advancedperipherals"
+        "advancedperipherals",
+        "peripherals"
       ],
       "restrictions": {
         "restricts": {
@@ -1510,6 +1511,13 @@
     {
       "itemRestrictions": {
         "the_vault:vault_compass": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "playertrackingcompass:tracking_compass": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,

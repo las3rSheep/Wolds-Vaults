@@ -1854,11 +1854,11 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "16a51fbc2d69fbb8360c83fb947e41d7d717bba08fcad157a533dba1b511a5e2"
+hash = "5fb9279452a96b2b3ad8de966d2933c035ac1c53f89050f9aaabb63d7fb42154"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "4e044b13d27e08661fdc0c119745795c30932e33778886b1542fbe7bd288cdbd"
+hash = "0fc12df474d26cf574c6f5903aa086937882f33b41f4d02308d9d4fb7e3a6efd"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -19026,6 +19026,11 @@ hash = "8943da521be59ea9cb0168a65e7601a910cfc7e91df379ee06bb1117b9bfb459"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ac1b752858973dbec55ecd6b98771367fa1b8df5b7dba4b4183952437777b8b8"
+metafile = true
+
+[[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "0baab6c7b70ad9d90355bb83a053d35292540fd400cc9aa7e22ae76cfc88a9f2"
 metafile = true
@@ -19911,6 +19916,11 @@ hash = "1ee7d87999bcae5ecdfab2f55efb62bcc56fc76138fa0a59bf9d6c461506eba6"
 metafile = true
 
 [[files]]
+file = "mods/more-peripherals.pw.toml"
+hash = "9e6edb202c7da09a34df26c56d0937bc4a729085fc7b20947db312e75be7ae8b"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "e595b7223439bd5526304657fa34cfc7ed514475dd6e0c5ec30ef27a1cdfb9b3"
 metafile = true
@@ -20053,6 +20063,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "7949825f50711920d0faa98470f65a33a7ff48a40e735e1f5efb616e325e1992"
+metafile = true
+
+[[files]]
+file = "mods/player-tracking-compass.pw.toml"
+hash = "3068224cf8bdfb4562d99cba31066cfcdd9b2ad00406cabdcfb19b4abae9397d"
 metafile = true
 
 [[files]]

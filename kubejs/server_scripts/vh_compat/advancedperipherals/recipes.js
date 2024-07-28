@@ -24,13 +24,14 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('advancedperipherals:inventory_manager'),
         [
-            'IXI',
+            'ITI',
             'XCX',
             'IXI'
         ], {
         I: 'the_vault:chromatic_steel_block',
         X: 'the_vault:echo_pog',
-        C: 'advancedperipherals:peripheral_casing'
+        C: 'advancedperipherals:peripheral_casing',
+        T: 'the_vault:wold_star'
     }).id('advancedperipherals:inventory_manager')
 
 
