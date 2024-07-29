@@ -1486,6 +1486,176 @@
                 "unlockLevel": 0
               }
             ]
+          },
+          {
+            "type": "tiered",
+            "id": "Dash_Hop",
+            "name": "Hop",
+            "maxLearnableTier": 8,
+            "tiers": [
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 4.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 40,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 9.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 20,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 11.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 10,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 14.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 10,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 17.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 10,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 20.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 10,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 23.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 10,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 26.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 140,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 28.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 130,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 30.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 120,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 32.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 110,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 34.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 36.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 38.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 40.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 42.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 44.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              },
+              {
+                "type": "dash",
+                "extraDistance": -9,
+                "manaCost": 46.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 100,
+                "unlockLevel": 0
+              }
+            ]
           }
         ]
       },

@@ -30,6 +30,32 @@
         "distance"
       ]
     },
+    "Dash_Hop": {
+      "description": [
+        {
+          "text": "Massively reduces your dash ",
+          "color": "$text"
+        },
+        {
+          "text": "distance",
+          "color": "$distance"
+        },
+        {
+          "text": " but heavily decreases mana cost and cooldown!\n\n",
+          "color": "$text"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "distance"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "distance"
+      ]
+    },
     "Dash_Damage": {
       "description": [
         {

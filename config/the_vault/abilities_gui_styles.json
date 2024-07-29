@@ -25,7 +25,6 @@
         "Hunter_Blocks": {
           "icon": "the_vault:gui/abilities/hunter_blocks"
         },
-
         "Hunter_Gilded": {
           "icon": "the_vault:gui/abilities/hunter_gilded"
         },
@@ -79,7 +78,6 @@
         }
       }
     },
-
     "Nova": {
       "x": 0,
       "y": 12,
@@ -167,6 +165,9 @@
         },
         "Dash_Warp": {
           "icon": "the_vault:gui/abilities/dash_warp"
+        },
+        "Dash_Hop": {
+          "icon": "the_vault:gui/abilities/dash_hop"
         }
       }
     },

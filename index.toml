@@ -1626,11 +1626,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "3452a7e5d853edfff5ca1dfc75b2e94e5333a91af0484aab32c2fbb8036bed3d"
+hash = "71ac9f958f9fd697b17482f54d86af546feea52e78976f5eb58cdb82b2c4708a"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "9047031007facf8f4069dc1811106538c79c51f097dcaf1b5fff396844388d61"
+hash = "3d1134131a731092e1049ec45c612898d215168b90b07b96006a7b3648486ec2"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -1638,7 +1638,7 @@ hash = "825f3ae5df1771bd8aeea8e9e5e1e5cdcdb2a1bd1aabbb784daf0a01dcd069be"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "be47b3552c6b9ce70b5a5ab45b1ff00c6c0f231b523535ed4dae9370f354ce2c"
+hash = "c388ff7fb332db8cd619cf3606c2e1abe0ad3171114599501de235b6c453e3f7"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -11962,7 +11962,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "b80ee310bedc7e048366640fa4c6d48a1717c86550816c07266df3e64d1d354a"
+hash = "ebe69bb4d488e54655680a7677ae0fa34ecc45c5df0a16ec5020b0b77a037112"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -20511,11 +20511,6 @@ metafile = true
 [[files]]
 file = "mods/vault-hunters-easy-caking.pw.toml"
 hash = "e37a1c468e5a4b50527191a9f8c2409fa1245d4699d49e2e9290718c3d452cad"
-metafile = true
-
-[[files]]
-file = "mods/vault-hunters-extra-commands.pw.toml"
-hash = "3f878936373259a26f931947b0ae3ff60384abf44f0e29d539f34ef8d4d02e8c"
 metafile = true
 
 [[files]]
