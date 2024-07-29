@@ -417,7 +417,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 1.0,
                 "manaCost": 6.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -448,7 +448,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 2.0,
                 "manaCost": 7.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -479,7 +479,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 3.0,
                 "manaCost": 8.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -510,7 +510,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 4.0,
                 "manaCost": 9.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -541,7 +541,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 5.0,
                 "manaCost": 10.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -571,7 +571,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 6.0,
                 "manaCost": 11.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -601,7 +601,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 7.0,
                 "manaCost": 12.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -631,7 +631,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 8.0,
                 "manaCost": 13.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -662,7 +662,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 9.0,
                 "manaCost": 14.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -693,7 +693,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 10.0,
                 "manaCost": 15.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -724,7 +724,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 11.0,
                 "manaCost": 16.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -755,7 +755,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 12.0,
                 "manaCost": 17.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -786,7 +786,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 13.0,
                 "manaCost": 18.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -817,7 +817,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 14.0,
                 "manaCost": 19.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -848,7 +848,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 15.0,
                 "manaCost": 20.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -879,7 +879,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 16.0,
                 "manaCost": 21.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -910,7 +910,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 17.0,
                 "manaCost": 22.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -941,7 +941,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 18.0,
                 "manaCost": 23.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,

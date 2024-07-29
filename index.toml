@@ -1502,7 +1502,7 @@ hash = "d45a73381a89990309a5179907a0ed6476013d2507a44e8c7b1fc23ade5a1830"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "9aa131c192e821f7c2057e394987b1c84d003148424d6eb38cafb7fe7b37125b"
+hash = "75d37d564fd49f8a3697b9e321a11c043fb076632f7bdf929c38481b7c8c0b85"
 
 [[files]]
 file = "config/quarryplus-common.toml"
@@ -1626,7 +1626,7 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "8fab15f0e769531645b55c46ab8da37d345c24a821ecf21d1b37b2b7d240f8a5"
+hash = "3452a7e5d853edfff5ca1dfc75b2e94e5333a91af0484aab32c2fbb8036bed3d"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -11630,7 +11630,7 @@ hash = "c08fdb86c302895d920e9c6212b628f50f0a2a6264fcb0398f3a5ea84b406957"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
-hash = "0917e1549c8ca0ffd4654423b3a57a1c58ac931bf2517685f713478ddc6937e8"
+hash = "344b370aa91bb18fca1bded55a92eb6f03de5d2f555b5c5d0476033bd265d0ab"
 
 [[files]]
 file = "config/the_vault/monolith.json"
@@ -11738,11 +11738,11 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "024b146caea9f3af11b975ee94d9d1b0771c7ba0e4f34094dc5c8e226a5de402"
+hash = "5a035ed76d3191ce7e7b000463ff19aae48798d80c1bd3ed3ba43fd9b6300478"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "246ba9af6e668b193ed231fe0038b20497ab5fc7803e6da2468ecd1c6ae62107"
+hash = "a1dfb98681cd6a7d0a91f8fef644f9ec0a65ce08e47069d33e2cb2c9fd67f973"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -11750,7 +11750,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "ee15220081aa9d614b6f8d614213f49c39ed5b39318411c3c7febac1393aa960"
+hash = "03a59768497e3f07fb9193c84d2fe752cca6c9d967b180d1ef2b9af4f876e37c"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
