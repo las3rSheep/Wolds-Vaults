@@ -18894,6 +18894,11 @@ hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "fe2f4225b5afac86a2da41107854acc38a1f3d9bdf550e09abbcb33ad4fae1e1"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
 metafile = true
