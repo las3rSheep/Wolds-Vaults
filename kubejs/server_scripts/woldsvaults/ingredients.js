@@ -62,6 +62,28 @@ onEvent('recipes', event => {
         X: 'the_vault:augment'
     })
 
+    event.shaped(Item.of('woldsvaults:inscription_box'),
+        [
+            'GXG',
+            'XRX',
+            'GXG'
+        ], {
+        G: 'the_vault:wutodic_mass',
+        R: 'the_vault:gem_pog',
+        X: 'the_vault:inscription'
+    })
+
+    // event.shaped(Item.of('the_vault:faceted_focus'),
+    //     [
+    //         'GXG',
+    //         'XRX',
+    //         'GXG'
+    //     ], {
+    //     G: 'the_vault:vault_diamond',
+    //     R: 'the_vault:amplifying_focus',
+    //     X: 'the_vault:faceted_focus'
+    // })
+
     event.shaped(Item.of('the_vault:pog_prism'),
         [
             'ABC',

@@ -494,7 +494,7 @@ onEvent("recipes", event => {
         ],
         "weight": 10,
         "fail_chance": 0.10
-    })
+    }).id('woldsvaults:chromatic_iron_mineral_vein')
 
     event.custom({
         "type": "immersiveengineering:mineral_mix",
@@ -531,6 +531,6 @@ onEvent("recipes", event => {
         ],
         "weight": 15,
         "fail_chance": 0.2
-    })
+    }).id('woldsvaults:certus_quartz_mineral_vein')
 
 })

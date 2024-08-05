@@ -20,7 +20,7 @@ onEvent("recipes", event => {
             'DCD',
             'LBL'
         ], {
-        G: 'the_vault:pog_prism',
+        G: 'woldsvaults:extraordinary_pog_prism',
         D: 'the_vault:chromatic_steel_block',
         C: 'the_vault:vault_diamond_block',
         L: 'the_vault:black_chromatic_steel_ingot',

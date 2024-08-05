@@ -63,4 +63,5 @@ onEvent("recipes", event => {
     event.shapeless('9x the_vault:vault_catalyst_fragment', ['the_vault:vault_catalyst'])
     event.shapeless('the_vault:phoenix_feather', ['9x the_vault:phoenix_dust'])
     event.shapeless('9x the_vault:phoenix_dust', ['the_vault:phoenix_feather'])
+    event.shapeless('the_vault:chromatic_steel_block', ['4x the_vault:chromatic_iron_block', '2x the_vault:carbon_block'])
 })

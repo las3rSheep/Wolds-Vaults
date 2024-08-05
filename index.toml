@@ -1638,7 +1638,7 @@ hash = "825f3ae5df1771bd8aeea8e9e5e1e5cdcdb2a1bd1aabbb784daf0a01dcd069be"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "c388ff7fb332db8cd619cf3606c2e1abe0ad3171114599501de235b6c453e3f7"
+hash = "103712c7cf318cda94ce817aa5590f6b2f23d292e30902dc2309db14a5a2f7ad"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -1965,8 +1965,16 @@ file = "config/the_vault/gear_modifiers/leggings.json"
 hash = "fa1e7cc8263752bbc72c077acd87fb66f4f270d5fc2c0a70aea359e1d0abe119"
 
 [[files]]
+file = "config/the_vault/gear_modifiers/loot_sack.json"
+hash = "a951aeb2af913093183b61517de7ca40f830fa973ab4fc2596d683ed36df097f"
+
+[[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
 hash = "5e4ce2240b6ef4d1f5ac4198b60712cec7e58486efa8c6dac73164fa8f2b1c23"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/plushie.json"
+hash = "2091498069d15520a589f829c96121615d1802a628de9e72888b3b4cdcea04dc"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -1974,7 +1982,7 @@ hash = "fab5a97c131a30f76c7c7a28b6a06e535c0d9b17547b529dc097d86d484396cd"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "17654ac7f27ce9c963a51fe1de1523ec20e38f7804fb126c642b5659c40069ea"
+hash = "e0ac34bec58843042505e359b67e1d6a1a275b82944980b39a4996aff2ce2a0b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -14621,6 +14629,10 @@ file = "kubejs/assets/the_vault/textures/gui/abilities/dash_damage.png"
 hash = "2e224f26b0a380b78f91f1bebe03d89c016a43e4b53acf16f79041f0158cfb97"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/abilities/dash_hop.png"
+hash = "d3c73142274bb179ed6c52203062bc03183ff23666d00518aaa2abfc50a57ff9"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/abilities/dash_warp.png"
 hash = "680e6799c3a483f7c15735d6b00f15ab5993b33eb08552ec7210cb5c56e35cfb"
 
@@ -18329,10 +18341,6 @@ file = "kubejs/server_scripts/vh_compat/alexsmobs/recipes.js"
 hash = "69201c4f7c189dcf239c35c4728d5a9a3b73f1a719ba983dadc5e79681d57839"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/balancedflight/recipes.js"
-hash = "3ad6cbf7247758a9cb4c76042f97016845ae31d246bca60246544b82f2bca535"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/bonsaitrees3/recipes.js"
 hash = "0fec2dc16964c4c825cfe39dbcd9bf180da4dd96db4cc99c94ab2577418a4374"
 
@@ -18466,7 +18474,7 @@ hash = "5f244d5427c52dfc5d5b5fe040369eaefe8b8bf7693f4cdb38753fd39eddec6e"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/immersiveengineering/recipes.js"
-hash = "f709b3f4c92de21c080df52c36c53e59ff3644a2ba6d29ab245cff4457b241e8"
+hash = "0a031ab31f0e5078b2c0d94d3b1c50661910d57eb39b99a8e444d252bb504078"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/incorporeal/recipes.js"
@@ -18598,7 +18606,7 @@ hash = "6f197482fa45e5d343b719c97a8d42d001c41bb083c382fd5bd86d2909dd2b4f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/scannable/recipes.js"
-hash = "56aa8028858dc7201a6f2d6019e073fc1119fd4ee1f35bfd513e6ae27b6820c4"
+hash = "442ba86183b47376cba2c21709b410eb55667aec32b10fc5ae1e46171159c862"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedbackpacks/recipes.js"
@@ -18610,7 +18618,7 @@ hash = "20f660d494d54e021685e2f6a62ca5e4244a598df75f980489d5532c92e0f9e4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/recipes.js"
-hash = "c0e9d6324709f5d7cef3aea085273bfb7c3dc93eae09156d674ed2768151d249"
+hash = "81a906512e3d9e610a2b1fa3301a0dbbaf1b315bdb942e15e13c458fad9d0a36"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/tags.js"
@@ -18634,7 +18642,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "64dee05174e071d14e264590f3161d10079d954e76b531b719ac3ef34458d237"
+hash = "b2fc80558cfa32fd6d7bde7ecf7bccf79875da8be4afb87f36a7f5fef82f7d58"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -18702,7 +18710,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "7a7dd24d961928264899606c7998b61151336021f388c084ee6fd19c805ef8fe"
+hash = "d0390abad434d814ada24c16b6b33e03c2fea5f8f90a0744224ffee104d09094"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
