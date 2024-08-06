@@ -18,7 +18,7 @@
         },
         {
           "level": 60,
-          "probability": 0.4,
+          "probability": 0.1,
           "success": {
             "the_vault:modifier_discovery": 8,
             "the_vault:enhancement_altar": 1,
@@ -89,6 +89,20 @@
             "the_vault:enhancement_altar{config:{type:kill_mobs,range:{type:uniform,min:20,max:25},filter:[\"@the_vault:mobs\"],display:\"{'text':'Kill %s Mobs'}\"}}": 1
           }
         }
+      ]
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "STRUCTURE_DUNGEON_SMALL"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "STRUCTURE_DUNGEON_SMALL"
       ]
     }
   ]

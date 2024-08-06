@@ -293,6 +293,21 @@
         ]
       }
     ],
+    "jewel_completion": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Epic",
+            "weight": 3
+          },
+          {
+            "value": "Omega",
+            "weight": 1
+          }
+        ]
+      }
+    ],
     "jewel_completion_crate": [
       {
         "level": 0,
@@ -543,15 +558,15 @@
           },
           {
             "value": "Rare+",
-            "weight": 30
+            "weight": 40
           },
           {
             "value": "Epic+",
-            "weight": 10
+            "weight": 12
           },
           {
             "value": "Omega",
-            "weight": 2
+            "weight": 8
           }
         ]
       }

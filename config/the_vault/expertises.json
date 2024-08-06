@@ -268,20 +268,6 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "craftsman",
-            "craftsmanLevel": 2,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "craftsman",
-            "craftsmanLevel": 3,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
           }
         ]
       },

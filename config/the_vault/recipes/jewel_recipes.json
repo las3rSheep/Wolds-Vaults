@@ -5,7 +5,7 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:jewel",
-        "NBT": "{}"
+        "NBT": "{\"the_vault:gear_roll_type_pool\":\"jewel_completion\"}"
       },
       "inputs": [
         {

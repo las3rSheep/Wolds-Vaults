@@ -8256,14 +8256,6 @@
       }
     },
     {
-      "id": "the_vault:vault/rooms/wold/ore/larimar_cave1",
-      "name": "Larimar Cave 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/diamond_cave1.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/decor/raw/end/chorus1",
       "name": "Raw End Chorus 1",
       "1.0": {
@@ -9037,6 +9029,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss1",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss2",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
       }
     }
   ]

@@ -801,11 +801,6 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_nether.json"
     },
     {
-      "id": "the_vault:generic/ore_placeholder_ice",
-      "name": "Ore Placeholder Ice",
-      "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_ice.json"
-    },
-    {
       "id": "the_vault:generic/ore_placeholder_void",
       "name": "Ore Placeholder Void",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_void.json"
@@ -959,16 +954,6 @@
       "id": "the_vault:raw/diamond_ore_placeholder",
       "name": "Diamond Ore Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/diamond_ore_placeholder.json"
-    },
-    {
-      "id": "the_vault:wold/ore/base_larimar",
-      "name": "Larimar Caves Base",
-      "1.0": "config/the_vault/gen/1.0/palettes/wold/ore/base_larimar.json"
-    },
-    {
-      "id": "the_vault:wold/ore/larimar_ore_placeholder",
-      "name": "Larimar Ore Placeholder",
-      "1.0": "config/the_vault/gen/1.0/palettes/wold/ore/larimar_ore_placeholder.json"
     },
     {
       "id": "the_vault:raw/shulker_spawner",
@@ -1779,6 +1764,56 @@
       "id": "the_vault:generic/spawners/blood_mobs",
       "name": "Blood Moon Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
+    },
+    {
+      "id": "the_vault:village/villager_spawner",
+      "name": "Villager Spawner",
+      "1.0": "config/the_vault/gen/1.0/palettes/village/villager_spawner.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_chest_randomize",
+      "name": "Chaos Chest Randomize",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_chest_randomize.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_antique_tags",
+      "name": "Chaos Antique Tags",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_antique_tags.json"
+    },
+    {
+      "id": "the_vault:chaos/chaos_antique_tags",
+      "name": "Chaos Antique Tags",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/chaos_antique_tags.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_piglin",
+      "name": "Dungeon Tags Piglin",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_piglin.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_pillager",
+      "name": "Dungeon Tags Pillager",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_pillager.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_skeleton",
+      "name": "Dungeon Tags Skeleton",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_skeleton.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_spider",
+      "name": "Dungeon Tags Spider",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_spider.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_witch",
+      "name": "Dungeon Tags Witch",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_witch.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_zombie",
+      "name": "Dungeon Tags Zombie",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_zombie.json"
     }
   ]
 }

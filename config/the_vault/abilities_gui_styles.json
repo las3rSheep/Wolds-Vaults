@@ -165,9 +165,6 @@
         },
         "Dash_Warp": {
           "icon": "the_vault:gui/abilities/dash_warp"
-        },
-        "Dash_Hop": {
-          "icon": "the_vault:gui/abilities/dash_hop"
         }
       }
     },
@@ -294,12 +291,15 @@
         }
       }
     },
-    "Summon_Eternal": {
+    "Ice_Bolt": {
       "x": 760,
       "y": 12,
       "specializationStyles": {
-        "Summon_Eternal_Base": {
-          "icon": "the_vault:gui/abilities/summon_eternal"
+        "Ice_Bolt_Base": {
+          "icon": "the_vault:gui/abilities/ice_bolt"
+        },
+        "Ice_Bolt_Blast": {
+          "icon": "the_vault:gui/abilities/ice_blast"
         }
       }
     },

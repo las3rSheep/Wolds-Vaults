@@ -245,7 +245,7 @@
       "inputs": [
         {
           "AMOUNT": 9,
-          "ITEM": "the_vault:magnetite_ingot",
+          "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         },
         {

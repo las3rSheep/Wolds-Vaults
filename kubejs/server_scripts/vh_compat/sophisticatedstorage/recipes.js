@@ -1067,7 +1067,7 @@ onEvent("recipes", event => {
             'OUO',
             'RRR'
         ], {
-        O: 'the_vault:vault_ingot',
+        O: 'the_vault:chromatic_steel_ingot',
         R: 'minecraft:redstone_block',
         D: 'the_vault:vault_diamond',
         U: 'sophisticatedstorage:magnet_upgrade'

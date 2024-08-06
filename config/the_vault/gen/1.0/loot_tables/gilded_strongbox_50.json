@@ -8,7 +8,7 @@
       },
       "pool": [
         {
-          "weight": 70,
+          "weight": 80,
           "pool": [
             {
               "weight": 8,
@@ -53,34 +53,12 @@
                   "max": 1
                 }
               }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:regret_nugget",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
             }
           ]
         },
         {
           "weight": 20,
           "pool": [
-            {
-              "weight": 12,
-              "item": {
-                "id": "the_vault:regret_nugget",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
-                }
-              }
-            },
             {
               "weight": 12,
               "item": {
@@ -108,17 +86,6 @@
         {
           "weight": 8,
           "pool": [
-            {
-              "weight": 11,
-              "item": {
-                "id": "the_vault:relic_booster_pack",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
             {
               "weight": 1,
               "item": {
@@ -165,17 +132,6 @@
                   "max": 1
                 }
               }
-            },
-            {
-              "weight": 3,
-              "item": {
-                "id": "the_vault:altar_recatalyzer",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
             }
           ]
         },
@@ -183,7 +139,7 @@
           "weight": 2,
           "pool": [
             {
-              "weight": 20,
+              "weight": 10,
               "item": {
                 "id": "the_vault:jewel",
                 "nbt": {
@@ -197,7 +153,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 10,
               "item": {
                 "id": "the_vault:jewel",
                 "nbt": {
@@ -225,6 +181,45 @@
               "weight": 1,
               "item": {
                 "id": "the_vault:key_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:altar_recatalyzer",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:plushie",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:loot_sack",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,

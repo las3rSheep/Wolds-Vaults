@@ -128,15 +128,6 @@
     },
     {
       "value": {
-        "id": "the_vault:unidentified_relic_fragment",
-        "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 6
-      },
-      "weight": 128
-    },
-    {
-      "value": {
         "id": "the_vault:mystery_egg",
         "nbt": "{}",
         "amountMin": 4,
@@ -258,6 +249,15 @@
         "nbt": "{}",
         "amountMin": 4,
         "amountMax": 6
+      },
+      "weight": 64
+    },
+    {
+      "value": {
+        "id": "woldsvaults:inscription_box",
+        "nbt": "{}",
+        "amountMin": 2,
+        "amountMax": 2
       },
       "weight": 64
     },

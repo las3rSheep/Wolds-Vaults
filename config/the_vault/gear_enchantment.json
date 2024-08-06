@@ -129,8 +129,8 @@
     "ensorcellation:vitality": {
       "items": [
         {
-          "id": "the_vault:hearty_apple",
-          "count": 128
+          "id": "minecraft:golden_apple",
+          "count": 64
         }
       ],
       "levels": 3

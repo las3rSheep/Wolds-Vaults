@@ -128,21 +128,12 @@
     },
     {
       "value": {
-        "id": "the_vault:vault_ingot",
+        "id": "the_vault:vault_alloy",
         "nbt": "{}",
         "amountMin": 2,
         "amountMax": 12
       },
       "weight": 48
-    },
-    {
-      "value": {
-        "id": "the_vault:magnetite",
-        "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 12
-      },
-      "weight": 32
     },
     {
       "value": {

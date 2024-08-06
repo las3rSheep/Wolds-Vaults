@@ -3165,88 +3165,6 @@
         "color": "#FFE400"
       }
     ],
-    "Frenzy": [
-      {
-        "text": "\u2605 Archetype"
-      },
-      {
-        "text": "\n\n"
-      },
-      {
-        "text": "Passively increase your "
-      },
-      {
-        "text": "damage ",
-        "color": "#C21A00"
-      },
-      {
-        "text": "massively while below a certain "
-      },
-      {
-        "text": "threshold",
-        "color": "#90FF00"
-      },
-      {
-        "text": " of total health.\n\n"
-      },
-      {
-        "text": "1",
-        "color": "#484848"
-      },
-      {
-        "text": " +200%",
-        "color": "#C21A00"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 30%",
-        "color": "#90FF00"
-      },
-      {
-        "text": "\n"
-      },
-      {
-        "text": "2",
-        "color": "#484848"
-      },
-      {
-        "text": " +400%",
-        "color": "#C21A00"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 25%",
-        "color": "#90FF00"
-      },
-      {
-        "text": "\n"
-      },
-      {
-        "text": "3",
-        "color": "#484848"
-      },
-      {
-        "text": " +500%",
-        "color": "#C21A00"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 20%",
-        "color": "#90FF00"
-      },
-      {
-        "text": "\n"
-      }
-    ],
     "Carapace": [
       {
         "text": "Passively further increases your damage reduction by providing a sum of extra "
@@ -11657,110 +11575,6 @@
         "color": "#90FF00"
       }
     ],
-    "Hunter": [
-      {
-        "text": "Locate any mob within a radius around the player inside the vault by highlighting them with particles that can be seen through walls.\nThe "
-      },
-      {
-        "text": "duration (seconds) ",
-        "color": "#7800FF"
-      },
-      {
-        "text": "of the particles, the "
-      },
-      {
-        "text": "cooldown (seconds)",
-        "color": "#00FFF0"
-      },
-      {
-        "text": " and the "
-      },
-      {
-        "text": "radius",
-        "color": "#D223AB"
-      },
-      {
-        "text": " scales with levels in Hunter.\n\n"
-      },
-      {
-        "text": "1",
-        "color": "#484848"
-      },
-      {
-        "text": " 5",
-        "color": "#7800FF"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 48",
-        "color": "#D223AB"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 40",
-        "color": "#00FFF0"
-      },
-      {
-        "text": "\n"
-      },
-      {
-        "text": "2",
-        "color": "#484848"
-      },
-      {
-        "text": " 7",
-        "color": "#7800FF"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 54",
-        "color": "#D223AB"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 30",
-        "color": "#00FFF0"
-      },
-      {
-        "text": "\n"
-      },
-      {
-        "text": "3",
-        "color": "#484848"
-      },
-      {
-        "text": " 9",
-        "color": "#7800FF"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 64",
-        "color": "#D223AB"
-      },
-      {
-        "text": " -",
-        "color": "#484848"
-      },
-      {
-        "text": " 20",
-        "color": "#00FFF0"
-      }
-    ],
     "Hunter_Spawners": [
       {
         "text": "The player locates mob spawners, in addition of mobs, within a radius around the player inside the vault by highlighting them with particles that can be seen through walls.\nThe "
@@ -14056,7 +13870,7 @@
     ],
     "Craftsman": [
       {
-        "text": "Become an expert Vault Gear craftsman and enhance the capabilities and versatility of your crafted gear. "
+        "text": "Become an expert Vault Gear craftsman and enhance the capabilities and versatility of your crafted gear. Note: Next update will have additional levels for this! "
       },
       {
         "text": "Each level unlocks a new perk when or for crafted gear."
@@ -14066,20 +13880,6 @@
       },
       {
         "text": "Crafted Gear can roll legendary modifiers.",
-        "color": "#8BD0C9"
-      },
-      {
-        "text": "\n2 "
-      },
-      {
-        "text": "Crafted Gear can have +1 additional Crafted modifier at the Modifier Workbench.",
-        "color": "#8BD0C9"
-      },
-      {
-        "text": "\n2 "
-      },
-      {
-        "text": "Crafted Gear can have +2 additional Crafted modifiers at the Modifier Workbench.",
         "color": "#8BD0C9"
       }
     ],
@@ -15433,6 +15233,639 @@
       },
       {
         "text": "\n\nAlso comes with the Vault Salvager! A new block that works like the Vault Recycler but stores an unlimited number of vault scrap and netherite scrap, and has more room for faceted focuses. It's also much faster, and purple!"
+      }
+    ],
+    "Purist": [
+      {
+        "text": "Deal "
+      },
+      {
+        "text": "extra damage",
+        "color": "#C23627"
+      },
+      {
+        "text": " based on the amount of "
+      },
+      {
+        "text": "Scrappy",
+        "color": "#343434"
+      },
+      {
+        "text": " armor pieces you wear.\n1 "
+      },
+      {
+        "text": "+2.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+7.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+10% damage per piece",
+        "color": "#C23627"
+      }
+    ],
+    "Frenzy": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "+2.5% Attack Speed",
+        "color": "#FFE068"
+      },
+      {
+        "text": " when killing a mob. This effect can "
+      },
+      {
+        "text": "stack",
+        "color": "#ffeb07"
+      },
+      {
+        "text": " and lasts for a duration of time.\n1 "
+      },
+      {
+        "text": "4 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "4 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n2 "
+      },
+      {
+        "text": "6 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "6 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n3 "
+      },
+      {
+        "text": "8 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "8 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n4 "
+      },
+      {
+        "text": "10 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "10 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time"
+      }
+    ],
+    "Arcana": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "+20% Mana Regeneration",
+        "color": "#00FFFF"
+      },
+      {
+        "text": " when killing a mob. This effect can "
+      },
+      {
+        "text": "stack",
+        "color": "#ffeb07"
+      },
+      {
+        "text": " and lasts for a duration of time.\n1 "
+      },
+      {
+        "text": "2 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "4 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n2 "
+      },
+      {
+        "text": "4 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "6 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n3 "
+      },
+      {
+        "text": "6 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "8 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n4 "
+      },
+      {
+        "text": "8 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "10 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time"
+      }
+    ],
+    "Blazing": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "+2% Movement Speed",
+        "color": "#FFE068"
+      },
+      {
+        "text": " when killing a mob. This effect can "
+      },
+      {
+        "text": "stack",
+        "color": "#ffeb07"
+      },
+      {
+        "text": " and lasts for a duration of time.\n1 "
+      },
+      {
+        "text": "4 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "4 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n2 "
+      },
+      {
+        "text": "6 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "6 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n3 "
+      },
+      {
+        "text": "8 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "8 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n4 "
+      },
+      {
+        "text": "10 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "10 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time"
+      }
+    ],
+    "Lucky_Momentum": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "+1% Lucky Hit Chance",
+        "color": "#6DF5A3"
+      },
+      {
+        "text": " when killing a mob. This effect can "
+      },
+      {
+        "text": "stack",
+        "color": "#ffeb07"
+      },
+      {
+        "text": " and lasts for a duration of time.\n\n1 "
+      },
+      {
+        "text": "2 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "4 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n2 "
+      },
+      {
+        "text": "4 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "6 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n3 "
+      },
+      {
+        "text": "6 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "8 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time\n4 "
+      },
+      {
+        "text": "8 Max Stacks",
+        "color": "#ffeb07"
+      },
+      {
+        "text": ", "
+      },
+      {
+        "text": "10 seconds",
+        "color": "#7024ac"
+      },
+      {
+        "text": " wear-off time"
+      }
+    ],
+    "Prime_Amplification": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "increased area of effect",
+        "color": "#E9C375"
+      },
+      {
+        "text": " while being above "
+      },
+      {
+        "text": "80% health",
+        "color": "#7DF587"
+      },
+      {
+        "text": ".\n\n1 "
+      },
+      {
+        "text": "+5%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+10%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+15%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+20%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+25%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+30%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+35%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+40%",
+        "color": "#E9C375"
+      },
+      {
+        "text": "\n "
+      }
+    ],
+    "Bountiful_Harvest": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "increased item quantity",
+        "color": "#ffaa3d"
+      },
+      {
+        "text": " while being below "
+      },
+      {
+        "text": "20% health",
+        "color": "#7DF587"
+      },
+      {
+        "text": ".\n\n1 "
+      },
+      {
+        "text": "+5%",
+        "color": "#ffaa3d"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+10%",
+        "color": "#ffaa3d"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+15%",
+        "color": "#ffaa3d"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+20%",
+        "color": "#ffaa3d"
+      },
+      {
+        "text": "\n "
+      }
+    ],
+    "Treasure_Seeker": [
+      {
+        "text": "Gain "
+      },
+      {
+        "text": "increased item rarity",
+        "color": "#EAFF00"
+      },
+      {
+        "text": " while being below "
+      },
+      {
+        "text": "20% health",
+        "color": "#7DF587"
+      },
+      {
+        "text": ".\n\n1 "
+      },
+      {
+        "text": "+5%",
+        "color": "#EAFF00"
+      },
+      {
+        "text": "\n2 "
+      },
+      {
+        "text": "+10%",
+        "color": "#EAFF00"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+15%",
+        "color": "#EAFF00"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+20%",
+        "color": "#EAFF00"
+      },
+      {
+        "text": "\n "
+      }
+    ],
+    "Hunter": [
+      {
+        "text": "Locate any mob within a radius around the player inside the vault by highlighting them with particles that can be seen through walls.\nThe "
+      },
+      {
+        "text": "duration (seconds) ",
+        "color": "#7800FF"
+      },
+      {
+        "text": "of the particles, the "
+      },
+      {
+        "text": "cooldown (seconds)",
+        "color": "#00FFF0"
+      },
+      {
+        "text": " and the "
+      },
+      {
+        "text": "radius",
+        "color": "#D223AB"
+      },
+      {
+        "text": " scales with levels in Hunter.\n\n"
+      },
+      {
+        "text": "1",
+        "color": "#484848"
+      },
+      {
+        "text": " 5",
+        "color": "#7800FF"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 48",
+        "color": "#D223AB"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 40",
+        "color": "#00FFF0"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "2",
+        "color": "#484848"
+      },
+      {
+        "text": " 7",
+        "color": "#7800FF"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 54",
+        "color": "#D223AB"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 30",
+        "color": "#00FFF0"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "3",
+        "color": "#484848"
+      },
+      {
+        "text": " 9",
+        "color": "#7800FF"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 64",
+        "color": "#D223AB"
+      },
+      {
+        "text": " -",
+        "color": "#484848"
+      },
+      {
+        "text": " 20",
+        "color": "#00FFF0"
+      }
+    ],
+    "Hunters_Instinct": [
+      {
+        "text": "Killing a mob grants a small chance of having their death cause your "
+      },
+      {
+        "text": "Hunter senses",
+        "color": "#FCF5C5"
+      },
+      {
+        "text": " to trigger, revealing all POI's in a radius around the killed mob. \n\nThis talent requires a level in "
+      },
+      {
+        "text": "Hunter",
+        "color": "#FCF5C5"
       }
     ]
   }
