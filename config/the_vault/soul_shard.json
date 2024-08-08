@@ -199,18 +199,6 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "item": {
               "ITEM": "the_vault:bounty_pearl",
               "AMOUNT": 1,
               "NBT": "{}"
@@ -758,18 +746,6 @@
           "value": {
             "item": {
               "ITEM": "the_vault:mystery_hostile_egg",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
               "AMOUNT": 1,
               "NBT": "{}"
             },
@@ -1527,18 +1503,6 @@
             "maxPrice": 800
           },
           "weight": 6
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
         },
         {
           "value": {
@@ -2313,18 +2277,6 @@
             "maxPrice": 800
           },
           "weight": 4
-        },
-        {
-          "value": {
-            "item": {
-              "ITEM": "the_vault:unidentified_relic_fragment",
-              "AMOUNT": 1,
-              "NBT": "{}"
-            },
-            "minPrice": 400,
-            "maxPrice": 800
-          },
-          "weight": 8
         },
         {
           "value": {

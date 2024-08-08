@@ -1509,7 +1509,6 @@
             ],
             "weight": 10.0
           },
-
           {
             "type": "find_vault_room",
             "counter": {
@@ -1562,14 +1561,14 @@
           {
             "type": "find_vault_room",
             "filter": [
-                "the_vault:vault/rooms/omega/mush_room1",
-                "the_vault:vault/rooms/omega/blacksmith1",
-                "the_vault:vault/rooms/omega/cove1",
-                "the_vault:vault/rooms/omega/omega_digsite2",
-                "the_vault:vault/rooms/omega/library1",
-                "the_vault:vault/rooms/omega/mine1",
-                "the_vault:vault/rooms/omega/mine2",
-                "the_vault:vault/rooms/omega/painting1"
+              "the_vault:vault/rooms/omega/mush_room1",
+              "the_vault:vault/rooms/omega/blacksmith1",
+              "the_vault:vault/rooms/omega/cove1",
+              "the_vault:vault/rooms/omega/omega_digsite2",
+              "the_vault:vault/rooms/omega/library1",
+              "the_vault:vault/rooms/omega/mine1",
+              "the_vault:vault/rooms/omega/mine2",
+              "the_vault:vault/rooms/omega/painting1"
             ],
             "counter": {
               "type": "target",
@@ -1589,7 +1588,6 @@
             },
             "weight": 100.0
           }
-          
         ],
         "firstBingo": [
           {
@@ -1599,10 +1597,19 @@
             },
             "message": [
               "",
-              {"text": "BINGO! ", "color": "#bbf333"},
-              {"text": "Added ", "color": "gray"},
+              {
+                "text": "BINGO! ",
+                "color": "#bbf333"
+              },
+              {
+                "text": "Added ",
+                "color": "gray"
+              },
               "${modifiers}",
-              {"text": ".", "color": "gray"}
+              {
+                "text": ".",
+                "color": "gray"
+              }
             ],
             "weight": 100.0
           }
@@ -1611,14 +1618,23 @@
           {
             "type": "add_vault_modifier",
             "modifiers": {
-              "@the_vault:bingos": 1
+              "the_vault:bingos": 1
             },
             "message": [
               "",
-              {"text": "BINGO! ", "color": "#bbf333"},
-              {"text": "Added ", "color": "gray"},
+              {
+                "text": "BINGO! ",
+                "color": "#bbf333"
+              },
+              {
+                "text": "Added ",
+                "color": "gray"
+              },
               "${modifiers}",
-              {"text": ".", "color": "gray"}
+              {
+                "text": ".",
+                "color": "gray"
+              }
             ],
             "weight": 100.0
           }
