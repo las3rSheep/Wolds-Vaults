@@ -14,8 +14,8 @@
         "elixir": "the_vault:base_crate_0",
         "enchanted_elixir": "the_vault:base_crate_cursed_0",
         "paradox": "the_vault:completion_paradox",
-        "bingo": "the_vault:base_crate_0",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo": "the_vault:bingo_lvl50",
+        "bingo_full": "the_vault:bingo_bonus"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
@@ -36,8 +36,8 @@
         "elixir": "the_vault:base_crate_0",
         "enchanted_elixir": "the_vault:base_crate_cursed_0",
         "paradox": "the_vault:completion_paradox",
-        "bingo": "the_vault:base_crate_0",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo": "the_vault:bingo_lvl50",
+        "bingo_full": "the_vault:bingo_bonus"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
@@ -58,8 +58,8 @@
         "elixir": "the_vault:base_crate_20",
         "enchanted_elixir": "the_vault:base_crate_cursed_20",
         "paradox": "the_vault:completion_paradox",
-        "bingo": "the_vault:base_crate_20",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo": "the_vault:bingo_lvl50",
+        "bingo_full": "the_vault:bingo_bonus"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl20",
@@ -80,8 +80,8 @@
         "elixir": "the_vault:base_crate_50",
         "enchanted_elixir": "the_vault:base_crate_cursed_50",
         "paradox": "the_vault:completion_paradox",
-        "bingo": "the_vault:base_crate_50",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo": "the_vault:bingo_lvl50",
+        "bingo_full": "the_vault:bingo_bonus"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl50",
@@ -92,7 +92,7 @@
       "MIN_LEVEL": 100,
       "ALTAR": "the_vault:altar/altar_25",
       "COMPLETION_CRATE": {
-         "boss": "the_vault:base_crate_100",
+        "boss": "the_vault:base_crate_100",
         "brutal_bosses": "the_vault:base_crate_cursed_100",
         "scavenger": "the_vault:base_crate_2_100",
         "unhinged_scavenger": "the_vault:base_crate_cursed_100",
@@ -102,8 +102,8 @@
         "elixir": "the_vault:base_crate_100",
         "enchanted_elixir": "the_vault:base_crate_cursed_100",
         "paradox": "the_vault:completion_paradox",
-        "bingo": "the_vault:base_crate_100",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo": "the_vault:bingo_lvl50",
+        "bingo_full": "the_vault:bingo_bonus"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl50",

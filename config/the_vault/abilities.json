@@ -10980,7 +10980,7 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 8,
+                "radius": 24,
                 "effectDuration": 120,
                 "id": "javelin_sight_1"
               },
@@ -10993,8 +10993,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 12,
-                "effectDuration": 120,
+                "radius": 36,
+                "effectDuration": 130,
                 "id": "javelin_sight_2"
               },
               {
@@ -11006,8 +11006,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 16,
-                "effectDuration": 120,
+                "radius": 48,
+                "effectDuration": 140,
                 "id": "javelin_sight_3"
               },
               {
@@ -11019,8 +11019,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 20,
-                "effectDuration": 120,
+                "radius": 52,
+                "effectDuration": 150,
                 "id": "javelin_sight_4"
               },
               {
@@ -11032,8 +11032,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 24,
-                "effectDuration": 120,
+                "radius": 56,
+                "effectDuration": 160,
                 "id": "javelin_sight_5"
               },
               {
@@ -11045,8 +11045,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 28,
-                "effectDuration": 120,
+                "radius": 58,
+                "effectDuration": 170,
                 "id": "javelin_sight_6"
               },
               {
@@ -11058,8 +11058,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 32,
-                "effectDuration": 120,
+                "radius": 60,
+                "effectDuration": 180,
                 "id": "javelin_sight_7"
               },
               {
@@ -11071,8 +11071,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 36,
-                "effectDuration": 120,
+                "radius": 62,
+                "effectDuration": 190,
                 "id": "javelin_sight_8"
               },
               {
@@ -11084,8 +11084,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 40,
-                "effectDuration": 120,
+                "radius": 64,
+                "effectDuration": 200,
                 "id": "javelin_sight_9"
               },
               {
@@ -11097,8 +11097,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 44,
-                "effectDuration": 120,
+                "radius": 66,
+                "effectDuration": 200,
                 "id": "javelin_sight_10"
               },
               {
@@ -11110,8 +11110,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 48,
-                "effectDuration": 120,
+                "radius": 68,
+                "effectDuration": 200,
                 "id": "javelin_sight_11"
               },
               {
@@ -11123,8 +11123,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 52,
-                "effectDuration": 120,
+                "radius": 70,
+                "effectDuration": 200,
                 "id": "javelin_sight_12"
               }
             ]

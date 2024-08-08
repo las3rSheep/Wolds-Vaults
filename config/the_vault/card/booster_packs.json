@@ -1,5 +1,185 @@
 {
   "values": {
+    "the_vault:merchant_pack": {
+      "name": {
+        "text": "Merchant Booster Pack"
+      },
+      "model": {
+        "unopened": "the_vault:booster_pack/resource_pack#inventory",
+        "opened": "the_vault:booster_pack/resource_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 4,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 9.0
+        },
+        {
+          "value": 2,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@resource",
+              "probability": 1.0
+            }
+          ],
+          "weight": 6
+        },
+        {
+          "value": [
+            {
+              "modifier": "@resource",
+              "groups": [
+                "Foil"
+              ],
+              "condition": "",
+              "probability": 1.0
+            }
+          ],
+          "weight": 3
+        }
+      ]
+    },
+    "the_vault:lost_pack": {
+      "name": {
+        "text": "Lost Booster Pack"
+      },
+      "model": {
+        "unopened": "the_vault:booster_pack/mega_mix_pack#inventory",
+        "opened": "the_vault:booster_pack/mega_mix_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 4,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 16.0
+        },
+        {
+          "value": 2,
+          "weight": 8.0
+        },
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "RED",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@default",
+              "probability": 1.0
+            }
+          ],
+          "weight": 70
+        },
+        {
+          "value": [
+            {
+              "modifier": "@scaling",
+              "probability": 1.0,
+              "scaler": "@default"
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "value": [
+            {
+              "modifier": "@resource",
+              "probability": 1.0
+            }
+          ],
+          "weight": 7
+        },
+        {
+          "value": [
+            {
+              "modifier": "@default",
+              "groups": [
+                "Foil"
+              ],
+              "probability": 1.0
+            }
+          ],
+          "weight": 6
+        },
+        {
+          "value": [
+            {
+              "modifier": "@scaling",
+              "groups": [
+                "Foil"
+              ],
+              "probability": 1.0
+            }
+          ],
+          "weight": 4
+        },
+        {
+          "value": [
+            {
+              "modifier": "@resource",
+              "groups": [
+                "Foil"
+              ],
+              "probability": 1.0
+            }
+          ],
+          "weight": 4
+        }
+      ]
+    },
     "the_vault:default": {
       "name": {
         "text": "Stat Booster Pack"
@@ -52,7 +232,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "scaler": "",
               "condition": "",
               "probability": 1.0
@@ -207,7 +389,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "scaler": "@default",
               "condition": "",
               "probability": 1.0
@@ -269,7 +453,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "condition": "",
               "probability": 1.0
             }
@@ -330,7 +516,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "condition": "",
               "probability": 1.0
             }
@@ -391,7 +579,9 @@
           "value": [
             {
               "modifier": "@resource",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "condition": "",
               "probability": 1.0
             }
@@ -454,7 +644,9 @@
           "value": [
             {
               "modifier": "@temporal",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "scaler": "@temporal",
               "condition": "temporal",
               "probability": 1.0
@@ -535,7 +727,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -545,7 +739,9 @@
           "value": [
             {
               "modifier": "@scaling",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "scaler": "@default",
               "probability": 1.0
             }
@@ -556,7 +752,9 @@
           "value": [
             {
               "modifier": "@resource",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -635,7 +833,9 @@
           "value": [
             {
               "modifier": "@default",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -645,7 +845,9 @@
           "value": [
             {
               "modifier": "@scaling",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -655,7 +857,9 @@
           "value": [
             {
               "modifier": "@resource",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],
@@ -697,7 +901,9 @@
           "value": [
             {
               "modifier": "@wild",
-              "groups": [ "Foil" ],
+              "groups": [
+                "Foil"
+              ],
               "probability": 1.0
             }
           ],

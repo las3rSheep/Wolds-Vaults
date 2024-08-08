@@ -635,6 +635,18 @@
         "text": "addon for Applied Energistics\n\nThis mod adds mana cells and P2P tunnels for storing and interacting with Botania mana."
       }
     ],
+    "Applied Compatability": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Applied Botanics and Applied Mekanistics",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Applied Energistics\n\nThis mod adds mana cells and P2P tunnels for storing and interacting with Botania mana, and chemical cells for storing and interacting with Mekanism chemicals."
+      }
+    ],
     "Applied Mekanistics": [
       {
         "text": "Unlocks the "

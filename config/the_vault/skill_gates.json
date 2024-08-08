@@ -216,6 +216,16 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Applied Compatability": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Applied Energistics"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Applied Botanics": {
         "dependsOn": [
           {

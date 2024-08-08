@@ -9,8 +9,20 @@ onEvent("recipes", event => {
             'AEA'
         ], {
         C: 'the_vault:living_rock_block_cobble',
-        E: 'the_vault:mystical_powder',
+        E: 'the_vault:gem_larimar',
         A: 'minecraft:amethyst_block'
+    })
+
+    event.shaped(Item.of('the_vault:mystical_powder'),
+        [
+            ' E ',
+            'DBD',
+            'AEA'
+        ], {
+        E: 'the_vault:vault_essence',
+        D: 'the_vault:vault_diamond',
+        A: 'the_vault:dreamstone',
+        B: 'the_vault:perfect_benitoite'
     })
 
     event.shaped(Item.of('the_vault:angel_block'),
@@ -36,4 +48,29 @@ onEvent("recipes", event => {
     event.shapeless('the_vault:phoenix_feather', ['9x the_vault:phoenix_dust'])
     event.shapeless('9x the_vault:phoenix_dust', ['the_vault:phoenix_feather'])
     event.shapeless('the_vault:chromatic_steel_block', ['4x the_vault:chromatic_iron_block', '2x the_vault:carbon_block'])
+
+    //Deck Conversion
+    //event.shapeless(Item.of('the_vault:booster_pack', '{Item:{Count:1,id:"arcane"}}').strongNbt(), [Item.of('the_vault:card_deck', '{Item:{Count:1,id:"lost"}}').strongNbt()])
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "lost"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:lost_pack"
+            }
+        }
+    })
+
 })
