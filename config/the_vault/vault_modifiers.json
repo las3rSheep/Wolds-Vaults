@@ -2665,6 +2665,20 @@
           "icon": "the_vault:gui/modifiers/bingo"
         }
       },
+      "the_vault:bingos": {
+        "properties": {
+          "children": {
+            "the_vault:bingo": 1,
+            "the_vault:crate_tier": 1
+          }
+        },
+        "display": {
+          "name": "Bingo!",
+          "color": "#bbf333",
+          "description": "Every subsequent BINGO Increases Item Quantity & Rarity by 10%, and boosts soul chance by 25%, and boosts your crate tier by 1!",
+          "icon": "the_vault:gui/modifiers/bingo"
+        }
+      },
       "the_vault:loot_goblin": {
         "properties": {
           "children": {

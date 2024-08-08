@@ -73,4 +73,180 @@ onEvent("recipes", event => {
         }
     })
 
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "champion"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:champion_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "extended"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:champion_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "gdungeon"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:dungeon_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "ldungeon"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:dungeon_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "odungeon"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:dungeon_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "treasure"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:treasure_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "black"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:black_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "merchant"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:merchant_pack"
+            }
+        }
+    })
+
 })

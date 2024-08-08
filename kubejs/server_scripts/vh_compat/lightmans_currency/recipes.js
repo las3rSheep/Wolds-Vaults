@@ -27,7 +27,7 @@ onEvent("recipes", event => {
             'XPX'
         ], {
         P: 'minecraft:gold_ingot',
-        X: 'the_vault:magnetite_ingot',
+        X: 'the_vault:chromatic_steel_ingot',
         T: 'lightmanscurrency:wallet_iron'
     })
 

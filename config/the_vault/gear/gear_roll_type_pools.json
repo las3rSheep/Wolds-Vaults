@@ -226,6 +226,25 @@
         ]
       }
     ],
+    "gear_completion": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare+",
+            "weight": 50
+          },
+          {
+            "value": "Epic+",
+            "weight": 35
+          },
+          {
+            "value": "Omega",
+            "weight": 15
+          }
+        ]
+      }
+    ],
     "gear_completion_crate_mono": [
       {
         "level": 0,

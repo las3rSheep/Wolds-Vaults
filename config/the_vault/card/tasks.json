@@ -129,7 +129,7 @@
       },
       "loot_gilded_easy": {
         "type": "loot_chest",
-        "filter": "@the_vault:ornate",
+        "filter": "@the_vault:gilded",
         "counter": {
           "type": "target",
           "target": {

@@ -243,26 +243,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:relic_booster_pack"
-                },
-                "minCount": 2,
-                "maxCount": 4
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:unidentified_relic_fragment"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:sweet_kiwi"
                 },
                 "minCount": 1,
@@ -277,16 +257,6 @@
                 },
                 "minCount": 6,
                 "maxCount": 32
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:magnetite_ingot"
-                },
-                "minCount": 1,
-                "maxCount": 3
               },
               "weight": 30
             },
@@ -588,20 +558,10 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:relic_booster_pack"
-                },
-                "minCount": 2,
-                "maxCount": 5
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:sweet_kiwi"
+                  "item": "the_vault:repair_core"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
               },
               "weight": 30
             },
@@ -612,16 +572,6 @@
                 },
                 "minCount": 6,
                 "maxCount": 32
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:magnetite_ingot"
-                },
-                "minCount": 2,
-                "maxCount": 4
               },
               "weight": 30
             },
@@ -4804,6 +4754,16 @@
                 "maxCount": 1
               },
               "weight": 32
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:repair_core"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 12
             },
             {
               "value": {

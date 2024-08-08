@@ -3887,6 +3887,10 @@
             "color": "$text"
           },
           {
+            "text": "The first deck is called Starter(in JEI)",
+            "color": "$qhighlight"
+          },
+          {
             "text": "\n\nCraft A Card Deck",
             "color": "$heal"
           }
@@ -3923,6 +3927,10 @@
           },
           {
             "text": ". Any card you don't like can be ground down to its essence. A tier 1 card can be upgraded to tier 2 with 10 essence. Watch out though. The higher the tier the more expensive the cost!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nIn order to use the machine, it needs a redstone signal. The card on the left will be juiced into essence. This essence can then be used to upgrade the card on the right.",
             "color": "$text"
           },
           {
