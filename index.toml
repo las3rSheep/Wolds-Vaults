@@ -622,7 +622,7 @@ hash = "f412320b0ad7726be95e5c0f8bcefbff2b626b1886d123f9d568f79b5a14449b"
 
 [[files]]
 file = "config/daily_rewards-common.toml"
-hash = "3f8a5879d2ca9542b84474f930f1fbc121b9e9fa6ba7e49dd5cc5d8f3cf3c97e"
+hash = "63ca28ff776a64063831a03c667b973d667c43450043ded69dc41608d1d3a347"
 
 [[files]]
 file = "config/dbe_v5_common.json"
@@ -638,19 +638,375 @@ hash = "501f293cef127055da3fce5060cb7a96efe5b05ccab6da34ece0dd6887a37b34"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "dd0c050a274c5ec2e47c3291490d048393229ef39682e951ce768f3906d177fd"
+hash = "bdc70815e071163eecd2467c27876c4eeaea378593687217b3e5238d447ebf90"
 
 [[files]]
 file = "config/defaultsettings/Default/options.justenoughkeys.txt"
-hash = "97eaf6e6eb37578cdbaa02031c9edc4bdbbe19c069e66dd093f498267d96a2d0"
+hash = "cc1bcccb22aaf4aaf533db1c5d1079ffc7e8bf06437d84a1aaa758c31167f6b0"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "24df2c57696165eb9d6ceecbb8e90dcc0609bea700e5fd62f5c26d4ff7b27479"
+hash = "999aab339ba55cc1c69ed5c6abacb50f2d1e12e42171aa47f0c33ce69cd1df30"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
-hash = "1111e60b19f807d19b11de7cd6595ffa942e4133fbbaabac86d2df1dc79e3805"
+hash = "7228772ab40c3b3dab124bf472196e82d2e7835e401745426454fa0bffcd6093"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/InventoryHUD/curios.json"
+hash = "09072fe2f5b5b31e1e41c8b8a8432bf1058fac405ae1e9d7a82c90947a72f467"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/MouseTweaks.cfg"
+hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/appleskin-client.toml"
+hash = "4f8278b45def834a2a6c03b9b2c29d821808bdb36e6be39abb4be38e81f863ae"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/bonsaitrees3-client.toml"
+hash = "70eef75b7b268732ccef084a6c37fe9f452f002b460c9db81866979fd5aa8ba9"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/botania-client.toml"
+hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/camera-client.toml"
+hash = "a81aa7e3285f6a108fc6bac287bda8e5a6005a01712e56308e03f83bdfc222ed"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/carryon-client.toml"
+hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/cfm-client.toml"
+hash = "a43e7e083c330d9d59b3d1d0f1336b98060f5e4693e11e37d30055b42422e26f"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/chunksending.json"
+hash = "4bb53cce5a363b4173052e66d609e2013b53c7a662de115e5ca59143fd3eab1b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/citresewn.json"
+hash = "dc29439a8641a9605368c854e44914fe4dabee5be990a7b1dff40e53eec72792"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/cofh_core-client.toml"
+hash = "5ba91b2271d3cf9b4451fcc0de1ecb460d80aa59a400a4995c24b29798657ee1"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/colossalchests-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/configured-client.toml"
+hash = "d37e7827f36cfffac0aa081be9212aa8403533826678ff32c72c8c173c5b5b45"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/craftingstation-client.toml"
+hash = "19dda85dc0e9f7443429fd7b95876365c4878e75aee66b5bd08708514f1577ee"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/create-client.toml"
+hash = "f037a60c9c267f2a0f7e1918034061988bef668ddb8fe96f2bc82be0138a64de"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/createdeco-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/createdieselgenerators-client.toml"
+hash = "eedb4c98e3a88cfba6bba41c35937d6b2d81d9f18942402393cd61f2f87f288c"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/cucumber-client.toml"
+hash = "d920a1787b62c4293c13f70e768fac4f5bf44cd8f7e51cbad251693bac8108bf"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/curios-client.toml"
+hash = "1ac04b541d19cc58791e5ceea4a46b7e1d75a2b4b2d5e359b9fcab606e5ef750"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/cyclopscore-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/daily_rewards-common.toml"
+hash = "b121ac06792803768ae093bc3b60c3c73f6115ec730723209d189fe7e3e208f2"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/defaultsettings.json"
+hash = "501f293cef127055da3fce5060cb7a96efe5b05ccab6da34ece0dd6887a37b34"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/dynamic_lights_reforged.toml"
+hash = "d51cfa73ad1f160a4bf14a7fca90ab6f8dadb8dee52e240d3190193b9e954bc4"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/easy_villagers-client.toml"
+hash = "f1a52c4737070355729df0350f70f92cc8ba58bf9c868ee7e0dac081e7bf6bbd"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/embeddium++.toml"
+hash = "67ed29a7a319771d4c27bd383b6d5cdf6d20348cab0c36af2d168e3f79ec2148"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/embeddium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/embeddium-options.json"
+hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/explorerscompass-client.toml"
+hash = "8bcb1e2cf784ee67e9ea3ebf376d7406361e8f97a0abf7d458cd82ddcad2eb7b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/fairylights-client.toml"
+hash = "475b5c49311cc88225141f348f05f673579ab16a6f507fa952c2e5ce883d0b12"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/fastbench.cfg"
+hash = "c0f72d2d60243a3944eaf7a477fa2673411a66f6dcc47c0f5d7eeb3b828e2756"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/fluiddrawerslegacy-client.toml"
+hash = "95e56713bce07db5f04c31f5753f4495267d590d047eafafad1dcfe2eff7b2e8"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/fluxnetworks-client.toml"
+hash = "e7d0eaf3d5fef7f659026ba60fbcb7380e6c7af28630a27af73ae22118cc0594"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/flywheel-client.toml"
+hash = "f8b0adbc24fc40159fdcc1b1a109cf4afe8089318d3fe8b4a131d279f064bddd"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/forge-client.toml"
+hash = "52e7f59fa6e8324d980598d3ac9f6a6daac5ea91b9f6d9349e7353e573ae53d0"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/framedblocks-client.toml"
+hash = "c3c75468dde604afac514be3fdeb2d3caf7461fc58cdfb10ef7078ad78d62784"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/ftbbackups2.json"
+hash = "3f018280bc9d81f5fdddabb2fa59f0858afb850a64312b0cd8b1e82eb7f98256"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/hexcasting-client.toml"
+hash = "9e87dbbb2de2d4c54a17543eb85f1ca67a87a72393b4a5d29113b384109fc9a7"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/highlighter-common.toml"
+hash = "a7aad3f0f92e2c7dd25da653f786b4a8010da650aa528666df7285a7a6fb8b41"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/iammusicplayer.toml"
+hash = "c95907a6c39c227c87975c453201c7bc2276bed9e422cda684ba14dfea3f1d01"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/integrateddynamics-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/integratedterminals-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/inventoryhud-client.toml"
+hash = "ddf59608282c74e1f522e82839e231790cd0e5e6166d1d1fe5fd8717fa74f324"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/jade-addons.toml"
+hash = "306f47c189d47be89c70e1abd8e00d8349b4397df22886e97495ba93720aa167"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/jei-client.toml"
+hash = "e186f519c86ca1147baa8e7f32b15917257601f00486400ed54531107bdf9ac2"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/jei_mekanism_multiblocks-client.toml"
+hash = "b73ce69966d12d2b1618dc98934117b0ef37542f73e7f551d2b3db562a7d467f"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/kendrome_vh_tweaks_client.toml"
+hash = "6d18b01d39d844e661168e1b78935c05b2ae71deb0d88fab1299fa81c79c266c"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/lightmanscurrency-client.toml"
+hash = "17ac4c8156cef33a987f056ea76a6bf8154e78d26aed9b893a1ed25b0f4ab9a5"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/mantle-client.toml"
+hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/matc-client.toml"
+hash = "f5e8266ec6588197a6e1adaeb87e2782c16e924e963c95f78c83090a7ca01506"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/mcjtylib-client.toml"
+hash = "c67b58b8a4feec2e100ea7094f53ed7d84df6a768d14b5697bf0dface831b120"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/memorysettings.json"
+hash = "b39b18b9a721a5914a3bf7198041a1433382ae50a44325ed1e85604fbdd3e4b9"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/modernfix-mixins.properties"
+hash = "dc3c85f12201dd1deb04aa8651825d6eb695ccab48682e6c781c0e507c211424"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/modernstartupqol-client.toml"
+hash = "113f7e52bccd6fff74cd41f4423511ba32191b7a655f8ab6e4cdb24e59d94cd1"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/modonomicon-client.toml"
+hash = "d94055dffbb9b89003752b4988761fb7db8c009f131a6d9bc9a5c77f67419d69"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/mysticalagriculture-client.toml"
+hash = "79f1559a4239d9a72bf9126438554995c1995779dc8a89a55b69a6a7b462eb17"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/parcool-client.toml"
+hash = "f9252e87e8c38f1aa81a7bbdd6a715c151d4c38e4724b0238f0e3c261b7d04e6"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/patchouli-client.toml"
+hash = "34b8a3f26fe585699ac60ef8749e8848640d0cafa7972b80beba11bb56595c60"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/ping-client.toml"
+hash = "214e39c3aa328aa76d6b32893665c643c03465b91e75ca6c185bb3ec04a6a424"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/pipez-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/pneumaticcraft-client.toml"
+hash = "3c4778817085ab87126892c0d7e9de7106ba5c1746dcec69d12de304c4c8787a"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/quark-common.toml"
+hash = "9aa131c192e821f7c2057e394987b1c84d003148424d6eb38cafb7fe7b37125b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/railways-client.toml"
+hash = "103e7a4233cc7d270a406ac87cb258687f2faf81d1790d5a93b568dce899a812"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/refinedstorage-client.toml"
+hash = "fd1f877e3c69df8662b8ffa2bd922c80da850ad1ae033591c36480c72b2a9f33"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/reforgium-renderer.properties"
+hash = "22db69abb08bcab92586748d997d5556bee558009f913404f2a2dd51d79f36c7"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/scannable-client.toml"
+hash = "e3ddb459b3edfb5948d8c1dc2de7802f39421ef720d84fcba71d3c56eb16154c"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/serverconfigupdater-common.toml"
+hash = "0471e99c70c9524a91df105884ef413b3238b2576f8cb2b23b76285a5f2f8dba"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/shetiphiancore-client.toml"
+hash = "f078f6987c3712446ca08971ed1d18c2fcf954a402f12e7d39a858b874c5fad3"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/smallships-client.toml"
+hash = "0cc644d823e2038546b7ea7047e8f153c12b75ca1101d17f5cdf04ca26c21e37"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/snad-common.toml"
+hash = "f7258b8b7860c4d0652b1f8bd740853dd321ecd5a02e20c3cb152c3a587a11ce"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/sophisticatedbackpacks-common.toml"
+hash = "101b2c3afacf80b07df488735591d32e69ada873f399a6ca66bf077ddfee1ec4"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/sophisticatedcore-client.toml"
+hash = "293088be5b4d13e99f6c12a0aaa7b56f0f9db5f9abbc615086989b689b3827d3"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/sophisticatedcore-common.toml"
+hash = "866932f79aa2a6338cf9e5094ff819dacdc9fa2f07576b6bc2c007cbe24d93b7"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/sophisticatedstorage-client.toml"
+hash = "a2f53f0a46a448a684ff024bcc0ea910a9adca68bf9b2ff09e0bacba046f31a2"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/storagedrawers-client.toml"
+hash = "408d6e9ab08e514d6d1e72aaf818afe26a62cf379057c203db0176c96af4d9ad"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/storagedrawers-common.toml"
+hash = "f47c5fcc90d1348e11c7368b8d247ae525bb005fd7141d49f2666f75cb6f3043"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/supplementaries-client.toml"
+hash = "562c34f618ac2c96abc1b0248f5d51764473eb98672638fbb4f952c9159d55c7"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/the_vault_tweaks-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/thermal-client.toml"
+hash = "b48eb3e404c14595b185228f8c76a292a5c355d2e114427755096306acd96c4d"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/torohealth.json"
+hash = "2de0950a170978fd34610b9411cf463eb8bd9208156ade036f3ff63567d88d3d"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/vault_hunters_better_model_unlocks.toml"
+hash = "a9c6ae6c4a346ac355b161ba3b92af66d1913a75352ab500422ab18e6b169773"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/vault_hunters_jewel_sorting.toml"
+hash = "c5d149e51c0ff21fa22514f680ba3d60890031260d55f3943b92f46c1f2741af"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/vaultcommandblacklist-common.toml"
+hash = "0542246c0eb4501f43fa767ffa909bd77c0d8981fcdcbd28868f9b31434a3e9e"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/voicechat-client.toml"
+hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/waystones-common.toml"
+hash = "5ccbd321b213627f29b6115aad78e563408e8b1483f0972f656b3af3e5a22ff2"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/xaerominimap.txt"
+hash = "124db5880bb1cff565e006cbebd968db407172d36aa7c35c14cdf625048c0aaa"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/xaeroworldmap.txt"
+hash = "db481481bd5289c7821b57483ecddbccfa8c6f977a10eaa0c61d194ad3b358ee"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/xnet-client.toml"
+hash = "83697e940c40810ce9408dbc6fa60400d84516d7871daf22bd94edf9faa4ae96"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/zume.json5"
+hash = "19a159138f9b8f8cf015f8cade4bf15e4423b20fd7356800b402f6f14a2cccb0"
 
 [[files]]
 file = "config/drippyloadingscreen/.checked_for_old_layouts"
@@ -3266,7 +3622,7 @@ hash = "e7760369672050005d909fbfc0f46975d659d133fb71ccf78c508a88d1ca86f8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/mushroom_mobs.json"
-hash = "2be9e0d490b35bdaef9e9ee125e00cd17d49e0278c7ea04bdaf4c499a72a8d12"
+hash = "ab1f9eb7df5beebe8e859eee9a81422df50cb60691db78f1999e2bd882d18a68"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/nether_mobs.json"
@@ -11538,7 +11894,7 @@ hash = "f636c11801ea5945ff198083954372054e79d8ad060cf00a404b97d1f37dc5f3"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "bd2f8aff53784f3193d6925ae8ca5c51cc95ff4d61c9d7d37d4c04545e19e5e8"
+hash = "29554b76886e3dc01d0b866d9b0af1fc282f7114329a5810187fe3086e0b695a"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -11610,7 +11966,7 @@ hash = "633d0067f05abb4a98fdafea17b31121a0af8103f14a9d5e1a87ca3005b27127"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "70978bd9e4ba48dec41b86dc06ecb4c0641514413245f26d073ba7f67ab6dfb2"
+hash = "2c02f92c22dcf4077e7fd19b4ce8cd0bfd4647ed6abf2ee41b6faa1ca7b49c47"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -18602,7 +18958,7 @@ hash = "cc5c41c4a533504c26530bd1bd37aadddb011a81aef49ab18b39880a6e7af270"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/lightmans_currency/recipes.js"
-hash = "de45488659e81181cee9e02bf47d60d5822f6e84fe3ea5f6ba5866dc5384decd"
+hash = "88f8daf7d7b921048c8c14fa055a150ef25dd4715ba1288868bdc63078ea1508"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/little_logistics/recipes.js"

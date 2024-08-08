@@ -15866,7 +15866,7 @@
     ],
     "Hunters_Instinct": [
       {
-        "text": "Killing a mob grants a small chance of having their death cause your "
+        "text": "Killing a mob grants a 0.5% chance of having their death cause your "
       },
       {
         "text": "Hunter senses",
