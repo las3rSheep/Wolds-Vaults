@@ -249,4 +249,48 @@ onEvent("recipes", event => {
         }
     })
 
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "large"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:mix_pack"
+            }
+        }
+    })
+
+    event.custom({
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "type": "forge:partial_nbt",
+                "item": "the_vault:card_deck",
+                "count": 1,
+                "nbt": {
+                    "id": "double"
+                }
+            }
+        ],
+        "result": {
+            "type": "forge:nbt",
+            "item": "the_vault:booster_pack",
+            "count": 1,
+            "nbt": {
+                "id": "the_vault:mix_pack"
+            }
+        }
+    })
+
 })
