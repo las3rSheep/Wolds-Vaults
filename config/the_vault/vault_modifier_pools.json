@@ -2582,7 +2582,7 @@
             "pool": [
               {
                 "value": "the_vault:curse",
-                "weight": 2
+                "weight": 1
               },
               {
                 "value": "the_vault:volcanic",
@@ -2650,7 +2650,7 @@
               },
               {
                 "value": "the_vault:chemical_bath",
-                "weight": 6
+                "weight": 1
               },
               {
                 "value": "the_vault:curse_ethereal",
@@ -2662,7 +2662,7 @@
               },
               {
                 "value": "the_vault:fading",
-                "weight": 2
+                "weight": 1
               },
               {
                 "value": "the_vault:impossible_difficulty",

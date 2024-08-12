@@ -257,6 +257,17 @@
           "weight": 2,
           "pool": [
             {
+              "weight": 30,
+              "item": {
+                "id": "the_vault:sweet_kiwi",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 3
+                }
+              }
+            },
+            {
               "weight": 200,
               "item": {
                 "id": "the_vault:knowledge_star_essence",

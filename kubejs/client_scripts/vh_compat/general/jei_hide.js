@@ -24,6 +24,7 @@ onEvent('jei.hide.items', event => {
     event.hide('ironchests:crystal_chest')
     event.hide('ironchests:obsidian_chest_upgrade')
     event.hide('ironchests:crystal_chest_upgrade')
+    event.hide('sophisticatedvaultupgrades:debagnetizer')
     event.hide(/mysticalagriculture:.*_helmet/)
     event.hide(/mysticalagriculture:.*_chestplate/)
     event.hide(/mysticalagriculture:.*_leggings/)

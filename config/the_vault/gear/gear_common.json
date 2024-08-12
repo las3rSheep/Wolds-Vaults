@@ -2,14 +2,10 @@
   "swapCooldown": 400,
   "swapItems": {
     "FEET": [
-      "the_vault:boots"
     ],
     "CHEST": [
-      "the_vault:chestplate",
-      "minecraft:elytra"
     ],
     "LEGS": [
-      "the_vault:leggings"
     ],
     "OFFHAND": [
       "the_vault:focus",
@@ -23,7 +19,6 @@
       "the_vault:loot_sack"
     ],
     "HEAD": [
-      "the_vault:helmet"
     ]
   }
 }

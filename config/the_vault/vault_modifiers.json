@@ -1430,12 +1430,12 @@
       },
       "the_vault:corrosive": {
         "properties": {
-          "durabilityDamageTakenMultiplier": 3.0
+          "durabilityDamageTakenMultiplier": 2.0
         },
         "display": {
           "name": "Corrosive",
           "color": "#7B7E7F",
-          "description": "+200% Durability Damage",
+          "description": "+100% Durability Damage",
           "descriptionFormatted": "+%d%% Durability Damage",
           "icon": "the_vault:gui/modifiers/frail"
         }

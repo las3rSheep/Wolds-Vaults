@@ -5245,1824 +5245,314 @@
         "type": "specialized",
         "id": "Hunter",
         "name": "Hunter",
-        "maxLearnableTier": 8,
+        "maxLearnableTier": 1,
         "specializations": [
           {
             "type": "tiered",
             "id": "Hunter_Base",
             "name": "Hunter",
-            "maxLearnableTier": 8,
+            "maxLearnableTier": 1,
             "tiers": [
               {
                 "type": "hunter",
                 "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_8"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_9"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_10"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_11"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -1864448,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_wood_18"
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Blocks",
-            "name": "Hunter: Observer",
-            "maxLearnableTier": 8,
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
+                "durationTicks": 400,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl1"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
+                "durationTicks": 450,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl2"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
+                "durationTicks": 500,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl3"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
+                "durationTicks": 550,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl4"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
+                "durationTicks": 600,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl5"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
+                "durationTicks": 650,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl6"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
+                "durationTicks": 700,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "hunter_lvl7"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
+                "durationTicks": 750,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
-                "id": "hunter_observer_8"
+                "id": "hunter_lvl8"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
+                "durationTicks": 800,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
-                "id": "hunter_observer_9"
+                "id": "hunter_lvl9"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
+                "durationTicks": 850,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
-                "id": "hunter_observer_10"
+                "id": "hunter_lvl10"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
+                  "the_vault:god_altar",
+                  "the_vault:living_chest{Hidden:0b}",
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
+                  "the_vault:ornate_chest{Hidden:0b}",
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
+                "durationTicks": 900,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
-                "id": "hunter_observer_11"
+                "id": "hunter_lvl11"
               },
               {
                 "type": "hunter",
                 "filters": [
+                  "the_vault:wooden_chest{Hidden:0b}",
                   "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "@the_vault:objective_blocks",
-                  "the_vault:god_altar"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_observer_18"
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Wooden",
-            "name": "Hunter: Wooden",
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:wooden_chest{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Gilded",
-            "name": "Hunter: Gilded",
-            "maxLearnableTier": 8,
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_1"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_8"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_9"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_10"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_11"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:gilded_chest{Hidden:0b}",
-                  "the_vault:gilded_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_gilded_18"
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Living",
-            "name": "Hunter: Living",
-            "maxLearnableTier": 8,
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
+                  "the_vault:god_altar",
                   "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_8"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_9"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_10"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_11"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:living_chest{Hidden:0b}",
-                  "the_vault:living_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_living_18"
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Ornate",
-            "name": "Hunter: Ornate",
-            "maxLearnableTier": 8,
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
+                  "the_vault:living_strongbox{Hidden:0b}",
+                  "the_vault:gilded_chest{Hidden:0b}",
+                  "the_vault:gilded_strongbox{Hidden:0b}",
                   "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
+                  "the_vault:ornate_strongbox{Hidden:0b}",
+                  "the_vault:coin_pile{Hidden:0b}",
+                  "the_vault:dungeon_door[open=false]",
+                  "the_vault:treasure_door[open=false]"
                 ],
                 "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
+                "durationTicks": 950,
+                "manaCost": 75.0,
+                "learnPointCost": 4,
                 "regretPointCost": 1,
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
-                "id": "hunter_ornate_8"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_9"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_10"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_11"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:ornate_chest{Hidden:0b}",
-                  "the_vault:ornate_strongbox{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_ornate_18"
-              }
-            ]
-          },
-          {
-            "type": "tiered",
-            "id": "Hunter_Coins",
-            "name": "Hunter: Coins",
-            "maxLearnableTier": 8,
-            "tiers": [
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 48.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_8"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 44.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_9"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 40.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_10"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 36.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_11"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 32.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_12"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 28.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_13"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 24.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_14"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 20.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_15"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 16.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_16"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 12.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_17"
-              },
-              {
-                "type": "hunter",
-                "filters": [
-                  "the_vault:coin_pile{Hidden:0b}"
-                ],
-                "searchRadius": 48.0,
-                "color": -14308352,
-                "durationTicks": 200,
-                "manaCost": 8.0,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 12000,
-                "unlockLevel": 0,
-                "id": "hunter_coin_18"
-              }
+                "id": "hunter_lvl12"
+              }              
             ]
           }
         ]

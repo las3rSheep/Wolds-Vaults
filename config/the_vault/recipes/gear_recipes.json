@@ -18,11 +18,6 @@
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
-          "NBT": "{}"
         }
       ]
     },
@@ -43,11 +38,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]
@@ -70,11 +60,6 @@
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
-          "NBT": "{}"
         }
       ]
     },
@@ -95,11 +80,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]
@@ -122,11 +102,6 @@
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
-          "NBT": "{}"
         }
       ]
     },
@@ -147,11 +122,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]
@@ -174,11 +144,6 @@
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
-          "NBT": "{}"
         }
       ]
     },
@@ -200,11 +165,6 @@
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
-          "NBT": "{}"
         }
       ]
     },
@@ -225,11 +185,6 @@
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]
@@ -265,11 +220,6 @@
       },
       "inputs": [
         {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:vault_essence",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
@@ -277,11 +227,6 @@
         {
           "AMOUNT": 9,
           "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
           "NBT": "{}"
         }
       ]
@@ -296,10 +241,26 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:driftwood",
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "FOCUS",
+      "id": "the_vault:plushie",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:plushie",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
         {
           "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
@@ -309,10 +270,26 @@
           "AMOUNT": 9,
           "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "FOCUS",
+      "id": "the_vault:loot_sack",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:loot_sack",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
         },
         {
           "AMOUNT": 9,
-          "ITEM": "the_vault:vault_essence",
+          "ITEM": "the_vault:vault_alloy",
           "NBT": "{}"
         }
       ]

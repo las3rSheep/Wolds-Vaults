@@ -618,6 +618,18 @@
             "item": {
               "ITEM": "the_vault:booster_pack",
               "AMOUNT": 1,
+              "NBT": "{\"id\": \"the_vault:temporal_pack\"}"
+            },
+            "minPrice": 3000,
+            "maxPrice": 4000
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:booster_pack",
+              "AMOUNT": 1,
               "NBT": "{\"id\": \"the_vault:mix_pack\"}"
             },
             "minPrice": 1000,

@@ -11,8 +11,8 @@
             "maxLevel": 50,
             "weight": 10,
             "value": {
-              "min": 800,
-              "max": 1600,
+              "min": 2000,
+              "max": 3000,
               "step": 1
             }
           },
@@ -21,8 +21,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 1601,
-              "max": 2400,
+              "min": 3001,
+              "max": 4000,
               "step": 1
             }
           },
@@ -31,8 +31,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 2401,
-              "max": 3200,
+              "min": 4001,
+              "max": 6000,
               "step": 1
             }
           },
@@ -41,8 +41,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 3201,
-              "max": 4000,
+              "min": 6001,
+              "max": 8000,
               "step": 1
             }
           },
@@ -51,8 +51,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 4001,
-              "max": 5000,
+              "min": 8001,
+              "max": 10000,
               "step": 1
             }
           }
@@ -96,6 +96,9 @@
         "attribute": "the_vault:effect",
         "group": "ModEffect",
         "identifier": "the_vault:mod_effect_haste",
+        "tags": [
+          "noLegendary"
+        ],
         "tiers": [
           {
             "minLevel": 20,
@@ -121,6 +124,9 @@
         "attribute": "the_vault:effect",
         "group": "BaseBonusPool",
         "identifier": "the_vault:mod_effect_speed",
+        "tags": [
+          "noLegendary"
+        ],
         "tiers": [
           {
             "minLevel": 20,
@@ -286,6 +292,9 @@
         "attribute": "the_vault:movement_speed",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_movement",
+        "tags": [
+          "noLegendary"
+        ],
         "tiers": [
           {
             "minLevel": 20,
@@ -344,8 +353,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 200,
-              "max": 900,
+              "min": 500,
+              "max": 1999,
               "step": 1
             }
           },
@@ -354,8 +363,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 901,
-              "max": 1300,
+              "min": 2000,
+              "max": 2999,
               "step": 1
             }
           },
@@ -364,8 +373,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 1301,
-              "max": 2000,
+              "min": 3000,
+              "max": 3999,
               "step": 1
             }
           },
@@ -374,8 +383,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 2001,
-              "max": 3500,
+              "min": 4000,
+              "max": 5999,
               "step": 1
             }
           },
@@ -384,8 +393,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 3501,
-              "max": 6000,
+              "min": 6000,
+              "max": 10000,
               "step": 1
             }
           }

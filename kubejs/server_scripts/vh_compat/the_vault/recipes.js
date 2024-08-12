@@ -293,4 +293,28 @@ onEvent("recipes", event => {
         }
     })
 
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:gilded_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:gilded_ingot'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:ornate_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:ornate_ingot'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:living_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:mossy_bone'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:wooden_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:wooden_chunk'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:coin_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:vault_bronze'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:picking"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_pickaxe'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:shovelling"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_shovel'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:axing"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_axe'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:reaping"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_hoe'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:pulverizing"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:piston'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:smelting"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:furnace'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:hydrovoid"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:sponge'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:immortality"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:eternal_soul'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:copiously"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:gold_ingot'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:durability"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_ingot'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:hammer_size"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_block'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:mining_speed"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:lapis_lazuli'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:item_quantity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:chest'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:item_rarity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:emerald'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:reach"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:stick'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:soulbound"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:soul_sand'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:trap_disarming"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:lever'])
+
+
 })

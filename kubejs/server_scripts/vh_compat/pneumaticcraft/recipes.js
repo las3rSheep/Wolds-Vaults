@@ -629,7 +629,7 @@ onEvent("recipes", event => {
         R: 'the_vault:perfect_larimar'
     })
 
-    event.shapeless('pneumaticcraft:unassembled_netherite_drill_bit', ["pneumaticcraft:drill_bit_diamond", "the_vault:gemmed_ingot"])
+    event.shapeless('pneumaticcraft:unassembled_netherite_drill_bit', ["pneumaticcraft:drill_bit_diamond", "the_vault:echoing_ingot"])
 
 
 })

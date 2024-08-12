@@ -73,7 +73,7 @@ onEvent("recipes", event => {
             'OGO',
             'IOI'
         ], {
-        I: 'the_vault:gemmed_ingot',
+        I: 'the_vault:echoing_ingot',
         X: 'ae2:calculation_processor',
         O: 'ae2:cell_component_256k',
         G: 'the_vault:echo_pog'

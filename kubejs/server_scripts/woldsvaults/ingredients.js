@@ -248,5 +248,29 @@ onEvent('recipes', event => {
         S: 'minecraft:sugar'
     })
 
+    event.shaped(Item.of('woldsvaults:crystal_reinforcement'),
+        [
+            'SXS',
+            'YOY',
+            'SXS'
+        ], {
+        X: 'the_vault:omega_pog',
+        Y: 'woldsvaults:extraordinary_pog_prism',
+        O: 'the_vault:wold_star_chunk',
+        S: 'the_vault:chromatic_gold_block'
+    })
+
+    event.shaped(Item.of('woldsvaults:resonating_reinforcement'),
+        [
+            'SXS',
+            'YOY',
+            'SXS'
+        ], {
+        X: 'the_vault:pog_prism',
+        Y: 'the_vault:chromatic_steel_block',
+        O: 'the_vault:hardened_wutodic_mass',
+        S: 'the_vault:black_chromatic_steel_ingot'
+    })
+
 
 })

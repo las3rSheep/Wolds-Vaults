@@ -316,6 +316,36 @@
 				count: 16
 			}]
 		}
+		{
+			x: -13.5d
+			y: -3.5d
+			subtitle: "Untethered"
+			description: ["Don't like how Angel Blocks have a range? Make yourself an Angel Ring and you will not need Angel Blocks any more! All forms of Creative flight are disabled in the vault."]
+			id: "46B40A936F62EADC"
+			tasks: [{
+				id: "4D7FA40310F194A6"
+				type: "item"
+				item: "woldsvaults:chromatic_iron_angel_ring"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -9.5d
+			subtitle: "Ouch, my teeth D:"
+			description: ["Want to save all your Vault Meat for crafting? Got too many Vault Rocks? Harness the latest in candy technology and eat some Vault Rock Candy, as good as Vault Steak but makes use of the abundant Vault Rocks you will collect!"]
+			id: "55286E68FF573EB7"
+			tasks: [{
+				id: "6752AA3EE0F502C6"
+				type: "item"
+				item: "woldsvaults:vault_rock_candy"
+			}]
+			rewards: [{
+				id: "4BCC6D0972DF9264"
+				type: "item"
+				item: "woldsvaults:vault_rock_candy"
+				count: 16
+			}]
+		}
 	]
 	quest_links: [ ]
 }

@@ -86,6 +86,8 @@ let botaniaCompressed = [
 
 
 let vaultCompressed = [
+    "silver_scrap_1",
+    "silver_scrap_2",
     "velvet_block_1",
     "ancient_copper_block_1",
     "vault_stone_1",

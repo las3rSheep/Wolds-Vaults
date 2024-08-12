@@ -123,6 +123,9 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:focuses>.add(<item:the_vault:opportunistic_focus>);
 <tag:items:the_vault:focuses>.add(<item:the_vault:resilient_focus>);
 <tag:items:the_vault:focuses>.add(<item:the_vault:faceted_focus>);
+<tag:items:the_vault:focuses>.add(<item:the_vault:empowered_chaotic_focus>);
+<tag:items:the_vault:focuses>.add(<item:the_vault:cryonic_focus>);
+<tag:items:the_vault:focuses>.add(<item:the_vault:pyretic_focus>);
 
 // Seals
 <tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_empty>);
@@ -131,11 +134,19 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_architect>);
 <tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_sage>);
 <tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_scout>);
+<tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_prophet>);
+<tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_enchanter>);
+<tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_titan>);
+<tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_spirits>);
+<tag:items:the_vault:seals>.add(<item:the_vault:crystal_seal_unhinged>);
 
 // Capstones
 <tag:items:the_vault:capstones>.add(<item:the_vault:god_token>);
 <tag:items:the_vault:capstones>.add(<item:the_vault:capstone_dungeon_hunter>);
 <tag:items:the_vault:capstones>.add(<item:the_vault:capstone_treasure_hunter>);
+<tag:items:the_vault:capstones>.add(<item:woldsvaults:capstone_prosperous>);
+<tag:items:the_vault:capstones>.add(<item:woldsvaults:capstone_all_seeing_eye>);
+<tag:items:the_vault:capstones>.add(<item:woldsvaults:capstone_frenzy>);
 <tag:items:the_vault:capstones>.add(<item:the_vault:eye_of_avarice>);
 <tag:items:the_vault:capstones>.add(<item:the_vault:phoenix_feather>);
 
@@ -155,6 +166,11 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:trinkets>.add(<item:the_vault:trinket_scrap>);
 
 // Vault Gear
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:battlestaff>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:trident>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:loot_sack>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:plushie>);
+<tag:items:the_vault:vault_gear>.add(<item:the_vault:card_deck>);
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:boots>);
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:leggings>);
 <tag:items:the_vault:vault_gear>.add(<item:the_vault:chestplate>);
@@ -187,6 +203,7 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:wooden_chest_loot>.add(<item:the_vault:vault_plating>);
 <tag:items:the_vault:wooden_chest_loot>.add(<item:the_vault:mod_box>);
 <tag:items:the_vault:wooden_chest_loot>.add(<item:the_vault:inscription_piece>);
+<tag:items:the_vault:wooden_chest_loot>.add(<item:the_vault:vault_diamond>);
 
 // Living Chest Loot
 <tag:items:the_vault:living_chest_loot>.add(<item:the_vault:burger_patty>);
@@ -234,6 +251,9 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:gilded_chest_loot>.add(<item:quark:blank_rune>);
 <tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:ancient_copper_ingot>);
 <tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:key_piece>);
+<tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:plushie>);
+<tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:loot_sack>);
+<tag:items:the_vault:gilded_chest_loot>.add(<item:the_vault:altar_recatalyzer>);
 
 // Ornate Chest Loot
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:boots>);
@@ -247,7 +267,6 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trident>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:battlestaff>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:vault_alloy>);
-<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:supply_box>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:wand>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:focus>);
 //<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:trinket>);
@@ -268,6 +287,8 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:ornate_chain>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:magnetite>);
 <tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:ornate_ingot>);
+<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:supply_box>);
+<tag:items:the_vault:ornate_chest_loot>.add(<item:the_vault:vault_alloy>);
 
 // Treasure Chest Loot
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:boots>);
@@ -309,6 +330,7 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:vault_iridium>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:wold_star_chunk>);
 <tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:mystic_pear>);
+<tag:items:the_vault:treasure_chest_loot>.add(<item:the_vault:booster_pack>);
 
 // Hardened Chest Loot (Skyvaults)
 <tag:items:the_vault:hardened_chest_loot>.add(<item:minecraft:bread>);
@@ -417,9 +439,10 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:champion_loot>.add(<item:the_vault:wand>);
 <tag:items:the_vault:champion_loot>.add(<item:the_vault:focus>);
 <tag:items:the_vault:champion_loot>.add(<item:the_vault:magnet>);
-<tag:items:the_vault:champion_loot>.add(<item:the_vault:unidentified_relic_fragment>);
 <tag:items:the_vault:champion_loot>.add(<item:the_vault:vault_bronze>);
 <tag:items:the_vault:champion_loot>.add(<item:the_vault:vault_gold>);
+<tag:items:the_vault:champion_loot>.add(<item:the_vault:card_deck>);
+<tag:items:the_vault:champion_loot>.add(<item:the_vault:unidentified_treasure_key>);
 //<tag:items:the_vault:champion_loot>.add(<item:the_vault:trinket>);
 
 // Treasure sand (Treasure room)
@@ -472,6 +495,14 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:coin_pile_loot>.add(<item:the_vault:vault_bronze>);
 <tag:items:the_vault:coin_pile_loot>.add(<item:the_vault:vault_silver>);
 <tag:items:the_vault:coin_pile_loot>.add(<item:the_vault:vault_gold>);
+
+// Vault Fruits
+<tag:items:the_vault:fruits>.add(<item:the_vault:sweet_kiwi>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:bitter_lemon>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:sour_orange>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:grapes>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:mango>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:star_fruit>);
 
 // Vault Altar Resource Pool
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:acacia_log>);
