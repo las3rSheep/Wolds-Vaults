@@ -386,7 +386,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e962f5a1b97f3ac84c6a53dfe697fc29a7d013655ea1c68570758868c82712cf"
+hash = "efa0e18b482c1aa2180f2f49c77e6fc03459463a66d529293dcc064c738a270b"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -1994,7 +1994,7 @@ hash = "825f3ae5df1771bd8aeea8e9e5e1e5cdcdb2a1bd1aabbb784daf0a01dcd069be"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "65237df96dbd752955e3467bfdfbfae101c5f6f6f997980936811f8b08e0cd3a"
+hash = "70cf3de1b5e015deec47487b2ed72dbdbee026c527449d9d65a64d04c92de228"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -17274,7 +17274,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "9dc43d499bfd123e1b07b1e0ab61ed5ecee0431726d1167cf7c949d650398835"
+hash = "172ff3b0657216769c805c898f31709455c4dcbd398d622c61b77a4ad6869c87"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -21479,10 +21479,6 @@ file = "resourcepacks/Vault_Burger_Hunger_Bar.zip"
 hash = "aecc92b11d43b2b8f3c1ae670f882d4750d5f3fad9e81d216fdb7c9663b1789f"
 
 [[files]]
-file = "resourcepacks/Vault_Loafers.zip"
-hash = "4245aad88721447de94d6e14fa17d90ead613d96e561625c13c104f5bda95a87"
-
-[[files]]
 file = "resourcepacks/Wold's Vaults Personal Touches/assets/botanicalmachinery/models/block/alfheim_market.json"
 hash = "08f48fab6869433503c8b4325c193a0bb72be20c58094c3a5c000facfb762ca3"
 
@@ -21529,6 +21525,11 @@ hash = "c73628e279cee2729be1a409fa4940b4a88246fa260e0e605b37ca0cfe85c420"
 [[files]]
 file = "resourcepacks/Wold's Vaults Personal Touches/pack.png"
 hash = "7cffec9c760068c14eb138c08b2394fd938983074389c53592e5164854a42be2"
+
+[[files]]
+file = "resourcepacks/vault-loafers.pw.toml"
+hash = "0c9d38372e3eb06f8d2037bd9340258fa77ff270361d8c39e6238f89379c3890"
+metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"

@@ -1,0 +1,13 @@
+name = "Vault Loafers"
+filename = "Vault_Loafers.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21ad5c258b36089a56579b56db5dbc46aad0f36a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5621476
+project-id = 714997

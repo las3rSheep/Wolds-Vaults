@@ -1,12 +1,12 @@
 name = "Wold's Vaults"
 author = "iwolfking"
-version = "0.11.2"
+version = "0.11.3a"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e71a015dfb4e2656eeb24bbe5213c20f10c5961f7fddd73c592fbd388f3f733a"
+hash = "eafe9c0b6ed16d8600f007d0e330a49de844abada61c63f4f6331214edadd6bd"
 
 [versions]
 forge = "40.2.13"
