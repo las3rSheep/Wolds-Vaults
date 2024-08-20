@@ -9,8 +9,8 @@ onEvent("recipes", event => {
     event.shapeless('mekanism:ingot_lead', ['immersiveengineering:ingot_lead'])
 
     //Mek, Thermal -> IE Lead
-    event.shapeless('immersiveengineering:lead_ingot', ['mekanism:ingot_lead'])
-    event.shapeless('immersiveengineering:lead_ingot', ['thermal:lead_ingot'])
+    event.shapeless('immersiveengineering:ingot_lead', ['mekanism:ingot_lead'])
+    event.shapeless('immersiveengineering:ingot_lead', ['thermal:lead_ingot'])
 
     //Uranium conversions
     event.shapeless('mekanism:ingot_uranium', ['immersiveengineering:ingot_uranium'])

@@ -62,7 +62,7 @@ onEvent("recipes", event => {
         O: 'the_vault:blank_key',
         B: 'the_vault:pog_prism',
         P: 'the_vault:extraordinary_black_opal',
-        U: 'sophisticatedstorage:upgrade_base'
+        U: 'sophisticatedbackpacks:upgrade_base'
     }).id('sophisticatedvaultstorage:sophisticatedbackpacks/activator_upgrade')
 
     event.shaped(Item.of('sophisticatedstorage:recycler_upgrade'),

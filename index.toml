@@ -1858,7 +1858,7 @@ hash = "d45a73381a89990309a5179907a0ed6476013d2507a44e8c7b1fc23ade5a1830"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "417404984cd745aff9a65116e75b1bec1a90e1af7db15148a8d38d3aaa5df5e6"
+hash = "66f31eb8a51b74cf2399224e9c541db6471b3913abf3c36dacc2de605a917ea1"
 
 [[files]]
 file = "config/quarryplus-common.toml"
@@ -2102,7 +2102,7 @@ hash = "e8931d59dcbadba48f707a34c345af2edf7ef12bcf67f48917ab763049995ae1"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
-hash = "e75f5b9b096098f94fc69642d1118103d95e90013ae279fe43498dbc93dc731d"
+hash = "660305e8cf2f0fefbf184fa85a86a03c90f58f90ea826faf427efb10a118b282"
 
 [[files]]
 file = "config/the_vault/bounty/task/damage_entity.json"
@@ -2314,7 +2314,7 @@ hash = "f3faf7bfab33ad1ec1e979b7cc9924c96a053a9209ecae685954789f2016842e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
-hash = "ab8f244bc2f56c63718c32b97e20122a661433fe7861bddc9eaa2f1690ec4123"
+hash = "4c7dbab23839d647ae1938ab0904ca1a1c5e7db403fba5002f1a9ac20ade925e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -2962,7 +2962,7 @@ hash = "cb30bb43cf8bf88fc21af52cef6e0e697eadb6d76135c6d1a395b3af315b686e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
-hash = "e9bbd8b39eaefc0fd762c098e00802b7f04171a0353b0074f566ce7d4c213f12"
+hash = "7a26c7f7e93f2109eee576b556cc43c036be55e47df2a6de6a133639f21e057f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -3414,11 +3414,11 @@ hash = "d7e8b12ba2a7c7269f3e213c2393d24afdd9ef152adfa3a304e5ce856a520f5c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/base.json"
-hash = "1b03b982d51a57882640ba72a9552e455cdbca0ec78cb0e4fe62387ba0bf8c65"
+hash = "ab8e31d515f5676de28ea6b2c90e55497ad4e3a9b1c1ddc451e48368c3c89317"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/bucket.json"
-hash = "df2a994e224f8bcdef1a905c27acab979c0aab0f337ec9d94b9e796e573bf9eb"
+hash = "9e940e92a52b3f833a602aae939f5bf67b5b03125164b5bd8bc8d7c101815176"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/center_spawner.json"
@@ -12162,7 +12162,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "cf424162276cdeececc89262173fdf32062f248eae015816601f7d1e65a45374"
+hash = "6eafc87c6ea8c7fd94ec5dd4bd9a3c6815cb8c2c23234bca8c1dcf48bfbc96c6"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -12198,11 +12198,11 @@ hash = "a9deacc54552f404e051e3d23b4f2a81e6603755f420fb12b5422b5b1fea7bff"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "819ed71fbad83f574f8f8092fea88d79e5dc5990fff373d0821ee2e712a92d4c"
+hash = "8e114b2dd65b40ee6f2e874ff7b8fa2ac13bcd1dc829977ee7382ae402d28a4c"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
-hash = "a2d5eeeb7b5a82cbf3b66e6bb60c3c28c0fb84fdce7a7eef9914308fefe7e740"
+hash = "796e0a6e89856ee56c4a70bf59a489a7dd9dbba790b21857ee79db232103bd60"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -12286,7 +12286,7 @@ hash = "141eb2b9b66dfd50efab4e2eb88e7f7dd895f332c3d8b0de19b642545f9e83fb"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "73f52b5e2373a17d7d72bb73be0a6db5d3281547bb278e67c777544742fbf1fd"
+hash = "7b5616ace9a9efeb7bdd0caadaacc87ad154591e1b811710ff4758ae1961b0e5"
 
 [[files]]
 file = "config/the_vault/vault_altar_chest.json"
@@ -18966,7 +18966,7 @@ hash = "60b306cfb570b8e4d863a818a885b2a755b357411c278c00577b6d4d7b470091"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/industrial_foregoing/recipes.js"
-hash = "6158eeb590b559ada1c194f833ddcff0b4a0681a562f7c277f20c8b5656402bc"
+hash = "206c3f8e89ed2d946e6a32b33e15295e1ff02c17f667acb9cd6503c777802310"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/integrateddynamics/recipes.js"
@@ -19057,6 +19057,10 @@ file = "kubejs/server_scripts/vh_compat/psi/recipes.js"
 hash = "2c659e3489607ac5680cf75c9d023c20700cdfa8e346f0cebc0bf4c423665bc4"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/qol/conversions.js"
+hash = "49ec9bf351cb2696b0658f6045d79dbbee23f2ff9f344d57b00ed9e27ee6d643"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/qol/crushing.js"
 hash = "64c24dbbee65177f022edfdd59902f5dc437fabe8b953c3f7a3b937e1d8749f3"
 
@@ -19106,7 +19110,7 @@ hash = "aba812838954ff1b581fa5461d09c96302a37ffc721e198bba4b2368ed9df941"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedvaultupgrades/recipes.js"
-hash = "3f107c57b8988d06770e102f8c851a8f3990a6c9cc648d32336bd1d47a4439c3"
+hash = "72121fc001aa2d9720b7f0a9baa6f83dba784b1d338a377d30e16b108915df56"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ssn/recipes.js"
@@ -20978,7 +20982,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "9565c5e5b062f82878cf3bcacc057ae1cde0cc27b0f94b33bc5f4541a6ac38b3"
+hash = "dc77736c398e34071581985227cd3b8c2662957fcc95eef01f61b28865c69394"
 metafile = true
 
 [[files]]
@@ -20988,7 +20992,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-copiously-fix.pw.toml"
-hash = "bcdfc22961143fbb9b9f0fe08d12aba8c6ebe4d0825052e53d51e64eba0543d7"
+hash = "83f06e44d8a6064cea1495df918c3ecf4a4e3a43d65dbb1da3bbb067d404febe"
 metafile = true
 
 [[files]]
@@ -21013,7 +21017,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "17efb3e5355a73327f3672a703677c3062aa5088fe06f578a972b4c47867c02b"
+hash = "6c8c9d6d3a200bf8bfac0de52e7dffcf0c784bc387aefe8417d16b52d87678db"
 metafile = true
 
 [[files]]

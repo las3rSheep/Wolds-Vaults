@@ -11,7 +11,7 @@
           "weight": 70,
           "pool": [
             {
-              "weight": 10,
+              "weight": 40,
               "item": {
                 "id": "the_vault:wold_star_chunk",
                 "count": {
@@ -22,7 +22,7 @@
               }
             },
             {
-              "weight": 40,
+              "weight": 100,
               "item": {
                 "id": "the_vault:card_deck",
                 "nbt": {

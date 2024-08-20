@@ -189,6 +189,43 @@
       },
       {
         "type": "tiered",
+        "id": "Attack_Speed",
+        "name": "Attack Speed",
+        "tiers": [
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "amount": 0.2,
+            "operation": "ADDITION",
+            "learnPointCost": 6,
+            "regretPointCost": 4,
+            "unlockLevel": 10,
+            "id": "attack_speed_1"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "amount": 0.4,
+            "operation": "ADDITION",
+            "learnPointCost": 8,
+            "regretPointCost": 4,
+            "unlockLevel": 50,
+            "id": "attack_speed_2"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "amount": 0.6,
+            "operation": "ADDITION",
+            "learnPointCost": 10,
+            "regretPointCost": 4,
+            "unlockLevel": 75,
+            "id": "attack_speed_3"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
         "id": "Purist",
         "name": "Purist",
         "tiers": [

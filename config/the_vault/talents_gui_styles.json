@@ -228,6 +228,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/luck_momentum"
     },
+    "Attack_Speed": {
+      "x": 140,
+      "y": 600,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/luck_momentum"
+    },
     "Frenzy": {
       "x": 210,
       "y": 200,

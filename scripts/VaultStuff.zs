@@ -22,7 +22,3 @@ for gem in gems {
     "result": {"item":"the_vault:key_" + gem}
   });
 }
-
-craftingTable.addShapeless("vault_alloy", <item:the_vault:vault_alloy>, [
-    <item:the_vault:vault_ingot>, <item:the_vault:vaulterite_ingot>
-]);
