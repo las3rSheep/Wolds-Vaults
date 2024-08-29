@@ -5,6 +5,11 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"peripherals:*",
+		"computercraft:*",
+		"advancedperipherals:*",
+		"sophisticatedbackpacks:tool_swapper_upgrade",
+		"sophisticatedbackpacks:advanced_tool_swapper_upgrade",
 		"immersiveengineering:*",
 		"travel_anchors:*",
 		"quark:trowel",
@@ -245,6 +250,9 @@
 		"alexsmobs:dimensional_carver"
 	],
 	"BLOCK_BLACKLIST": [
+		"peripherals:*",
+		"computercraft:*",
+		"advancedperipherals:*",
 		"immersiveengineering:*",
 		"travel_anchors:*",
 		"psi:*",

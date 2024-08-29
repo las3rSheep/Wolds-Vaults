@@ -1592,6 +1592,32 @@
           {
             "type": "find_vault_room",
             "filter": [
+              "the_vault:vault/rooms/common/ore1",
+              "the_vault:vault/rooms/common/ore2",
+              "the_vault:vault/rooms/common/ore3",
+              "the_vault:vault/rooms/common/ore4"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Ore Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 100.0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
               "the_vault:vault/rooms/challenge/crystal_caves1",
               "the_vault:vault/rooms/challenge/crystal_caves2",
               "the_vault:vault/rooms/challenge/crystal_caves3",

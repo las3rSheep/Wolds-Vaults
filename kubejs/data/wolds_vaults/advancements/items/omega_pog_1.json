@@ -1,15 +1,15 @@
 {
   "display": {
     "icon": {
-      "item": "woldsvaults:omega_box"
+      "item": "the_vault:omega_pog_1"
     },
     "title": {
-      "text": "Treasure Cache"
+      "text": "Mad Lad"
     },
     "description": {
-      "text": "Craft or obtain an Omega Box to get a nice goodie."
+      "text": "Craft a Compressed Block of Omega Pogs. Things have gone too far, you have gone mad..."
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": [
-              "woldsvaults:omega_box"
+              "the_vault:omega_pog_1"
             ]
           }
         ]

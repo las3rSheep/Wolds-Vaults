@@ -1,5 +1,17 @@
 {
   "styles": {
+    "Misc Bag Upgrades": {
+      "x": 620,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/misc_bag_upgrades"
+    },
+    "Bag Inception": {
+      "x": 250,
+      "y": 515,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/inception_upgrade"
+    },
     "Dave's Potioneering": {
       "x": 440,
       "y": 310,

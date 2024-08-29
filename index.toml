@@ -1982,7 +1982,7 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "7a80098472412dfba1c66a5746bed5384e775e35e455304d8903328b22e37624"
+hash = "473e79498695bf5f33b855a9330a1ee60bbb554b6dfa5e831e5cf7ef989eb8f9"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -2074,7 +2074,7 @@ hash = "329b4b65a0277d0b575727b23ccc017d21aa47cebfcab9952ea3e5591a6d786e"
 
 [[files]]
 file = "config/the_vault/ballistic_bingo.json"
-hash = "1da67e3c519479189f8cbe5840ef4c656ef1861f3e1ed909becf56ed107af3f2"
+hash = "d89f7034df62d98cb35cabf961df21a8fbb5637f5a368bd3a1dad153b49a6377"
 
 [[files]]
 file = "config/the_vault/bestiary.json"
@@ -2082,7 +2082,7 @@ hash = "d8f7da228636e2561677c335647115d563da80e062fe0b8b6550c4b7d65d099f"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "616b9fa2a8489fa8ab522d73a070cb65ad9634e81848acf5da6b5dd425198ee8"
+hash = "90bb2f83066d31fbf89c9a6a700f796238e97c69617a716190e7de7ba912e96e"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -12186,11 +12186,11 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "5a035ed76d3191ce7e7b000463ff19aae48798d80c1bd3ed3ba43fd9b6300478"
+hash = "7dc0fea246abfd731290c607ecbf9f7c86224d973de317ce2c3d42e5885a92f3"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "eb80e67b1cdb8289f149a5ddc20ded9de9b01218787896c280ddff4d5e0aaafb"
+hash = "b301e4b305608ed182f155dfb61c03ce8034d91f67f2224f65a765ecb4688078"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -12198,7 +12198,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "03a59768497e3f07fb9193c84d2fe752cca6c9d967b180d1ef2b9af4f876e37c"
+hash = "569a7995922102d5143001be2dcc71347c4deaa96ced62afad0023f95bde0ac4"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -12226,11 +12226,11 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "473e63119ebb6e36be946c1a88051faa75c42b56fb27d75db57e9d8cb0c8208c"
+hash = "4d07c569446281a9f239f208b8343f5755d11a081337acf30360f35c48d8763d"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "d5ee558ca389f86cd6084b8d5964a324fc067e8f7c1a7ae24bacfe6676c0241c"
+hash = "079142f2096147b41d1e11cc4a8c4e7fc7cb33619cff5fd41de4c3ecb6d542ec"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"
@@ -12322,7 +12322,7 @@ hash = "37f1cc5e7cb62d530c3529c87c4f2955ac667893c601107bbae71d116b27f019"
 
 [[files]]
 file = "config/the_vault/unhinged_scavenger.json"
-hash = "cc40a799de8c46e52a7f1bfe306859ad5353e23774ad9319f8afcc946eebb3fe"
+hash = "cf753eb4aac7d834a91ee987ffa4a61bd4ef6b75ed6a820466624461655107a3"
 
 [[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
@@ -12410,7 +12410,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "ebe69bb4d488e54655680a7677ae0fa34ecc45c5df0a16ec5020b0b77a037112"
+hash = "4011e94a2fb12dc8e0339f9e5dc5014c590a7fd69a2a15fee83d84676c498298"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -12434,7 +12434,7 @@ hash = "8bb5dec154c46f750efb4bb4d74ef5b977f3b4f769c4089bc293eeece09e9ffd"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "2f444bdd97dcf651fb97538d7a4471f7582e8d2be7f42459e4ddd9ac0d4e691f"
+hash = "a511504eed8e18468fecb329b60db20e1e1097ef2a2adfc34ee41de85257e537"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -12446,11 +12446,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "565cc980bcfe79559f31b4cd6b8358dc2e5b80b3251d6dce4efe1e17fc97db36"
+hash = "86fc61d3fe2e79bf6d9f8c375a1a520cab519a12bd2e3465796034497b3bb626"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "bc5470654377ca844ad1044e61f2849b4f099af40c920a456ee5058f0a30f92a"
+hash = "3f2ccc96d7d2aaccb51b58de2d4e2f48cd8caca30b47a424f0f2205043b9ea09"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -14873,6 +14873,22 @@ file = "kubejs/assets/the_vault/textures/block/chromatic_gold_block.png.mcmeta"
 hash = "b85efefc23a5531264d18bb62234a3fd36f8735a4aef0f2f3bb7cdd555cd8995"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/block/echo_pog_1.png"
+hash = "c439d12d35e7a9fccf16a8f0ea45e8f7c788e2aedb8f8343307d4d0544c69c01"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/echo_pog_1.png.mcmeta"
+hash = "0ce4cd7723ad0d4ce740568d074f59cb6104b293f9fa25f6c9b22a88d2642c64"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/gem_pog_1.png"
+hash = "5fab812049f3b24db9825fbae1f4e424ee1125d0b547a01681b6f3219ad17afb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/gem_pog_1.png.mcmeta"
+hash = "b598bdf13fd88b5561b8fef74ccb37394f802681ea6137ce3151446552b1f6b2"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/block/gilded_block_1.png"
 hash = "1d2f12d7f691e37c58a65117ac5250b2a05102d1dbfc0f4e1c7a323a7cabb2a5"
 
@@ -14891,6 +14907,14 @@ hash = "6cc7dec05a5b6ccc6d03051b8e9be061dbc4e9f85289993a1a76a8eff36b99b2"
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/mossy_bone_block_top_1.png"
 hash = "674d50d80e81e57e6f3c882877f136e904233513dfc02a5f98770bb837fdee77"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/omega_pog_1.png"
+hash = "cf3e02871483e55869dd599c56b6c4e652e24f7f4d276a32fd935665d1154dbb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/omega_pog_1.png.mcmeta"
+hash = "5906151eaedafaf61d4d51f4371ebc94a10dc162163f304ac59db7f687a388bc"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/ornate_block_1.png"
@@ -16149,6 +16173,10 @@ file = "kubejs/assets/the_vault/textures/gui/researches/immersiveengineering.png
 hash = "a6c933d684933b6892f0ffbf916ea27ffa5444210e70d426367eb92e0ccfdeb7"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/inception_upgrade.png"
+hash = "b68e08562fbe97f44c536ee35c72c37a554c636c9a18cfe1d4f358bfa4adfb8e"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/incorporeal.png"
 hash = "ad12df7fb32f7a7fff544d5e88c00fe1378525cbc418474168366edd5c56db96"
 
@@ -16199,6 +16227,10 @@ hash = "f5359d62c31eb4bb55cbff4164630908edc9449042f63559a5cac952bd2db266"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/mining_gadgets.png"
 hash = "5fa3282855e9c5c7d8b7f15ed299e84e98ba2ac71891ff6897e35923c35dd8d1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/misc_bag_upgrades.png"
+hash = "58ee1d9b5ddb897256d7eb9774564dd22bcda0441697c7bc4ebff745001ec4d8"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/mixture.png"
@@ -17402,7 +17434,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "85b8b3796273558a49c7c5b5ab010e25b0bdf9a23be08be842ac474bc901aab7"
+hash = "a602792cf45786baac4c32c2dbc2e17d015db1ea3937c72f380a9b2bb74df3df"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18557,6 +18589,10 @@ file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_unhinged.json"
 hash = "cfc67ecfaf813328b306cd6121214a31adde42175297e5fd1acbaa3fff4a8d09"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/echo_pog_1.json"
+hash = "a9c2f9c33a6291688f82333a3757605e0d71b927fa5e7977eb79361dee675621"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/echoing_seed_base.json"
 hash = "56d55d11a5a5f72713f6b357627dc6bd9d2526c7e12b8a60eb63298abac8001b"
 
@@ -18577,6 +18613,14 @@ file = "kubejs/data/wolds_vaults/advancements/items/frenzy_capstone.json"
 hash = "b2e73de92833586ec04cf238221774e74fe03b594925d0778b51869aa14bfa85"
 
 [[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/gem_pog_1.json"
+hash = "90a5f221ab1f1758a2962b98b91949e7079ad26a6a86c66e49d31ae199193158"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/inception_upgrade.json"
+hash = "679bf58f678017a616a3791582dd212cf1beaa5648eaf4131fe264a420c342f7"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/inscription_box.json"
 hash = "e9cd1a2c8895ca7f0bf903c29268efc455b28fc18dd2d1f48d5a4c23811c22f4"
 
@@ -18590,7 +18634,11 @@ hash = "5ca17616b37d46f470f06817b693d95ee226ac157c7c3067352dc4728cf0098f"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/omega_box.json"
-hash = "e1d577f4b5c87c9c3f9cf84b6a9e520414f575e98af01ce030300a362fd31890"
+hash = "547d61e0fec9ec674c948b64baae3250b3043ce842bc31d446c430912d29e85c"
+
+[[files]]
+file = "kubejs/data/wolds_vaults/advancements/items/omega_pog_1.json"
+hash = "586032b4dac2a4f641cb9d713b1824d2816918df5464be63ff8eebfe0d685cf3"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/pog_prism.json"
@@ -18966,7 +19014,7 @@ hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
-hash = "964506b243babdab4643adcb2c401605de1d5f6ec8e497616a01f6e81e755d63"
+hash = "8c7ec1e84544fb54f1514ae29ecf039b0b9a9da853e484a56f3fc878342888a5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2additions/recipes.js"
@@ -19250,7 +19298,7 @@ hash = "040a785b5c2f1ccdad4a3df0b66917ee1f1be3671a6ec13b9634e327e491f8ae"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedbackpacks/recipes.js"
-hash = "6bd661a157e4728400e7a531a36adc6e4b3a7893c82516caea149a3f62acb12f"
+hash = "41fd90e0991046ba09e0ed0d5f439db8139e0da0f357ae4fa9af552681b803a4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/chests.js"
@@ -19286,7 +19334,7 @@ hash = "5d4bd0b675a226dbad1110ea5439e8fd4d04ff6620fd44d761aa20cbe7cbdbd6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "59a0c15b254b590234859273d0c2bd90c6274888741ec47cf361e5dcb0b31c15"
+hash = "ce3fac24dd478a66748e1f4c5f19cf5dd054d6583d22521301be1e66187ece43"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
@@ -19338,7 +19386,7 @@ hash = "c1354fa8ef607434e6ee6741dccc3fcf2507e01adee6a23a2a071e059882223d"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compressio/recipes.js"
-hash = "0cdf21674e1a8b1dea5761fd00d95531ee10a06aa244388bd40bf60554fd7b91"
+hash = "c45923e1709455083857ddc5ba9ceb1bc29151d389d8f1f2aac061ffa2c7a409"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/blacklist.js"
@@ -19378,7 +19426,7 @@ hash = "f1deb450b200a47237d8a2f073770c7cf7a41163ab15cea9d1da44e299ee1746"
 
 [[files]]
 file = "kubejs/startup_scripts/vh_compressio/blocks.js"
-hash = "1e55201b9202cd67e20c9e8b6246203c184e15ad0bdf827a51ceb024dd3faa3c"
+hash = "42250ca14399a17ce7b288b0b4e2489ec450e584954da8817a0963da4eb2203b"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -20982,7 +21030,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8ab812c7cb74ed2ebb54b760f5e66068e873569ad3651ba713fc45ca4b1ecc2e"
+hash = "4597d81f490d2a586e5ea7a652dceda09930884d3bcb429c239c48c96bc62a39"
 metafile = true
 
 [[files]]
@@ -21711,13 +21759,18 @@ file = "resourcepacks/Wold's Vaults Personal Touches/pack.png"
 hash = "7cffec9c760068c14eb138c08b2394fd938983074389c53592e5164854a42be2"
 
 [[files]]
+file = "resourcepacks/moonsu-better-gui-for-sophisticated-backpacks.pw.toml"
+hash = "165d948f19c88ba77d15baa3f6a45b89fb04e96531f608516ddcb702186f2ef6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/vault-loafers.pw.toml"
 hash = "c7fe7dbd2f3eee73d02b8e1cb5680ccf9c0b02726bda94ac2b760cf726432d9f"
 metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "f235a96c2d06e980cc26559530585e4307ff0de5b5b388aee2797ee1f1cab117"
+hash = "2fc0d78c014c97a9ec4c013908a8673c8eba5c12e30f7c4b194a8ec04569f1c9"
 
 [[files]]
 file = "scripts/Backpacks.zs"

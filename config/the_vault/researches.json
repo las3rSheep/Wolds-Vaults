@@ -575,8 +575,7 @@
     {
       "modIds": [
         "ironchests",
-        "ironfurnaces",
-        "irongenerators"
+        "ironfurnaces"
       ],
       "restrictions": {
         "restricts": {
@@ -1151,6 +1150,50 @@
     }
   ],
   "CUSTOM_RESEARCHES": [
+    {
+      "itemRestrictions": {
+        "irongenerators:copper_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:gold_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:diamond_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "irongenerators:netherite_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "ironfurnaces:augment_generator": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Oops, All Iron Mods",
+      "cost": 2,
+      "usesKnowledge": true
+    },
     {
       "itemRestrictions": {
         "ae2:molecular_assembler": {
@@ -1746,6 +1789,87 @@
       "entityRestrictions": {},
       "name": "Pouches",
       "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedbackpacks:everlasting_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:tank_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:tool_swapper_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:advanced_tool_swapper_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:pump_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:advanced_pump_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:xp_pump_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:battery_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Misc Bag Upgrades",
+      "cost": 4,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedbackpacks:inception_upgrade": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Bag Inception",
+      "cost": 100,
       "usesKnowledge": true
     },
     {

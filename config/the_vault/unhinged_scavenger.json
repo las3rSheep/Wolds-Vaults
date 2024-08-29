@@ -8,22 +8,22 @@
       "entries": {
         "the_vault:scavenger_ripped_page": {
           "weight": 8,
-          "multiplier": 2.0,
+          "multiplier": 2.2,
           "color": 5353215
         },
         "the_vault:scavenger_old_book": {
           "weight": 4,
-          "multiplier": 1.0,
+          "multiplier": 1.2,
           "color": 16771072
         },
         "the_vault:scavenger_pottery_shard": {
           "weight": 2,
-          "multiplier": 0.8,
+          "multiplier": 0.9,
           "color": 16711935
         },
         "the_vault:scavenger_broken_pottery": {
           "weight": 1,
-          "multiplier": 0.25,
+          "multiplier": 0.35,
           "color": 7012096
         }
       }
@@ -36,22 +36,22 @@
       "entries": {
         "the_vault:scavenger_red_scroll": {
           "weight": 8,
-          "multiplier": 0.5,
+          "multiplier": 0.55,
           "color": 5353215
         },
         "the_vault:scavenger_blue_scroll": {
           "weight": 4,
-          "multiplier": 0.3,
+          "multiplier": 0.35,
           "color": 16771072
         },
         "the_vault:scavenger_cracked_script": {
           "weight": 2,
-          "multiplier": 0.15,
+          "multiplier": 0.2,
           "color": 16711935
         },
         "the_vault:scavenger_wizard_wand": {
           "weight": 1,
-          "multiplier": 0.1,
+          "multiplier": 0.15,
           "color": 7012096
         }
       }
@@ -64,22 +64,22 @@
       "entries": {
         "the_vault:scavenger_goblet": {
           "weight": 8,
-          "multiplier": 0.5,
+          "multiplier": 0.55,
           "color": 5353215
         },
         "the_vault:scavenger_sack": {
           "weight": 4,
-          "multiplier": 0.3,
+          "multiplier": 0.35,
           "color": 16771072
         },
         "the_vault:scavenger_saddle_bag": {
           "weight": 2,
-          "multiplier": 0.15,
+          "multiplier": 0.2,
           "color": 16711935
         },
         "the_vault:scavenger_earrings": {
           "weight": 1,
-          "multiplier": 0.1,
+          "multiplier": 0.15,
           "color": 7012096
         }
       }
@@ -92,22 +92,22 @@
       "entries": {
         "the_vault:scavenger_empty_jar": {
           "weight": 8,
-          "multiplier": 0.5,
+          "multiplier": 0.55,
           "color": 5353215
         },
         "the_vault:scavenger_poultice_jar": {
           "weight": 4,
-          "multiplier": 0.3,
+          "multiplier": 0.35,
           "color": 16771072
         },
         "the_vault:scavenger_preserves_jar": {
           "weight": 2,
-          "multiplier": 0.15,
+          "multiplier": 0.2,
           "color": 16711935
         },
         "the_vault:scavenger_spice_jar": {
           "weight": 1,
-          "multiplier": 0.1,
+          "multiplier": 0.15,
           "color": 7012096
         }
       }
@@ -120,22 +120,22 @@
       "entries": {
         "the_vault:scavenger_blue_bangle": {
           "weight": 8,
-          "multiplier": 0.7,
+          "multiplier": 0.75,
           "color": 5353215
         },
         "the_vault:scavenger_cracked_pearl": {
           "weight": 4,
-          "multiplier": 0.5,
+          "multiplier": 0.6,
           "color": 16771072
         },
         "the_vault:scavenger_pink_bangle": {
           "weight": 2,
-          "multiplier": 0.3,
+          "multiplier": 0.35,
           "color": 16711935
         },
         "the_vault:scavenger_green_bangle": {
           "weight": 1,
-          "multiplier": 0.15,
+          "multiplier": 0.2,
           "color": 7012096
         }
       }
@@ -147,22 +147,22 @@
       "entries": {
         "the_vault:scavenger_benitoite_gemstone": {
           "weight": 8,
-          "multiplier": 0.7,
+          "multiplier": 0.75,
           "color": 5353215
         },
         "the_vault:scavenger_wutodic_gemstone": {
           "weight": 4,
-          "multiplier": 0.5,
+          "multiplier": 0.65,
           "color": 16771072
         },
         "the_vault:scavenger_echoing_gemstone": {
           "weight": 2,
-          "multiplier": 0.3,
+          "multiplier": 0.45,
           "color": 16711935
         },
         "the_vault:scavenger_pogging_gemstone": {
           "weight": 1,
-          "multiplier": 0.15,
+          "multiplier": 0.3,
           "color": 7012096
         }
       }

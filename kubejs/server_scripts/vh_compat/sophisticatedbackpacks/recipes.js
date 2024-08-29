@@ -27,6 +27,104 @@ onEvent("recipes", event => {
         X: 'the_vault:vault_essence'
     })
 
+    event.shaped(Item.of('sophisticatedbackpacks:everlasting_upgrade'),
+        [
+            'XOX',
+            'OCO',
+            'XOX'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        O: 'minecraft:nether_star',
+        X: 'the_vault:pog_prism'
+    }).id('sophisticatedbackpacks:everlasting_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:xp_pump_upgrade'),
+        [
+            'XAX',
+            'BCB',
+            'XAX'
+        ], {
+        C: 'sophisticatedbackpacks:pump_upgrade',
+        A: 'the_vault:gem_pog',
+        B: 'minecraft:experience_bottle',
+        X: 'the_vault:vault_diamond'
+    }).id('sophisticatedbackpacks:xp_pump_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:tank_upgrade'),
+        [
+            'XOX',
+            'OCO',
+            'XOX'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        O: '#forge:glass',
+        X: 'the_vault:chromatic_gold_ingot'
+    }).id('sophisticatedbackpacks:tank_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:pump_upgrade'),
+        [
+            'XBX',
+            'ACD',
+            'XBX'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        X: '#forge:glass',
+        B: 'minecraft:bucket',
+        A: 'the_vault:chromatic_steel_block',
+        D: 'the_vault:vault_diamond_block'
+    }).id('sophisticatedbackpacks:pump_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:advanced_pump_upgrade'),
+        [
+            'ADA',
+            'GCG',
+            'RRR'
+        ], {
+        C: 'sophisticatedbackpacks:pump_upgrade',
+        A: 'the_vault:vault_diamond',
+        G: 'the_vault:chromatic_gold_ingot',
+        R: 'the_vault:vault_essence',
+        D: 'minecraft:dispenser'
+    }).id('sophisticatedbackpacks:advanced_pump_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:battery_upgrade'),
+        [
+            'XOX',
+            'OCO',
+            'XOX'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        O: 'the_vault:vault_essence_1',
+        X: 'the_vault:chromatic_gold_block'
+    }).id('sophisticatedbackpacks:battery_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:tool_swapper_upgrade'),
+        [
+            'YAY',
+            'BCE',
+            'XDX'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        A: 'minecraft:netherite_sword',
+        B: 'minecraft:netherite_pickaxe',
+        E: 'minecraft:netherite_axe',
+        D: 'minecraft:netherite_shovel',
+        X: 'the_vault:chromatic_steel_block',
+        Y: 'the_vault:gem_pog'
+    }).id('sophisticatedbackpacks:tool_swapper_upgrade')
+
+    event.shaped(Item.of('sophisticatedbackpacks:advanced_tool_swapper_upgrade'),
+        [
+            ' T ',
+            'XCX',
+            'III'
+        ], {
+        C: 'sophisticatedbackpacks:tool_swapper_upgrade',
+        I: 'the_vault:vault_diamond_block',
+        T: 'the_vault:gem_pog',
+        X: 'the_vault:chromatic_gold_block'
+    }).id('sophisticatedbackpacks:advanced_tool_swapper_upgrade')
+
     event.shaped(Item.of('sophisticatedbackpacks:compacting_upgrade'),
         [
             'ITI',

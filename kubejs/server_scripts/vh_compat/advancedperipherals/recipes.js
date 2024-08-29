@@ -6,7 +6,7 @@ onEvent("recipes", event => {
     removedOutputsAPCC.forEach(id => {
         event.remove({ 'output': `${id}` })
     })
-    event.remove({ output: /advancedperipherals:.*_core/ })
+    //event.remove({ output: /advancedperipherals:.*_core/ })
     event.replaceInput({ id: 'advancedperipherals:computer_tool' }, 'minecraft:iron_ingot', 'the_vault:chromatic_iron_ingot')
     event.replaceInput({ id: 'advancedperipherals:memory_card' }, 'minecraft:iron_ingot', 'the_vault:chromatic_steel_ingot')
     event.replaceInput({ id: 'advancedperipherals:nbt_storage' }, 'minecraft:iron_ingot', 'the_vault:chromatic_steel_ingot')

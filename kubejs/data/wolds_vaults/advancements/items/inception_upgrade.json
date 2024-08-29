@@ -1,15 +1,15 @@
 {
   "display": {
     "icon": {
-      "item": "woldsvaults:omega_box"
+      "item": "sophisticatedbackpacks:inception_upgrade"
     },
     "title": {
-      "text": "Treasure Cache"
+      "text": "INCEPTION"
     },
     "description": {
-      "text": "Craft or obtain an Omega Box to get a nice goodie."
+      "text": "Bags within bags... Craft an Inception Upgrade."
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": [
-              "woldsvaults:omega_box"
+              "sophisticatedbackpacks:inception_upgrade"
             ]
           }
         ]

@@ -1,5 +1,29 @@
 {
   "descriptions": {
+    "Misc Bag Upgrades": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Everlasting, Tool Swapper, Tank, Pump, XP Pump, and Battery Upgrade",
+        "color": "yellow"
+      },
+      {
+        "text": " from the Sophisticated Backpacks mod!\n\nThese will come in handy for utilizing your bag in more non-conventional ways... Note: the Tool Swapper upgrade functionality is disabled while in a vault."
+      }
+    ],
+    "Bag Inception": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Inception Upgrade",
+        "color": "yellow"
+      },
+      {
+        "text": " from the Sophisticated Backpacks mod!\n\nWith your mastery of looting, your accumulation of knowledge, and insane willpower, you finally have the brilliant idea, wondering why it hasn't hit you all this time, to simply put your backpacks inside of other backpacks. A peculiar thought..."
+      }
+    ],
     "Psi": [
       {
         "text": "Unlocks the "
