@@ -37,6 +37,18 @@
           "icon": "the_vault:gui/modifiers/more_artifact1"
         }
       },
+      "the_vault:pogging": {
+        "properties": {
+          "chance": 0.05
+        },
+        "display": {
+          "name": "Pogging",
+          "color": "#EBFF8D",
+          "description": "Every stack increases the artifact chance by 5%",
+          "descriptionFormatted": "Every stack increases the artifact chance by 5%",
+          "icon": "the_vault:gui/modifiers/more_artifact1"
+        }
+      },
       "the_vault:plunder_artifact": {
         "properties": {
           "chance": -0.1
@@ -1050,7 +1062,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Mini Mobs",
+          "name": "Lean Mobs",
           "color": "#D4E157",
           "description": "-20% Mob Health",
           "descriptionFormatted": "-%d%% Mob Health",

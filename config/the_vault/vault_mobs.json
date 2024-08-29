@@ -4477,6 +4477,67 @@
         "SCALE_MAX_LEVEL": 50
       }
     ],
+    "thermal:basalz": [
+      {
+        "NAME": "minecraft:generic.max_health",
+        "LEVELS": [
+          {
+            "MIN_LEVEL": 0,
+            "MIN": 30.0,
+            "MAX": 60.0,
+            "OPERATOR": "set",
+            "ROLL_CHANCE": 1.0,
+            "SCALE_PER_LEVEL": 0.067,
+            "SCALE_MAX_LEVEL": 34
+          },
+          {
+            "MIN_LEVEL": 35,
+            "MIN": 36.0,
+            "MAX": 65.0,
+            "OPERATOR": "set",
+            "ROLL_CHANCE": 1.0,
+            "SCALE_PER_LEVEL": 0.087,
+            "SCALE_MAX_LEVEL": 64
+          },
+          {
+            "MIN_LEVEL": 65,
+            "MIN": 44.0,
+            "MAX": 75.0,
+            "OPERATOR": "set",
+            "ROLL_CHANCE": 1.0,
+            "SCALE_PER_LEVEL": 0.087,
+            "SCALE_MAX_LEVEL": -1
+          }
+        ]
+      },
+      {
+        "NAME": "minecraft:generic.attack_damage",
+        "MIN": 2.0,
+        "MAX": 3.0,
+        "OPERATOR": "set",
+        "ROLL_CHANCE": 1.0,
+        "SCALE_PER_LEVEL": 0.05,
+        "SCALE_MAX_LEVEL": 50
+      },
+      {
+        "NAME": "the_vault:generic.crit_chance",
+        "MIN": 0.0,
+        "MAX": 0.0,
+        "OPERATOR": "set",
+        "ROLL_CHANCE": 0.8,
+        "SCALE_PER_LEVEL": 0.0,
+        "SCALE_MAX_LEVEL": 50
+      },
+      {
+        "NAME": "the_vault:generic.crit_multiplier",
+        "MIN": 0.0,
+        "MAX": 0.0,
+        "OPERATOR": "set",
+        "ROLL_CHANCE": 0.8,
+        "SCALE_PER_LEVEL": 0.0,
+        "SCALE_MAX_LEVEL": 50
+      }
+    ],
     "alexsmobs:guster": [
       {
         "NAME": "minecraft:generic.max_health",
