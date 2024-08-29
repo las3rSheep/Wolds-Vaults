@@ -177,6 +177,28 @@
         {
           "value": {
             "OFFER": {
+              "item": "woldsvaults:capstone_vendoor"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 10,
+            "MAX_COST": 20
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_enchanted"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 60,
+            "MAX_COST": 88
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "woldsvaults:capstone_frenzy"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -754,6 +776,28 @@
             "MAX_COST": 48
           },
           "weight": 16
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_vendoor"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 10,
+            "MAX_COST": 20
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_enchanted"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 60,
+            "MAX_COST": 88
+          },
+          "weight": 12
         },
         {
           "value": {
@@ -1488,6 +1532,28 @@
             "MAX_COST": 48
           },
           "weight": 16
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_vendoor"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 10,
+            "MAX_COST": 20
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:capstone_enchanted"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 60,
+            "MAX_COST": 88
+          },
+          "weight": 12
         },
         {
           "value": {

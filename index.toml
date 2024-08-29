@@ -386,7 +386,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "efa0e18b482c1aa2180f2f49c77e6fc03459463a66d529293dcc064c738a270b"
+hash = "c5e935e29bfbba62c0b80c34d5a1c0ff499baa4d131ef18c9f18ad0951a84dfc"
 
 [[files]]
 file = "config/betterchunkloading.json"
@@ -12446,7 +12446,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "70a684076fad8c8720f0c9f928cb33fda77269e2f5d39ba8f2c83a528c92b023"
+hash = "565cc980bcfe79559f31b4cd6b8358dc2e5b80b3251d6dce4efe1e17fc97db36"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -13074,7 +13074,7 @@ hash = "a17f21332f422258e7fd36e742c000810ab0726600d4bf5c68e9cf5c700fc6a3"
 
 [[files]]
 file = "defaultconfigs/createdieselgenerators-server.toml"
-hash = "da67d09c865c8b3e15a4efb947eb5f7bbde6086d144c11aad24fe8ee96b7dd05"
+hash = "02242dcc33621a4b4fa8731cfde1323dec289c8da2b2c1b0f2b0cf6426550577"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"

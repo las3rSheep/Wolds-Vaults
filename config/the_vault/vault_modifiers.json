@@ -2098,7 +2098,7 @@
           "addend": 0.20
         },
         "display": {
-          "name": "Velara's Blessing",
+          "name": "Velara's Domain",
           "color": "#54fc54",
           "description": "+20% Velara Affinity",
           "descriptionFormatted": "%d%% Velara Affinity",
@@ -2111,7 +2111,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Idona's Blessing",
+          "name": "Idona's Domain",
           "color": "#d80000",
           "description": "+20% Idona Affinity",
           "descriptionFormatted": "%d%% Idona Affinity",
@@ -2124,7 +2124,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Tenos' Blessing",
+          "name": "Tenos' Domain",
           "color": "#009dde",
           "description": "+20% Tenos Affinity",
           "descriptionFormatted": "%d%% Tenos Affinity",
@@ -2137,7 +2137,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Wendarr's Blessing",
+          "name": "Wendarr's Domain",
           "color": "#009dde",
           "description": "+20% Wendarr Affinity",
           "descriptionFormatted": "%d%% Wendarr Affinity",
@@ -4747,6 +4747,23 @@
       }
     },
     "the_vault:modifier_type/hunter": {
+      "the_vault:vendoor_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:vendor_door[open=false]",
+              "radius": 64.0,
+              "color": 9945247
+            }
+          ]
+        },
+        "display": {
+          "name": "Vendoor Hunter",
+          "color": "#fbd93f",
+          "description": "Highlights Vendpor Doors in this vault",
+          "icon": "the_vault:gui/modifiers/treasure_doors"
+        }
+      },
       "the_vault:treasure_doors": {
         "properties": {
           "entries": [

@@ -69,6 +69,14 @@
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Treasure Hunter' modifier"
     },
     {
+      "item": "woldsvaults:capstone_vendoor",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Vendoor Hunter' modifier."
+    },
+    {
+      "item": "woldsvaults:capstone_enchanted",
+      "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Enchanted' modifier."
+    },
+    {
       "item": "woldsvaults:capstone_frenzy",
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Frenzy' curse."
     },
