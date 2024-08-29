@@ -1,6 +1,14 @@
 {
   "tooltips": [
     {
+      "item": "supplementaries:mob_cage",
+      "value": "Can capture any mob below 10% health."
+    },
+    {
+      "item": "woldsvaults:stylish_focus",
+      "value": "Use with Vault Tool in an anvil to add Stylish."
+    },
+    {
       "item": "woldsvaults:crystal_reinforcement",
       "value": "Use with Vault Tool in an anvil to add 10 capacity."
     },
@@ -47,6 +55,10 @@
     {
       "item": "the_vault:crystal_seal_prophet",
       "value": "Use in the Crystal Workbench to set the objective to 'Bingo'"
+    },
+    {
+      "item": "the_vault:crystal_seal_doomsayer",
+      "value": "Use in the Crystal Workbench to set the objective to 'Ballistic Bingo'"
     },
     {
       "item": "the_vault:capstone_dungeon_hunter",

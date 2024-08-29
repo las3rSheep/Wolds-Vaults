@@ -2,6 +2,7 @@ let removedOutputsES = [
     'extrastorage:advanced_exporter',
     'extrastorage:advanced_importer',
     'extrastorage:raw_neural_processor',
+    'extrastorage:neural_processor',
     'extrastorage:storagepart_256k',
     'extrastorage:storagepart_1024k',
     'extrastorage:storagepart_4096k',
@@ -50,19 +51,35 @@ onEvent("recipes", event => {
         E: 'refinedstorage:importer'
     })
 
-    event.shaped(Item.of('extrastorage:raw_neural_processor'),
+    // event.shaped(Item.of('extrastorage:raw_neural_processor'),
+    //     [
+    //         'AQI',
+    //         'QTQ',
+    //         'OPO'
+    //     ], {
+    //     A: 'refinedstorage:raw_advanced_processor',
+    //     Q: 'the_vault:gem_echo',
+    //     I: 'refinedstorage:raw_improved_processor',
+    //     T: 'minecraft:crafting_table',
+    //     O: 'minecraft:obsidian',
+    //     P: 'refinedstorage:processor_binding'
+    // })
+
+    event.shaped(Item.of('extrastorage:neural_processor'),
         [
-            'AQI',
-            'QTQ',
-            'OPO'
+            'AXB',
+            'OEO',
+            'SOS'
         ], {
-        A: 'refinedstorage:raw_advanced_processor',
-        Q: 'the_vault:gem_echo',
-        I: 'refinedstorage:raw_improved_processor',
-        T: 'minecraft:crafting_table',
+        A: 'refinedstorage:advanced_processor',
+        B: 'refinedstorage:improved_processor',
+        E: 'the_vault:perfect_echo_gem',
+        S: 'the_vault:black_chromatic_steel_ingot',
         O: 'minecraft:obsidian',
-        P: 'refinedstorage:processor_binding'
+        X: 'the_vault:gem_pog'
     })
+
+
 
     event.shaped(Item.of('extrastorage:storagepart_256k'),
         [

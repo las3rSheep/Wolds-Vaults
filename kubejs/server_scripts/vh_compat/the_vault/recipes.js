@@ -47,6 +47,8 @@ onEvent("recipes", event => {
     event.shapeless('9x the_vault:vault_catalyst_fragment', ['the_vault:vault_catalyst'])
     event.shapeless('the_vault:phoenix_feather', ['9x the_vault:phoenix_dust'])
     event.shapeless('9x the_vault:phoenix_dust', ['the_vault:phoenix_feather'])
+    event.shapeless('9x the_vault:regret_chunk', ['the_vault:regret_orb'])
+    event.shapeless('9x the_vault:regret_nugget', ['the_vault:regret_chunk'])
     event.shapeless('the_vault:chromatic_steel_block', ['4x the_vault:chromatic_iron_block', '2x the_vault:carbon_block'])
 
     //Deck Conversion
@@ -315,6 +317,6 @@ onEvent("recipes", event => {
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:reach"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:stick'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:soulbound"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:soul_sand'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:trap_disarming"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:lever'])
-
-
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:rotating"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:diamond'])
+    event.shapeless(Item.of('woldsvaults:stylish_focus'), ['minecraft:ender_pearl', 'the_vault:smashed_vault_gem_cluster', 'minecraft:diamond'])
 })

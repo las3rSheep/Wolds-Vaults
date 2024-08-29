@@ -96,6 +96,18 @@ onEvent("recipes", event => {
     event.remove({ id: 'industrialforegoing:dissolution_chamber/speed_addon_2' })
     event.remove({ id: 'industrialforegoing:dissolution_chamber/processing_addon_1' })
     event.remove({ id: 'industrialforegoing:dissolution_chamber/processing_addon_2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_0' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_1' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_3' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_4' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_5' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_6' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_7' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_8' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_9' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_10' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_11' })
 
     event.shaped(Item.of('industrialforegoing:machine_frame_pity'),
         [

@@ -1,0 +1,13 @@
+name = "Vault Hunters Better Junk Table"
+filename = "vault_hunters_better_junk_controller-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b083fffddd842a9dc65aeae71bfe8b3485064ac3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5670718
+project-id = 1092285

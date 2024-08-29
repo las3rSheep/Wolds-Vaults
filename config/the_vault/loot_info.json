@@ -100,6 +100,22 @@
         }
       }
     },
+    "the_vault:treasure_pedestal": {
+      "display": "Treasure Pedestal",
+      "lootTableKeys": {
+        "the_vault:treasure_chest_stand_lvl50": {
+          "level": 50
+        }
+      }
+    },
+    "the_vault:dungeon_pedestal": {
+      "display": "Dungeon Pedestal",
+      "lootTableKeys": {
+        "the_vault:dungeon_pedestal_lvl50": {
+          "level": 50
+        }
+      }
+    },
     "the_vault:brazier_pillage": {
       "display": "Brazier Pillage",
       "lootTableKeys": {
@@ -159,7 +175,7 @@
         }
       }
     },
-    "the_vault:completion_crate_brutal_bosses": {
+    "the_vault:completion_crate_enchanted_brutal_bosses": {
       "display": "Brutal Bosses Completion Crate",
       "lootTableKeys": {
         "the_vault:base_crate_cursed_0": {
@@ -189,6 +205,65 @@
           "level": 50
         },
         "the_vault:base_crate_100": {
+          "level": 50
+        }
+      }
+    },
+    "the_vault:completion_crate_bingo_wold": {
+      "display": "Bingo Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_0": {
+          "level": 0
+        },
+        "the_vault:base_crate_20": {
+          "level": 20
+        },
+        "the_vault:base_crate_50": {
+          "level": 50
+        },
+        "the_vault:base_crate_100": {
+          "level": 50
+        }
+      }
+    },
+    "the_vault:completion_crate_ballistic_bingo": {
+      "display": "Ballistic Bingo Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_cursed_0": {
+          "level": 0
+        },
+        "the_vault:base_crate_cursed_20": {
+          "level": 20
+        },
+        "the_vault:base_crate_cursed_50": {
+          "level": 50
+        },
+        "the_vault:base_crate_cursed_100": {
+          "level": 100
+        }
+      }
+    },
+    "the_vault:completion_crate_bingo_wold_full": {
+      "display": "Bingo Full Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_0": {
+          "level": 0
+        },
+        "the_vault:bingo_bonus": {
+          "level": 50
+        }
+      }
+    },
+    "the_vault:completion_crate_ballistic_bingo_full": {
+      "display": "Ballistic Bingo Full Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_cursed_0": {
+          "level": 0
+        },
+        "the_vault:base_crate_cursed_20": {
+          "level": 20
+        },
+        "the_vault:bingo_bonus_cursed": {
           "level": 50
         }
       }

@@ -80,6 +80,7 @@ onEvent('item.tags', event => {
     event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_unhinged')
     event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_titan')
     event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_enchanter')
+    event.add('the_vault:crystal_seals', 'the_vault:crystal_seal_doomsayer')
 
     event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_frenzy')
     event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_prosperous')
@@ -112,3 +113,9 @@ onEvent('block.tags', event => {
     event.add('forge:chests', 'sophisticatedstorage:enigma_chest')
     event.add('forge:chests', 'sophisticatedstorage:altar_chest')
 })
+
+onEvent('tags.fluids', event => {
+    event.add('woldsvaults:experience', 'create_enchantment_industry:experience')
+    event.add('woldsvaults:experience', 'create_enchantment_industry:hyper_experience')
+    event.add('woldsvaults:experience', 'industrialforegoing:essence')
+}) 

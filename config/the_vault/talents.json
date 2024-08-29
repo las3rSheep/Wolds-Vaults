@@ -189,43 +189,6 @@
       },
       {
         "type": "tiered",
-        "id": "Attack_Speed",
-        "name": "Attack Speed",
-        "tiers": [
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:attack_speed_percent",
-            "amount": 0.2,
-            "operation": "ADDITION",
-            "learnPointCost": 6,
-            "regretPointCost": 4,
-            "unlockLevel": 10,
-            "id": "attack_speed_1"
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:attack_speed_percent",
-            "amount": 0.4,
-            "operation": "ADDITION",
-            "learnPointCost": 8,
-            "regretPointCost": 4,
-            "unlockLevel": 50,
-            "id": "attack_speed_2"
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:attack_speed_percent",
-            "amount": 0.6,
-            "operation": "ADDITION",
-            "learnPointCost": 10,
-            "regretPointCost": 4,
-            "unlockLevel": 75,
-            "id": "attack_speed_3"
-          }
-        ]
-      },
-      {
-        "type": "tiered",
         "id": "Purist",
         "name": "Purist",
         "tiers": [
@@ -2205,7 +2168,7 @@
           {
             "type": "stacking_gear_attribute",
             "attribute": "the_vault:movement_speed",
-            "value": 0.02,
+            "value": 0.05,
             "effect": "the_vault:blazing",
             "durationTicks": 80,
             "maxStacks": 4,
@@ -2217,7 +2180,7 @@
           {
             "type": "stacking_gear_attribute",
             "attribute": "the_vault:movement_speed",
-            "value": 0.02,
+            "value": 0.05,
             "effect": "the_vault:blazing",
             "durationTicks": 120,
             "maxStacks": 6,
@@ -2229,7 +2192,7 @@
           {
             "type": "stacking_gear_attribute",
             "attribute": "the_vault:movement_speed",
-            "value": 0.02,
+            "value": 0.05,
             "effect": "the_vault:blazing",
             "durationTicks": 160,
             "maxStacks": 8,
@@ -2241,7 +2204,7 @@
           {
             "type": "stacking_gear_attribute",
             "attribute": "the_vault:movement_speed",
-            "value": 0.02,
+            "value": 0.05,
             "effect": "the_vault:blazing",
             "durationTicks": 200,
             "maxStacks": 10,

@@ -556,6 +556,16 @@
       "1.0": "config/the_vault/gen/1.0/palettes/omega_digsite/base2.json"
     },
     {
+      "id": "the_vault:iskallian_garden/base2",
+      "name": "Iskallian Garden Base 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/iskallian_garden/base2.json"
+    },
+    {
+      "id": "the_vault:comet_observatory/base",
+      "name": "Comet Observatory Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/comet_observatory/base.json"
+    },
+    {
       "id": "the_vault:vendor/base",
       "name": "Omega Vendor Base",
       "1.0": "config/the_vault/gen/1.0/palettes/vendor/base.json"
@@ -1084,6 +1094,11 @@
       "id": "the_vault:generic/dungeon_door_placeholder",
       "name": "Dungeon Door Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/dungeon_door_placeholder_comet",
+      "name": "Dungeon Door Placeholder Comet",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder_comet.json"
     },
     {
       "id": "the_vault:dungeon_rooms/living_chest_placeholder",

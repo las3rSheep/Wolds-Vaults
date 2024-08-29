@@ -1001,6 +1001,124 @@
 				item: "sophisticatedbackpacks:stack_upgrade_tier_3"
 			}]
 		}
+		{
+			title: "Ballistic Bingo"
+			x: -11.0d
+			y: 2.0d
+			subtitle: "Who let Wold touch this one..."
+			description: ["Ballistic Bingo is the cursed/harder version of the Bingo objective. Your goal is still to complete tasks to finish Bingo lines, but there are some new complications in the mix... When completing a task, you will get a Positive and Negative modifier added to the vault. When finishing an entire Bingo line, you will get one of many new Bingo! modifiers that will shake up your vault a bit!"]
+			id: "707D83945714E10C"
+			tasks: [{
+				id: "6D59C942A1BC5272"
+				type: "item"
+				item: "the_vault:crystal_seal_doomsayer"
+			}]
+		}
+		{
+			title: "Vault Filters"
+			x: 2.5d
+			y: -1.0d
+			subtitle: "The greatest mod..."
+			description: [
+				"Tired of sorting gear manually? This simple but powerful mod allows you to filter and sort data-heavy vault gear, trinkets, charms, inscriptions and jewels according to your needs and preferences by adding vault-related attributes to the already existing attribute filter from the Create mod. The mod adds compatibility for the list and attribute filters with several mods including Modular Routers, Refined Storage, Applied Energistics 2 and Sophisticated Backpacks. It also removes Create as a research requirement for the filters allowing the mod to be used independently of Create using the compatibility features. Wanna filter Omega gear pieces? Put an Omega gear piece in the attribute filter slot and select \"is of rarity: Omega\". Simple as that! The mod provides a large variety of attributes you can filter by."
+				"The rewards include some example filters for you to use and check out!"
+				"You can also use multiple Attribute Filters inside of a List Filter!"
+			]
+			id: "5E8BD034F4938862"
+			tasks: [
+				{
+					id: "7BC3AD3BD7B21C39"
+					type: "item"
+					item: "create:attribute_filter"
+				}
+				{
+					id: "1B5FCCB1C09E395B"
+					type: "item"
+					item: "create:filter"
+				}
+			]
+			rewards: [
+				{
+					id: "16833107DD5E3C66"
+					type: "item"
+					item: {
+						id: "create:attribute_filter"
+						Count: 1b
+						tag: {
+							WhitelistMode: 0
+							MatchedAttributes: [
+								{
+									item_type: {
+										item_type: "Gear Piece"
+									}
+									Inverted: 0b
+								}
+								{
+									item_type: {
+										item_type: "Jewel"
+									}
+									Inverted: 0b
+								}
+							]
+						}
+					}
+				}
+				{
+					id: "35633AF21894CF82"
+					type: "item"
+					item: {
+						id: "create:attribute_filter"
+						Count: 1b
+						tag: {
+							WhitelistMode: 0
+							MatchedAttributes: [
+								{
+									gear_rarity: {
+										gear_rarity: "Omega"
+									}
+									Inverted: 0b
+								}
+								{
+									gear_rarity: {
+										gear_rarity: "Epic"
+									}
+									Inverted: 0b
+								}
+							]
+						}
+					}
+				}
+				{
+					id: "5B5F4EFADBF326FB"
+					type: "item"
+					item: {
+						id: "create:attribute_filter"
+						Count: 1b
+						tag: {
+							WhitelistMode: 1
+							MatchedAttributes: [
+								{
+									suffix_number: {
+										suffix_number: "+13% Item Rarity"
+										suffix_number_level: 0.13f
+										suffix_number_simple: "Item Rarity"
+									}
+									Inverted: 0b
+								}
+								{
+									Inverted: 0b
+									implicit_number: {
+										implicit_number_simple: "Armor"
+										implicit_number_level: 20
+										implicit_number: "20 Armor"
+									}
+								}
+							]
+						}
+					}
+				}
+			]
+		}
 	]
 	quest_links: [ ]
 }

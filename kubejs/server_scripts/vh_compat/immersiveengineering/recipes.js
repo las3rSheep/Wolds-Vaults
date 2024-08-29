@@ -265,27 +265,27 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:alloybrick', 2),
         [
-            'TXe',
-            'XT ',
+            'TXB',
+            'XTB',
             '   '
         ], {
         T: '#forge:sandstone',
         X: '#forge:ingots/brick',
-        B: 'the_vault:vault_diamond'
+        B: 'the_vault:vault_diamond',
 
     }).id('immersiveengineering:crafting/alloybrick')
 
-    event.shaped(Item.of('immersiveengineering:alloybrick', 2),
-        [
-            '  H',
-            'SR ',
-            'IS '
-        ], {
-        T: '#forge:sandstone',
-        X: '#forge:ingots/brick',
-        B: 'the_vault:vault_diamond'
+    // event.shaped(Item.of('immersiveengineering:alloybrick', 2),
+    //     [
+    //         '  H',
+    //         'SR ',
+    //         'IS '
+    //     ], {
+    //     T: '#forge:sandstone',
+    //     X: '#forge:ingots/brick',
+    //     B: 'the_vault:vault_diamond'
 
-    }).id('immersiveengineering:crafting/alloybrick')
+    // }).id('immersiveengineering:crafting/alloybrick')
 
     event.shaped(Item.of('immersiveengineering:cloche', 1),
         [
@@ -334,7 +334,7 @@ onEvent("recipes", event => {
     event.shaped(Item.of('immersiveengineering:steel_scaffolding_standard', 6),
         [
             'III',
-            ' R',
+            ' R ',
             'RSR'
         ], {
         I: '#forge:ingots/steel',
@@ -356,7 +356,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_lv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -367,7 +367,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_mv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -378,7 +378,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_hv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -389,7 +389,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('controlengineering:bus_relay', 4),
         [
-            ' X',
+            ' X ',
             'PCP',
             'BBB'
         ], {
@@ -401,7 +401,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('controlengineering:bus_interface', 1),
         [
-            ' X',
+            ' X ',
             'PCP',
             'BTB'
         ], {

@@ -1928,6 +1928,22 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/omega/iskallian_garden",
+      "name": "Iskallian Garden",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/comet_observatory",
+      "name": "Comet Observatory",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/comet_observatory1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/omega/painting1",
       "name": "Omega Painting 1",
       "1.0": {

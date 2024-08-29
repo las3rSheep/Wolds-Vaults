@@ -25,7 +25,7 @@
             "the_vault:alchemy_archive": 2
           },
           "failure": {
-            "minecraft:air": 1
+            "woldsvaults:dungeon_pedestal{Generated:0b,LootTable:\"the_vault:dungeon_pedestal_lvl50\"}": 1
           }
         }
       ]

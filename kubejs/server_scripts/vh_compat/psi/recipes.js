@@ -72,7 +72,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('psi:cad_assembly_iron'),
         [
-            '  ',
+            '   ',
             'III',
             'IL '
         ], {
@@ -82,7 +82,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('psi:cad_assembly_gold'),
         [
-            '  ',
+            '   ',
             'III',
             'IL '
         ], {
@@ -92,7 +92,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('psi:cad_assembly_psimetal'),
         [
-            '  ',
+            '   ',
             'III',
             'IL '
         ], {
@@ -102,7 +102,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('psi:cad_assembly_ivory_psimetal'),
         [
-            '  ',
+            '   ',
             'III',
             'IL '
         ], {
@@ -112,7 +112,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('psi:cad_assembly_ebony_psimetal'),
         [
-            '  ',
+            '   ',
             'III',
             'IL '
         ], {
@@ -195,7 +195,7 @@ onEvent("recipes", event => {
     event.shaped(Item.of('psi:cad_socket_large'),
         [
             'DI ',
-            'I ',
+            'I  ',
             '   '
         ], {
         D: 'the_vault:vault_diamond',

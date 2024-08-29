@@ -9,6 +9,14 @@
   },
   {
     "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/iskallian_garden"
+  },
+  {
+    "weight": 5,
+    "reference": "the_vault:vault/rooms/omega/comet_observatory"
+  },
+  {
+    "weight": 7,
     "reference": "the_vault:vault/rooms/omega/painting"
   },
   {

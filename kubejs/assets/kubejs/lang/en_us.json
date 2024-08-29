@@ -134,5 +134,21 @@
 	"block.contenttweaker.vault_essence_block1": "Compressed Vault Essence Block (x1)",
 	"item.the_vault.trident": "Vault Trident",
 	"item.the_vault.battlestaff": "Vault Battlestaff",
-	"curios.identifier.wireless_terminal": "Wireless Terminal"
+	"curios.identifier.wireless_terminal": "Wireless Terminal",
+	"item.sophisticatedbackpacks.anvil_upgrade": "Anvil Upgrade",
+	"item.sophisticatedbackpacks.anvil_upgrade.tooltip": "Anvil in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.botanist_workbench_upgrade": "Botanist Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.botanist_workbench_upgrade.tooltip": "Botanist Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade": "Glassblower Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade.tooltip": "Glassblower Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade": "Carpenter Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade.tooltip": "Carpenter Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade": "Shepherd Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade.tooltip": "Shepherd Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.mason_workbench_upgrade": "Mason Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.mason_workbench_upgrade.tooltip": "Mason Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade": "Philosopher Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade.tooltip": "Philosopher Workbench in an upgrade tab",
+	"item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade": "Tinkerer Workbench Upgrade",
+	"item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade.tooltip": "Tinkerer Workbench in an upgrade tab"
 }

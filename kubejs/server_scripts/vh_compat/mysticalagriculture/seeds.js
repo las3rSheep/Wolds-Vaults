@@ -19,7 +19,11 @@ let removedOutputsMAGS = [
     'mysticalagriculture:obsidian_seeds',
     'mysticalagriculture:redstone_seeds',
     'mysticalagriculture:rubber_seeds',
-    'mysticalagriculture:chromatic_iron_seeds'
+    'mysticalagriculture:chromatic_iron_seeds',
+    'mysticalagriculture:nitro_crystal_seeds',
+    'mysticalagriculture:gaia_spirit_seeds',
+    'mysticalagriculture:nether_star_seeds',
+    'mysticalagriculture:dragon_egg_seeds'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGS.forEach(id => {
@@ -411,8 +415,72 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:inferium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:rubber_seeds').toResultJson()
+
     })
 
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
+        ingredients: [
+            Item.of('mysticalagradditions:dragon_scale').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('mysticalagradditions:dragon_scale').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('mysticalagradditions:dragon_scale').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('mysticalagradditions:dragon_scale').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:dragon_egg_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
+        ingredients: [
+            Item.of('powah:nitro_crystal_block').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('powah:nitro_crystal_block').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('powah:nitro_crystal_block').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('powah:nitro_crystal_block').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:nitro_crystal_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
+        ingredients: [
+            Item.of('botania:life_essence').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('botania:life_essence').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('botania:life_essence').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('botania:life_essence').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:gaia_spirit_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
+        ingredients: [
+            Item.of('minecraft:nether_star').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('minecraft:nether_star').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('minecraft:nether_star').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson(),
+            Item.of('minecraft:nether_star').toJson(),
+            Item.of('mysticalagradditions:insanium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:nether_star_seeds').toResultJson()
+    })
 
 
 

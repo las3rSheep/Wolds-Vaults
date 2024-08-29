@@ -51,6 +51,18 @@ onEvent('recipes', event => {
         B: 'the_vault:vault_diamond_block'
     })
 
+    event.shaped(Item.of('the_vault:crystal_seal_doomsayer'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:soul_campfire',
+        X: 'the_vault:vault_essence_1',
+        R: 'the_vault:crystal_seal_prophet',
+        B: 'the_vault:extraordinary_alexandrite'
+    })
+
     event.shaped(Item.of('the_vault:augment_box'),
         [
             'GXG',
@@ -203,27 +215,27 @@ onEvent('recipes', event => {
         O: 'the_vault:orb_frame'
     })
 
-    event.shaped(Item.of('woldsvaults:waning_augmenter'),
-        [
-            'XTX',
-            'TOT',
-            'XTX'
-        ], {
-        X: 'the_vault:waning_focus',
-        O: 'the_vault:pog_prism',
-        T: 'the_vault:black_chromatic_steel_ingot'
-    })
+    // event.shaped(Item.of('woldsvaults:waning_augmenter'),
+    //     [
+    //         'XTX',
+    //         'TOT',
+    //         'XTX'
+    //     ], {
+    //     X: 'the_vault:waning_focus',
+    //     O: 'the_vault:pog_prism',
+    //     T: 'the_vault:black_chromatic_steel_ingot'
+    // })
 
-    event.shaped(Item.of('woldsvaults:waxing_augmenter'),
-        [
-            'XTX',
-            'TOT',
-            'XTX'
-        ], {
-        X: 'the_vault:waxing_focus',
-        O: 'the_vault:pog_prism',
-        T: 'the_vault:black_chromatic_steel_ingot'
-    })
+    // event.shaped(Item.of('woldsvaults:waxing_augmenter'),
+    //     [
+    //         'XTX',
+    //         'TOT',
+    //         'XTX'
+    //     ], {
+    //     X: 'the_vault:waxing_focus',
+    //     O: 'the_vault:pog_prism',
+    //     T: 'the_vault:black_chromatic_steel_ingot'
+    // })
 
     event.shaped(Item.of('woldsvaults:repair_augmenter'),
         [
