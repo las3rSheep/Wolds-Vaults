@@ -145,6 +145,10 @@
               {
                 "value": "the_vault:energizing",
                 "weight": 1
+              },
+              {
+                "value": "the_vault:healthy",
+                "weight": 1
               }
             ]
           }
@@ -161,6 +165,14 @@
             "pool": [
               {
                 "value": "the_vault:swift",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:springy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:disarming",
                 "weight": 1
               }
             ]
@@ -195,6 +207,10 @@
             "pool": [
               {
                 "value": "the_vault:reinforced",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
                 "weight": 1
               }
             ]
@@ -237,6 +253,10 @@
             "pool": [
               {
                 "value": "the_vault:swift",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:tailwind",
                 "weight": 1
               }
             ]
@@ -254,6 +274,10 @@
             "pool": [
               {
                 "value": "the_vault:cherry",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:extended",
                 "weight": 1
               }
             ]
@@ -288,10 +312,14 @@
             "pool": [
               {
                 "value": "the_vault:item_rarity",
-                "weight": 1
+                "weight": 3
               },
               {
                 "value": "the_vault:copiously",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:orematic",
                 "weight": 1
               }
             ]
@@ -338,6 +366,10 @@
               },
               {
                 "value": "the_vault:strength",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:springy",
                 "weight": 1
               }
             ]
@@ -405,10 +437,14 @@
             "pool": [
               {
                 "value": "the_vault:swift",
-                "weight": 1
+                "weight": 8
               },
               {
                 "value": "the_vault:strength",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:tailwind",
                 "weight": 1
               }
             ]
@@ -426,6 +462,10 @@
             "pool": [
               {
                 "value": "the_vault:copiously",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:disarming",
                 "weight": 1
               }
             ]
@@ -465,6 +505,10 @@
               {
                 "value": "the_vault:regeneration",
                 "weight": 1
+              },
+              {
+                "value": "the_vault:serendipitous",
+                "weight": 1
               }
             ]
           }
@@ -485,6 +529,10 @@
               },
               {
                 "value": "the_vault:plentiful",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
                 "weight": 1
               }
             ]
@@ -543,7 +591,7 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:afterlife",
+                "value": "the_vault:oneup",
                 "weight": 1
               }
             ]
@@ -565,6 +613,10 @@
               },
               {
                 "value": "the_vault:reinforced",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
                 "weight": 1
               }
             ]

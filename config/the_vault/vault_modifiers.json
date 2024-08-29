@@ -2234,6 +2234,19 @@
           "icon": "the_vault:gui/modifiers/safezone"
         }
       },
+      "the_vault:disarming": {
+        "properties": {
+          "stat": "trap_disarm_chance",
+          "addend": 0.25
+        },
+        "display": {
+          "name": "Disarming",
+          "color": "#cb9be5",
+          "description": "+25% Trap Disarm chance",
+          "descriptionFormatted": "+%d%% Trap Disarm",
+          "icon": "the_vault:gui/modifiers/trapped"
+        }
+      },
       "the_vault:bingo_trapped": {
         "properties": {
           "stat": "trap_disarm_chance",
