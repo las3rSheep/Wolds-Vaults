@@ -5552,7 +5552,7 @@
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
                 "id": "hunter_lvl12"
-              }              
+              }
             ]
           }
         ]
@@ -9470,7 +9470,7 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 24,
+                "radius": 8,
                 "effectDuration": 120,
                 "id": "javelin_sight_1"
               },
@@ -9483,8 +9483,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 36,
-                "effectDuration": 130,
+                "radius": 12,
+                "effectDuration": 120,
                 "id": "javelin_sight_2"
               },
               {
@@ -9496,8 +9496,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 48,
-                "effectDuration": 140,
+                "radius": 16,
+                "effectDuration": 120,
                 "id": "javelin_sight_3"
               },
               {
@@ -9509,8 +9509,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 52,
-                "effectDuration": 150,
+                "radius": 20,
+                "effectDuration": 120,
                 "id": "javelin_sight_4"
               },
               {
@@ -9522,8 +9522,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 56,
-                "effectDuration": 160,
+                "radius": 24,
+                "effectDuration": 120,
                 "id": "javelin_sight_5"
               },
               {
@@ -9535,8 +9535,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 58,
-                "effectDuration": 170,
+                "radius": 28,
+                "effectDuration": 120,
                 "id": "javelin_sight_6"
               },
               {
@@ -9548,8 +9548,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 60,
-                "effectDuration": 180,
+                "radius": 32,
+                "effectDuration": 120,
                 "id": "javelin_sight_7"
               },
               {
@@ -9561,8 +9561,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 62,
-                "effectDuration": 190,
+                "radius": 36,
+                "effectDuration": 120,
                 "id": "javelin_sight_8"
               },
               {
@@ -9574,8 +9574,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 64,
-                "effectDuration": 200,
+                "radius": 40,
+                "effectDuration": 120,
                 "id": "javelin_sight_9"
               },
               {
@@ -9587,8 +9587,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 66,
-                "effectDuration": 200,
+                "radius": 44,
+                "effectDuration": 120,
                 "id": "javelin_sight_10"
               },
               {
@@ -9600,8 +9600,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 68,
-                "effectDuration": 200,
+                "radius": 48,
+                "effectDuration": 120,
                 "id": "javelin_sight_11"
               },
               {
@@ -9613,8 +9613,8 @@
                 "unlockLevel": 0,
                 "percentAttackDamageDealt": 0.2,
                 "throwPower": 1.75,
-                "radius": 70,
-                "effectDuration": 200,
+                "radius": 52,
+                "effectDuration": 120,
                 "id": "javelin_sight_12"
               }
             ]

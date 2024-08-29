@@ -131,5 +131,17 @@ onEvent("recipes", event => {
         X: 'the_vault:chromatic_steel_block'
     })
 
+    event.shaped(Item.of('sophisticatedbackpacks:inception_upgrade'),
+        [
+            'IXI',
+            'ICI',
+            'IGI'
+        ], {
+        C: 'sophisticatedbackpacks:stack_upgrade_tier_4',
+        I: 'the_vault:echo_pog_1',
+        G: 'the_vault:wold_star',
+        X: 'the_vault:omega_pog_1'
+    }).id('sophisticatedbackpacks:inception_upgrade')
+
 
 })

@@ -848,7 +848,6 @@ craftingTable.remove(<item:sophisticatedbackpacks:battery_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:pump_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:xp_pump_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:tool_swapper_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:inception_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_magnet_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:magnet_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:everlasting_upgrade>);
