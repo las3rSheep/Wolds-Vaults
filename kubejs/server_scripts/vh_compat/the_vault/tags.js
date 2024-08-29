@@ -85,6 +85,8 @@ onEvent('item.tags', event => {
     event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_frenzy')
     event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_prosperous')
     event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_all_seeing_eye')
+    event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_enchanted')
+    event.add('the_vault:crystal_capstones', 'woldsvaults:capstone_vendoors')
     event.add('the_vault:crystal_capstones', 'the_vault:mote_purity')
     event.add('the_vault:crystal_capstones', 'the_vault:mote_clarity')
     event.add('the_vault:crystal_capstones', 'the_vault:mote_sanctity')

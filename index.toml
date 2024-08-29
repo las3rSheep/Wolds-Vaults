@@ -12218,7 +12218,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "c1e293f88aa98834c56805791b8783d6b94ceddab679b243055addc5eac1ab60"
+hash = "c6fa576a1a3881e5abb73a0289477482c502a353c8b90e4a17dcc40387146156"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -12286,7 +12286,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "88c32db1b4c7da8e8ee6d309991051fb78657e772521ae58158bc696a5abd914"
+hash = "9a94831fba9081703803cc025fcdc34aa3f654f5b02007df21d8072bf7cd75ad"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -12450,7 +12450,7 @@ hash = "565cc980bcfe79559f31b4cd6b8358dc2e5b80b3251d6dce4efe1e17fc97db36"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "f7ca0ef2fa59513c867f4b5352022753373f856a94c46d8fd8f5feed90f39a16"
+hash = "bc5470654377ca844ad1044e61f2849b4f099af40c920a456ee5058f0a30f92a"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -19286,7 +19286,7 @@ hash = "5d4bd0b675a226dbad1110ea5439e8fd4d04ff6620fd44d761aa20cbe7cbdbd6"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
-hash = "151cf6bfd02b8deabea9235c4cf5959f204291f8389b61cf500f0eae33b11232"
+hash = "59a0c15b254b590234859273d0c2bd90c6274888741ec47cf361e5dcb0b31c15"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"

@@ -3755,7 +3755,7 @@
           "ticksPerCheck": 900
         },
         "display": {
-          "name": "Bingo Enchanted",
+          "name": "Enchanted",
           "color": "#CE93D8",
           "description": "Enchanted events trigger every 45 seconds.",
           "icon": "the_vault:gui/modifiers/enchanted"
