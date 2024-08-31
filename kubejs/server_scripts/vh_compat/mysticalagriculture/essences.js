@@ -1,11 +1,5 @@
-let removedOutputsMAGE = [
-    'powah:steel_energized',
-    'refinedstorage:quartz_enriched_iron'
-];
 onEvent("recipes", event => {
-    removedOutputsMAGE.forEach(id => {
-        event.remove({ 'output': `${id}` })
-    })
+
 
     event.shaped(Item.of('industrialforegoing:dryrubber', 6),
         [
@@ -279,5 +273,22 @@ onEvent("recipes", event => {
         E: 'mysticalagriculture:chromatic_iron_essence'
     }).id('mysticalagriculture:essence/common/chromatic_iron')
 
+    event.shaped(Item.of('moremekanismprocessing:aluminum_ingot', 6),
+        [
+            'EEE',
+            'E E',
+            'E E'
+        ], {
+        E: 'mysticalagriculture:aluminum_essence'
+    }).id('mysticalagriculture:essence/common/aluminum_ingot')
+
+    event.shaped(Item.of('immersiveengineering:ingot_aluminum', 6),
+        [
+            'E E',
+            'E E',
+            'EEE'
+        ], {
+        E: 'mysticalagriculture:aluminum_essence'
+    }).id('mysticalagriculture:essence/common/aluminum_ingot2')
 
 })

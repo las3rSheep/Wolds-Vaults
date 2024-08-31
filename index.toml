@@ -2746,7 +2746,7 @@ hash = "e8a052c0da8079329cdc2337113eaa6ff632f4c5fd9724ffde66553e8cbb0d5c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
-hash = "89c63d71e95a9517ac7ce0460f5f25ec66fd5cf2ce705fe551fb59e19550ad4e"
+hash = "b7eff1eb0e5e3a85f40e4bdd17f640fdc55790f99adcb67b9b162c21152a3f3c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
@@ -2882,7 +2882,7 @@ hash = "38d6837913d5006d7584759a0749e4ee8851f3fa0be2320e90878b3db9d48c7b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/iskallian_leaves.json"
-hash = "4f0a4aa44ee826cf7f02c4d6bde8c1c0fbc57bdd30b2208cdf765d3abbc8d243"
+hash = "19bae4200f1adc90d9efe00181b6e528bec486f3931c1366e9458bda66da86cd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0.json"
@@ -2974,7 +2974,7 @@ hash = "68830f462e0c31b5ce9d2ab8d387d5ef617773a134fcccaefd98e65ecdb2d23f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "d9d77f03d93f6f0d3f105ffa215ba9522e4def603b07c8714dc647c1a0e21e47"
+hash = "a108838a5d2f79ded737c7b7854d14b9ba25c34de327c60a834c8194035953bc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
@@ -3298,7 +3298,7 @@ hash = "2cf9704f132e5fad5fae4347c68da10510d2b34ee08a614098c00a4823df61b9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/comet_observatory/base.json"
-hash = "76b84acb86d07e4f069d03b6fb8d61caa662633bd2ec00038f180fdd2e913359"
+hash = "842dc516ffd1b56e9039bc8c2235faf85dbd7ca6e678c336e7334f8f8bd7174a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/cove/base.json"
@@ -8850,7 +8850,7 @@ hash = "fb8271fd54c9551609074581b161a7e60ef19a0000737f938abf6c5f5190e0f4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/comet_observatory1.nbt"
-hash = "6e1109b0a642654afbc4795d45b848dd106f20baa608597ad8f8f16b294faa46"
+hash = "4a7a36ddb265ecd56b14dd3a27d7cb74d6628479366fa9e7f071907cf09d1116"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/cove1.nbt"
@@ -8866,6 +8866,10 @@ hash = "3a826d02624442b703cddd339842a587d24ca4a4143211f7cd22b60395792e3d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.nbt"
+hash = "651561d8ace8876357485308878024b042888afe94fdf0f04c0d349202244512"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden_old.nbt"
 hash = "2b36ecf9e204a9f0c518c5c5d093da361a70d92186f610cccd4ea0ef15597f1b"
 
 [[files]]
@@ -12386,7 +12390,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "072b1c2efb80f84b94e702633e06828f32701e425191d5f93dc397f883400cd4"
+hash = "c5ae942d6b65c7b5300a9c46ca77d308802fcab96cdbff17e2c18b53dbc59dad"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -17434,7 +17438,7 @@ hash = "86fbcc0e9cf5448580b8da83bc0b42cf8f3c74951c7f29a26636f93db2633945"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "a602792cf45786baac4c32c2dbc2e17d015db1ea3937c72f380a9b2bb74df3df"
+hash = "85b8b3796273558a49c7c5b5ab010e25b0bdf9a23be08be842ac474bc901aab7"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -19194,7 +19198,7 @@ hash = "81f06f0f5be79475956257ce15b7b2ad2ae29955aa66bab97fc2ba2580707995"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/little_logistics/recipes.js"
-hash = "561923ba62a9abec7dd2d37ee551307a5b118799e982271c70b191676ed3468a"
+hash = "571db863625d02bea6e9c740406a16faa09480b2cd6ceac2b5888b95673ad367"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mega_cells/recipes.js"
@@ -19221,12 +19225,8 @@ file = "kubejs/server_scripts/vh_compat/mysticalagraditions/recipes.js"
 hash = "1aa398813dbb183125e80b1d0f42aa20834eb5d9f13eabeccbbd04fd704b2aa3"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/mysticalagraditions/seeds.js"
-hash = "178a14f4356f8f41808b8b37f8ce9d82eb5f27a9fabf4d6e3ae6cca0d4fcaeff"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/essences.js"
-hash = "e2b52723d2ee3e5456b9bef97692f7f163e4dd654b7d480ad06bd6ec03c586d1"
+hash = "2ea5ed7912bc87d4ee8564abbe4f69d829418ca513e4f5fc197c5d6b9b7e2145"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
@@ -19234,7 +19234,7 @@ hash = "2dd4cf6f50d86f00200ad8f1b4f957136f5a5896ff1063de2dd5720b672d2aeb"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "3f85f21aa6d99ef2dfa0ab4d135c189e0cb70abba44753396c25261c1b9c7367"
+hash = "c12ac031711d7c0e58aa5b571c0787236a74b89b2861525434e5f427e6ddfdc9"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/peripherals/recipes.js"
@@ -19278,7 +19278,7 @@ hash = "755a4d46acca7925889e12cf90316875ae4931a63cd916c36852b773082c581f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/qol/wool_to_string.js"
-hash = "9944446f21f2c3ee085c3f34e33d465adaf6197dad64a4f4c9164df8319cb865"
+hash = "bb789b620b9a4ab1e85ce3b5621f0cef8fde32bb708ce091db8cf6819a29deee"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/quarryplus/recipes.js"
@@ -19298,7 +19298,7 @@ hash = "040a785b5c2f1ccdad4a3df0b66917ee1f1be3671a6ec13b9634e327e491f8ae"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedbackpacks/recipes.js"
-hash = "41fd90e0991046ba09e0ed0d5f439db8139e0da0f357ae4fa9af552681b803a4"
+hash = "ce560064179997604ac86689fdccc197bcecf0805e6e297b06979041e2f99a25"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/chests.js"
@@ -20394,6 +20394,11 @@ hash = "d591f0fc9610eb1450e6a71e0da3a18b2d50081dd265027fd65f044b00f33ceb"
 metafile = true
 
 [[files]]
+file = "mods/kendromes-vault-hunters-tweaks.pw.toml"
+hash = "756297127b4907ec4c467ae0ddf4b00cfc43658ede8a999901a352f38eb54bb2"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "79c8d4d4d88a1a307b939ed38f34cfd0550380d276557af6a24ea16f264f148c"
 metafile = true
@@ -21290,7 +21295,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "72a71c9034fd4907029acb10651b3ccf3e2499f867b214f669afab196eaf3c22"
+hash = "ba6903a246399e6510af768b916de3d2ff885cf305e9929b041c41fe543e11bf"
 metafile = true
 
 [[files]]

@@ -1387,6 +1387,18 @@
     ]
   },
   "SEALS": {
+    "the_vault:crystal_seal_doomsayer": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "ballistic_bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
     "the_vault:crystal_seal_prophet": [
       {
         "level": 0,

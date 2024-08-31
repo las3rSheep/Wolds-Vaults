@@ -5,6 +5,7 @@ let removedOutputsMAGS = [
     'mysticalagriculture:elementium_seeds',
     'mysticalagriculture:fluorite_seeds',
     'mysticalagriculture:blazing_crystal_seeds',
+    'mysticalagriculture:gold_seeds',
     'mysticalagriculture:diamond_seeds',
     'mysticalagriculture:emerald_seeds',
     'mysticalagriculture:netherite_seeds',
@@ -13,6 +14,9 @@ let removedOutputsMAGS = [
     'mysticalagriculture:spirited_crystal_seeds',
     'mysticalagriculture:certus_quartz_seeds',
     'mysticalagriculture:enderium_seeds',
+    'mysticalagriculture:signalum_seeds',
+    'mysticalagriculture:lumium_seeds',
+    'mysticalagriculture:fluix_seeds',
     'mysticalagriculture:steel_seeds',
     'mysticalagriculture:lapis_lazuli_seeds',
     'mysticalagriculture:uraninite_seeds',
@@ -23,7 +27,9 @@ let removedOutputsMAGS = [
     'mysticalagriculture:nitro_crystal_seeds',
     'mysticalagriculture:gaia_spirit_seeds',
     'mysticalagriculture:nether_star_seeds',
-    'mysticalagriculture:dragon_egg_seeds'
+    'mysticalagriculture:dragon_egg_seeds',
+    'mysticalagriculture:energized_steel_seeds',
+    'mysticalagriculture:mithril_seeds'
 ];
 onEvent("recipes", event => {
     removedOutputsMAGS.forEach(id => {
@@ -161,7 +167,7 @@ onEvent("recipes", event => {
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
         ingredients: [
             Item.of('the_vault:chromatic_iron_block').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
@@ -194,7 +200,7 @@ onEvent("recipes", event => {
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
         ingredients: [
             Item.of('the_vault:cluster_netherite').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
@@ -206,11 +212,11 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:supremium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:netherite_seeds').toResultJson()
-    })
+    }).id('mysticalagriculture:netherite_seeds')
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
         ingredients: [
             Item.of('botania:terrasteel_ingot').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
@@ -258,7 +264,7 @@ onEvent("recipes", event => {
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        input: Ingredient.of('mysticalagriculture:echoing_seed_base'),
         ingredients: [
             Item.of('thermal:enderium_ingot').toJson(),
             Item.of('mysticalagriculture:supremium_essence').toJson(),
@@ -271,6 +277,71 @@ onEvent("recipes", event => {
         ],
         result: Item.of('mysticalagriculture:enderium_seeds').toResultJson()
     })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        ingredients: [
+            Item.of('thermal:signalum_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:signalum_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:signalum_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:signalum_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:signalum_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        ingredients: [
+            Item.of('thermal:lumium_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:lumium_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:lumium_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:lumium_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:lumium_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        ingredients: [
+            Item.of('thermal:invar_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:invar_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:invar_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('thermal:invar_ingot').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:invar_seeds').toResultJson()
+    })
+
+    event.custom({
+        type: 'mysticalagriculture:infusion',
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
+        ingredients: [
+            Item.of('ae2:fluix_crystal').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('ae2:fluix_crystal').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('ae2:fluix_crystal').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson(),
+            Item.of('ae2:fluix_crystal').toJson(),
+            Item.of('mysticalagriculture:imperium_essence').toJson()
+        ],
+        result: Item.of('mysticalagriculture:fluix_seeds').toResultJson()
+    })
+
 
 
     event.custom({
@@ -387,7 +458,7 @@ onEvent("recipes", event => {
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:prosperity_seed_base'),
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
         ingredients: [
             Item.of('industrialforegoing:dryrubber').toJson(),
             Item.of('mysticalagriculture:inferium_essence').toJson(),
@@ -403,7 +474,7 @@ onEvent("recipes", event => {
 
     event.custom({
         type: 'mysticalagriculture:infusion',
-        input: Ingredient.of('mysticalagriculture:prosperity_seed_base'),
+        input: Ingredient.of('mysticalagriculture:pogging_seed_base'),
         ingredients: [
             Item.of('thermal:rubber').toJson(),
             Item.of('mysticalagriculture:inferium_essence').toJson(),

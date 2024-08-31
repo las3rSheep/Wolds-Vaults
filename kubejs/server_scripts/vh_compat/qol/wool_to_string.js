@@ -5,7 +5,7 @@ onEvent("recipes", event => {
     event.shapeless('4x minecraft:string', ['minecraft:white_wool'])
     event.shapeless('4x minecraft:amethyst_shard', ['minecraft:amethyst_block'])
     event.shapeless('4x minecraft:quartz', ['minecraft:quartz_block'])
-    event.shapeless('minecraft:blaze_rod', ['2x minecraft:blaze_powder'])
+    event.shapeless('minecraft:blaze_rod', ['4x minecraft:blaze_powder'])
     event.shapeless('minecraft:dripstone_block', ['4x minecraft:pointed_dripstone'])
     event.shapeless('4x minecraft:honeycomb', ['minecraft:honeycomb_block'])
     event.shapeless('4x minecraft:clay_ball', ['minecraft:clay'])
