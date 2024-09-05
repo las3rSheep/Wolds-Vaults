@@ -1760,6 +1760,14 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave1",
+      "name": "Pirate Caves 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/crystal_caves1",
       "name": "Crystal Caves 1",
       "1.0": {
@@ -1872,11 +1880,27 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/omega/hellish_digsite",
+      "name": "Hellish Digsite 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/hellish_digsite.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/challenge_digsite1",
       "name": "Challenge Digsite 1",
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/challenge_digsite1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/playzone1",
+      "name": "Play Zone 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/playzone1.nbt"
       }
     },
     {
@@ -8261,6 +8285,14 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/raw/chromatic_caves/spawner_tree2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/larimar_cave",
+      "name": "Larimar Cave 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/larimar_cave.nbt"
       }
     },
     {

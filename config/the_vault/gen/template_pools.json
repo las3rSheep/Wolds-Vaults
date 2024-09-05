@@ -1441,6 +1441,16 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/digsite2.json"
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave",
+      "name": "Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/pirate_cave.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/playzone",
+      "name": "Playzone",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/playzone.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/iskallian_garden",
       "name": "Iskallian Garden",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/iskallian_garden.json"
@@ -1469,6 +1479,16 @@
       "id": "the_vault:vault/rooms/omega/blacksmith",
       "name": "Blacksmith",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/hellish_rooms",
+      "name": "Hellish Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/hellish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/hellish/hellish_digsite",
+      "name": "Hellish Digsite",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/hellish/hellish_digsite.json"
     },
     {
       "id": "the_vault:vault/rooms/omega_rooms",
@@ -2587,6 +2607,11 @@
       "id": "the_vault:vault/decor/factory/bucket_loot1",
       "name": "Bucket Loot 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/bucket_loot1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/larimar_caves",
+      "name": "Regular Larimar Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/larimar_caves.json"
     },
     {
       "id": "the_vault:vault/rooms/raw/diamond_caves_regular",

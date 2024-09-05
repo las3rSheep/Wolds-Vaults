@@ -1595,7 +1595,14 @@
               "the_vault:vault/rooms/omega/mine1",
               "the_vault:vault/rooms/omega/mine2",
               "the_vault:vault/rooms/omega/painting1",
-              "the_vault:vault/rooms/omega/iskallian_garden"
+              "the_vault:vault/rooms/omega/iskallian_garden",
+              "the_vault:vault/rooms/omega/comet_observatory",
+              "the_vault:vault/rooms/omega/playzone1",
+              "the_vault:vault/rooms/omega/hellish_digsite",
+              "the_vault:vault/rooms/omega/vendor1",
+              "the_vault:vault/rooms/omega/vendor2",
+              "the_vault:vault/rooms/omega/vendor3",
+              "the_vault:vault/rooms/omega/cube"
             ],
             "counter": {
               "type": "target",
@@ -1636,7 +1643,8 @@
               "the_vault:vault/rooms/challenge/dragon1",
               "the_vault:vault/rooms/challenge/x-mark_trap1",
               "the_vault:vault/rooms/challenge/x-mark_treasure1",
-              "the_vault:vault/rooms/challenge/douwsky_graveyard"
+              "the_vault:vault/rooms/challenge/douwsky_graveyard",
+              "the_vault:vault/rooms/challenge/pirate_cave1"
             ],
             "counter": {
               "type": "target",

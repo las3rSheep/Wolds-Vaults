@@ -9,6 +9,10 @@
   },
   {
     "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/playzone"
+  },
+  {
+    "weight": 7,
     "reference": "the_vault:vault/rooms/omega/iskallian_garden"
   },
   {
