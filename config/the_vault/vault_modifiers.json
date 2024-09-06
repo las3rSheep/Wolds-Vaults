@@ -6,7 +6,7 @@
           "chance": 1.0
         },
         "display": {
-          "name": "Prosperous",
+          "name": ":unidentified_artifact: Prosperous",
           "color": "#EBFF8D",
           "description": "Completing this vault guarantees an Artifact!",
           "descriptionFormatted": "Completing this vault guarantees an artifact!",
@@ -18,7 +18,7 @@
           "chance": 0.2
         },
         "display": {
-          "name": "Serendipitous",
+          "name": ":unidentified_artifact: Serendipitous",
           "color": "#EBFF8D",
           "description": "+20% Artifact Chance",
           "descriptionFormatted": "+%d%% Artifact Chance",
@@ -30,7 +30,7 @@
           "chance": 0.005
         },
         "display": {
-          "name": "Cake Artifact",
+          "name": ":unidentified_artifact: Cake Artifact",
           "color": "#EBFF8D",
           "description": "Every stack increases the artifact chance by 0.5%",
           "descriptionFormatted": "Every stack increases the artifact chance by 0.5%",
@@ -42,7 +42,7 @@
           "chance": 0.05
         },
         "display": {
-          "name": "Pogging",
+          "name": ":gem_pog_gif: Pogging",
           "color": "#EBFF8D",
           "description": "Every stack increases the artifact chance by 5%",
           "descriptionFormatted": "Every stack increases the artifact chance by 5%",
@@ -54,7 +54,7 @@
           "chance": -0.1
         },
         "display": {
-          "name": "Plunder Artifact",
+          "name": ":unidentified_artifact: Plunder Artifact",
           "color": "#EBFF8D",
           "description": "Lowers the artifact chance of this vault by 10%",
           "descriptionFormatted": "Lowers the artifact chance of this vault by 10%",
@@ -66,7 +66,7 @@
           "chance": 0.0
         },
         "display": {
-          "name": "Purified",
+          "name": ":angel: Purified",
           "color": "#EBFF8D",
           "description": "This Crystal had a Curse removed using a Mote of Purity.",
           "descriptionFormatted": "A random curse was removed.",
@@ -78,7 +78,7 @@
           "chance": 0.0
         },
         "display": {
-          "name": "Sanctified",
+          "name": ":sponge: Sanctified",
           "color": "#EBFF8D",
           "description": "This Crystal had all curses removed using a Mote of Sanctity.",
           "descriptionFormatted": "All curses were removed.",
@@ -90,7 +90,7 @@
           "chance": 0.0
         },
         "display": {
-          "name": "Clarified",
+          "name": ":brain: Clarified",
           "color": "#EBFF8D",
           "description": "This Crystal had all curses revealed using a Mote of Clarity.",
           "descriptionFormatted": "Has no effect.",
@@ -104,7 +104,7 @@
           "chance": 0.05
         },
         "display": {
-          "name": "Sparkling",
+          "name": ":prismatic: Sparkling",
           "color": "#FC00E3",
           "description": "+5% Catalyst Fragments",
           "descriptionFormatted": "+%d%% Catalyst Fragments",
@@ -116,7 +116,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Prismatic",
+          "name": ":prismatic: Prismatic",
           "color": "#FC00E3",
           "description": "+25% Catalyst Fragments",
           "descriptionFormatted": "+%d%% Catalyst Fragments",
@@ -141,7 +141,7 @@
           "chance": -100.0
         },
         "display": {
-          "name": "Beginner's Insurance",
+          "name": ":beginner: Beginner's Insurance",
           "color": "#A3E2F5",
           "description": "Chests can not be trapped",
           "icon": "the_vault:gui/modifiers/safezone"
@@ -152,7 +152,7 @@
           "chance": 0.05
         },
         "display": {
-          "name": "Trapped",
+          "name": ":trapped: Trapped",
           "color": "#D35B00",
           "description": "+5% Chest Trap Chance",
           "descriptionFormatted": "+%d%% Chest Trap Chance",
@@ -217,7 +217,7 @@
           "chance": 0.05
         },
         "display": {
-          "name": "Soul Shards",
+          "name": ":purple_heart: Soul Shards",
           "color": "#6410A1",
           "description": "+5% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -229,7 +229,7 @@
           "chance": 0.4
         },
         "display": {
-          "name": "Exorcising",
+          "name": ":purple_heart: Exorcising",
           "color": "#6410A1",
           "description": "+40% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -241,7 +241,7 @@
           "chance": 10.0
         },
         "display": {
-          "name": "Soul Fest",
+          "name": ":purple_heart: Soul Fest",
           "color": "#6410A1",
           "description": "+1000% Soul Shards",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -253,7 +253,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Soul Boost",
+          "name": ":purple_heart: Soul Boost",
           "color": "#6410A1",
           "description": "+25% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -265,7 +265,7 @@
           "chance": 0.5
         },
         "display": {
-          "name": "Soul Harvest",
+          "name": ":purple_heart: Soul Harvest",
           "color": "#6410A1",
           "description": "+50% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -277,7 +277,7 @@
           "chance": 1.0
         },
         "display": {
-          "name": "Soul Surge",
+          "name": ":purple_heart: Soul Surge",
           "color": "#6410A1",
           "description": "+100% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -289,7 +289,7 @@
           "chance": 2.0
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "+200% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -304,7 +304,7 @@
           }
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "+1% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
@@ -320,7 +320,7 @@
           "requireConditions": true
         },
         "display": {
-          "name": "Coin Stacks",
+          "name": ":bronze: Coin Stacks",
           "color": "#ffae00",
           "description": "+1 Set of Coin Stacks",
           "icon": "the_vault:gui/modifiers/wealthy"
@@ -333,7 +333,7 @@
           "requireConditions": true
         },
         "display": {
-          "name": "Bonus Gilded",
+          "name": ":gilded: Bonus Gilded",
           "color": "#FFEC00",
           "description": "+1 Set of Gilded Chests",
           "icon": "the_vault:gui/modifiers/gilded_chests"
@@ -359,7 +359,7 @@
           "requireConditions": true
         },
         "display": {
-          "name": "Bonus Ornate",
+          "name": ":red_envelope: Bonus Ornate",
           "color": "#c90d73",
           "description": "+1 Set of Ornate Chests",
           "icon": "the_vault:gui/modifiers/ornate_chests"
@@ -372,7 +372,7 @@
           "requireConditions": true
         },
         "display": {
-          "name": "Wild",
+          "name": ":triangular_flag_on_post: Wild",
           "color": "#E83F24",
           "description": "Mobs spawns Wildly inside the vault",
           "descriptionFormatted": "+1 Set of Wildly Spawned Mobs",
@@ -386,7 +386,7 @@
           "requireConditions": true
         },
         "display": {
-          "name": "Spooky",
+          "name": ":ghost: Spooky",
           "color": "#b3b3cc",
           "description": "Ghosts spawn wildly inside this vault",
           "descriptionFormatted": "+1 Set of Wildly Spawned Wraiths",
@@ -414,7 +414,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Volcanic",
+          "name": ":hot_face: Volcanic",
           "color": "#E83F24",
           "description": "This vault seem to be hot",
           "descriptionFormatted": "HOT",
@@ -428,7 +428,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Void Pools",
+          "name": ":OMEGALOOL: Void Pools",
           "color": "#E83F24",
           "description": "This vault has pockets of voiding",
           "descriptionFormatted": "Voiding",
@@ -442,7 +442,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Fungal",
+          "name": ":mushroom: Fungal",
           "color": "#ff0000",
           "description": "This vault is bathed in spores.",
           "descriptionFormatted": "This vault is bathed in spores",
@@ -456,7 +456,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Safari",
+          "name": ":tiger2: Safari",
           "color": "#ff0000",
           "description": "This vault is in a safari zone.",
           "descriptionFormatted": "This vault is in a safari zone",
@@ -470,7 +470,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Frosty",
+          "name": ":snowman: Frosty",
           "color": "#ff0000",
           "description": "This vault is frosty.",
           "descriptionFormatted": "This vault is frosty",
@@ -484,7 +484,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Electric",
+          "name": ":lightning: Electric",
           "color": "#ff0000",
           "description": "This vault is electrifying.",
           "descriptionFormatted": "This vault is electrifying",
@@ -498,7 +498,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": "Explosive",
+          "name": ":boom: Explosive",
           "color": "#ff0000",
           "description": "This vault is explosive",
           "descriptionFormatted": "This vault is explosive",
@@ -538,7 +538,7 @@
           "percentage": 1.0
         },
         "display": {
-          "name": "Crate Tier",
+          "name": ":star: Crate Tier",
           "color": "#38C9C0",
           "description": "Increases the reward crate tier once per modifier",
           "descriptionFormatted": "Increases the reward crate tier once per modifier",
@@ -554,7 +554,7 @@
           "probability": 0.05
         },
         "display": {
-          "name": "Mini Nova",
+          "name": ":star2: Mini Nova",
           "color": "#FFEA00",
           "description": "When killing a mob it has a 5% chance to cast a level 8 Nova on their death",
           "icon": "the_vault:gui/modifiers/kill_nuke"
@@ -567,7 +567,7 @@
           "probability": 1.0
         },
         "display": {
-          "name": "Nova Explosion",
+          "name": ":boom: Nova Explosion",
           "color": "#FFEA00",
           "description": "When killing a mob it will cast a level 8 Nova on their death",
           "icon": "the_vault:gui/modifiers/kill_nuke"
@@ -580,7 +580,7 @@
           "probability": 0.05
         },
         "display": {
-          "name": "Cute",
+          "name": ":pink_heart: Cute",
           "color": "#FFEA00",
           "description": "When killing a mob it has a 5% chance to cast Charm around it",
           "icon": "the_vault:gui/modifiers/kill_charm"
@@ -593,7 +593,7 @@
           "probability": 1.0
         },
         "display": {
-          "name": "Charming",
+          "name": ":pink_heart: Charming",
           "color": "#FFEA00",
           "description": "When killing a mob it will cast Charm around it",
           "icon": "the_vault:gui/modifiers/kill_charm"
@@ -606,7 +606,7 @@
           "probability": 0.05
         },
         "display": {
-          "name": "Hunterino",
+          "name": ":eye: Hunterino",
           "color": "#FFEA00",
           "description": "Mobs have a chance to cast Hunter on death",
           "icon": "the_vault:gui/modifiers/kill_hunter"
@@ -633,7 +633,7 @@
           "lootTable": "the_vault:bronze_table"
         },
         "display": {
-          "name": "Coin Explosion",
+          "name": ":bronze: Coin Explosion",
           "color": "#FFEA00",
           "description": "Killing a mob will have it drop bronze or silver!",
           "icon": "the_vault:gui/modifiers/kill_coin"
@@ -646,7 +646,7 @@
           "percentage": 0.1
         },
         "display": {
-          "name": "Opulent",
+          "name": ":vault_nugget: Opulent",
           "color": "#ffcc73",
           "description": "+10% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -658,7 +658,7 @@
           "percentage": 1.0
         },
         "display": {
-          "name": "Opulent",
+          "name": ":vault_nugget: Opulent",
           "color": "#ffcc73",
           "description": "+100% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -670,7 +670,7 @@
           "percentage": 0.1
         },
         "display": {
-          "name": "Bingo Quantity",
+          "name": ":vault_nugget: Bingo Quantity",
           "color": "#ffcc73",
           "description": "+10% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -682,7 +682,7 @@
           "percentage": 0.05
         },
         "display": {
-          "name": "Generous",
+          "name": ":vault_nugget: Generous",
           "color": "#ffbf50",
           "description": "+5% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -694,7 +694,7 @@
           "percentage": 0.05
         },
         "display": {
-          "name": "Generous",
+          "name": ":vault_ingot:Generous",
           "color": "#ffbf50",
           "description": "+5% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -707,7 +707,7 @@
           "filter": "the_vault:trinket"
         },
         "display": {
-          "name": "Trinket Chance",
+          "name": ":Trinky: Trinket Chance",
           "color": "#38C9C0",
           "description": "+10% Trinket Chance",
           "descriptionFormatted": "+%d%% Trinket Chance",
@@ -719,7 +719,7 @@
           "percentage": 0.02
         },
         "display": {
-          "name": "Soul Item Quantity",
+          "name": ":vault_dust: Soul Item Quantity",
           "color": "#38C9C0",
           "description": "+2% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -731,7 +731,7 @@
           "percentage": -0.1
         },
         "display": {
-          "name": "Pilfered",
+          "name": ":cry: Pilfered",
           "color": "#a54726",
           "description": "Item quantity reduced by 10%",
           "descriptionFormatted": "Item quantity reduced by %d%%",
@@ -743,7 +743,7 @@
           "percentage": -0.5
         },
         "display": {
-          "name": "Baren",
+          "name": ":sob: Baren",
           "color": "#a54726",
           "description": "Chests in this vault are only half filled",
           "descriptionFormatted": "Chests in this vault are only half filled",
@@ -755,7 +755,7 @@
           "percentage": 0.5
         },
         "display": {
-          "name": "Hoard",
+          "name": ":omega_pog_gif: Hoard",
           "color": "#ffaf23",
           "description": "+50% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -767,7 +767,7 @@
           "percentage": 0.01
         },
         "display": {
-          "name": "Delicious",
+          "name": ":cake: Delicious",
           "color": "#38C9C0",
           "description": "+1% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -779,7 +779,7 @@
           "percentage": -0.25
         },
         "display": {
-          "name": "Poor",
+          "name": ":crying_cat_face: Poor",
           "color": "#38C9C0",
           "description": "-25% Item Quantity",
           "descriptionFormatted": "-%d%% Item Quantity",
@@ -791,7 +791,7 @@
           "percentage": 0.25
         },
         "display": {
-          "name": "Tenos' Favour",
+          "name": ":tenos: Tenos' Favour",
           "color": "#55FFFF",
           "description": "Chests contain more loot",
           "descriptionFormatted": "+25%% Item Quantity",
@@ -805,7 +805,7 @@
           "percentage": 0.01
         },
         "display": {
-          "name": "Sweet",
+          "name": ":cake: Sweet",
           "color": "#b3ff20",
           "description": "+1% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -817,7 +817,7 @@
           "percentage": 2.0
         },
         "display": {
-          "name": "Rarity",
+          "name": ":super_luck: Rarity",
           "color": "#b3ff20",
           "description": "+200% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -829,7 +829,7 @@
           "percentage": 0.1
         },
         "display": {
-          "name": "Bingo Rarity",
+          "name": ":four_leaf_clover: Bingo Rarity",
           "color": "#b3ff20",
           "description": "+10% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -841,7 +841,7 @@
           "percentage": 0.01
         },
         "display": {
-          "name": "Sweet",
+          "name": ":cake: Sweet",
           "color": "#b3ff20",
           "description": "+1% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -853,7 +853,7 @@
           "percentage": 0.02
         },
         "display": {
-          "name": "Soul Rarity",
+          "name": ":cake: Soul Rarity",
           "color": "#b3ff20",
           "description": "+2% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -865,7 +865,7 @@
           "percentage": -0.1
         },
         "display": {
-          "name": "Archaic",
+          "name": ":older_adult: Archaic",
           "color": "#f3ff70",
           "description": "-10% Item Rarity",
           "descriptionFormatted": "-%d%% Item Rarity",
@@ -877,7 +877,7 @@
           "percentage": -0.25
         },
         "display": {
-          "name": "Mediocre",
+          "name": ":older_man: Mediocre",
           "color": "#896760",
           "description": "-25% Item Rarity",
           "descriptionFormatted": "-%d%% Item Rarity",
@@ -889,7 +889,7 @@
           "percentage": 0.05
         },
         "display": {
-          "name": "Vintage",
+          "name": ":violin: Vintage",
           "color": "#bc8f8f",
           "description": "+5% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -901,7 +901,7 @@
           "percentage": 0.1
         },
         "display": {
-          "name": "Lucky",
+          "name": ":four_leaf_clover: Lucky",
           "color": "#f3ff70",
           "description": "+10% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -913,7 +913,7 @@
           "percentage": 0.25
         },
         "display": {
-          "name": "Pristine",
+          "name": ":four_leaf_clover: Pristine",
           "color": "#f0ff4a",
           "description": "+25% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -925,7 +925,7 @@
           "percentage": 0.5
         },
         "display": {
-          "name": "Tenos' Favour",
+          "name": ":tenos: Tenos' Favour",
           "color": "#55FFFF",
           "description": "+50% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -937,7 +937,7 @@
           "percentage": 0.5
         },
         "display": {
-          "name": "Fortuitous",
+          "name": ":super_luck: Fortuitous",
           "color": "#edff26",
           "description": "+50% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -949,7 +949,7 @@
           "percentage": 1.0
         },
         "display": {
-          "name": "Treasure",
+          "name": ":super_luck: Treasure",
           "color": "#eaff00",
           "description": "+100% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -961,7 +961,7 @@
           "percentage": -0.5
         },
         "display": {
-          "name": "Unlucky",
+          "name": ":unlucky: Unlucky",
           "color": "#b3ff20",
           "description": "-50% Item Rarity",
           "descriptionFormatted": "-%d%% Item Rarity",
@@ -976,7 +976,7 @@
           }
         },
         "display": {
-          "name": "Tenos' Favour",
+          "name": ":tenos: Tenos' Favour",
           "color": "#55FFFF",
           "description": "+1% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
@@ -992,7 +992,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Critical Mobs",
+          "name": ":knife: Critical Mobs",
           "color": "#dc693c",
           "description": "+7.5% Mob Critical Strike Chance",
           "descriptionFormatted": "+7.5% Mob Critical Strike Chance",
@@ -1006,7 +1006,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Critical",
+          "name": ":knife: Critical",
           "color": "#dc693c",
           "description": "+15% Mob Critical Strike Chance",
           "descriptionFormatted": "+15% Mob Critical Strike Chance",
@@ -1020,7 +1020,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Lethal",
+          "name": ":knife: Lethal",
           "color": "#dc693c",
           "description": "Mobs in this vault will always hit critical strikes",
           "descriptionFormatted": "Mobs in this vault will always hit critical strikes",
@@ -1034,7 +1034,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Chunky Mobs",
+          "name": ":anatomical_heart: Chunky Mobs",
           "color": "#dc693c",
           "description": "+10% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
@@ -1048,7 +1048,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Chunky Mobs",
+          "name": ":anatomical_heart: Chunky Mobs",
           "color": "#dc693c",
           "description": "+20% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
@@ -1062,7 +1062,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Lean Mobs",
+          "name": ":weight_lifter: Lean Mobs",
           "color": "#D4E157",
           "description": "-20% Mob Health",
           "descriptionFormatted": "-%d%% Mob Health",
@@ -1076,7 +1076,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Heavy",
+          "name": ":anchor: Heavy",
           "color": "#dc693c",
           "description": "+1% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
@@ -1090,7 +1090,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Heavy",
+          "name": ":anchor: Heavy",
           "color": "#dc693c",
           "description": "+0,05% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
@@ -1104,7 +1104,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Angry Mobs",
+          "name": ":anger: Angry Mobs",
           "color": "#da6d5a",
           "description": "+10% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
@@ -1118,7 +1118,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Ruthless Mobs",
+          "name": ":anger: Ruthless Mobs",
           "color": "#da6d5a",
           "description": "+20% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
@@ -1132,7 +1132,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Brutal Mobs",
+          "name": ":dagger_knife: Brutal Mobs",
           "color": "#da6d5a",
           "description": "+50% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
@@ -1146,7 +1146,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Anger",
+          "name": ":anger: Anger",
           "color": "#da6d5a",
           "description": "+8% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
@@ -1160,7 +1160,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Anger",
+          "name": ":anger: Anger",
           "color": "#da6d5a",
           "description": "+1% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
@@ -1174,7 +1174,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Rapid Mobs",
+          "name": ":fast_forward: Rapid Mobs",
           "color": "#f66868",
           "description": "+5% Mob Speed",
           "descriptionFormatted": "+%d%% Mob Speed",
@@ -1188,7 +1188,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Rapid Mobs",
+          "name": ":fast_forward: Rapid Mobs",
           "color": "#f66868",
           "description": "+0,15% Mob Speed",
           "descriptionFormatted": "+%d%% Mob Speed",
@@ -1205,7 +1205,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Fatiguing",
+          "name": ":weary: Fatiguing",
           "color": "#9B3E56",
           "description": "+10% increased chance mobs Fatigue on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Fatigue on hit",
@@ -1220,7 +1220,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Freezing",
+          "name": ":snowflake: Freezing",
           "color": "#2FFBF4",
           "description": "+10% increased chance mobs Slow on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Slow on hit",
@@ -1235,7 +1235,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Poisonous",
+          "name": ":green_heart: Poisonous",
           "color": "#84BF17",
           "description": "+10% increased chance mobs Poison on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Poison on hit",
@@ -1250,7 +1250,7 @@
           "onHitApplyChance": 0.02
         },
         "display": {
-          "name": "Stunning",
+          "name": ":star-struck: Stunning",
           "color": "#5A5851",
           "description": "+2% increased chance mobs Stun on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Stun on hit",
@@ -1265,7 +1265,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Blinding",
+          "name": ":eye-in-speech-bubble: Blinding",
           "color": "#5A5851",
           "description": "+10% increased chance mobs Darkness on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Darkness on hit",
@@ -1280,7 +1280,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Withering",
+          "name": ":black_heart: Withering",
           "color": "#5A5851",
           "description": "+10% increased chance mobs Wither on hit",
           "descriptionFormatted": "+%d%% increased chance mobs Wither on hit",
@@ -1295,7 +1295,7 @@
           "onHitApplyChance": 0.05
         },
         "display": {
-          "name": "Haunting",
+          "name": ":black_heart: Haunting",
           "color": "#5A5851",
           "description": "+5% increased chance mobs will void a small bit of time on hit",
           "descriptionFormatted": "+%d%% increased chance mobs will void a small bit of time on hit",
@@ -1310,7 +1310,7 @@
           "onHitApplyChance": 0.1
         },
         "display": {
-          "name": "Voiding",
+          "name": ":black_heart: Voiding",
           "color": "#5A5851",
           "description": "+10% increased chance mobs will void time on hit",
           "descriptionFormatted": "+%d%% increased chance mobs will void time on hit",
@@ -1327,7 +1327,7 @@
           "doHealthReduction": true
         },
         "display": {
-          "name": "Frenzy",
+          "name": ":frenzy: Frenzy",
           "color": "#FC7C5C",
           "description": "+300% Mob Damage, +10% Mob Speed, Mob Health reduced to 1",
           "icon": "the_vault:gui/modifiers/frenzy"
@@ -1341,7 +1341,7 @@
           "doHealthReduction": true
         },
         "display": {
-          "name": "Overpower",
+          "name": ":omega_pog_gif: Overpower",
           "color": "#FC7C5C",
           "description": "Mobs spawn with 1 heart!",
           "icon": "the_vault:gui/modifiers/overpower"
@@ -1354,7 +1354,7 @@
           "increase": 0.2
         },
         "display": {
-          "name": "Onslaught",
+          "name": ":difficult: Onslaught",
           "color": "#FC7C5C",
           "description": "+20% Mob Spawns",
           "descriptionFormatted": "+%d%% increased amount of mob spawns",
@@ -1366,7 +1366,7 @@
           "increase": 0.1
         },
         "display": {
-          "name": "Onslaught",
+          "name": ":difficult: Onslaught",
           "color": "#FC7C5C",
           "description": "+10% Mob Spawns",
           "descriptionFormatted": "+%d%% increased amount of mob spawns",
@@ -1408,7 +1408,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Draining",
+          "name": ":droplet: Draining",
           "color": "#849dc8",
           "description": "-10% Mana Regeneration",
           "descriptionFormatted": "-%d%% Mana Regeneration",
@@ -1422,7 +1422,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Energizing",
+          "name": ":electric_plug: Energizing",
           "color": "#849dc8",
           "description": "+25% Mana Regeneration",
           "descriptionFormatted": "+%d%% Mana Regeneration",
@@ -1436,7 +1436,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Mana Regen",
+          "name": ":blue_heart: Mana Regen",
           "color": "#849dc8",
           "description": "+500% Mana Regeneration",
           "descriptionFormatted": "+%d%% Mana Regeneration",
@@ -1450,7 +1450,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Mana Leak",
+          "name": ":black_circle: Mana Leak",
           "color": "#849dc8",
           "description": "Players in this vault no longer regenerate mana",
           "descriptionFormatted": "Players in this vault no longer regenerate mana",
@@ -1464,7 +1464,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Healthy",
+          "name": ":heart: Healthy",
           "color": "#FF5555",
           "description": "+2 Hearts",
           "descriptionFormatted": "+%d Hit Points",
@@ -1478,7 +1478,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Injured",
+          "name": ":broken_heart: Injured",
           "color": "#631F1F",
           "description": "-1 Heart",
           "descriptionFormatted": "-%d Hit Points",
@@ -1492,7 +1492,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Wounded",
+          "name": ":broken_heart: Wounded",
           "color": "#631F1F",
           "description": "Removes 5 hearts",
           "descriptionFormatted": "-%d Health",
@@ -1506,7 +1506,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Draining",
+          "name": ":droplet: Draining",
           "color": "#849dc8",
           "description": "-30% Mana Regeneration",
           "descriptionFormatted": "-%d%% Mana Regeneration",
@@ -1520,7 +1520,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Drained",
+          "name": ":droplet: Drained",
           "color": "#849dc8",
           "description": "-70% Mana Regeneration",
           "descriptionFormatted": "-%d%% Mana Regeneration",
@@ -1534,7 +1534,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "Players deal more physical damage in this vault",
           "descriptionFormatted": "+50% Attack Damage",
@@ -1551,7 +1551,7 @@
           }
         },
         "display": {
-          "name": "Velara's Favour",
+          "name": ":velara: Velara's Favour",
           "color": "#FF5555",
           "description": "+1% Max Health",
           "descriptionFormatted": "+%d%% Max Health",
@@ -1568,7 +1568,7 @@
           }
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#FFAA00",
           "description": "+1% Mana Regeneration",
           "descriptionFormatted": "+%d%% Mana Regeneration",
@@ -1582,7 +1582,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#FFAA00",
           "description": "+100% Mana Regeneration",
           "descriptionFormatted": "+%d%% Mana Regeneration",
@@ -1599,7 +1599,7 @@
           }
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#FFAA00",
           "description": "+1% Max Mana",
           "descriptionFormatted": "+%d%% Max Mana",
@@ -1616,7 +1616,7 @@
           }
         },
         "display": {
-          "name": "Mana Void",
+          "name": ":black_circle: Mana Void",
           "color": "#50426a",
           "description": "-40% Max Mana",
           "descriptionFormatted": "+%d%% Max Mana",
@@ -1630,7 +1630,7 @@
           "durabilityDamageTakenMultiplier": 1.2
         },
         "display": {
-          "name": "Frail",
+          "name": ":chestplate: Frail",
           "color": "#7B7E7F",
           "description": "+20% Durability Damage",
           "descriptionFormatted": "+%d%% Durability Damage",
@@ -1642,7 +1642,7 @@
           "durabilityDamageTakenMultiplier": 1.4
         },
         "display": {
-          "name": "Acidic",
+          "name": ":chestplate: Acidic",
           "color": "#7B7E7F",
           "description": "+40% Durability Damage",
           "descriptionFormatted": "+%d%% Durability Damage",
@@ -1654,7 +1654,7 @@
           "durabilityDamageTakenMultiplier": 2.0
         },
         "display": {
-          "name": "Corrosive",
+          "name": ":chestplate: Corrosive",
           "color": "#7B7E7F",
           "description": "+100% Durability Damage",
           "descriptionFormatted": "+%d%% Durability Damage",
@@ -1695,7 +1695,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Hunger",
+          "name": ":meat_on_bone: Hunger",
           "color": "#E8DACD",
           "description": "Hunger",
           "descriptionFormatted": "+%d Hunger",
@@ -1725,7 +1725,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Slowed",
+          "name": ":footprints: Slowed",
           "color": "#4C6786",
           "description": "+1 Slowness",
           "descriptionFormatted": "+%d Slowness",
@@ -1740,7 +1740,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Slowed T2",
+          "name": ":footprints: Slowed T2",
           "color": "#4C6786",
           "description": "+2 Slowness",
           "descriptionFormatted": "+%d Slowness",
@@ -1785,7 +1785,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Speedy",
+          "name": ":athletic_shoe: Speedy",
           "color": "#00CDFF",
           "description": "+1 Speed",
           "descriptionFormatted": "+%d Speed",
@@ -1800,7 +1800,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Swift",
+          "name": ":athletic_shoe: Swift",
           "color": "#FFE068",
           "description": "+1 Speed",
           "descriptionFormatted": "+%d Speed",
@@ -1815,7 +1815,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#d89e01",
           "description": "Players move faster in this vault! (+2 Speed)",
           "descriptionFormatted": "Players move faster in this vault! (+2 Speed)",
@@ -1830,7 +1830,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Tailwind",
+          "name": ":dash: Tailwind",
           "color": "#fbed3f",
           "description": "Players move faster in this vault! (+2 Speed)",
           "descriptionFormatted": "Players move faster in this vault! (+3 Speed)",
@@ -1845,7 +1845,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Stronk",
+          "name": ":muscle: Stronk",
           "color": "#d73b46",
           "description": "+1 Strength",
           "descriptionFormatted": "+%d Strength",
@@ -1860,7 +1860,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Strength",
+          "name": ":muscle: Strength",
           "color": "#d73b46",
           "description": "+1 Strength",
           "descriptionFormatted": "+%d Strength",
@@ -1875,7 +1875,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Mining Fatigue",
+          "name": ":weary: Mining Fatigue",
           "color": "#E8E9E1",
           "description": "+1 Mining Fatigue",
           "descriptionFormatted": "+%d Mining Fatigue",
@@ -1890,7 +1890,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Mining Fatigue T2",
+          "name": ":weary: Mining Fatigue T2",
           "color": "#E8E9E1",
           "description": "+3 Mining Fatigue",
           "descriptionFormatted": "+%d Mining Fatigue",
@@ -1905,7 +1905,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Weakened",
+          "name": ":tired_face: Weakened",
           "color": "#9F5300",
           "description": "+1 Weakness",
           "descriptionFormatted": "+%d Weakness",
@@ -1920,7 +1920,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Weakened T2",
+          "name": ":tired_face: Weakened T2",
           "color": "#9F5300",
           "description": "+3 Weakness",
           "descriptionFormatted": "+%d Weakness",
@@ -1935,7 +1935,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Weakened T3",
+          "name": ":tired_face: Weakened T3",
           "color": "#9F5300",
           "description": "+6 Weakness",
           "descriptionFormatted": "+%d Weakness",
@@ -1953,7 +1953,7 @@
           }
         },
         "display": {
-          "name": "Velara's Favour",
+          "name": ":velara: Velara's Favour",
           "color": "#55FF55",
           "description": "+1 Regeneration",
           "descriptionFormatted": "+%d Regeneration",
@@ -1968,7 +1968,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Regeneration",
+          "name": ":heartpulse: Regeneration",
           "color": "#55FF55",
           "description": "+1 Regeneration",
           "descriptionFormatted": "+%d Regeneration",
@@ -1983,7 +1983,7 @@
           "type": "icon_only"
         },
         "display": {
-          "name": "Regeneration",
+          "name": ":heartpulse: Regeneration",
           "color": "#55FF55",
           "description": "+3 Regeneration",
           "descriptionFormatted": "+%d Regeneration",
@@ -2000,7 +2000,7 @@
           "isInstantRevival": false
         },
         "display": {
-          "name": "1-UP",
+          "name": ":heartbeat: 1-UP",
           "color": "#3ffb9c",
           "description": "If you die, you will not lose your items, no experience penalty.",
           "icon": "the_vault:gui/modifiers/afterlife"
@@ -2014,7 +2014,7 @@
           "isInstantRevival": false
         },
         "display": {
-          "name": "Afterlife",
+          "name": ":afterlife: Afterlife",
           "color": "#0FA6E3",
           "description": "You will gain 50% less experience in this vault, but if you die you will keep your inventory and receive a durability penalty.",
           "icon": "the_vault:gui/modifiers/afterlife"
@@ -2028,7 +2028,7 @@
           "isInstantRevival": true
         },
         "display": {
-          "name": "Phoenix",
+          "name": ":phoenix: Phoenix",
           "color": "#FF8900",
           "description": "If killed in a vault you will be revived instantly and the Phoenix modifier will fizzle",
           "icon": "the_vault:gui/modifiers/phoenix"
@@ -2042,7 +2042,7 @@
           "isInstantRevival": false
         },
         "display": {
-          "name": "Beginner's Grace",
+          "name": ":yellow_heart: Beginner's Grace",
           "color": "#FF8900",
           "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
@@ -2056,7 +2056,7 @@
           "isInstantRevival": false
         },
         "display": {
-          "name": "Casual Mode",
+          "name": ":yellow_heart: Casual Mode",
           "color": "#FF8900",
           "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
@@ -2067,7 +2067,7 @@
       "the_vault:locked": {
         "properties": {},
         "display": {
-          "name": "Locked",
+          "name": ":locked: Locked",
           "color": "#FF0000",
           "description": "Vault can't be bailed",
           "icon": "the_vault:gui/modifiers/raffle"
@@ -2076,7 +2076,7 @@
       "the_vault:soul_locked": {
         "properties": {},
         "display": {
-          "name": "Locked",
+          "name": ":locked: Locked",
           "color": "#FF0000",
           "description": "This vault can not be exited without completing it.",
           "icon": "the_vault:gui/modifiers/raffle"
@@ -2085,7 +2085,7 @@
       "the_vault:raffle": {
         "properties": {},
         "display": {
-          "name": "Raffle",
+          "name": ":locked: Raffle",
           "color": "#C5001B",
           "description": "Locks the vault",
           "icon": "the_vault:gui/modifiers/raffle"
@@ -2110,7 +2110,7 @@
           "addend": 0.20
         },
         "display": {
-          "name": "Velara's Domain",
+          "name": ":velara: Velara's Domain",
           "color": "#54fc54",
           "description": "+20% Velara Affinity",
           "descriptionFormatted": "%d%% Velara Affinity",
@@ -2123,7 +2123,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Idona's Domain",
+          "name": ":idona: Idona's Domain",
           "color": "#d80000",
           "description": "+20% Idona Affinity",
           "descriptionFormatted": "%d%% Idona Affinity",
@@ -2136,7 +2136,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Tenos' Domain",
+          "name": ":tenos: Tenos' Domain",
           "color": "#009dde",
           "description": "+20% Tenos Affinity",
           "descriptionFormatted": "%d%% Tenos Affinity",
@@ -2149,7 +2149,7 @@
           "addend": 0.2
         },
         "display": {
-          "name": "Wendarr's Domain",
+          "name": ":wendarr: Wendarr's Domain",
           "color": "#009dde",
           "description": "+20% Wendarr Affinity",
           "descriptionFormatted": "%d%% Wendarr Affinity",
@@ -2162,7 +2162,7 @@
           "addend": 0.01
         },
         "display": {
-          "name": "Velara's Tear",
+          "name": ":velara: Velara's Tear",
           "color": "#54fc54",
           "description": "+1% Velara Affinity",
           "descriptionFormatted": "%d%% Velara Affinity",
@@ -2175,7 +2175,7 @@
           "addend": 0.01
         },
         "display": {
-          "name": "Idona's Tear",
+          "name": ":idona: Idona's Tear",
           "color": "#d80000",
           "description": "+1% Idona Affinity",
           "descriptionFormatted": "%d%% Idona Affinity",
@@ -2188,7 +2188,7 @@
           "addend": 0.01
         },
         "display": {
-          "name": "Tenos' Tear",
+          "name": ":tenos: Tenos' Tear",
           "color": "#009dde",
           "description": "+1% Tenos Affinity",
           "descriptionFormatted": "%d%% Tenos Affinity",
@@ -2201,7 +2201,7 @@
           "addend": 0.01
         },
         "display": {
-          "name": "Wendarr's Tear",
+          "name": ":wendarr: Wendarr's Tear",
           "color": "#dea700",
           "description": "+1% Wendarr Affinity",
           "descriptionFormatted": "%d%% Wendarr Affinity",
@@ -2214,7 +2214,7 @@
           "addend": -0.1
         },
         "display": {
-          "name": "Clumsy",
+          "name": ":triumph: Clumsy",
           "color": "#CB866D",
           "description": "-10% Parry",
           "descriptionFormatted": "%d%% Parry",
@@ -2227,7 +2227,7 @@
           "addend": 10.0
         },
         "display": {
-          "name": "Safe Zone",
+          "name": ":safety_vest: Safe Zone",
           "color": "#A3E2F5",
           "description": "+1000% Trap Disarm",
           "descriptionFormatted": "%d%% Trap Disarm",
@@ -2240,7 +2240,7 @@
           "addend": 0.25
         },
         "display": {
-          "name": "Disarming",
+          "name": ":lock_with_ink_pen: Disarming",
           "color": "#cb9be5",
           "description": "+25% Trap Disarm chance",
           "descriptionFormatted": "+%d%% Trap Disarm",
@@ -2253,7 +2253,7 @@
           "addend": -0.25
         },
         "display": {
-          "name": "Trapped",
+          "name": ":trapped: Trapped",
           "color": "#CB866D",
           "description": "-25% Trap Disarm & Increases traps while below 0%",
           "descriptionFormatted": "%d%% Trap Disarm",
@@ -2266,7 +2266,7 @@
           "addend": -0.5
         },
         "display": {
-          "name": "Clumsy",
+          "name": ":trapped: Clumsy",
           "color": "#CB866D",
           "description": "-50% Trap Disarm & Increases traps while below 0%",
           "descriptionFormatted": "%d%% Trap Disarm",
@@ -2279,7 +2279,7 @@
           "addend": -0.1
         },
         "display": {
-          "name": "Inert",
+          "name": ":sloth: Inert",
           "color": "#6DACB5",
           "description": "-10% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
@@ -2292,7 +2292,7 @@
           "addend": 0.5
         },
         "display": {
-          "name": "Inert",
+          "name": ":wendarr: Inert",
           "color": "#6DACB5",
           "description": "+50% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
@@ -2305,7 +2305,7 @@
           "addend": -0.25
         },
         "display": {
-          "name": "Rended",
+          "name": ":sloth: Rended",
           "color": "#6DACB5",
           "description": "-25% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
@@ -2318,7 +2318,7 @@
           "addend": -0.5
         },
         "display": {
-          "name": "Nullified",
+          "name": ":black_large_square: Nullified",
           "color": "#6DACB5",
           "description": "-50% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
@@ -2331,7 +2331,7 @@
           "addend": -0.1
         },
         "display": {
-          "name": "Vulnerable",
+          "name": ":difficult: Vulnerable",
           "color": "#CA9A5B",
           "description": "-10% Resistance",
           "descriptionFormatted": "%d%% Resistance",
@@ -2344,7 +2344,7 @@
           "addend": -0.25
         },
         "display": {
-          "name": "Dangerous",
+          "name": ":difficult: Dangerous",
           "color": "#CA9A5B",
           "description": "-25% Resistance",
           "descriptionFormatted": "%d%% Resistance",
@@ -2357,7 +2357,7 @@
           "addend": -0.5
         },
         "display": {
-          "name": "Piercing",
+          "name": ":impossible: Piercing",
           "color": "#CA9A5B",
           "description": "-50% Resistance",
           "descriptionFormatted": "%d%% Resistance",
@@ -2370,7 +2370,7 @@
           "addend": 0.05
         },
         "display": {
-          "name": "Copiously",
+          "name": ":gem_gorginite: Copiously",
           "color": "#F74780",
           "description": "+5% Copiously",
           "descriptionFormatted": "%d%% Copiously",
@@ -2383,7 +2383,7 @@
           "addend": 0.25
         },
         "display": {
-          "name": "Orematic",
+          "name": ":gem_pog_gif: Orematic",
           "color": "#F74780",
           "description": "+25% Copiously",
           "descriptionFormatted": "%d%% Copiously",
@@ -2396,7 +2396,7 @@
           "addend": 0.05
         },
         "display": {
-          "name": "Blood Sucking",
+          "name": ":vampire: Blood Sucking",
           "color": "#FF5555",
           "description": "+5% Leech",
           "descriptionFormatted": "+%d%% Leech",
@@ -2412,7 +2412,7 @@
           }
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "+0.5% Leech",
           "descriptionFormatted": "+%d%% Leech",
@@ -2425,7 +2425,7 @@
           "addend": -0.2
         },
         "display": {
-          "name": "Velara's Wrath",
+          "name": ":velara: Velara's Wrath",
           "color": "#849dc8",
           "description": "-20% Healing Efficiency",
           "descriptionFormatted": "-%d%% Healing Efficiency",
@@ -2438,7 +2438,7 @@
           "addend": -0.20
         },
         "display": {
-          "name": "Grievous Wounds",
+          "name": ":broken_heart: Grievous Wounds",
           "color": "#ce5200",
           "description": "-20% Healing Efficiency",
           "descriptionFormatted": "%d%% Healing Efficiency",
@@ -2451,7 +2451,7 @@
           "addend": -0.8
         },
         "display": {
-          "name": "Enervated",
+          "name": ":broken_heart: Enervated",
           "color": "#849dc8",
           "description": "Healing in this vault is very inefficient",
           "descriptionFormatted": "Healing in this vault is very inefficient",
@@ -2464,7 +2464,7 @@
           "addend": 0.5
         },
         "display": {
-          "name": "Velara's Favour",
+          "name": ":velara: Velara's Favour",
           "color": "#55FF55",
           "description": "Healing is more efficient! (+50% Healing Effectiveness)",
           "descriptionFormatted": "Healing is more efficient! (+%d%% Healing Effectiveness)",
@@ -2480,7 +2480,7 @@
           }
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#FF5555",
           "description": "+0.5% Cooldown Reduction",
           "descriptionFormatted": "+%d%% Cooldown Reduction",
@@ -2494,7 +2494,7 @@
           "attributeStackingStrategy": "STACK"
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "Players deal more ability damage in this vault",
           "descriptionFormatted": "+50% Ability Power",
@@ -2508,7 +2508,7 @@
           "levelAdded": 3
         },
         "display": {
-          "name": "Difficult",
+          "name": ":difficult: Difficult",
           "color": "#E20000",
           "description": "+3 Vault Level",
           "descriptionFormatted": "+%d Vault Level",
@@ -2535,7 +2535,7 @@
           "chance": 0.2
         },
         "display": {
-          "name": "Plentiful",
+          "name": ":plentiful: Plentiful",
           "color": "#FF85FF",
           "description": "+20% Vault Ores",
           "descriptionFormatted": "+%d%% Vault Ores",
@@ -2548,7 +2548,7 @@
           "chance": 0.02
         },
         "display": {
-          "name": "Soul Plentiful",
+          "name": ":plentiful: Soul Plentiful",
           "color": "#FF85FF",
           "description": "+5% Vault Ores",
           "descriptionFormatted": "+%d%% Vault Ores",
@@ -2561,7 +2561,7 @@
           "chance": 0.05
         },
         "display": {
-          "name": "Soul Plentiful",
+          "name": ":plentiful: Soul Plentiful",
           "color": "#FF85FF",
           "description": "+5% Vault Ores",
           "descriptionFormatted": "+%d%% Vault Ores",
@@ -2575,7 +2575,7 @@
           "timeAddedTicks": 1200
         },
         "display": {
-          "name": "Extended",
+          "name": ":clock230: Extended",
           "color": "#2F86AE",
           "description": "+1 minute Vault Time",
           "descriptionFormatted": "+%d minutes Vault Time",
@@ -2587,7 +2587,7 @@
           "timeAddedTicks": -1200
         },
         "display": {
-          "name": "Shortened",
+          "name": ":stopwatch: Shortened",
           "color": "#2F86AE",
           "description": "-1 minute Vault Time",
           "descriptionFormatted": "-%d minutes Vault Time",
@@ -2599,7 +2599,7 @@
           "timeAddedTicks": 600
         },
         "display": {
-          "name": "Cherry",
+          "name": ":clock1: Cherry",
           "color": "#2F86AE",
           "description": "+30 seconds Vault Time",
           "descriptionFormatted": "+30 seconds Vault Time",
@@ -2611,7 +2611,7 @@
           "timeAddedTicks": -1200
         },
         "display": {
-          "name": "Rushed",
+          "name": ":stopwatch: Rushed",
           "color": "#FFCD6F",
           "description": "-1 minute Vault Time",
           "descriptionFormatted": "-%d minutes Vault Time",
@@ -2643,7 +2643,7 @@
           "swapLeftAndRight": false
         },
         "display": {
-          "name": "Crab Walk",
+          "name": ":crab: Crab Walk",
           "color": "#7738C9",
           "description": "The only way is sideways",
           "descriptionFormatted": "The only way is sideways",
@@ -2708,7 +2708,7 @@
           "addend": 0.20
         },
         "display": {
-          "name": "Accustomed",
+          "name": ":book: Accustomed",
           "color": "#DB7C00",
           "description": "+20% Vault Experience",
           "descriptionFormatted": "+%d%% Vault Experience",
@@ -2720,7 +2720,7 @@
           "addend": 1.0
         },
         "display": {
-          "name": "Enlightened",
+          "name": ":books: Enlightened",
           "color": "#DB7C00",
           "description": "+100% Vault Experience",
           "descriptionFormatted": "+%d%% Vault Experience",
@@ -2747,7 +2747,7 @@
           "level": 0
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#d89e01",
           "description": "Wendarr Favoured",
           "icon": "the_vault:gui/modifiers/god_token_wendarr"
@@ -2759,7 +2759,7 @@
           "level": 0
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#d80000",
           "description": "Idona Favoured",
           "icon": "the_vault:gui/modifiers/god_token_idona"
@@ -2771,7 +2771,7 @@
           "level": 0
         },
         "display": {
-          "name": "Tenos's Favour",
+          "name": ":tenos: Tenos's Favour",
           "color": "#009dde",
           "description": "Tenos Favoured",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
@@ -2783,7 +2783,7 @@
           "level": 0
         },
         "display": {
-          "name": "Velara's Favour",
+          "name": ":velara: Velara's Favour",
           "color": "#04e113",
           "description": "Velara Favoured",
           "icon": "the_vault:gui/modifiers/god_token_velara"
@@ -2795,7 +2795,7 @@
           "level": 0
         },
         "display": {
-          "name": "Random Negative",
+          "name": ":question: Random Negative",
           "color": "#fe3333",
           "description": "Unknown Negative Modifier",
           "icon": "the_vault:gui/modifiers/impossible"
@@ -2807,7 +2807,7 @@
           "level": 0
         },
         "display": {
-          "name": "Random Positive",
+          "name": ":question: Random Positive",
           "color": "#00FF00",
           "description": "Unknown Positive Modifier",
           "icon": "the_vault:gui/modifiers/impossible"
@@ -2819,7 +2819,7 @@
           "level": 0
         },
         "display": {
-          "name": "Random Harsh Negative",
+          "name": ":question: Random Harsh Negative",
           "color": "#fe3333",
           "description": "Unknown Negative Modifier",
           "icon": "the_vault:gui/modifiers/impossible"
@@ -2833,7 +2833,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Gilded",
+          "name": ":gilded: Gilded",
           "color": "#FFEC00",
           "description": "+25% Gilded Chests",
           "descriptionFormatted": "+%d%% Gilded Chests",
@@ -2846,7 +2846,7 @@
           "chance": 0.01
         },
         "display": {
-          "name": "Gilded",
+          "name": ":gilded: Gilded",
           "color": "#FFEC00",
           "description": "+1% Gilded Chests",
           "descriptionFormatted": "+%d%% Gilded Chests",
@@ -2859,7 +2859,7 @@
           "chance": 0.035
         },
         "display": {
-          "name": "Gilded",
+          "name": ":gilded: Gilded",
           "color": "#FFEC00",
           "description": "+5% Gilded Chests",
           "descriptionFormatted": "+%d%% Gilded Chests",
@@ -2872,7 +2872,7 @@
           "chance": 0.01
         },
         "display": {
-          "name": "Ornate",
+          "name": ":chains: Ornate",
           "color": "#FFEC00",
           "description": "+1% Ornate Chests",
           "descriptionFormatted": "+%d%% Ornate Chests",
@@ -2885,7 +2885,7 @@
           "chance": 0.035
         },
         "display": {
-          "name": "Ornate",
+          "name": ":chains: Ornate",
           "color": "#FFEC00",
           "description": "+5% Ornate Chests",
           "descriptionFormatted": "+%d%% Ornate Chests",
@@ -2898,7 +2898,7 @@
           "chance": 0.01
         },
         "display": {
-          "name": "Living",
+          "name": ":potted_plant: Living",
           "color": "#38d800",
           "description": "+5% Living Chests",
           "descriptionFormatted": "+%d%% Living Chests",
@@ -2911,7 +2911,7 @@
           "chance": 0.035
         },
         "display": {
-          "name": "Living",
+          "name": ":potted_plant: Living",
           "color": "#38d800",
           "description": "+5% Living Chests",
           "descriptionFormatted": "+%d%% Living Chests",
@@ -2924,7 +2924,7 @@
           "chance": 0.01
         },
         "display": {
-          "name": "Wooden",
+          "name": ":wood: Wooden",
           "color": "#c7b281",
           "description": "+5% Wooden Chests",
           "descriptionFormatted": "+%d%% Wooden Chests",
@@ -2937,7 +2937,7 @@
           "chance": 0.035
         },
         "display": {
-          "name": "Wooden",
+          "name": ":wood: Wooden",
           "color": "#c7b281",
           "description": "+5% Wooden Chests",
           "descriptionFormatted": "+%d%% Wooden Chests",
@@ -2950,7 +2950,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Living",
+          "name": ":potted_plant: Living",
           "color": "#38d800",
           "description": "+25% Living Chests",
           "descriptionFormatted": "+%d%% Living Chests",
@@ -2963,7 +2963,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Ornate",
+          "name": ":chains: Ornate",
           "color": "#c90d73",
           "description": "+25% Ornate Chests",
           "descriptionFormatted": "+%d%% Ornate Chests",
@@ -2976,7 +2976,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Wooden",
+          "name": ":wood: Wooden",
           "color": "#c7b281",
           "description": "+25% Wooden Chests",
           "descriptionFormatted": "+%d%% Wooden Chests",
@@ -2989,7 +2989,7 @@
           "chance": 0.25
         },
         "display": {
-          "name": "Wealthy",
+          "name": ":wealthy: Wealthy",
           "color": "#ffae00",
           "description": "+25% Coin Piles",
           "descriptionFormatted": "+%d%% Coin Piles",
@@ -3002,7 +3002,7 @@
           "chance": 0.035
         },
         "display": {
-          "name": "Wealthy",
+          "name": ":wealthy: Wealthy",
           "color": "#ffae00",
           "description": "+10% Coin Piles",
           "descriptionFormatted": "+%d%% Coin Piles",
@@ -3015,7 +3015,7 @@
           "chance": 0.01
         },
         "display": {
-          "name": "Wealthy",
+          "name": ":wealthy: Wealthy",
           "color": "#ffae00",
           "description": "+10% Coin Piles",
           "descriptionFormatted": "+%d%% Coin Piles",
@@ -3042,7 +3042,7 @@
           "chance": 0.1
         },
         "display": {
-          "name": "Champion's Abode",
+          "name": ":weight_lifter: Champion's Abode",
           "color": "#c346aa",
           "description": "+10% Chance for Champions to Spawn",
           "icon": "the_vault:gui/modifiers/champions_abode"
@@ -3053,7 +3053,7 @@
           "chance": 0.1
         },
         "display": {
-          "name": "Champion's Domain",
+          "name": ":weight_lifter: Champion's Domain",
           "color": "#bbf333",
           "description": "+50% Chance for Champions to Spawn",
           "icon": "the_vault:gui/modifiers/champion_domain"
@@ -3064,7 +3064,7 @@
           "chance": 0.02
         },
         "display": {
-          "name": "More Champions",
+          "name": ":weight_lifter: More Champions",
           "color": "#5ece0c",
           "description": "+2% Chance for Champions to Spawn",
           "icon": "the_vault:gui/modifiers/champion_increase"
@@ -3082,7 +3082,7 @@
           }
         },
         "display": {
-          "name": "Blessed",
+          "name": ":angel: Blessed",
           "color": "#3ffbf4",
           "description": "Adds 20% of each God's affinity.",
           "icon": "the_vault:gui/modifiers/god_token_wendarr"
@@ -3097,7 +3097,7 @@
           }
         },
         "display": {
-          "name": "Safari Bingo!",
+          "name": ":tiger2: Safari Bingo!",
           "color": "#4CAF50",
           "description": "Every Challening BINGO adds 10% item rarity and quantity, and unleashes zoo animals into new rooms.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3113,7 +3113,7 @@
           }
         },
         "display": {
-          "name": "Challenging Bingo!",
+          "name": ":warning: Challenging Bingo!",
           "color": "#B71C1C",
           "description": "Every Challenging BINGO adds 10% item rarity and quantity, and adds 5 stacks of Bingo Challenge, and adds 20% more chance for champions.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3130,7 +3130,7 @@
           }
         },
         "display": {
-          "name": "Boinging Bingo!",
+          "name": ":kangaroo: Boinging Bingo!",
           "color": "#A5D6A7",
           "description": "Every Boinging BINGO adds 10% item rarity and quantity, gets you jumping, and causes some bouncy explosions.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3146,7 +3146,7 @@
           }
         },
         "display": {
-          "name": "Retro Bingo!",
+          "name": ":dancer: Retro Bingo!",
           "color": "#E3F2FD",
           "description": "Every Retro BINGO adds 20% item rarity and quantity, 50% Soul Chance, and spawns mobs like the good old days...",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3161,7 +3161,7 @@
           }
         },
         "display": {
-          "name": "Surprise Bingo!",
+          "name": ":exclamation: Surprise Bingo!",
           "color": "#F9A825",
           "description": "Every Surprise BINGO adds 10% item rarity and quantity, and adds surprises when you open chests...",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3174,7 +3174,7 @@
           }
         },
         "display": {
-          "name": "Enchanted Bingo!",
+          "name": ":sparkles: Enchanted Bingo!",
           "color": "#CE93D8",
           "description": "Every Enchanted BINGO causes a random Enchanted Elixir event to happen every 45 seconds.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3190,7 +3190,7 @@
           }
         },
         "display": {
-          "name": "Cursed Bingo!",
+          "name": ":black_bird: Cursed Bingo!",
           "color": "#546E7A",
           "description": "Every Cursed BINGO adds 10% item rarity and quantity, 25% soul chance, and adds a stack of Cursed! to the vault.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3205,7 +3205,7 @@
           }
         },
         "display": {
-          "name": "Spooky Bingo!",
+          "name": ":ghost: Spooky Bingo!",
           "color": "#616161",
           "description": "Every Spooky BINGO adds 100% Soul Chance plus a 25% chance for a mob to spawn a ghost on death and 3 stacks of Haunting.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3220,7 +3220,7 @@
           }
         },
         "display": {
-          "name": "Infernal Bingo!",
+          "name": ":heart_on_fire: Infernal Bingo!",
           "color": "#9FA8DA",
           "description": "Every Infernal BINGO adds item quantity and item rarity, plus a 2.5% chance for a mob to gain Infernal Modifiers.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3234,7 +3234,7 @@
           }
         },
         "display": {
-          "name": "Sweet Bingo!",
+          "name": ":cake: Sweet Bingo!",
           "color": "#F8BBD0",
           "description": "Every Sweet BINGO adds 20 Cake Layers to the vault, and adds wildly spawning candy mobs.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3253,7 +3253,7 @@
           }
         },
         "display": {
-          "name": "Fungal Bingo!",
+          "name": ":mushroom: Fungal Bingo!",
           "color": "#00695C",
           "description": "Every Fungal BINGO Increases Item Quantity & Rarity by 10%, makes the vault fungal, and gives mobs a chance to poison!",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3272,7 +3272,7 @@
           }
         },
         "display": {
-          "name": "Electrifying Bingo!",
+          "name": ":lightning: Electrifying Bingo",
           "color": "#FCF089",
           "description": "Every Electrifying BINGO Increases Item Quantity & Rarity by 10%, makes the vault stormy, and makes mobs faster.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3291,7 +3291,7 @@
           }
         },
         "display": {
-          "name": "Freezing Bingo!",
+          "name": ":snowflake: Freezing Bingo!",
           "color": "#80DEEA",
           "description": "Every Freezing BINGO Increases Item Quantity & Rarity by 10%, and makes the vault snowy!",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3309,7 +3309,7 @@
           }
         },
         "display": {
-          "name": "Burning Bingo!",
+          "name": ":fire: Burning Bingo!",
           "color": "#EF6C00",
           "description": "Every Burning BINGO Increases Item Quantity & Rarity by 10%, and lights the vault on fire, making mobs angry and hit harder!",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3325,7 +3325,7 @@
           }
         },
         "display": {
-          "name": "Mini Bingo!",
+          "name": ":daycare: Mini Bingo!",
           "color": "#EDD9F0",
           "description": "Every Mini BINGO Increases Item Quantity & Rarity by 10%, makes mobs shrink, and gives them -40% health, and more speed!",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3341,7 +3341,7 @@
           }
         },
         "display": {
-          "name": "Big Bingo!",
+          "name": ":bison: Big Bingo!",
           "color": "#FFC107",
           "description": "Every Big BINGO Increases Item Quantity & Rarity by 10%, makes mobs grow, and gives them 80% more health.",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3356,7 +3356,7 @@
           }
         },
         "display": {
-          "name": "Bonus Bingo!",
+          "name": ":exploding_head: Bonus Bingo!",
           "color": "#E91E63",
           "description": "Every Bonus BINGO Increases Item Quantity & Rarity by 30%, and boosts soul chance by 75%",
           "icon": "the_vault:gui/modifiers/bingo"
@@ -3399,7 +3399,7 @@
           }
         },
         "display": {
-          "name": "Loot Goblin",
+          "name": ":super_luck: Loot Goblin",
           "color": "#bbf333",
           "description": "Doubles all loot and triples its rarity!",
           "icon": "the_vault:gui/modifiers/loot_goblin"
@@ -3414,7 +3414,7 @@
           }
         },
         "display": {
-          "name": "Door Hunter",
+          "name": ":door: Door Hunter",
           "color": "#bbf333",
           "description": "Reveals all doors inside the vault!",
           "icon": "the_vault:gui/modifiers/door_hunter"
@@ -3459,7 +3459,7 @@
           }
         },
         "display": {
-          "name": "Bingo Challenge",
+          "name": ":warning: Bingo Challenge",
           "color": "#ba0000",
           "description": "Increases mob damage, mob health by 20% per stack, increases mob speed by 3.0% per stack, adds 7.5% critical chance to mobs per stack.",
           "icon": "the_vault:gui/modifiers/companion_challenge"
@@ -3475,7 +3475,7 @@
           }
         },
         "display": {
-          "name": "Companion's Challenge",
+          "name": ":warning: Companion's Challenge",
           "color": "#ba0000",
           "description": "Increases mob damage, mob health and mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
           "icon": "the_vault:gui/modifiers/companion_challenge"
@@ -3589,7 +3589,7 @@
           }
         },
         "display": {
-          "name": "All Seeing Eye",
+          "name": ":eyes: All Seeing Eye",
           "color": "#ad2b2b",
           "description": "Grants all hunter modifiers.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
@@ -3671,7 +3671,7 @@
           }
         },
         "display": {
-          "name": "Cake Layer",
+          "name": ":cake: Cake Layer",
           "color": "#f6659b",
           "description": "Increases mob damage, mob speed, soul shards, all chest spawns, coins, the amount of items in the crake and the chance of getting an artifact",
           "icon": "the_vault:gui/modifiers/cake_layer"
@@ -3685,7 +3685,7 @@
           }
         },
         "display": {
-          "name": "Ultimate Regeneration",
+          "name": ":heartpulse: Ultimate Regeneration",
           "color": "#f6659b",
           "description": "Gives +3 Regeneration and +500% Mana Regeneration",
           "icon": "the_vault:gui/modifiers/ultimate_regeneration"
@@ -3698,7 +3698,7 @@
           }
         },
         "display": {
-          "name": "Flame",
+          "name": ":fire: Flame",
           "color": "#19ebef",
           "description": "Your streak of this ascension, each stack increases the difficulty of the objective.",
           "icon": "the_vault:gui/modifiers/flame"
@@ -3728,7 +3728,7 @@
           }
         },
         "display": {
-          "name": "Wendarr's Favour",
+          "name": ":wendarr: Wendarr's Favour",
           "color": "#d89e01",
           "description": "+100% Mana Regeneration & +50% Cooldown Reduction",
           "icon": "the_vault:gui/modifiers/god_token_wendarr"
@@ -3742,7 +3742,7 @@
           }
         },
         "display": {
-          "name": "Idona's Favour",
+          "name": ":idona: Idona's Favour",
           "color": "#FF5555",
           "description": "+50% Damage & +50% Ability Power",
           "icon": "the_vault:gui/modifiers/god_token_idona"
@@ -3756,7 +3756,7 @@
           "ticksPerCheck": 900
         },
         "display": {
-          "name": "Mildly Enchanted",
+          "name": ":sparkles: Mildly Enchanted",
           "color": "#CE93D8",
           "description": "Enchanted events sometimes trigger randomly.",
           "icon": "the_vault:gui/modifiers/enchanted"
@@ -3768,7 +3768,7 @@
           "ticksPerCheck": 20
         },
         "display": {
-          "name": "Enchanted",
+          "name": ":sparkles: Enchanted",
           "color": "#CE93D8",
           "description": "Enchanted events trigger randomly.",
           "icon": "the_vault:gui/modifiers/enchanted"
@@ -3780,7 +3780,7 @@
           "ticksPerCheck": 900
         },
         "display": {
-          "name": "Enchanted",
+          "name": ":sparkles: Enchanted",
           "color": "#CE93D8",
           "description": "Enchanted events trigger every 45 seconds.",
           "icon": "the_vault:gui/modifiers/enchanted"
@@ -3836,7 +3836,7 @@
           ]
         },
         "display": {
-          "name": "Armed",
+          "name": ":bomb: Armed",
           "color": "#33691E",
           "description": "Grenades sometimes drop from chests.",
           "icon": "the_vault:gui/modifiers/fire_grenade"
@@ -4100,7 +4100,7 @@
           ]
         },
         "display": {
-          "name": "Surprise Boxes",
+          "name": ":exclamation: Surprise Boxes",
           "color": "#33691E",
           "description": "Chests sometimes spawn mobs when opened.",
           "icon": "the_vault:gui/modifiers/surprise"
@@ -4384,7 +4384,7 @@
           ]
         },
         "display": {
-          "name": "Retro",
+          "name": ":dancer: Retro",
           "color": "#33691E",
           "description": "Mobs wildly spawn constantly.",
           "icon": "the_vault:gui/modifiers/retro"
@@ -4605,7 +4605,7 @@
           "amount": 3
         },
         "display": {
-          "name": "Raging",
+          "name": ":rage: Raging",
           "color": "#a996ca",
           "description": "Mobs sometimes spawn with infernal mob modifiers.",
           "icon": "the_vault:gui/modifiers/infernal"
@@ -4618,7 +4618,7 @@
           "amount": 2
         },
         "display": {
-          "name": "Infernal",
+          "name": ":heart_on_fire: Infernal",
           "color": "#a996ca",
           "description": "Mobs sometimes spawn with infernal mob modifiers.",
           "icon": "the_vault:gui/modifiers/infernal"
@@ -4662,7 +4662,7 @@
           "chance": 0.75
         },
         "display": {
-          "name": "Daycare",
+          "name": ":daycare: Daycare",
           "color": "#a996ca",
           "description": "Mobs in this vault spawn as baby versions.",
           "icon": "the_vault:gui/modifiers/chunky"
@@ -4729,7 +4729,7 @@
       "the_vault:fading": {
         "properties": {},
         "display": {
-          "name": "Fading",
+          "name": ":broken_heart: Fading",
           "color": "#8f3b3b",
           "description": "Taking damage in this vault removes hearts instead of emptying them.",
           "icon": "the_vault:gui/modifiers/injured"
@@ -4783,7 +4783,7 @@
           ]
         },
         "display": {
-          "name": "Vendoor Hunter",
+          "name": ":door: Vendoor Hunter",
           "color": "#fbd93f",
           "description": "Highlights Vendpor Doors in this vault",
           "icon": "the_vault:gui/modifiers/treasure_doors"
@@ -4800,7 +4800,7 @@
           ]
         },
         "display": {
-          "name": "Treasure Hunter",
+          "name": ":blank_key: Treasure Hunter",
           "color": "#FFEA00",
           "description": "Highlights Treasure Doors in this vault",
           "icon": "the_vault:gui/modifiers/treasure_doors"
@@ -4817,7 +4817,7 @@
           ]
         },
         "display": {
-          "name": "Dungeon Hunter",
+          "name": ":door: Dungeon Hunter",
           "color": "#685086",
           "description": "Highlights Dungeon Doors in this vault",
           "icon": "the_vault:gui/modifiers/dungeon_doors"
