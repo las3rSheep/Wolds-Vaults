@@ -61,7 +61,7 @@
       {
         "attribute": "the_vault:effect_immunity",
         "group": "modImmunity",
-        "identifier": "the_vault:mod_immunity",
+        "identifier": "the_vault:mod_immunity_weakness",
         "tiers": [
           {
             "minLevel": 0,
@@ -70,7 +70,14 @@
             "value": {
               "registryKey": "minecraft:weakness"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_wither",
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -78,7 +85,14 @@
             "value": {
               "registryKey": "minecraft:wither"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_hunger",
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -86,7 +100,14 @@
             "value": {
               "registryKey": "minecraft:hunger"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_slowness",
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -94,25 +115,46 @@
             "value": {
               "registryKey": "minecraft:slowness"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_fatigue",
+        "tiers": [
           {
-            "minLevel": 0,
+            "minLevel": 65,
             "maxLevel": -1,
             "weight": 10,
             "value": {
               "registryKey": "minecraft:mining_fatigue"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_poison",
+        "tiers": [
           {
-            "minLevel": 0,
+            "minLevel": 65,
             "maxLevel": -1,
             "weight": 10,
             "value": {
               "registryKey": "minecraft:poison"
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect_immunity",
+        "group": "modImmunity",
+        "identifier": "the_vault:mod_immunity_time",
+        "tiers": [
           {
-            "minLevel": 0,
+            "minLevel": 80,
             "maxLevel": -1,
             "weight": 10,
             "value": {
@@ -124,18 +166,9 @@
       {
         "attribute": "the_vault:effect",
         "group": "modImmunity",
-        "identifier": "the_vault:potion_effect_plush",
+        "identifier": "the_vault:potion_effect_plush_nv",
         "tags": [],
         "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "effectKey": "minecraft:luck",
-              "amplifier": 1
-            }
-          },
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -144,7 +177,15 @@
               "effectKey": "minecraft:night_vision",
               "amplifier": 1
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_sf",
+        "tags": [],
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -153,7 +194,15 @@
               "effectKey": "minecraft:slow_falling",
               "amplifier": 1
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_cl",
+        "tags": [],
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -162,7 +211,15 @@
               "effectKey": "alexsmobs:clinging",
               "amplifier": 1
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_jb",
+        "tags": [],
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -173,20 +230,89 @@
             }
           },
           {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "minecraft:jump_boost",
+              "amplifier": 3
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "minecraft:jump_boost",
+              "amplifier": 4
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_explosion",
+        "tags": [],
+        "tiers": [
+          {
             "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "cofh_core:explosion_resistance",
+              "amplifier": 4
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "cofh_core:explosion_resistance",
+              "amplifier": 8
+            }
+          },
+          {
+            "minLevel": 65,
             "maxLevel": -1,
             "weight": 10,
             "value": {
               "effectKey": "cofh_core:explosion_resistance",
               "amplifier": 10
             }
-          },
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_breathing",
+        "tags": [],
+        "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
             "weight": 10,
             "value": {
               "effectKey": "minecraft:water_breathing",
+              "amplifier": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "modImmunity",
+        "identifier": "the_vault:potion_effect_plush_saturation",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "minecraft:saturation",
               "amplifier": 1
             }
           },
@@ -196,7 +322,7 @@
             "weight": 10,
             "value": {
               "effectKey": "minecraft:saturation",
-              "amplifier": 1
+              "amplifier": 2
             }
           }
         ]

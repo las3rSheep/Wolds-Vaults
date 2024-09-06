@@ -438,7 +438,7 @@
       "the_vault:fungal": {
         "properties": {
           "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"fungal\"}",
-          "attemptsPerChunk": 8,
+          "attemptsPerChunk": 7,
           "requireConditions": false
         },
         "display": {
@@ -452,7 +452,7 @@
       "the_vault:safari": {
         "properties": {
           "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"safari\"}",
-          "attemptsPerChunk": 8,
+          "attemptsPerChunk": 4,
           "requireConditions": false
         },
         "display": {
@@ -466,7 +466,7 @@
       "the_vault:winter": {
         "properties": {
           "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"frosty\"}",
-          "attemptsPerChunk": 8,
+          "attemptsPerChunk": 7,
           "requireConditions": false
         },
         "display": {
@@ -480,7 +480,7 @@
       "the_vault:electric": {
         "properties": {
           "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"electric\"}",
-          "attemptsPerChunk": 8,
+          "attemptsPerChunk": 6,
           "requireConditions": false
         },
         "display": {

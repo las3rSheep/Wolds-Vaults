@@ -1,6 +1,15 @@
 {
   "tile_processors": [
     {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=\"objective\"]",
+      "output": {
+        "the_vault:block_gem_larimar": 1,
+        "the_vault:block_gem_benitoite": 1,
+        "the_vault:block_gem_wutodie": 1
+      }
+    },
+    {
       "type": "reference",
       "id": "the_vault:generic/vendor_pedestal_placeholder"
     },

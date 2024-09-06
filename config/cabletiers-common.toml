@@ -57,5 +57,5 @@ ultraenergycost = 4
 #
 #Creative Energy Cost Multiplier
 #Range: > 0
-creativeenergycost = 0
+creativeenergycost = 8
 

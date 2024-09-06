@@ -85,14 +85,12 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('scannable:block_module'),
         [
-            'XRX',
-            'GMG',
+            'XBX',
+            'BMB',
             'XBX'
         ], {
         M: 'scannable:blank_module',
-        R: 'the_vault:omega_pog',
-        X: 'the_vault:extraordinary_black_opal',
-        G: 'the_vault:black_chromatic_steel_block',
+        X: 'the_vault:gem_pog_1',
         B: 'the_vault:wold_star'
     })
 
