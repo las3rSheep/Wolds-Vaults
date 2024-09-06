@@ -11930,7 +11930,7 @@ hash = "c5ae942d6b65c7b5300a9c46ca77d308802fcab96cdbff17e2c18b53dbc59dad"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "ec49438715f7e5197aac1a27f65d4ef9be1516414f7134caa3058bcec35c81c2"
+hash = "794e159dde922556b4ab41ae60f1559708cbc75dc21c162157b0cba97b2701d5"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -11990,7 +11990,7 @@ hash = "8af8e2bcfc725244501ca66359688f0dfcb3a531405832dc8ac5eef61976527b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "6dd0509a96676ab92e4ba9695fb0afb0c056c94aba67af03ddbecb6219cf8d87"
+hash = "24c97468d41955dfd711efc883abe3861efba0c7aa3776b273a9e08f9e11a044"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18446,7 +18446,7 @@ hash = "a11857af8a370c81a5b514dd70426b84a8916843b2fd4a1320c65fd6aa944361"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/emojis.js"
-hash = "ac4619c81806b3984655d0ac28c24c415913fc58e998effa2b9a84642ff5128b"
+hash = "29ef370cd0e5de9f2c8fdf32cc4b94b9b32847338aefca3afa6b28e997a9f1ed"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/gem_box.js"
