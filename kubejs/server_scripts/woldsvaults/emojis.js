@@ -1286,5 +1286,8 @@ let emojis = [{
 ]
 
 onEvent('recipes', event => {
-    emojis.forEach(x => event.recipes.emojiful.emoji_recipe(x))
+    if (Platform.isLoaded("emojiful")) {
+        emojis.forEach(x => event.recipes.emojiful.emoji_recipe(x))
+    }
+
 })
