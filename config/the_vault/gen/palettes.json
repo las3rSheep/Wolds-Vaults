@@ -1121,6 +1121,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_sea_floor.json"
     },
     {
+      "id": "the_vault:universal_undersea",
+      "name": "Universal Undersea",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_undersea.json"
+    },
+    {
       "id": "the_vault:trove/base",
       "name": "Trove",
       "1.0": "config/the_vault/gen/1.0/palettes/trove/base.json"

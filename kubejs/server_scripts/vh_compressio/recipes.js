@@ -86,6 +86,7 @@ let botaniaCompressed = [
 
 
 let vaultCompressed = [
+    "vault_ingot_1",
     "omega_pog_1",
     "echo_pog_1",
     "gem_pog_1",

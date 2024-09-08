@@ -44,7 +44,7 @@
     "reference": "the_vault:vault/rooms/omega/library"
   },
   {
-    "weight": 70000,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/arcade"
   }
 ]

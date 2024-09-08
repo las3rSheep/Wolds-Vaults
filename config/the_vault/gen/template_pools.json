@@ -2738,6 +2738,26 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/sea_floor_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/undersea_rooms",
+      "name": "Undersea Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/undersea_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/undersea_common_rooms",
+      "name": "Undersea Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/undersea_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/undersea_starts",
+      "name": "Undersea Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/undersea_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/undersea_tunnels",
+      "name": "Undersea Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/undersea_tunnels.json"
+    },
+    {
       "id": "the_vault:vault/starts/sea_floor_starts",
       "name": "Sea Floor Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/sea_floor_starts.json"
