@@ -41,7 +41,7 @@ onEvent("recipes", event => {
             'GCG',
             'GYG'
         ], {
-        G: 'the_vault:empty_flask',
+        G: 'minecraft:glass_bottle',
         C: 'davespotioneering:netherite_gauntlet',
         X: 'the_vault:gem_pog',
         Y: 'minecraft:lever'

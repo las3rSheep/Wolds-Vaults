@@ -591,6 +591,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/comet_observatory/base.json"
     },
     {
+      "id": "the_vault:arcade/base",
+      "name": "Arcade Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/arcade/base.json"
+    },
+    {
       "id": "the_vault:vendor/base",
       "name": "Omega Vendor Base",
       "1.0": "config/the_vault/gen/1.0/palettes/vendor/base.json"
@@ -1864,6 +1869,11 @@
       "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_zombie",
       "name": "Dungeon Tags Zombie",
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_zombie.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/secret_room_placeholder",
+      "name": "Secret Room Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/secret_room_placeholder.json"
     }
   ]
 }

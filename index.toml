@@ -18446,7 +18446,7 @@ hash = "a11857af8a370c81a5b514dd70426b84a8916843b2fd4a1320c65fd6aa944361"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/emojis.js"
-hash = "29ef370cd0e5de9f2c8fdf32cc4b94b9b32847338aefca3afa6b28e997a9f1ed"
+hash = "ca0be4575c6c5b2faa2b98594ef6c309545b1794f68f78154cf2093123cc3253"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/gem_box.js"
