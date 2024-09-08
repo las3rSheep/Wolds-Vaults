@@ -14,6 +14,7 @@ onEvent("recipes", event => {
         'zombie',
         'creeper',
         'blaze',
+        'bee',
         'chicken',
         'cod',
         'cow',

@@ -162,7 +162,7 @@ onEvent("recipes", event => {
         P: 'minecraft:piston',
         C: 'littlelogistics:seater_car',
         F: 'littlelogistics:vessel_charger'
-    }).id('littlelogistics:steam_locomotive')
+    }).id('littlelogistics:energy_locomotive')
 
     event.shaped(Item.of('littlelogistics:receiver_component', 8),
         [

@@ -1,6 +1,5 @@
 
 onEvent("recipes", event => {
-
     event.shaped(Item.of('immersiveengineering:cokebrick', 3),
         [
             'XLX',
@@ -266,27 +265,27 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:alloybrick', 2),
         [
-            'TXe',
-            'XT ',
+            'TXB',
+            'XTB',
             '   '
         ], {
         T: '#forge:sandstone',
         X: '#forge:ingots/brick',
-        B: 'the_vault:vault_diamond'
+        B: 'the_vault:vault_diamond',
 
     }).id('immersiveengineering:crafting/alloybrick')
 
-    event.shaped(Item.of('immersiveengineering:alloybrick', 2),
-        [
-            '  H',
-            'SR ',
-            'IS '
-        ], {
-        T: '#forge:sandstone',
-        X: '#forge:ingots/brick',
-        B: 'the_vault:vault_diamond'
+    // event.shaped(Item.of('immersiveengineering:alloybrick', 2),
+    //     [
+    //         '  H',
+    //         'SR ',
+    //         'IS '
+    //     ], {
+    //     T: '#forge:sandstone',
+    //     X: '#forge:ingots/brick',
+    //     B: 'the_vault:vault_diamond'
 
-    }).id('immersiveengineering:crafting/alloybrick')
+    // }).id('immersiveengineering:crafting/alloybrick')
 
     event.shaped(Item.of('immersiveengineering:cloche', 1),
         [
@@ -335,7 +334,7 @@ onEvent("recipes", event => {
     event.shaped(Item.of('immersiveengineering:steel_scaffolding_standard', 6),
         [
             'III',
-            ' R',
+            ' R ',
             'RSR'
         ], {
         I: '#forge:ingots/steel',
@@ -357,7 +356,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_lv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -368,7 +367,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_mv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -379,7 +378,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('immersiveengineering:connector_hv', 4),
         [
-            ' X',
+            ' X ',
             'BCB',
             'BCB'
         ], {
@@ -390,7 +389,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('controlengineering:bus_relay', 4),
         [
-            ' X',
+            ' X ',
             'PCP',
             'BBB'
         ], {
@@ -402,7 +401,7 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('controlengineering:bus_interface', 1),
         [
-            ' X',
+            ' X ',
             'PCP',
             'BTB'
         ], {
@@ -434,5 +433,104 @@ onEvent("recipes", event => {
         X: 'the_vault:perfect_larimar'
 
     }).id('immersiveengineering:crafting/fluid_pipe')
+
+    event.custom({
+        "type": "immersiveengineering:crusher",
+        "secondaries": [
+            {
+                "chance": 0.33333334,
+                "output": {
+                    "item": "the_vault:chromatic_iron_dust"
+                }
+            }
+        ],
+        "result": {
+            "item": "the_vault:chromatic_iron_dust"
+        },
+        "input": {
+            "item": "the_vault:raw_chromatic_iron"
+        },
+        "energy": 6000
+    })
+
+    event.custom({
+        "type": "immersiveengineering:mineral_mix",
+        "ores": [
+            {
+                "chance": 1.0,
+                "output": {
+                    "item": "the_vault:chromatic_iron_ore"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "the_vault:vault_stone"
+                }
+            }
+        ],
+        "spoils": [
+            {
+                "chance": 0.2,
+                "output": {
+                    "item": "minecraft:deepslate"
+                }
+            },
+            {
+                "chance": 0.5,
+                "output": {
+                    "item": "the_vault:vault_cobblestone"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "minecraft:cobbled_deepslate"
+                }
+            }
+        ],
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "weight": 10,
+        "fail_chance": 0.10
+    }).id('woldsvaults:chromatic_iron_mineral_vein')
+
+    event.custom({
+        "type": "immersiveengineering:mineral_mix",
+        "ores": [
+            {
+                "chance": 1.0,
+                "output": {
+                    "item": "ae2:quartz_ore"
+                }
+            }
+        ],
+        "spoils": [
+            {
+                "chance": 0.2,
+                "output": {
+                    "item": "ae2:sky_stone_block"
+                }
+            },
+            {
+                "chance": 0.5,
+                "output": {
+                    "item": "minecraft:cobblestone"
+                }
+            },
+            {
+                "chance": 0.3,
+                "output": {
+                    "item": "minecraft:stone"
+                }
+            }
+        ],
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "weight": 15,
+        "fail_chance": 0.2
+    }).id('woldsvaults:certus_quartz_mineral_vein')
 
 })

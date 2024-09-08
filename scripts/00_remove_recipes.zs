@@ -268,6 +268,16 @@ craftingTable.remove(<item:ae2things:disk_drive_256k>);
 craftingTable.remove(<item:ae2things:advanced_inscriber>);
 craftingTable.remove(<item:ae2:security_station>);
 craftingTable.remove(<item:ae2:quantum_ring>);
+craftingTable.remove(<item:ae2:portable_item_cell_1k>);
+craftingTable.remove(<item:ae2:portable_item_cell_4k>);
+craftingTable.remove(<item:ae2:portable_item_cell_16k>);
+craftingTable.remove(<item:ae2:portable_item_cell_64k>);
+craftingTable.remove(<item:ae2:portable_item_cell_256k>);
+craftingTable.remove(<item:ae2:portable_fluid_cell_1k>);
+craftingTable.remove(<item:ae2:portable_fluid_cell_4k>);
+craftingTable.remove(<item:ae2:portable_fluid_cell_16k>);
+craftingTable.remove(<item:ae2:portable_fluid_cell_64k>);
+craftingTable.remove(<item:ae2:portable_fluid_cell_256k>);
 
 // Twigs
 craftingTable.remove(<item:twigs:stripped_bamboo_planks>);
@@ -523,13 +533,20 @@ craftingTable.remove(<item:mekanismgenerators:gas_burning_generator>);
 craftingTable.remove(<item:enercell:enercell>);
 
 // Refined Storage
+furnace.remove(<item:refinedstorage:basic_processor>);
+furnace.remove(<item:refinedstorage:raw_improved_processor>);
+furnace.remove(<item:refinedstorage:raw_advanced_processor>);
 craftingTable.remove(<item:refinedstorage:network_receiver>);
 craftingTable.remove(<item:refinedstorage:network_transmitter>);
 craftingTable.remove(<item:refinedstorage:network_card>);
 craftingTable.remove(<item:refinedstorage:storage_housing>);
+craftingTable.remove(<item:refinedstorage:1k_storage_part>);
 craftingTable.remove(<item:refinedstorage:1k_storage_disk>);
+craftingTable.remove(<item:refinedstorage:4k_storage_part>);
 craftingTable.remove(<item:refinedstorage:4k_storage_disk>);
+craftingTable.remove(<item:refinedstorage:16k_storage_part>);
 craftingTable.remove(<item:refinedstorage:16k_storage_disk>);
+craftingTable.remove(<item:refinedstorage:64k_storage_part>);
 craftingTable.remove(<item:refinedstorage:64k_storage_disk>);
 craftingTable.remove(<item:refinedstorage:64k_fluid_storage_disk>);
 craftingTable.remove(<item:refinedstorage:256k_fluid_storage_disk>);
@@ -537,10 +554,12 @@ craftingTable.remove(<item:refinedstorage:1024k_fluid_storage_disk>);
 craftingTable.remove(<item:refinedstorage:4096k_fluid_storage_disk>);
 craftingTable.remove(<item:refinedstorage:processor_binding>);
 craftingTable.remove(<item:refinedstorage:raw_basic_processor>);
+craftingTable.remove(<item:refinedstorage:basic_processor>);
 craftingTable.remove(<item:refinedstorage:raw_improved_processor>);
 craftingTable.remove(<item:refinedstorage:raw_advanced_processor>);
 craftingTable.remove(<item:refinedstorage:destruction_core>);
 craftingTable.remove(<item:refinedstorage:construction_core>);
+craftingTable.remove(<item:refinedstorage:quartz_enriched_iron>);
 craftingTable.remove(<item:refinedstorage:machine_casing>);
 craftingTable.remove(<item:refinedstorage:disk_drive>);
 craftingTable.remove(<tag:items:refinedstorage:grid>);
@@ -559,6 +578,9 @@ craftingTable.remove(<item:refinedstorage:crafter_manager>);
 craftingTable.remove(<item:refinedstorage:pattern>);
 craftingTable.remove(<tag:items:refinedstorage:pattern_grid>);
 craftingTable.remove(<item:refinedstorage:security_card>);
+craftingTable.remove(<item:refinedstorage:wireless_fluid_grid>);
+craftingTable.remove(<item:refinedstorage:portable_grid>);
+
 
 // Iron Generators/Furnaces
 craftingTable.removeByModid("irongenerators");
@@ -566,6 +588,7 @@ craftingTable.remove(<item:ironfurnaces:heater>);
 craftingTable.remove(<item:ironfurnaces:item_heater>);
 craftingTable.remove(<item:ironfurnaces:item_copy>);
 craftingTable.remove(<item:ironfurnaces:item_linker>);
+craftingTable.remove(<item:ironfurnaces:augment_generator>);
 craftingTable.remove(<item:ironfurnaces:augment_factory>);
 craftingTable.remove(<item:ironfurnaces:iron_furnace>);
 craftingTable.remove(<item:ironfurnaces:copper_furnace>);
@@ -594,7 +617,6 @@ craftingTable.remove(<item:ironfurnaces:upgrade_obsidian2>);
 
 // Dark Utilities
 craftingTable.remove(<item:darkutils:charm_portal>);
-craftingTable.remove(<item:darkutils:charm_sleep>);
 craftingTable.remove(<item:darkutils:charm_warding>);
 craftingTable.remove(<item:darkutils:tome_enchanting>);
 craftingTable.remove(<item:darkutils:tome_sga>);
@@ -821,17 +843,8 @@ craftingTable.remove(<item:create:large_water_wheel>);
 
 // Backpacks
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_refill_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:battery_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:pump_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:xp_pump_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:tool_swapper_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:inception_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_magnet_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:magnet_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:everlasting_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:tank_upgrade>);
-craftingTable.remove(<item:sophisticatedbackpacks:advanced_pump_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:iron_backpack>);
 craftingTable.remove(<item:sophisticatedbackpacks:gold_backpack>);
@@ -901,6 +914,7 @@ craftingTable.remove(<item:powah:dielectric_casing>);
 craftingTable.remove(<item:powah:energizing_orb>);
 craftingTable.remove(<item:powah:dielectric_paste>);
 craftingTable.remove(<item:powah:thermoelectric_plate>);
+craftingTable.remove(<item:powah:steel_energized>);
 craftingTable.remove(<item:powah:photoelectric_pane>);
 craftingTable.remove(<item:powah:aerial_pearl>);
 craftingTable.remove(<item:powah:solar_panel_starter>);
@@ -946,16 +960,15 @@ JEI.addIngredient(<item:alexsmobs:squid_grapple>);
 JEI.addIngredient(<item:alexsmobs:hemolymph_blaster>);
 
 // Backpacks
-JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:pump_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:xp_pump_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:tool_swapper_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:inception_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_magnet_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:magnet_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:everlasting_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:tank_upgrade>);
-JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_pump_upgrade>);
+
+// Refined
+JEI.hideIngredient(<item:refinedstorage:raw_basic_processor>);
+JEI.hideIngredient(<item:refinedstorage:processor_binding>);
+JEI.hideIngredient(<item:refinedstorage:raw_improved_processor>);
+JEI.hideIngredient(<item:refinedstorage:raw_advanced_processor>);
+JEI.hideIngredient(<item:refinedstorage:portable_grid>);
 // Botania
 JEI.hideIngredient(<item:botania:manasteel_helmet>);
 JEI.hideIngredient(<item:botania:manasteel_chestplate>);
@@ -1119,7 +1132,6 @@ for coin in coins{
 }
 // Dark Utilities
 JEI.hideIngredient(<item:darkutils:charm_portal>);
-JEI.hideIngredient(<item:darkutils:charm_sleep>);
 JEI.hideIngredient(<item:darkutils:charm_warding>);
 JEI.hideIngredient(<item:darkutils:tome_enchanting>);
 JEI.hideIngredient(<item:darkutils:tome_sga>);
@@ -1397,3 +1409,25 @@ JEI.hideMod("titanium");
 JEI.hideMod("rottencreatures");
 // Ispawners
 JEI.hideIngredient(<item:ispawner:spawn_egg>);
+// AE2
+JEI.hideIngredient(<item:ae2:vibration_chamber>);
+JEI.hideIngredient(<item:ae2:printed_logic_processor>);
+JEI.hideIngredient(<item:ae2:printed_calculation_processor>);
+JEI.hideIngredient(<item:ae2:printed_engineering_processor>);
+JEI.hideIngredient(<item:ae2:engineering_processor_press>);
+JEI.hideIngredient(<item:ae2:calculation_processor_press>);
+JEI.hideIngredient(<item:ae2:logic_processor_press>);
+JEI.hideIngredient(<item:ae2:silicon_press>);
+JEI.hideIngredient(<item:ae2:printed_silicon>);
+JEI.hideIngredient(<item:ae2:portable_item_cell_1k>);
+JEI.hideIngredient(<item:ae2:portable_item_cell_4k>);
+JEI.hideIngredient(<item:ae2:portable_item_cell_16k>);
+JEI.hideIngredient(<item:ae2:portable_item_cell_64k>);
+JEI.hideIngredient(<item:ae2:portable_item_cell_256k>);
+JEI.hideIngredient(<item:ae2:portable_fluid_cell_1k>);
+JEI.hideIngredient(<item:ae2:portable_fluid_cell_4k>);
+JEI.hideIngredient(<item:ae2:portable_fluid_cell_16k>);
+JEI.hideIngredient(<item:ae2:portable_fluid_cell_64k>);
+JEI.hideIngredient(<item:ae2:portable_fluid_cell_256k>);
+// generators
+JEI.hideIngredient(<item:mekanism:upgrade_stone_generator>);

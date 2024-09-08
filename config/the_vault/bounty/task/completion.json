@@ -251,6 +251,20 @@
             "rewardPool": "rare"
           },
           "weight": 5
+        },
+        {
+          "value": {
+            "value": "brutal_bosses",
+            "amount": {
+              "min": 1,
+              "max": 1
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 5
         }
       ]
     }

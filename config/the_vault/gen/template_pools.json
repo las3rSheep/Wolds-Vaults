@@ -1441,6 +1441,26 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/digsite2.json"
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave",
+      "name": "Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/pirate_cave.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/playzone",
+      "name": "Playzone",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/playzone.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/iskallian_garden",
+      "name": "Iskallian Garden",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/iskallian_garden.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/comet_observatory",
+      "name": "Comet Observatory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/comet_observatory.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/vendor",
       "name": "Vendor",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/vendor.json"
@@ -1459,6 +1479,16 @@
       "id": "the_vault:vault/rooms/omega/blacksmith",
       "name": "Blacksmith",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/hellish_rooms",
+      "name": "Hellish Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/hellish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/hellish/hellish_digsite",
+      "name": "Hellish Digsite",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/hellish/hellish_digsite.json"
     },
     {
       "id": "the_vault:vault/rooms/omega_rooms",
@@ -2509,11 +2539,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/diamond_caves.json"
     },
     {
-      "id": "the_vault:wold/rooms/ore/larimar_cave",
-      "name": "Larimar Caves",
-      "1.0": "config/the_vault/gen/1.0/template_pools/wold/rooms/ore/larimar_caves.json"
-    },
-    {
       "id": "the_vault:vault/decor/raw/end/island_structure",
       "name": "Raw End Island Structure",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/raw/end/island_structure.json"
@@ -2582,6 +2607,11 @@
       "id": "the_vault:vault/decor/factory/bucket_loot1",
       "name": "Bucket Loot 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/bucket_loot1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/larimar_caves",
+      "name": "Regular Larimar Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/larimar_caves.json"
     },
     {
       "id": "the_vault:vault/rooms/raw/diamond_caves_regular",
@@ -3391,6 +3421,11 @@
       "id": "the_vault:vault/rooms/common/ore4",
       "name": "Ore Room",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/ore4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss",
+      "name": "Boss Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/special/boss.json"
     }
   ]
 }

@@ -1,0 +1,38 @@
+version: 35
+jobs:
+- name: Github Push
+  jobExecutor: mainworker
+  steps:
+  - !PushRepository
+    name: Github Push
+    remoteUrl: https://github.com/iwolfking/Wolds-Vaults
+    userName: iwolfking
+    passwordSecret: github_access_token
+    force: false
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  triggers:
+  - !BranchUpdateTrigger {}
+  - !TagCreateTrigger {}
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 3600
+- name: Github Pull
+  jobExecutor: mainworker
+  steps:
+  - !PullRepository
+    name: Github Pull
+    remoteUrl: https://github.com/iwolfking/Wolds-Vaults
+    userName: iwolfking
+    passwordSecret: github_access_token
+    refs: refs/heads/* refs/tags/*
+    withLfs: false
+    force: false
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  triggers:
+  - !ScheduleTrigger
+    cronExpression: 0 2 * * * ?
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 3600

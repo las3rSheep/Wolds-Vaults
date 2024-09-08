@@ -1,0 +1,13 @@
+name = "Transmog"
+filename = "transmog-forge-1.2.2+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8442dde77fb5674f1e510ee36f0928b21a43df34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4522562
+project-id = 848032

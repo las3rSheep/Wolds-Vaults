@@ -76,11 +76,99 @@ onEvent("recipes", event => {
         C: 'minecraft:redstone_torch'
     })
 
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `vault_wooden_planks` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:wooden_planks',
+        X: 'the_vault:wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `vault_wooden_planks` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:wooden_planks',
+        X: 'the_vault:wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `vault_wooden_planks` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:wooden_planks',
+        X: 'the_vault:wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `vault_wooden_planks` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:wooden_planks',
+        X: 'the_vault:wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
     event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `overgrown` }),
         [
             'IXI',
             'ICI',
             'IXI'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        X: 'the_vault:overgrown_wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `overgrown` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        X: 'the_vault:overgrown_wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `overgrown` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        X: 'the_vault:overgrown_wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `overgrown` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:overgrown_wooden_planks',
+        X: 'the_vault:overgrown_wooden_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `overgrown` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
         ], {
         I: 'the_vault:overgrown_wooden_planks',
         X: 'the_vault:overgrown_wooden_slab',
@@ -98,11 +186,99 @@ onEvent("recipes", event => {
         C: 'minecraft:redstone_torch'
     })
 
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `chromatic` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        X: 'the_vault:chromatic_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `chromatic` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        X: 'the_vault:chromatic_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `chromatic` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        X: 'the_vault:chromatic_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `chromatic` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:chromatic_planks',
+        X: 'the_vault:chromatic_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
     event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `driftwood` }),
         [
             'IXI',
             'ICI',
             'IXI'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        X: 'the_vault:driftwood_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `driftwood` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        X: 'the_vault:driftwood_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `driftwood` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        X: 'the_vault:driftwood_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `driftwood` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:driftwood_planks',
+        X: 'the_vault:driftwood_slab',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `driftwood` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
         ], {
         I: 'the_vault:driftwood_planks',
         X: 'the_vault:driftwood_slab',
@@ -120,6 +296,50 @@ onEvent("recipes", event => {
         C: 'minecraft:redstone_torch'
     })
 
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `tenos` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:tenos_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `tenos` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:tenos_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `tenos` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:tenos_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `tenos` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:tenos_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
     event.shaped(Item.of('sophisticatedstorage:barrel', { 'woodType': `velara` }),
         [
             'IXI',
@@ -128,6 +348,50 @@ onEvent("recipes", event => {
         ], {
         I: 'the_vault:velara_planks',
         X: 'the_vault:gem_alexandrite',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `velara` }),
+        [
+            'IXI',
+            'ICI',
+            'III'
+        ], {
+        I: 'the_vault:velara_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `velara` }),
+        [
+            'III',
+            'XCX',
+            'III'
+        ], {
+        I: 'the_vault:velara_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `velara` }),
+        [
+            'IXI',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:velara_planks',
+        X: 'the_vault:gem_larimar',
+        C: 'minecraft:redstone_torch'
+    })
+
+    event.shaped(Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `velara` }),
+        [
+            'XIX',
+            'ICI',
+            'XIX'
+        ], {
+        I: 'the_vault:velara_planks',
+        X: 'the_vault:gem_larimar',
         C: 'minecraft:redstone_torch'
     })
 
@@ -435,8 +699,14 @@ onEvent("recipes", event => {
     event.remove({ output: 'sophisticatedstorage:limited_diamond_barrel_4' })
     event.remove({ output: 'sophisticatedstorage:limited_netherite_barrel_4' })
     event.remove({ id: 'sophisticatedstorage:basic_to_iron_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:basic_to_gold_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:basic_to_diamond_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:basic_to_netherite_tier_upgrade' })
     event.remove({ id: 'sophisticatedstorage:iron_to_gold_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:iron_to_diamond_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:iron_to_netherite_tier_upgrade' })
     event.remove({ id: 'sophisticatedstorage:gold_to_diamond_tier_upgrade' })
+    event.remove({ id: 'sophisticatedstorage:gold_to_netherite_tier_upgrade' })
     event.remove({ id: 'sophisticatedstorage:diamond_to_netherite_tier_upgrade' })
     event.remove({ id: 'sophisticatedstorage:storage_tool' })
     event.remove({ id: 'sophisticatedstorage:pickup_upgrade' })
@@ -800,7 +1070,7 @@ onEvent("recipes", event => {
             'OUO',
             'RRR'
         ], {
-        O: 'the_vault:vault_ingot',
+        O: 'the_vault:chromatic_steel_ingot',
         R: 'minecraft:redstone_block',
         D: 'the_vault:vault_diamond',
         U: 'sophisticatedstorage:magnet_upgrade'

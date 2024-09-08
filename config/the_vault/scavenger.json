@@ -237,7 +237,8 @@
             "the_vault:blood_slime",
             "the_vault:blood_skeleton_t1",
             "the_vault:blood_skeleton_t2",
-            "the_vault:blood_skeleton_t3"
+            "the_vault:blood_skeleton_t3",
+            "the_vault:levishroom"
           ]
         },
         "the_vault:scavenger_mob_purple": {

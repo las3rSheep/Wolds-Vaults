@@ -1,0 +1,13 @@
+name = "Vault Hunters Copiously Fix"
+filename = "copiousfix-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea625f6f01ef38c5e2aeead3ffb544879212eddb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5522297
+project-id = 1057007

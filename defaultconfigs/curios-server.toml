@@ -75,3 +75,11 @@
 	size = 1
 	visible = true
 	icon = "curios:slot/wireless_terminal"
+
+[[curiosSettings]]
+	identifier = "deck"
+	priority = 11
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "the_vault:gui/slot/curios/deck_slot"

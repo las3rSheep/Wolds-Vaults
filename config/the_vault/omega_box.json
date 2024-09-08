@@ -5,7 +5,7 @@
         "id": "the_vault:phoenix_feather",
         "nbt": "{}",
         "amountMin": 1,
-        "amountMax": 2
+        "amountMax": 4
       },
       "weight": 192
     },
@@ -13,26 +13,8 @@
       "value": {
         "id": "the_vault:eye_of_avarice",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
-      },
-      "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:mystical_powder",
-        "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 12
-      },
-      "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:cheese_burger_feast",
-        "nbt": "{}",
-        "amountMin": 8,
-        "amountMax": 16
+        "amountMin": 2,
+        "amountMax": 3
       },
       "weight": 192
     },
@@ -40,8 +22,8 @@
       "value": {
         "id": "the_vault:spicy_hearty_burger",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 3
+        "amountMin": 4,
+        "amountMax": 16
       },
       "weight": 180
     },
@@ -49,8 +31,8 @@
       "value": {
         "id": "the_vault:extraordinary_black_opal",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
+        "amountMin": 3,
+        "amountMax": 6
       },
       "weight": 180
     },
@@ -59,7 +41,7 @@
         "id": "the_vault:extraordinary_echo_gem",
         "nbt": "{}",
         "amountMin": 1,
-        "amountMax": 1
+        "amountMax": 2
       },
       "weight": 32
     },
@@ -67,17 +49,26 @@
       "value": {
         "id": "the_vault:gem_pog",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 3
+        "amountMin": 5,
+        "amountMax": 10
       },
       "weight": 100
+    },
+    {
+      "value": {
+        "id": "the_vault:pog_prism",
+        "nbt": "{}",
+        "amountMin": 2,
+        "amountMax": 3
+      },
+      "weight": 80
     },
     {
       "value": {
         "id": "the_vault:echo_pog",
         "nbt": "{}",
         "amountMin": 1,
-        "amountMax": 1
+        "amountMax": 2
       },
       "weight": 20
     },
@@ -85,7 +76,7 @@
       "value": {
         "id": "the_vault:key_mould",
         "nbt": "{}",
-        "amountMin": 1,
+        "amountMin": 2,
         "amountMax": 2
       },
       "weight": 100
@@ -94,8 +85,8 @@
       "value": {
         "id": "the_vault:key_piece",
         "nbt": "{}",
-        "amountMin": 3,
-        "amountMax": 10
+        "amountMin": 6,
+        "amountMax": 18
       },
       "weight": 128
     },
@@ -112,10 +103,55 @@
       "value": {
         "id": "the_vault:sour_orange",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 3
+        "amountMin": 2,
+        "amountMax": 5
       },
       "weight": 160
+    },
+    {
+      "value": {
+        "id": "the_vault:omega_pog",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "woldsvaults:crystal_reinforcement",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 32
+    },
+    {
+      "value": {
+        "id": "the_vault:empowered_chaotic_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:cryonic_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:pyretic_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
     },
     {
       "value": {
@@ -128,48 +164,21 @@
     },
     {
       "value": {
-        "id": "the_vault:unidentified_relic_fragment",
-        "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 6
-      },
-      "weight": 128
-    },
-    {
-      "value": {
-        "id": "the_vault:mystery_egg",
-        "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 10
-      },
-      "weight": 192
-    },
-    {
-      "value": {
         "id": "the_vault:knowledge_star",
         "nbt": "{}",
-        "amountMin": 1,
+        "amountMin": 2,
         "amountMax": 3
       },
       "weight": 192
     },
     {
       "value": {
-        "id": "the_vault:vault_catalyst",
+        "id": "woldsvaults:catalyst_box",
         "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 6
+        "amountMin": 4,
+        "amountMax": 8
       },
       "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:repair_core",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
-      },
-      "weight": 128
     },
     {
       "value": {
@@ -184,8 +193,8 @@
       "value": {
         "id": "the_vault:black_chromatic_steel_ingot",
         "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 6
+        "amountMin": 4,
+        "amountMax": 8
       },
       "weight": 128
     },
@@ -202,8 +211,8 @@
       "value": {
         "id": "the_vault:carbon",
         "nbt": "{}",
-        "amountMin": 64,
-        "amountMax": 128
+        "amountMin": 148,
+        "amountMax": 296
       },
       "weight": 164
     },
@@ -211,37 +220,10 @@
       "value": {
         "id": "the_vault:vault_palladium",
         "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 2
+        "amountMin": 2,
+        "amountMax": 4
       },
       "weight": 128
-    },
-    {
-      "value": {
-        "id": "the_vault:angel_block",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 80
-    },
-    {
-      "value": {
-        "id": "the_vault:gem_box",
-        "nbt": "{}",
-        "amountMin": 10,
-        "amountMax": 16
-      },
-      "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:supply_box",
-        "nbt": "{}",
-        "amountMin": 10,
-        "amountMax": 16
-      },
-      "weight": 192
     },
     {
       "value": {
@@ -254,10 +236,10 @@
     },
     {
       "value": {
-        "id": "the_vault:augment_box",
+        "id": "woldsvaults:inscription_box",
         "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 6
+        "amountMin": 2,
+        "amountMax": 2
       },
       "weight": 64
     },
@@ -265,8 +247,8 @@
       "value": {
         "id": "the_vault:altar_recatalyzer",
         "nbt": "{}",
-        "amountMin": 4,
-        "amountMax": 4
+        "amountMin": 8,
+        "amountMax": 12
       },
       "weight": 128
     },

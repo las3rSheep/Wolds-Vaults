@@ -24,6 +24,7 @@ onEvent('jei.hide.items', event => {
     event.hide('ironchests:crystal_chest')
     event.hide('ironchests:obsidian_chest_upgrade')
     event.hide('ironchests:crystal_chest_upgrade')
+    event.hide('sophisticatedvaultupgrades:debagnetizer')
     event.hide(/mysticalagriculture:.*_helmet/)
     event.hide(/mysticalagriculture:.*_chestplate/)
     event.hide(/mysticalagriculture:.*_leggings/)
@@ -58,6 +59,16 @@ onEvent('jei.hide.items', event => {
     event.hide(/twigs:.*_sign/)
 })
 
+
+
 onEvent('jei.add.items', event => {
+    let modifierTypes = ["reaping", "picking", "axing", "shovelling", "ornate_affinity", "coin_affinity", "gilded_affinity", "living_affinity", "wooden_affinity", "hammering", "hydrovoid", "rotating", "durability", "immortality", "mining_speed", "item_quantity", "item_rarity", "trap_disarming", "soulbound", "smelting", "pulverizing"];
     event.add('the_vault:shop_pedestal')
+
+    modifierTypes.forEach(type => {
+        event.add(Item.of('woldsvaults:chiseling_focus', { modifier: `the_vault:${type}` }))
+    })
+})
+onEvent('jei.add.items', event => {
+    event.add(Item.of('example:item', { test: 123 }))
 })

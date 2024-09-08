@@ -51,6 +51,18 @@ onEvent('recipes', event => {
         B: 'the_vault:vault_diamond_block'
     })
 
+    event.shaped(Item.of('the_vault:crystal_seal_doomsayer'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:soul_campfire',
+        X: 'the_vault:vault_essence_1',
+        R: 'the_vault:crystal_seal_prophet',
+        B: 'the_vault:extraordinary_alexandrite'
+    })
+
     event.shaped(Item.of('the_vault:augment_box'),
         [
             'GXG',
@@ -61,6 +73,28 @@ onEvent('recipes', event => {
         R: 'the_vault:vault_essence_1',
         X: 'the_vault:augment'
     })
+
+    event.shaped(Item.of('woldsvaults:inscription_box'),
+        [
+            'GXG',
+            'XRX',
+            'GXG'
+        ], {
+        G: 'the_vault:wutodic_mass',
+        R: 'the_vault:gem_pog',
+        X: 'the_vault:inscription'
+    })
+
+    // event.shaped(Item.of('the_vault:faceted_focus'),
+    //     [
+    //         'GXG',
+    //         'XRX',
+    //         'GXG'
+    //     ], {
+    //     G: 'the_vault:vault_diamond',
+    //     R: 'the_vault:amplifying_focus',
+    //     X: 'the_vault:faceted_focus'
+    // })
 
     event.shaped(Item.of('the_vault:pog_prism'),
         [
@@ -181,27 +215,27 @@ onEvent('recipes', event => {
         O: 'the_vault:orb_frame'
     })
 
-    event.shaped(Item.of('woldsvaults:waning_augmenter'),
-        [
-            'XTX',
-            'TOT',
-            'XTX'
-        ], {
-        X: 'the_vault:waning_focus',
-        O: 'the_vault:pog_prism',
-        T: 'the_vault:black_chromatic_steel_ingot'
-    })
+    // event.shaped(Item.of('woldsvaults:waning_augmenter'),
+    //     [
+    //         'XTX',
+    //         'TOT',
+    //         'XTX'
+    //     ], {
+    //     X: 'the_vault:waning_focus',
+    //     O: 'the_vault:pog_prism',
+    //     T: 'the_vault:black_chromatic_steel_ingot'
+    // })
 
-    event.shaped(Item.of('woldsvaults:waxing_augmenter'),
-        [
-            'XTX',
-            'TOT',
-            'XTX'
-        ], {
-        X: 'the_vault:waxing_focus',
-        O: 'the_vault:pog_prism',
-        T: 'the_vault:black_chromatic_steel_ingot'
-    })
+    // event.shaped(Item.of('woldsvaults:waxing_augmenter'),
+    //     [
+    //         'XTX',
+    //         'TOT',
+    //         'XTX'
+    //     ], {
+    //     X: 'the_vault:waxing_focus',
+    //     O: 'the_vault:pog_prism',
+    //     T: 'the_vault:black_chromatic_steel_ingot'
+    // })
 
     event.shaped(Item.of('woldsvaults:repair_augmenter'),
         [
@@ -212,6 +246,42 @@ onEvent('recipes', event => {
         X: 'the_vault:resilient_focus',
         O: 'the_vault:pog_prism',
         T: 'the_vault:black_chromatic_steel_ingot'
+    })
+
+
+    event.shaped(Item.of('woldsvaults:vault_rock_candy'),
+        [
+            'XSX',
+            'XOX',
+            'XSX'
+        ], {
+        X: 'the_vault:vault_rock',
+        O: 'the_vault:vault_sweets',
+        S: 'minecraft:sugar'
+    })
+
+    event.shaped(Item.of('woldsvaults:crystal_reinforcement'),
+        [
+            'SXS',
+            'YOY',
+            'SXS'
+        ], {
+        X: 'the_vault:omega_pog',
+        Y: 'woldsvaults:extraordinary_pog_prism',
+        O: 'the_vault:wold_star_chunk',
+        S: 'the_vault:chromatic_gold_block'
+    })
+
+    event.shaped(Item.of('woldsvaults:resonating_reinforcement'),
+        [
+            'SXS',
+            'YOY',
+            'SXS'
+        ], {
+        X: 'the_vault:pog_prism',
+        Y: 'the_vault:chromatic_steel_block',
+        O: 'the_vault:hardened_wutodic_mass',
+        S: 'the_vault:black_chromatic_steel_ingot'
     })
 
 

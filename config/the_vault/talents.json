@@ -189,6 +189,81 @@
       },
       {
         "type": "tiered",
+        "id": "Purist",
+        "name": "Purist",
+        "tiers": [
+          {
+            "type": "purist",
+            "rarities": [
+              "SCRAPPY"
+            ],
+            "slots": [
+              "HEAD",
+              "CHEST",
+              "LEGS",
+              "FEET"
+            ],
+            "count": 1,
+            "damageIncrease": 0.025,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "purist",
+            "rarities": [
+              "SCRAPPY"
+            ],
+            "slots": [
+              "HEAD",
+              "CHEST",
+              "LEGS",
+              "FEET"
+            ],
+            "count": 1,
+            "damageIncrease": 0.05,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "purist",
+            "rarities": [
+              "SCRAPPY"
+            ],
+            "slots": [
+              "HEAD",
+              "CHEST",
+              "LEGS",
+              "FEET"
+            ],
+            "count": 1,
+            "damageIncrease": 0.075,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "purist",
+            "rarities": [
+              "SCRAPPY"
+            ],
+            "slots": [
+              "HEAD",
+              "CHEST",
+              "LEGS",
+              "FEET"
+            ],
+            "count": 1,
+            "damageIncrease": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          }
+        ]
+      },
+      {
+        "type": "tiered",
         "id": "Stone_Skin",
         "name": "Stone Skin",
         "tiers": [
@@ -1019,6 +1094,203 @@
       },
       {
         "type": "tiered",
+        "id": "Prime_Amplification",
+        "name": "Prime Amplification",
+        "tiers": [
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.05,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_1"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.1,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_2"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.15,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_3"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.2,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_4"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.25,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_5"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.3,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_6"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.35,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_7"
+          },
+          {
+            "type": "high_health_gear_attribute",
+            "attribute": "the_vault:area_of_effect",
+            "healthThreshold": 0.8,
+            "value": 0.4,
+            "effect": "the_vault:sorcery",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "primeamp_8"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Bountiful_Harvest",
+        "name": "Bountiful Harvest",
+        "tiers": [
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_quantity",
+            "healthThreshold": 0.2,
+            "value": 0.05,
+            "effect": "the_vault:bountiful_harvest",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_1"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_quantity",
+            "healthThreshold": 0.2,
+            "value": 0.1,
+            "effect": "the_vault:bountiful_harvest",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_2"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_quantity",
+            "healthThreshold": 0.2,
+            "value": 0.15,
+            "effect": "the_vault:bountiful_harvest",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_3"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_quantity",
+            "healthThreshold": 0.2,
+            "value": 0.2,
+            "effect": "the_vault:bountiful_harvest",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Treasure_Seeker",
+        "name": "Treasure Seeker",
+        "tiers": [
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_rarity",
+            "healthThreshold": 0.2,
+            "value": 0.05,
+            "effect": "the_vault:treasure_seeker",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_1"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_rarity",
+            "healthThreshold": 0.2,
+            "value": 0.1,
+            "effect": "the_vault:treasure_seeker",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_2"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_rarity",
+            "healthThreshold": 0.2,
+            "value": 0.15,
+            "effect": "the_vault:treasure_seeker",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_3"
+          },
+          {
+            "type": "low_health_gear_attribute",
+            "attribute": "the_vault:item_rarity",
+            "healthThreshold": 0.2,
+            "value": 0.2,
+            "effect": "the_vault:treasure_seeker",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "bountifulharvest_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
         "id": "Stoneskin",
         "name": "Stoneskin",
         "tiers": [
@@ -1749,6 +2021,307 @@
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Blight",
+        "name": "Blight",
+        "tiers": [
+          {
+            "type": "effect_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"minecraft:poison\"}]}",
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
+            ],
+            "effect": "minecraft:weakness",
+            "amplifier": 10,
+            "duration": 40,
+            "probability": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"minecraft:poison\"}]}",
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
+            ],
+            "effect": "minecraft:weakness",
+            "amplifier": 12,
+            "duration": 60,
+            "probability": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"minecraft:poison\"}]}",
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
+            ],
+            "effect": "minecraft:weakness",
+            "amplifier": 14,
+            "duration": 80,
+            "probability": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"minecraft:poison\"}]}",
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
+            ],
+            "effect": "minecraft:weakness",
+            "amplifier": 16,
+            "duration": 100,
+            "probability": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Hunters_Instinct",
+        "name": "Hunter's Instinct",
+        "tiers": [
+          {
+            "type": "cast_on_kill",
+            "filter": [
+              "{}"
+            ],
+            "ability": "Hunter_Base",
+            "probability": 0.005,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Arcana",
+        "name": "Arcana",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:mana_regen",
+            "value": 0.2,
+            "effect": "the_vault:arcana",
+            "durationTicks": 80,
+            "maxStacks": 2,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "arcana_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:mana_regen",
+            "value": 0.2,
+            "effect": "the_vault:arcana",
+            "durationTicks": 120,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "arcana_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:mana_regen",
+            "value": 0.2,
+            "effect": "the_vault:arcana",
+            "durationTicks": 160,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "arcana_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:mana_regen",
+            "value": 0.2,
+            "effect": "the_vault:arcana",
+            "durationTicks": 200,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "arcana_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Blazing",
+        "name": "Blazing",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:movement_speed",
+            "value": 0.05,
+            "effect": "the_vault:blazing",
+            "durationTicks": 80,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blazing_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:movement_speed",
+            "value": 0.05,
+            "effect": "the_vault:blazing",
+            "durationTicks": 120,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blazing_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:movement_speed",
+            "value": 0.05,
+            "effect": "the_vault:blazing",
+            "durationTicks": 160,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blazing_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:movement_speed",
+            "value": 0.05,
+            "effect": "the_vault:blazing",
+            "durationTicks": 200,
+            "maxStacks": 10,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blazing_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Lucky_Momentum",
+        "name": "Lucky Momentum",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:lucky_hit_chance",
+            "value": 0.01,
+            "effect": "the_vault:lucky_momentum",
+            "durationTicks": 80,
+            "maxStacks": 2,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lucky_momentum_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:lucky_hit_chance",
+            "value": 0.01,
+            "effect": "the_vault:lucky_momentum",
+            "durationTicks": 120,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lucky_momentum_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:lucky_hit_chance",
+            "value": 0.01,
+            "effect": "the_vault:lucky_momentum",
+            "durationTicks": 160,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lucky_momentum_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:lucky_hit_chance",
+            "value": 0.01,
+            "effect": "the_vault:lucky_momentum",
+            "durationTicks": 200,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lucky_momentum_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Frenzy",
+        "name": "Frenzy",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "value": 0.025,
+            "effect": "the_vault:frenzy",
+            "durationTicks": 80,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "frenzy_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "value": 0.025,
+            "effect": "the_vault:frenzy",
+            "durationTicks": 120,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "frenzy_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "value": 0.025,
+            "effect": "the_vault:frenzy",
+            "durationTicks": 160,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "frenzy_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:attack_speed_percent",
+            "value": 0.025,
+            "effect": "the_vault:frenzy",
+            "durationTicks": 200,
+            "maxStacks": 10,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "frenzy_4"
           }
         ]
       },

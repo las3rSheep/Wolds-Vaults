@@ -110,7 +110,7 @@
     },
     "Lucky_Hit": {
       "x": 0,
-      "y": 170
+      "y": 260
     },
     "Fatal_Strike": {
       "x": 0,
@@ -138,7 +138,7 @@
     },
     "Masteries": {
       "x": 140,
-      "y": 170
+      "y": 260
     },
     "Arthropod_Mastery": {
       "x": 70,
@@ -178,7 +178,7 @@
     },
     "Javelin": {
       "x": 280,
-      "y": 170
+      "y": 260
     },
     "Javelin_Throw_Power": {
       "x": 0,
@@ -203,6 +203,72 @@
       "y": 50,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/javelin_ethereal"
+    },
+    "Prime_Amplification": {
+      "x": 0,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/prime_amplification"
+    },
+    "Arcana": {
+      "x": 0,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/arcana"
+    },
+    "Blazing": {
+      "x": 70,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/blazing"
+    },
+    "Lucky_Momentum": {
+      "x": 140,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/luck_momentum"
+    },
+    "Frenzy": {
+      "x": 210,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/frenzy"
+    },
+    "Hunters_Instinct": {
+      "x": 70,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/hunters_instinct"
+    },
+    "Purist": {
+      "x": 140,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/purist"
+    },
+    "Discipline": {
+      "x": 210,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/discipline"
+    },
+    "Bountiful_Harvest": {
+      "x": 280,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/bountiful_harvest"
+    },
+    "Treasure_Seeker": {
+      "x": 350,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/treasure_seeker"
+    },
+    "Bloodthirst": {
+      "x": 210,
+      "y": 150,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/bloodthirst"
     }
   }
 }

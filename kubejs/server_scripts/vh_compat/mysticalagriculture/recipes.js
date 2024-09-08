@@ -464,6 +464,17 @@ onEvent("recipes", event => {
         E: 'the_vault:extraordinary_black_opal'
     })
 
+    event.shaped(Item.of('mysticalagriculture:echoing_seed_base'),
+        [
+            'EXE',
+            'XVX',
+            'EXE'
+        ], {
+        V: 'mysticalagriculture:pogging_seed_base',
+        X: 'the_vault:echo_pog',
+        E: 'the_vault:pog_prism'
+    })
+
     event.shaped(Item.of('cloudstorage:cloud', 16),
         [
             'EE ',

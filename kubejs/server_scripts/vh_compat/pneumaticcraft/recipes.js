@@ -598,7 +598,7 @@ onEvent("recipes", event => {
         B: 'the_vault:gem_black_opal'
     })
 
-    event.shaped(Item.of('pneumaticcraft:reinforced_stone'),
+    event.shaped(Item.of('pneumaticcraft:reinforced_stone', 8),
         [
             'SSS',
             'SIS',
@@ -629,7 +629,7 @@ onEvent("recipes", event => {
         R: 'the_vault:perfect_larimar'
     })
 
-    event.shapeless('pneumaticcraft:unassembled_netherite_drill_bit', ["pneumaticcraft:drill_bit_diamond", "the_vault:gemmed_ingot"])
+    event.shapeless('pneumaticcraft:unassembled_netherite_drill_bit', ["pneumaticcraft:drill_bit_diamond", "the_vault:echoing_ingot"])
 
 
 })

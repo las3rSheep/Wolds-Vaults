@@ -105,6 +105,18 @@
       "cost": 4
     },
     {
+      "modelId": "the_vault:gear/sword/soulflame",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/wand/soul",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/focus/soulorb",
+      "cost": 25
+    },
+    {
       "modelId": "the_vault:gear/axe/greathammer",
       "cost": 4
     },

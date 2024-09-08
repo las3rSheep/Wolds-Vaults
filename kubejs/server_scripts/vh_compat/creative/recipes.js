@@ -33,8 +33,8 @@ onEvent("recipes", event => {
     event.shaped(Item.of('botania:creative_pool'),
         [
             'XVX',
-            'ECE',
-            'XBX'
+            'BCB',
+            'XEX'
         ], {
         C: 'botania:fabulous_pool',
         B: 'the_vault:echo_pog',
@@ -176,8 +176,8 @@ onEvent("recipes", event => {
     event.shaped(Item.of('botanicalmachinery:mana_battery_creative'),
         [
             'XVX',
-            'ECE',
-            'XBX'
+            'BCB',
+            'XEX'
         ], {
         C: 'botanicalmachinery:mana_battery',
         B: 'the_vault:echo_pog',

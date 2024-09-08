@@ -8,7 +8,7 @@
       },
       "pool": [
         {
-          "weight": 70,
+          "weight": 80,
           "pool": [
             {
               "weight": 12,
@@ -91,28 +91,6 @@
                   "max": 4
                 }
               }
-            },
-            {
-              "weight": 12,
-              "item": {
-                "id": "the_vault:magnetite",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "the_vault:vault_nugget",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
-                }
-              }
             }
           ]
         },
@@ -122,29 +100,7 @@
             {
               "weight": 10,
               "item": {
-                "id": "the_vault:vault_nugget",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 7
-                }
-              }
-            },
-            {
-              "weight": 10,
-              "item": {
                 "id": "the_vault:amplifying_focus",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "minecraft:netherite_scrap",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -180,17 +136,6 @@
               }
             },
             {
-              "weight": 20,
-              "item": {
-                "id": "the_vault:carbon",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
               "weight": 2,
               "item": {
                 "id": "the_vault:trinket",
@@ -205,6 +150,34 @@
               "weight": 14,
               "item": {
                 "id": "the_vault:ornate_chest_scroll",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 30,
+              "item": {
+                "id": "the_vault:trident",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 30,
+              "item": {
+                "id": "the_vault:battlestaff",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -342,34 +315,6 @@
               "weight": 22,
               "item": {
                 "id": "the_vault:magnet",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "ornate0"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 11,
-              "item": {
-                "id": "the_vault:trident",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "ornate0"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 11,
-              "item": {
-                "id": "the_vault:battlestaff",
                 "nbt": {
                   "the_vault:gear_roll_type_pool": "ornate0"
                 },

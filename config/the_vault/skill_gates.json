@@ -216,6 +216,16 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Applied Compatability": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Applied Energistics"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Applied Botanics": {
         "dependsOn": [
           {
@@ -462,6 +472,50 @@
           {
             "type": "constant",
             "id": "Belts"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Misc Bag Upgrades": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Backpacks"
+          }
+        ],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Bag Inception": {
+        "dependsOn": [
+          {
+            "type": "constant",
+            "id": "Big Backpacks"
+          },
+          {
+            "type": "constant",
+            "id": "Junk Management"
+          },
+          {
+            "type": "constant",
+            "id": "Soul Harvester"
+          },
+          {
+            "type": "constant",
+            "id": "Stack Upgrading"
+          },
+          {
+            "type": "constant",
+            "id": "Auto Feeding"
+          },
+          {
+            "type": "constant",
+            "id": "Misc Bag Upgrades"
+          },
+          {
+            "type": "constant",
+            "id": "Scanner"
           }
         ],
         "ignoreArrow": true,

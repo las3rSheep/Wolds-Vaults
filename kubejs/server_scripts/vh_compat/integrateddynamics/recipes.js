@@ -472,7 +472,7 @@ onEvent("recipes", event => {
         ], {
         V: 'the_vault:vault_essence_1',
         C: 'integrateddynamics:part_display_panel',
-        B: 'the_vault:echo_pog',
+        B: 'the_vault:pog_prism',
         O: 'integrateddynamics:variable_transformer_output',
         I: 'integrateddynamics:variable_transformer_input',
         S: 'the_vault:chromatic_steel_block'

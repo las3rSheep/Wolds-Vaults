@@ -657,11 +657,27 @@
       },
       {
         "value": {
-          "id": "sophisticatedstorage:advanced_compacting_upgrade",
+          "id": "sophisticatedstorage:filter_upgrade",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 50
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "sophisticatedstorage:hopper_upgrade",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 45
+      },
+      {
+        "value": {
+          "id": "sophisticatedstorage:identification_upgrade",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 25
       }
     ],
     "Refined Storage": [
@@ -1303,7 +1319,7 @@
           "amountMin": 8,
           "amountMax": 8
         },
-        "weight": 30
+        "weight": 15
       },
       {
         "value": {
@@ -1320,54 +1336,6 @@
           "amountMax": 1
         },
         "weight": 15
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:speed_addon_1",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 15
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:speed_addon_2",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 5
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:processing_addon_1",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 10
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:processing_addon_2",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 1
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:efficiency_addon_1",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 15
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:efficiency_addon_2",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 5
       },
       {
         "value": {

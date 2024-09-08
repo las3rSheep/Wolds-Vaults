@@ -1,5 +1,135 @@
 {
   "pools": {
+    "the_vault:bingo_task_modifiers_bad": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:harder_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:vulnerable",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:inert",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_trapped",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:frail",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_drained",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dark",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:ruthless_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:chunky_mobs2",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_critical_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:archaic",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:bingo_task_modifiers": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:energizing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:swift",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:soul_boost",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:springy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:kill_hunter",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_rarity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_kill_nuke",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_kill_charm",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:healthy",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "the_vault:bb_wither": [
       {
         "level": 0,
@@ -14,6 +144,10 @@
               },
               {
                 "value": "the_vault:energizing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:healthy",
                 "weight": 1
               }
             ]
@@ -31,6 +165,14 @@
             "pool": [
               {
                 "value": "the_vault:swift",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:springy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:disarming",
                 "weight": 1
               }
             ]
@@ -65,6 +207,10 @@
             "pool": [
               {
                 "value": "the_vault:reinforced",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
                 "weight": 1
               }
             ]
@@ -107,6 +253,10 @@
             "pool": [
               {
                 "value": "the_vault:swift",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:tailwind",
                 "weight": 1
               }
             ]
@@ -124,6 +274,10 @@
             "pool": [
               {
                 "value": "the_vault:cherry",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:extended",
                 "weight": 1
               }
             ]
@@ -158,10 +312,14 @@
             "pool": [
               {
                 "value": "the_vault:item_rarity",
-                "weight": 1
+                "weight": 3
               },
               {
                 "value": "the_vault:copiously",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:orematic",
                 "weight": 1
               }
             ]
@@ -208,6 +366,10 @@
               },
               {
                 "value": "the_vault:strength",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:springy",
                 "weight": 1
               }
             ]
@@ -275,10 +437,14 @@
             "pool": [
               {
                 "value": "the_vault:swift",
-                "weight": 1
+                "weight": 8
               },
               {
                 "value": "the_vault:strength",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:tailwind",
                 "weight": 1
               }
             ]
@@ -296,6 +462,10 @@
             "pool": [
               {
                 "value": "the_vault:copiously",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:disarming",
                 "weight": 1
               }
             ]
@@ -335,6 +505,10 @@
               {
                 "value": "the_vault:regeneration",
                 "weight": 1
+              },
+              {
+                "value": "the_vault:serendipitous",
+                "weight": 1
               }
             ]
           }
@@ -355,6 +529,10 @@
               },
               {
                 "value": "the_vault:plentiful",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
                 "weight": 1
               }
             ]
@@ -413,7 +591,7 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:afterlife",
+                "value": "the_vault:oneup",
                 "weight": 1
               }
             ]
@@ -435,6 +613,10 @@
               },
               {
                 "value": "the_vault:reinforced",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
                 "weight": 1
               }
             ]
@@ -508,6 +690,22 @@
             "max": 1,
             "pool": [
               {
+                "value": "the_vault:orematic",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:jumpy_deluxe",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:healthy",
+                "weight": 1
+              },
+              {
                 "value": "the_vault:swift",
                 "weight": 1
               },
@@ -554,6 +752,18 @@
               {
                 "value": "the_vault:low_item_quantity",
                 "weight": 1
+              },
+              {
+                "value": "the_vault:pogging",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:sparkling",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:baby_mobs2",
+                "weight": 1
               }
             ]
           }
@@ -568,6 +778,50 @@
             "min": 1,
             "max": 1,
             "pool": [
+              {
+                "value": "the_vault:daycare",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:haunted_mansion",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:classic_retro_mini",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:sweet_retro",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:surprise_boxes",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:armed_chest",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:piercing",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:nullifying",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:weakened_t3",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:corrosive",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:mana_void",
+                "weight": 1
+              },
               {
                 "value": "the_vault:baren",
                 "weight": 1
@@ -637,6 +891,34 @@
             "min": 1,
             "max": 1,
             "pool": [
+              {
+                "value": "the_vault:bingo_infernal",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:companion_challenge",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dangerous",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:rending",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:weakened_t2",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:acidic",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bingo_drained",
+                "weight": 1
+              },
               {
                 "value": "the_vault:tired",
                 "weight": 1
@@ -768,6 +1050,10 @@
             "max": 1,
             "pool": [
               {
+                "value": "the_vault:springy",
+                "weight": 1
+              },
+              {
                 "value": "the_vault:low_item_quantity",
                 "weight": 1
               },
@@ -837,6 +1123,10 @@
             "min": 1,
             "max": 1,
             "pool": [
+              {
+                "value": "the_vault:vendoor_hunter",
+                "weight": 1
+              },
               {
                 "value": "the_vault:treasure_doors",
                 "weight": 1
@@ -984,6 +1274,14 @@
             "max": 1,
             "pool": [
               {
+                "value": "the_vault:stunning",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dark",
+                "weight": 1
+              },
+              {
                 "value": "the_vault:poisonous",
                 "weight": 1
               },
@@ -1058,6 +1356,14 @@
             "min": 1,
             "max": 1,
             "pool": [
+              {
+                "value": "the_vault:blessed",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:tailwind",
+                "weight": 1
+              },
               {
                 "value": "the_vault:enlighted",
                 "weight": 1
@@ -1209,7 +1515,7 @@
         "entries": [
           {
             "min": 1,
-            "max": 1,
+            "max": 2,
             "pool": [
               {
                 "value": "the_vault:enlighted",
@@ -1236,12 +1542,303 @@
                 "weight": 1
               },
               {
+                "value": "the_vault:sparkling",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:coin_pile",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:gilded",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:living",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:ornate",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:wild",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:frenzy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:acidic",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:rotten",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dangerous",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:orematic",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:mildly_enchanted",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:armed_chest",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:champion_chance",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:classic_retro_mini",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:raging",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:minimized",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:maximized",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:serendipitous",
+                "weight": 5
+              },
+              {
+                "value": "the_vault:safe_zone",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:rended",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:mana_void",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:tailwind",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:oneup",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:idona_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:tenos_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:velara_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:wendarr_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:blessed",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:dummy",
+                "weight": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 100,
+        "entries": [
+          {
+            "min": 1,
+            "max": 3,
+            "pool": [
+              {
+                "value": "the_vault:hoard",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:treasure",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:soul_surge",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:prosperous",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:prismatic",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:sparkling",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:coin_pile",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:gilded",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:living",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:ornate",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:wild",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:frenzy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:acidic",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:plated",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:rotten",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dangerous",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:orematic",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:mildly_enchanted",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:armed_chest",
+                "weight": 1
+              },
+              {
                 "value": "the_vault:champion_chance",
                 "weight": 1
               },
               {
+                "value": "the_vault:classic_retro_mini",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:raging",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:minimized",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:maximized",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:serendipitous",
+                "weight": 6
+              },
+              {
+                "value": "the_vault:safe_zone",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:rended",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:mana_void",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:tailwind",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:oneup",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:idona_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:tenos_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:velara_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:wendarr_blessing",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:blessed",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 6
+              },
+              {
                 "value": "the_vault:dummy",
-                "weight": 12
+                "weight": 90
               }
             ]
           }
@@ -2582,7 +3179,7 @@
             "pool": [
               {
                 "value": "the_vault:curse",
-                "weight": 2
+                "weight": 1
               },
               {
                 "value": "the_vault:volcanic",
@@ -2650,7 +3247,7 @@
               },
               {
                 "value": "the_vault:chemical_bath",
-                "weight": 6
+                "weight": 1
               },
               {
                 "value": "the_vault:curse_ethereal",
@@ -2662,7 +3259,7 @@
               },
               {
                 "value": "the_vault:fading",
-                "weight": 2
+                "weight": 1
               },
               {
                 "value": "the_vault:impossible_difficulty",

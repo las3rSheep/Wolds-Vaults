@@ -1162,6 +1162,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 4
           }
         ]
       },
@@ -1210,6 +1217,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
           }
         ]
       },
@@ -1258,6 +1272,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
           }
         ]
       },
@@ -1306,6 +1327,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
           }
         ]
       }
@@ -1327,6 +1355,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 1
           }
         ]
       }
@@ -1352,6 +1387,30 @@
     ]
   },
   "SEALS": {
+    "the_vault:crystal_seal_doomsayer": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "ballistic_bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
+    "the_vault:crystal_seal_prophet": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
     "the_vault:crystal_seal_executioner": [
       {
         "level": 0,

@@ -2,10 +2,6 @@
   "tile_processors": [
     {
       "type": "reference",
-      "id": "the_vault:generic/ore_placeholder_ice"
-    },
-    {
-      "type": "reference",
       "id": "the_vault:generic/treasure_door_placeholder"
     },
     {
@@ -313,7 +309,7 @@
       "target": "minecraft:oak_trapdoor",
       "output": {
         "minecraft:spruce_trapdoor": 2,
-        "mcwtrpdoors:spruce_barn_trapdoor": 2,
+        "mcwtrpdoors:spruce_barn_trapdoor":2,
         "mcwtrpdoors:spruce_classic_trapdoor": 1
       }
     },
@@ -328,17 +324,17 @@
       "type": "weighted_target",
       "target": "minecraft:oak_fence_gate",
       "output": {
-        "minecraft:spruce_fence_gate": 1
+          "minecraft:spruce_fence_gate": 1
       }
-    },
-    {
+  },
+  {
       "type": "weighted_target",
       "target": "minecraft:oak_door",
       "output": {
-        "minecraft:spruce_door": 2,
-        "mcwdoors:spruce_barn_door": 1
+          "minecraft:spruce_door": 2,
+          "mcwdoors:spruce_barn_door": 1
       }
-    },
+  },
     {
       "type": "weighted_target",
       "target": "minecraft:stone_bricks",
@@ -493,9 +489,9 @@
       "type": "weighted_target",
       "target": "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\"}}",
       "output": {
-        "supplementaries:wall_lantern{Lantern:{Name:\"supplementaries:silver_lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
+          "supplementaries:wall_lantern{Lantern:{Name:\"supplementaries:silver_lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
       }
-    },
+  },
     {
       "type": "weighted_target",
       "target": "minecraft:soul_lantern",
@@ -587,22 +583,22 @@
       "type": "weighted_target",
       "target": "minecraft:sand",
       "output": {
-        "minecraft:white_concrete_powder": 1
+          "minecraft:white_concrete_powder": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "minecraft:potted_oak_sapling",
       "output": {
-        "minecraft:potted_spruce_sapling": 1
-      }
+          "minecraft:potted_spruce_sapling": 1
+        }
     },
     {
-      "type": "weighted_target",
-      "target": "quark:oak_hedge",
-      "output": {
-        "minecraft:air": 1
-      }
+        "type": "weighted_target",
+        "target": "quark:oak_hedge",
+        "output": {
+            "minecraft:air": 1
+        }
     },
     {
       "type": "weighted_target",
@@ -651,8 +647,24 @@
       "id": "the_vault:generic/spawners/ice_mobs"
     },
     {
-      "type": "reference",
-      "id": "the_vault:generic/ice_elite_spawners"
+        "type": "reference",
+        "id": "the_vault:generic/ice_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_ICE_CAVE",
+        "THEME_CATEGORY_ICE"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_ICE_CAVE",
+        "THEME_CATEGORY_ICE"
+      ]
     }
   ],
   "entity_processors": [],

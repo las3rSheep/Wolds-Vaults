@@ -138,17 +138,24 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:herald",
+                  "id": "the_vault:herald", 
                   "size": 1
-                }
-              ]
+                  }
+                ]
             },
             "Layout": {
               "type": "herald"
             },
             "Theme": {
-              "type": "value",
+              "type": "value", 
               "id": "the_vault:classic_vault_herald"
+            },
+            "Time": {
+              "type": "value",
+              "roll": {
+                "type": "constant",
+                "count": 96000
+              }
             },
             "Properties": {
               "type": "capacity",

@@ -243,26 +243,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:relic_booster_pack"
-                },
-                "minCount": 2,
-                "maxCount": 4
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:unidentified_relic_fragment"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 8
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:sweet_kiwi"
                 },
                 "minCount": 1,
@@ -277,16 +257,6 @@
                 },
                 "minCount": 6,
                 "maxCount": 32
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:magnetite_ingot"
-                },
-                "minCount": 1,
-                "maxCount": 3
               },
               "weight": 30
             },
@@ -588,20 +558,10 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:relic_booster_pack"
-                },
-                "minCount": 2,
-                "maxCount": 5
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:sweet_kiwi"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
               },
               "weight": 30
             },
@@ -612,16 +572,6 @@
                 },
                 "minCount": 6,
                 "maxCount": 32
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:magnetite_ingot"
-                },
-                "minCount": 2,
-                "maxCount": 4
               },
               "weight": 30
             },
@@ -4808,6 +4758,16 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:repair_core"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:chaotic_focus"
                 },
                 "minCount": 1,
@@ -5298,6 +5258,107 @@
         "itemPool": {
           "pool": [
             {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:resource_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:wild_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:card_deck",
+                  "nbt": "{\"id\":\"lost\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
               "value": {
                 "stack": {
                   "item": "the_vault:jewel",
@@ -5572,6 +5633,96 @@
         "itemPool": {
           "pool": [
             {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:resource_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:wild_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
               "value": {
                 "stack": {
                   "item": "the_vault:jewel",
@@ -5625,6 +5776,17 @@
                 "maxCount": 1
               },
               "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:card_deck",
+                  "nbt": "{\"id\":\"lost\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
             },
             {
               "value": {
@@ -5857,6 +6019,96 @@
         "itemPool": {
           "pool": [
             {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_arcane_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_stat_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_mix_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:resource_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:mega_evolution_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:booster_pack",
+                "nbt": "{\"id\":\"the_vault:wild_pack\"}"
+              },
+              "minCount": 1,
+              "maxCount": 1
+            },
+            {
               "value": {
                 "stack": {
                   "item": "the_vault:jewel",
@@ -5932,6 +6184,17 @@
                 "maxCount": 1
               },
               "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:card_deck",
+                  "nbt": "{\"id\":\"lost\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
             },
             {
               "value": {

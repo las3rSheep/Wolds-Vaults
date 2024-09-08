@@ -37,7 +37,8 @@ let removedOutputsIFG = [
     'industrialforegoing:range_addon8',
     'industrialforegoing:range_addon9',
     'industrialforegoing:range_addon10',
-    'industrialforegoing:range_addon11'
+    'industrialforegoing:range_addon11',
+    'industrialforegoing:enchantment_factory'
 ];
 onEvent("recipes", event => {
     removedOutputsIFG.forEach(id => {
@@ -95,6 +96,18 @@ onEvent("recipes", event => {
     event.remove({ id: 'industrialforegoing:dissolution_chamber/speed_addon_2' })
     event.remove({ id: 'industrialforegoing:dissolution_chamber/processing_addon_1' })
     event.remove({ id: 'industrialforegoing:dissolution_chamber/processing_addon_2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_0' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_1' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_3' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_4' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_5' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_6' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_7' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_8' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_9' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_10' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon_11' })
 
     event.shaped(Item.of('industrialforegoing:machine_frame_pity'),
         [
@@ -705,7 +718,7 @@ onEvent("recipes", event => {
         ], {
         P: '#forge:plastic',
         N: 'the_vault:omega_pog',
-        B: 'the_vault:pog_prism',
+        B: 'woldsvaults:extraordinary_pog_prism',
         M: 'industrialforegoing:machine_frame_supreme',
         I: 'the_vault:vault_diamond_block_1',
         T: 'the_vault:chromatic_gold_block'

@@ -2,10 +2,6 @@
   "tile_processors": [
     {
       "type": "reference",
-      "id": "the_vault:generic/ore_placeholder_ice"
-    },
-    {
-      "type": "reference",
       "id": "the_vault:generic/treasure_door_placeholder"
     },
     {
@@ -656,6 +652,22 @@
     {
       "type": "reference",
       "id": "the_vault:generic/ice_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_ICE",
+        "THEME_CATEGORY_ICE"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_ICE",
+        "THEME_CATEGORY_ICE"
+      ]
     }
   ],
   "entity_processors": [],

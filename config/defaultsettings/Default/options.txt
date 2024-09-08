@@ -23,7 +23,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:true
+showSubtitles:false
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -39,7 +39,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:2
 particles:0
 maxFps:260
 difficulty:2
@@ -48,9 +48,9 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","contenttweaker:user/client_resources","packmenu","quark:emote_resources","resources/VHBook.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","contenttweaker:user/client_resources","packmenu","quark:emote_resources","resources/VHBook.zip","file/FullVaultRocks.zip","file/KFocus-WoldsV1.02.zip","file/Vault Loafers [SPLOOBIUM].zip","file/Vault_Burger_Hunger_Bar.zip","file/Wold\u0027s Vaults Personal Touches","file/VH_Rainbow_XP_Bars.zip"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
-lastServer:192.168.0.181:21027
+lastServer:192.168.0.221:25565
 lang:en_us
 soundDevice:
 chatVisibility:0
@@ -86,8 +86,8 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -1439,6 +1439,9 @@
               },
               {
                 "item": "thermal:lead_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_lead"
               }
             ],
             "amount": {
@@ -3306,6 +3309,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_uranium"
+              },
+              {
+                "item": "immersiveengineering:ingot_uranium"
               }
             ],
             "amount": {
@@ -4081,6 +4087,9 @@
             "items": [
               {
                 "item": "create:zinc_ingot"
+              },
+              {
+                "item": "moremekanismprocessing:zinc_ingot"
               }
             ],
             "amount": {
@@ -5809,6 +5818,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_uranium"
+              },
+              {
+                "item": "immersiveengineering:ingot_uranium"
               }
             ],
             "amount": {
@@ -5893,6 +5905,9 @@
               },
               {
                 "item": "createaddition:electrum_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_electrum"
               }
             ],
             "amount": {
@@ -5968,6 +5983,12 @@
             "items": [
               {
                 "item": "thermal:silver_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_silver"
+              },
+              {
+                "item": "moremekanismprocessing:silver_ingot"
               }
             ],
             "amount": {
@@ -5998,6 +6019,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_steel"
+              },
+              {
+                "item": "immersiveengineering:ingot_steel"
               }
             ],
             "amount": {
@@ -6959,6 +6983,9 @@
             "items": [
               {
                 "item": "create:zinc_ingot"
+              },
+              {
+                "item": "moremekanismprocessing:zinc_ingot"
               }
             ],
             "amount": {
@@ -8897,6 +8924,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_uranium"
+              },
+              {
+                "item": "immersiveengineering:ingot_uranium"
               }
             ],
             "amount": {
@@ -8948,6 +8978,9 @@
               },
               {
                 "item": "thermal:lead_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_lead"
               }
             ],
             "amount": {
@@ -8978,6 +9011,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_steel"
+              },
+              {
+                "item": "immersiveengineering:ingot_steel"
               }
             ],
             "amount": {
@@ -9053,6 +9089,12 @@
             "items": [
               {
                 "item": "thermal:silver_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_silver"
+              },
+              {
+                "item": "moremekanismprocessing:silver_ingot"
               }
             ],
             "amount": {
@@ -10074,6 +10116,9 @@
             "items": [
               {
                 "item": "create:zinc_ingot"
+              },
+              {
+                "item": "moremekanismprocessing:zinc_ingot"
               }
             ],
             "amount": {
@@ -11952,6 +11997,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_uranium"
+              },
+              {
+                "item": "immersiveengineering:ingot_uranium"
               }
             ],
             "amount": {
@@ -12018,6 +12066,9 @@
               },
               {
                 "item": "thermal:lead_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_lead"
               }
             ],
             "amount": {
@@ -12108,6 +12159,12 @@
             "items": [
               {
                 "item": "thermal:silver_ingot"
+              },
+              {
+                "item": "immersiveengineering:ingot_silver"
+              },
+              {
+                "item": "moremekanismprocessing:silver_ingot"
               }
             ],
             "amount": {
@@ -12138,6 +12195,9 @@
             "items": [
               {
                 "item": "mekanism:ingot_steel"
+              },
+              {
+                "item": "immersiveengineering:ingot_steel"
               }
             ],
             "amount": {

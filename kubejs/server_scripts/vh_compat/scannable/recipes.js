@@ -20,7 +20,7 @@ onEvent("recipes", event => {
             'DCD',
             'LBL'
         ], {
-        G: 'the_vault:pog_prism',
+        G: 'woldsvaults:extraordinary_pog_prism',
         D: 'the_vault:chromatic_steel_block',
         C: 'the_vault:vault_diamond_block',
         L: 'the_vault:black_chromatic_steel_ingot',
@@ -47,7 +47,7 @@ onEvent("recipes", event => {
         ], {
         M: 'scannable:blank_module',
         R: 'minecraft:ender_pearl',
-        X: 'the_vault:gem_pog'
+        X: 'the_vault:echo_pog'
     })
 
     event.shaped(Item.of('scannable:hostile_entity_module'),
@@ -85,14 +85,12 @@ onEvent("recipes", event => {
 
     event.shaped(Item.of('scannable:block_module'),
         [
-            'XRX',
-            'GMG',
-            'XRX'
+            'XBX',
+            'BMB',
+            'XBX'
         ], {
         M: 'scannable:blank_module',
-        R: 'the_vault:echo_pog',
-        X: 'the_vault:extraordinary_black_opal',
-        G: 'the_vault:black_chromatic_steel_block',
+        X: 'the_vault:gem_pog_1',
         B: 'the_vault:wold_star'
     })
 
@@ -144,7 +142,7 @@ onEvent("recipes", event => {
         D: 'scannable:vault_chests_module_wooden',
         E: 'scannable:vault_chests_module_raw',
         F: 'scannable:vault_chests_module_treasure',
-        X: 'the_vault:echo_pog'
+        X: 'the_vault:omega_pog'
     })
 
     event.shaped(Item.of('scannable:vault_chests_module_wooden'),
@@ -280,7 +278,7 @@ onEvent("recipes", event => {
         A: 'the_vault:key_mould',
         B: 'the_vault:wold_star_chunk',
         X: 'the_vault:black_chromatic_steel_block',
-        P: 'woldsvaults:extraordinary_pog_prism'
+        P: 'the_vault:omega_pog'
     })
 
 

@@ -1760,6 +1760,14 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave1",
+      "name": "Pirate Caves 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/crystal_caves1",
       "name": "Crystal Caves 1",
       "1.0": {
@@ -1872,11 +1880,27 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/omega/hellish_digsite",
+      "name": "Hellish Digsite 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/hellish_digsite.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/challenge_digsite1",
       "name": "Challenge Digsite 1",
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/challenge_digsite1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/playzone1",
+      "name": "Play Zone 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/playzone1.nbt"
       }
     },
     {
@@ -1925,6 +1949,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/omega_digsite2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/iskallian_garden",
+      "name": "Iskallian Garden",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/comet_observatory",
+      "name": "Comet Observatory",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/comet_observatory1.nbt"
       }
     },
     {
@@ -8248,16 +8288,16 @@
       }
     },
     {
-      "id": "the_vault:vault/rooms/raw/diamond_cave1",
-      "name": "Diamond Cave 1",
+      "id": "the_vault:vault/rooms/raw/larimar_cave",
+      "name": "Larimar Cave 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/diamond_cave1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/larimar_cave.nbt"
       }
     },
     {
-      "id": "the_vault:vault/rooms/wold/ore/larimar_cave1",
-      "name": "Larimar Cave 1",
+      "id": "the_vault:vault/rooms/raw/diamond_cave1",
+      "name": "Diamond Cave 1",
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/diamond_cave1.nbt"
@@ -9037,6 +9077,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss1",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/special/boss2",
+      "name": "Boss Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
       }
     }
   ]

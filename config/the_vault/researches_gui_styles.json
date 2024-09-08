@@ -1,5 +1,17 @@
 {
   "styles": {
+    "Misc Bag Upgrades": {
+      "x": 620,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/misc_bag_upgrades"
+    },
+    "Bag Inception": {
+      "x": 250,
+      "y": 515,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/inception_upgrade"
+    },
     "Dave's Potioneering": {
       "x": 440,
       "y": 310,
@@ -126,17 +138,11 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
-    "Applied Botanics": {
+    "Applied Compatability": {
       "x": 620,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/applied_botanics"
-    },
-    "Applied Mekanistics": {
-      "x": 620,
-      "y": 80,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/applied_mekanistics"
     },
     "Botanical Machinery": {
       "x": 570,
@@ -337,10 +343,16 @@
       "icon": "the_vault:gui/researches/building_gadgets"
     },
     "ComputerCraft": {
+      "x": 60,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/computercraft"
+    },
+    "Psi": {
       "x": 10,
       "y": 310,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/computercraft"
+      "icon": "the_vault:gui/researches/psi"
     },
     "Mining Gadgets": {
       "x": 110,
