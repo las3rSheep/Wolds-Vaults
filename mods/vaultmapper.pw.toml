@@ -1,0 +1,13 @@
+name = "VaultMapper"
+filename = "vaultmapper-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91a6c1ef442a9e179c70f6af06465287908712f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5703634
+project-id = 1099126

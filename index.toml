@@ -1586,7 +1586,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "e8931d59dcbadba48f707a34c345af2edf7ef12bcf67f48917ab763049995ae1"
+hash = "71ef8237935909194628b294914f1b0a30ddc377d992e3f6362c8e3f50522572"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -2082,7 +2082,7 @@ hash = "e172f250f14d596ea2201e146685a88d99cf53022d70c5c89ca70fe31f4a87e7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/bingo_full_crate_cursed.json"
-hash = "e172f250f14d596ea2201e146685a88d99cf53022d70c5c89ca70fe31f4a87e7"
+hash = "28072938578e38c82099f63a39b4b1d9fb9ff745a7310aa1de86b37b5bcb1f7d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/boss_gilded.json"
@@ -2418,7 +2418,7 @@ hash = "2ab974f9a8290207623253e19c2e81340ceba2f0814b3ed5f02b0f457b3a039b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_80.json"
-hash = "4211cd553a83aea150dc40e7f439fd507ea423c263e783d43a88e1d79ef9a280"
+hash = "1df070a48ab2b494b2323169b74b1cf53c9fd7d602762e73a9dbb55fbd64a066"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_0.json"
@@ -3221,6 +3221,10 @@ file = "config/the_vault/gen/1.0/palettes/generic/spawners/sweet_mobs.json"
 hash = "67ab94ef01c565f894e8b8d94d7a6b19691ef7a38daec8de3e70f145ae7e9b69"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/spawners/underwater_mobs.json"
+hash = "44fd73c94874de5cff49300d753041a7dd1066c70a04698acb7975d11118ceec"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/villager.json"
 hash = "76b58c2b5d96e2ab3976d53c2992c2d1352257461352e537326a5691a793ed1c"
 
@@ -3938,7 +3942,7 @@ hash = "5b2edfe64610660786fd899293a575d8c6c445d97a0e1205c43a746e815bc4ae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_undersea.json"
-hash = "a0eaed6604809e7eb32921aae3052665dbafeea5e4098271e1c60a33794ff4a7"
+hash = "bb4a20d7a750e09abaee22836d633043987ace7165f92936d9d56f7f30dbdb66"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_velara.json"
@@ -11586,7 +11590,7 @@ hash = "2481f94ebe58c92c7b271a94c7d6a3f2565609b6f4e833a1f3875d3709aeb5eb"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "d28cacdc908289523f82875545ce22745154125e37ae8556d93b3800aa5e277c"
+hash = "3f7cb654023ecaaf05336a6f5bdc65df8c54a4b3d089b65cb1b850fe61bd6f49"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
@@ -20320,7 +20324,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-autocrafting-fix.pw.toml"
-hash = "3d8c6b4df53ea2a32e6c3aad042c485c328d3492e7790986707cbcd07702625a"
+hash = "99150d0cf028fdfb64ff920d73fa03c184bcc575fe60e1f72e887f1cff0d2e81"
 metafile = true
 
 [[files]]
@@ -20391,6 +20395,11 @@ metafile = true
 [[files]]
 file = "mods/vaultarhud.pw.toml"
 hash = "34660ffdde4a413c9f3804258b1a3bca59cfa08aa1e250a621fdf1a835e2d917"
+metafile = true
+
+[[files]]
+file = "mods/vaultmapper.pw.toml"
+hash = "0a77733891d463166fe5de837d396a6ec2c4d91ebc1900a5aabb354b0a648288"
 metafile = true
 
 [[files]]

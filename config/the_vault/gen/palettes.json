@@ -1066,6 +1066,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/group_settings.json"
     },
     {
+      "id": "the_vault:generic/spawners/underwater_mobs",
+      "name": "Underwater Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/underwater_mobs.json"
+    },
+    {
       "id": "the_vault:generic/spawners/beach_mobs",
       "name": "Beach Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/beach_mobs.json"
