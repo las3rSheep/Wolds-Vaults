@@ -1,6 +1,16 @@
 
 onEvent("recipes", event => {
 
+    event.shaped(Item.of('alexsmobs:lost_tentacle'),
+        [
+            ' OO',
+            'P O',
+            'OOO'
+        ], {
+        P: 'the_vault:gem_pog',
+        O: 'the_vault:vault_meat_block'
+    })
+
     event.shaped(Item.of('alexsmobs:dimensional_carver'),
         [
             'VEV',

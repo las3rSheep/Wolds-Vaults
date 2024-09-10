@@ -1,13 +1,13 @@
 name = "Sophisticated Vault Upgrades"
-filename = "sophisticatedvaultupgrades-1.3.jar"
+filename = "sophisticatedvaultupgrades-1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a902300c91b72d1823e829fd1f18d2f12f823686"
+hash = "a736501585b247c4c115235cabc4fcee1114ce70"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5555147
+file-id = 5710955
 project-id = 1058926

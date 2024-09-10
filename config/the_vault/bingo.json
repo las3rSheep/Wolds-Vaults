@@ -1602,7 +1602,8 @@
               "the_vault:vault/rooms/omega/vendor1",
               "the_vault:vault/rooms/omega/vendor2",
               "the_vault:vault/rooms/omega/vendor3",
-              "the_vault:vault/rooms/omega/cube"
+              "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/arcade"
             ],
             "counter": {
               "type": "target",

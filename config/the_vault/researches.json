@@ -1251,27 +1251,6 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
-        },
-        "integratedcrafting:part_crafting_writer": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_interface_crafting": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_terminal_crafting_job": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
         }
       },
       "blockRestrictions": {},

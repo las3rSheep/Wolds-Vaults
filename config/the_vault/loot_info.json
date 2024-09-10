@@ -89,6 +89,14 @@
         }
       }
     },
+    "the_vault:hellish_sand": {
+      "display": "Hellish Sand",
+      "lootTableKeys": {
+        "the_vault:hellish_sand": {
+          "level": 0
+        }
+      }
+    },
     "the_vault:treasure_sand": {
       "display": "Treasure Sand",
       "lootTableKeys": {
