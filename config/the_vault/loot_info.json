@@ -81,6 +81,14 @@
         }
       }
     },
+    "the_vault:iskallian_leaves": {
+      "display": "Iskallian Leaves",
+      "lootTableKeys": {
+        "the_vault:iskallian_leaves": {
+          "level": 0
+        }
+      }
+    },
     "the_vault:treasure_sand": {
       "display": "Treasure Sand",
       "lootTableKeys": {

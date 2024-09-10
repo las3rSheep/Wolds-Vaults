@@ -11654,7 +11654,7 @@ hash = "0b62f8fef705fde960907f2b82ad25a803b1303ac349565a0db6efce2010a567"
 
 [[files]]
 file = "config/the_vault/loot_info.json"
-hash = "d1c018e91515e1fcf82e54d309d1fb4563e1a14f9ff9af26a679b32e24866441"
+hash = "e68e88ccb91d5d7d09a7429c6219215cce08bed2180c6ee9e7deaf3cfeea28c6"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
@@ -11786,7 +11786,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "7dc0fea246abfd731290c607ecbf9f7c86224d973de317ce2c3d42e5885a92f3"
+hash = "87f71724857adc2b61af8ba90ff528d5f7a2e6e90312729b26ae54ba7e6e9c33"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -19088,6 +19088,11 @@ hash = "d436d9dc08763acf84e6f0663b720a4360caeba6e633aedc2804d34e20d27116"
 metafile = true
 
 [[files]]
+file = "mods/draggable-bookmarks.pw.toml"
+hash = "3666537198c529edf6d3f31c6429b3f66d82252c347ca1763459ec6f7fda9b68"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "36e8e0bf6ec1a40102e301639e13b2d9f66ccf1726363e0d319ebba244234e4a"
 metafile = true
@@ -19968,6 +19973,11 @@ hash = "6900fa6938b07374b653534cf0a99f6cb98774047bcc301ca11eb817bd80df09"
 metafile = true
 
 [[files]]
+file = "mods/qol-hunters.pw.toml"
+hash = "222a2db0d9afef1b890bcc0aaf470f5a1ab925953a1e81a0d25aac2e8d53a2f8"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
@@ -20140,6 +20150,16 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "8f27a7288de92c9f01af83c4d9f01197951563a22acb663e190a44b18e8377b1"
+metafile = true
+
+[[files]]
+file = "mods/sky-guis.pw.toml"
+hash = "5d192a9628b7630e302ddede7487149c06eaafd90b3ae6cd6bbbdd49a6135c98"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-builder.pw.toml"
+hash = "3245b2deb941adfc0fe3ed6c24bcdbb1c81d19a3eb00496f682918a95798ae13"
 metafile = true
 
 [[files]]
@@ -20394,7 +20414,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultarhud.pw.toml"
-hash = "34660ffdde4a413c9f3804258b1a3bca59cfa08aa1e250a621fdf1a835e2d917"
+hash = "832cf12f26c09e6402dc53592fa6479726fab1b6639a3977c3b77a15339a7d83"
 metafile = true
 
 [[files]]

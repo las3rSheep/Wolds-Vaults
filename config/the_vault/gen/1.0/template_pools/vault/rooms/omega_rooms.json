@@ -12,11 +12,11 @@
     "reference": "the_vault:vault/rooms/omega/playzone"
   },
   {
-    "weight": 7,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/iskallian_garden"
   },
   {
-    "weight": 5,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/comet_observatory"
   },
   {
