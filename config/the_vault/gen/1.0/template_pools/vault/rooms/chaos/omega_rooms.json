@@ -8,12 +8,20 @@
     "reference": "the_vault:vault/rooms/omega/digsite2"
   },
   {
-    "weight": 7,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/iskallian_garden"
   },
   {
-    "weight": 5,
+    "weight": 4,
     "reference": "the_vault:vault/rooms/omega/comet_observatory"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/omega/arcade"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/playzone"
   },
   {
     "weight": 7,

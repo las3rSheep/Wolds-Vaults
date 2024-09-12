@@ -1511,8 +1511,88 @@
       "1.0": "config/the_vault/gen/1.0/palettes/gate_lock/gods.json"
     },
     {
+      "id": "the_vault:paradox/pirate_cave/wendarr",
+      "name": "Challenge Cave Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/pirate_cave/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/pirate_cave/tenos",
+      "name": "Challenge Cave Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/pirate_cave/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/pirate_cave/velara",
+      "name": "Challenge Cave Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/pirate_cave/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/pirate_cave/idona",
+      "name": "Challenge Cave Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/pirate_cave/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/playzone/wendarr",
+      "name": "Omega playzone Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/playzone/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/playzone/tenos",
+      "name": "Omega playzone Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/playzone/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/playzone/velara",
+      "name": "Omega playzone Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/playzone/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/playzone/idona",
+      "name": "Omega playzone Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/playzone/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/iskallian_garden/wendarr",
+      "name": "Omega Garden Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/iskallian_garden/tenos",
+      "name": "Omega Garden Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/iskallian_garden/velara",
+      "name": "Omega Garden Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/iskallian_garden/idona",
+      "name": "Omega Garden Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/arcade/wendarr",
+      "name": "Omega Arcade Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/arcade/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/arcade/tenos",
+      "name": "Omega Arcade Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/arcade/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/arcade/velara",
+      "name": "Omega Arcade Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/arcade/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/arcade/idona",
+      "name": "Omega Arcade Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/arcade/idona.json"
+    },
+    {
       "id": "the_vault:paradox/blacksmith/wendarr",
-      "name": "Omega Blacksmith Wendarr",
+      "name": "Omega Arcade Wendarr",
       "1.0": "config/the_vault/gen/1.0/palettes/paradox/blacksmith/wendarr.json"
     },
     {

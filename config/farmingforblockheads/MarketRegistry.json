@@ -24,5 +24,24 @@
                 "count": 1
             }
         }
-    }
+    },
+    "customCategories": {
+        "modded_saplings": {
+            "name": "Modded Saplings",
+            "icon": {
+                "item": "integrateddynamics:menril_sapling"
+            }
+        }
+    },
+    "customEntries": [
+        {
+            "output": {
+                "item": "integrateddynamics:menril_sapling"
+            },
+            "payment": {
+                "item": "the_vault:vault_platinum"
+            },
+            "category": "modded_saplings"
+        }
+    ]
 }
