@@ -1196,56 +1196,7 @@
     },
     {
       "itemRestrictions": {
-        "ae2:molecular_assembler": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
         "mekanism:formulaic_assemblicator": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "refinedstorage:pattern_grid": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "ae2:pattern_encoding_terminal": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "ae2:pattern_access_terminal": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "ae2:pattern_provider": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "ae2:cable_pattern_provider": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "refinedstorage:crafter": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,
@@ -1280,13 +1231,6 @@
             "CRAFTABILITY": true
           }
         },
-        "create:mechanical_crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
         "botania:crafting_halo": {
           "restricts": {
             "HITTABILITY": true,
@@ -1307,96 +1251,12 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
-        },
-        "ae2:blank_pattern": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "refinedstorage:pattern": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_crafting_writer": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_interface_crafting": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_terminal_crafting_job": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "extrastorage:iron_crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "extrastorage:gold_crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "extrastorage:diamond_crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "extrastorage:netherite_crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "megacells:mega_crafting_unit": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "megacells:mega_crafting_accelerator": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "megacells:mega_crafting_monitor": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Automatic Genius",
-      "cost": 36,
+      "cost": 1,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/atomatic/helmet",

@@ -15,4 +15,6 @@ onEvent("recipes", event => {
     event.shapeless('9x the_vault:knowledge_star_essence', ['the_vault:knowledge_star_shard'])
     event.shapeless('4x minecraft:glowstone_dust', ['minecraft:glowstone'])
     event.shapeless('3x quark:limestone', ['minecraft:stone', 'minecraft:andesite', 'minecraft:diorite'])
+    event.shapeless('1x minecraft:nether_wart_block', ['9x minecraft:nether_wart']).id('quark:building/crafting/compressed/nether_wart_block_override')
+    event.shapeless('9x minecraft:nether_wart', ['minecraft:nether_wart_block'])
 })

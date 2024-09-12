@@ -1440,14 +1440,7 @@
         "color": "yellow"
       },
       {
-        "text": " is known for it's simplicity when it comes to digital networking but have some limiting factors because of it. Auto Crafting is possible but gated behind "
-      },
-      {
-        "text": "Automatic Genius",
-        "color": "aqua"
-      },
-      {
-        "text": "."
+        "text": " is known for it's simplicity when it comes to digital networking but have some limiting factors because of it. "
       },
       {
         "text": "\n\nAdds rewards to "
@@ -1480,16 +1473,6 @@
       },
       {
         "text": "."
-      },
-      {
-        "text": "\n\nAuto-crafting is possible but locked behind "
-      },
-      {
-        "text": "Automatic Genius",
-        "color": "aqua"
-      },
-      {
-        "text": "!"
       },
       {
         "text": "\n\nAdds rewards to "
@@ -1528,14 +1511,7 @@
         "color": "yellow"
       },
       {
-        "text": " is a bit more complex than it's similarity, Refined Storage, but has less limitations end game. Auto Crafting is possible but gated behind "
-      },
-      {
-        "text": "Automatic Genius",
-        "color": "aqua"
-      },
-      {
-        "text": "."
+        "text": " is a bit more complex than it's similarity, Refined Storage, but has less limitations end game. "
       },
       {
         "text": "\n\nAdds rewards to "
@@ -13906,7 +13882,7 @@
     ],
     "Craftsman": [
       {
-        "text": "Become an expert Vault Gear craftsman and enhance the capabilities and versatility of your crafted gear. Note: Next update will have additional levels for this! "
+        "text": "Become an expert Vault Gear craftsman and enhance the capabilities and versatility of your crafted gear. Note: Next update will have additional levels for this! (ACTUALLY next update okay) "
       },
       {
         "text": "Each level unlocks a new perk when or for crafted gear."

@@ -203,6 +203,9 @@ onEvent('recipes', event => {
     event.shapeless('9x the_vault:chromatic_gold_ingot', ['the_vault:chromatic_gold_block'])
     event.shapeless('the_vault:chromatic_gold_block', ['9x the_vault:chromatic_gold_ingot'])
 
+    //Vault Ingot Stuff
+    event.shapeless('the_vault:vault_ingot', ['the_vault:chromatic_iron_ingot', 'the_vault:chromatic_steel_ingot', 'the_vault:chromatic_gold_ingot', 'the_vault:smashed_vault_gem_cluster'])
+
     event.shapeless('woldsvaults:arcane_shard', ['9x woldsvaults:arcane_essence'])
 
     event.shaped(Item.of('woldsvaults:expertise_orb'),

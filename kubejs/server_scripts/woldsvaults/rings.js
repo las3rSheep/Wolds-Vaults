@@ -71,4 +71,17 @@ onEvent('recipes', event => {
         X: 'the_vault:omega_pog'
     })
 
+    event.shaped(Item.of('woldsvaults:zephyr_charm'),
+        [
+            'V T',
+            'PG ',
+            'WPV'
+        ], {
+        G: 'the_vault:chromatic_gold_block',
+        T: 'the_vault:trinket_scrap',
+        W: 'the_vault:wold_star_chunk',
+        V: 'the_vault:vault_ingot_1',
+        P: 'woldsvaults:extraordinary_pog_prism'
+    })
+
 })

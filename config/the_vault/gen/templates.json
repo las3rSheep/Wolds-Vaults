@@ -8,6 +8,14 @@
       }
     },
     {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_jgrade",
+      "name": "Zombie Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_dungeon_jgrade.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/generic/common/3x3/standing1",
       "name": "Standing1 Common 3x3 Generic Decor",
       "1.0": {
@@ -1965,6 +1973,14 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/comet_observatory1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/arcade",
+      "name": "Arcade",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/arcade.nbt"
       }
     },
     {

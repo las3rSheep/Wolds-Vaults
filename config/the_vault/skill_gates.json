@@ -565,6 +565,266 @@
         "dependsOn": [
           {
             "type": "constant",
+            "id": "Easy Villagers"
+          },
+          {
+            "type": "constant",
+            "id": "Better Wallets"
+          },
+          {
+            "type": "constant",
+            "id": "Bag Inception"
+          },
+          {
+            "type": "constant",
+            "id": "Misc Bag Upgrades"
+          },
+          {
+            "type": "constant",
+            "id": "Junk Management"
+          },
+          {
+            "type": "constant",
+            "id": "Phytogenic Insulator"
+          },
+          {
+            "type": "constant",
+            "id": "Digital Miner"
+          },
+          {
+            "type": "constant",
+            "id": "Brews"
+          },
+          {
+            "type": "constant",
+            "id": "Thermal Dynamos"
+          },
+          {
+            "type": "constant",
+            "id": "Altar Automation"
+          },
+          {
+            "type": "constant",
+            "id": "Vault Compass"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism QIO"
+          },
+          {
+            "type": "constant",
+            "id": "Create Ore Excavation"
+          },
+          {
+            "type": "constant",
+            "id": "Mekanism Generators"
+          },
+          {
+            "type": "constant",
+            "id": "Powah"
+          },
+          {
+            "type": "constant",
+            "id": "Flux Networks"
+          },
+          {
+            "type": "constant",
+            "id": "Botany Pots"
+          },
+          {
+            "type": "constant",
+            "id": "Bonsai Pots"
+          },
+          {
+            "type": "constant",
+            "id": "Cagerium"
+          },
+          {
+            "type": "constant",
+            "id": "Hostile Neural Networks"
+          },
+          {
+            "type": "constant",
+            "id": "Create Mechanical Extruder"
+          },
+          {
+            "type": "constant",
+            "id": "Dark Utilities"
+          },
+          {
+            "type": "constant",
+            "id": "Industrial Foregoing"
+          },
+          {
+            "type": "constant",
+            "id": "PneumaticCraft"
+          },
+          {
+            "type": "constant",
+            "id": "Mob Spawners"
+          },
+          {
+            "type": "constant",
+            "id": "Psi"
+          },
+          {
+            "type": "constant",
+            "id": "ComputerCraft"
+          },
+          {
+            "type": "constant",
+            "id": "Pipez"
+          },
+          {
+            "type": "constant",
+            "id": "Modular Routers"
+          },
+          {
+            "type": "constant",
+            "id": "Hexcasting"
+          },
+          {
+            "type": "constant",
+            "id": "LaserIO"
+          },
+          {
+            "type": "constant",
+            "id": "Super Factory Manager"
+          },
+          {
+            "type": "constant",
+            "id": "Xnet"
+          },
+          {
+            "type": "constant",
+            "id": "Elevators"
+          },
+          {
+            "type": "constant",
+            "id": "Oops, All Iron Mods"
+          },
+          {
+            "type": "constant",
+            "id": "Functional Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Drawers"
+          },
+          {
+            "type": "constant",
+            "id": "Sophisticated Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Mining Gadgets"
+          },
+          {
+            "type": "constant",
+            "id": "Building Gadgets"
+          },
+          {
+            "type": "constant",
+            "id": "Trashcans"
+          },
+          {
+            "type": "constant",
+            "id": "Torch Master"
+          },
+          {
+            "type": "constant",
+            "id": "Waystones"
+          },
+          {
+            "type": "constant",
+            "id": "Tom's Simple Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Cloud Storage"
+          },
+          {
+            "type": "constant",
+            "id": "RFTools Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Colossal Chests"
+          },
+          {
+            "type": "constant",
+            "id": "Mega Cells"
+          },
+          {
+            "type": "constant",
+            "id": "Extra Storage"
+          },
+          {
+            "type": "constant",
+            "id": "Botanical Machinery"
+          },
+          {
+            "type": "constant",
+            "id": "Applied Compatability"
+          },
+          {
+            "type": "constant",
+            "id": "Create Crafts and Additions"
+          },
+          {
+            "type": "constant",
+            "id": "Create Diesel Generators"
+          },
+          {
+            "type": "constant",
+            "id": "Time in a Bottle"
+          },
+          {
+            "type": "constant",
+            "id": "QuarryPlus"
+          },
+          {
+            "type": "constant",
+            "id": "Mystical Agriculture"
+          },
+          {
+            "type": "constant",
+            "id": "Entangled"
+          },
+          {
+            "type": "constant",
+            "id": "Cable Tiers"
+          },
+          {
+            "type": "constant",
+            "id": "Little Logistics"
+          },
+          {
+            "type": "constant",
+            "id": "Incorporeal"
+          },
+          {
+            "type": "constant",
+            "id": "Advanced Peripherals"
+          },
+          {
+            "type": "constant",
+            "id": "Compressed Creativity"
+          },
+          {
+            "type": "constant",
+            "id": "RFTools Power"
+          },
+          {
+            "type": "constant",
+            "id": "Immersive Engineering"
+          },
+          {
+            "type": "constant",
+            "id": "Dave's Potioneering"
+          },
+          {
+            "type": "constant",
             "id": "Integrated Dynamics"
           },
           {
