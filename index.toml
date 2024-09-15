@@ -1102,7 +1102,7 @@ hash = "16908675184ca6c7541880d1cd7f6c3af62377b90476cdfd91a58e8b7da6a2fc"
 
 [[files]]
 file = "config/ispawner/survival_spawner.json"
-hash = "986831c8445f84ff7bdeef9616f66108c7d96305621c2d176dc7a6abe6a3d2a1"
+hash = "c01601f2bca938656f7087f84a52499453253f08bf9f0e0d4270fe2428210080"
 
 [[files]]
 file = "config/itemborders-common.toml"
@@ -8246,6 +8246,10 @@ hash = "83591eeff4e00d61388f116a66243f54b46f7787d06709cc376292a501c2844a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+hash = "25530f03ef7f668e6bdbf591daca863eb9c18825e2b5a81d64fccd1844f6fb3e"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1_old.nbt"
 hash = "14af9a27a8b3b70ca8793c5dc27a7d1060010519ff69f21ef12761fd2cc13d87"
 
 [[files]]
@@ -10386,7 +10390,7 @@ hash = "d6a3ff1192c96841fde1e90d50d1ab852cce1cade7d09aa182738598e6a8e4d8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/pirate_cave.json"
-hash = "69a56e09c3542587eb26759317ee73c2b22f51ec2ba1d106eedbe9a4a4ccc5d1"
+hash = "3f97b0adaec30d26b9edeae0d764dcf46a84458eef4f930c999b7c48b05b74aa"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/village.json"
@@ -10486,7 +10490,7 @@ hash = "2250ce0101c0d438f12cf82449e94eb9872d41efc1629211a65a4921527bf5cd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/pirate_cave.json"
-hash = "5eb72939bdd8e9479e20ab03bac48e6df1cf625d17aeae414de580bb59c9c0c0"
+hash = "0da152e33c517d168d3f194e1a11d536c64af6c8aa7acc37a104aa55460543de"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/village.json"
@@ -10578,7 +10582,7 @@ hash = "8507ccfc6b10ba2d8858b015e1db4806c122777fbf5cd158fa140bf4e4600d12"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/pirate_cave.json"
-hash = "1502ccdfff776a0d3dcf561964a549a277f4d787d8dd9fa951f0163520a92c21"
+hash = "092fbeedaf5fbd7032a471a4a06690ed22073446dc1201e196d0970782d870c5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/village.json"
@@ -10670,7 +10674,7 @@ hash = "4d557f2229251c9bff6b3ab7a8e714110b3b258c2499ea940b8b34163c5c4f0b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/pirate_cave.json"
-hash = "50287f500c41264c76a9b87d0089f6bded28e2da1f715b3b378c2358f89e5c28"
+hash = "11d234ed5d368981868506f6790cb8a2877528153d299d960d1670ead73ab5b6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/village.json"
@@ -11898,7 +11902,7 @@ hash = "8017153645d07be854bb78cf8b50ed18ed59ce2b180cd8c6c3c68db168fdceec"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "04ed41ec064ee716f3dcbb0b209d8c5cb4aab8ee4d2c811b8d4d50ff97b95d5d"
+hash = "ce4201bc570d3d01def8d1239275857687b2edf3ec83099f66f77114e31728e9"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -12074,7 +12078,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "141eb2b9b66dfd50efab4e2eb88e7f7dd895f332c3d8b0de19b642545f9e83fb"
+hash = "a48498f35e6d437d90802894949e57c6a467c87cbe285968adfdaea0bdfeca05"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -12114,7 +12118,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "c5ae942d6b65c7b5300a9c46ca77d308802fcab96cdbff17e2c18b53dbc59dad"
+hash = "e090ae7dbc7519c7ce696c0f4a06b36578b9b628de4e406161216950266991b8"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -12174,11 +12178,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "8af8e2bcfc725244501ca66359688f0dfcb3a531405832dc8ac5eef61976527b"
+hash = "d33d13b785e6aef7b64eb2789cb1195d823ac12dd21e42f79f38b3b3b49f52b1"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "24c97468d41955dfd711efc883abe3861efba0c7aa3776b273a9e08f9e11a044"
+hash = "1ed59472f6ccf656e7b11ddedc279e7d6d2b28e1b4789dcbff6c2241fbe0d65d"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18269,6 +18273,10 @@ file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
 hash = "8c7ec1e84544fb54f1514ae29ecf039b0b9a9da853e484a56f3fc878342888a5"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/ae2/recipes.js"
+hash = "ae6821bcf6bd2fddb14fab2b6a6d01f52227e18095e1b18079d142a42a116126"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/ae2additions/recipes.js"
 hash = "6e98d70964110dad702f1a1066b7d131888ba41e4f137ab5b18a261e05f6c3b6"
 
@@ -18453,12 +18461,8 @@ file = "kubejs/server_scripts/vh_compat/mega_cells/recipes.js"
 hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
-file = "kubejs/server_scripts/vh_compat/mekanism/compat/thermal.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"
-hash = "6ee18b1a953fa338dbb0d3ab70140fadd3aa7b90cb8b93e14bd95f54d093b85b"
+hash = "d432ab36ee499ebceed17af40b2096699854ac72ef6a3afc98459fe35ddd9ef9"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mining_and_void_dimension/recipes.js"
@@ -18526,7 +18530,7 @@ hash = "755a4d46acca7925889e12cf90316875ae4931a63cd916c36852b773082c581f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/qol/wool_to_string.js"
-hash = "f9599d06af43a02c7b87709f6a291f97d8fb02a9923c97c580f9c25e8773fbf7"
+hash = "9054350c8f091f83de02aac1a67d75ea28a2714161d4f9ed13c690ebfa95b28c"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/quarryplus/recipes.js"
@@ -18853,11 +18857,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
-metafile = true
-
-[[files]]
-file = "mods/better-vault-hunters-block-models.pw.toml"
-hash = "962ef77e6ed63a4bc071913a1d45927d052c9923028c9c55a636aa7c30c8074e"
 metafile = true
 
 [[files]]
@@ -20553,11 +20552,6 @@ metafile = true
 [[files]]
 file = "mods/vaultarhud.pw.toml"
 hash = "31226c8e3154265c2196391c04bcb8c603ace31b650784e5542185220283a343"
-metafile = true
-
-[[files]]
-file = "mods/vaultblocktags.pw.toml"
-hash = "4778488d133e6b666106578050aa6fc9c96be3cec488877d334ded5d32766dae"
 metafile = true
 
 [[files]]
