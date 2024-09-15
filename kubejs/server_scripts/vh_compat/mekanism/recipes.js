@@ -105,7 +105,7 @@ onEvent("recipes", event => {
                     }
                 },
                 "mainInput": {
-                    "amount": 10,
+                    "amount": 32,
                     "ingredient": {
                         "item": `the_vault:gem_${gem}`
                     }
@@ -126,7 +126,7 @@ onEvent("recipes", event => {
                     }
                 },
                 "mainInput": {
-                    "amount": 10,
+                    "amount": 32,
                     "ingredient": {
                         "item": `the_vault:gem_${gem}`
                     }
@@ -147,7 +147,7 @@ onEvent("recipes", event => {
                     }
                 },
                 "mainInput": {
-                    "amount": 10,
+                    "amount": 32,
                     "ingredient": {
                         "item": `the_vault:gem_${gem}`
                     }

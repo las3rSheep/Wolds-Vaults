@@ -365,6 +365,19 @@
           "icon": "the_vault:gui/modifiers/ornate_chests"
         }
       },
+      "the_vault:wooden": {
+        "properties": {
+          "output": "the_vault:placeholder[type=wooden_chest]",
+          "attemptsPerChunk": 8,
+          "requireConditions": true
+        },
+        "display": {
+          "name": ":wooden: Bonus Wooden",
+          "color": "#fbcc3f",
+          "description": "+1 Set of Wooden Chests",
+          "icon": "the_vault:gui/modifiers/wooden"
+        }
+      },
       "the_vault:wild": {
         "properties": {
           "output": "the_vault:wild_spawner",
@@ -428,7 +441,7 @@
           "requireConditions": false
         },
         "display": {
-          "name": ":cursed_voidpools: Void Pools",
+          "name": ":curse_voidpools: Void Pools",
           "color": "#E83F24",
           "description": "This vault has pockets of voiding",
           "descriptionFormatted": "Voiding",
@@ -1181,6 +1194,20 @@
           "icon": "the_vault:gui/modifiers/rapid_mobs"
         }
       },
+      "the_vault:enraged_mobs": {
+        "properties": {
+          "type": "speed_additive_percentile",
+          "amount": 0.15,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": ":rapid_mobs: Super Rapid Mobs",
+          "color": "#f66868",
+          "description": "+15% Mob Speed",
+          "descriptionFormatted": "+%d%% Mob Speed",
+          "icon": "the_vault:gui/modifiers/rapid_mobs"
+        }
+      },
       "the_vault:cake_layer_mobspeed": {
         "properties": {
           "type": "speed_additive_percentile",
@@ -1361,6 +1388,18 @@
           "icon": "the_vault:gui/modifiers/mob_increase"
         }
       },
+      "the_vault:unhinged_mob_increase": {
+        "properties": {
+          "increase": 0.2
+        },
+        "display": {
+          "name": ":mob_increase: Super Onslaught",
+          "color": "#FC7C5C",
+          "description": "+40% Mob Spawns",
+          "descriptionFormatted": "+%d%% increased amount of mob spawns",
+          "icon": "the_vault:gui/modifiers/mob_increase"
+        }
+      },
       "the_vault:cake_mob_increase": {
         "properties": {
           "increase": 0.1
@@ -1411,6 +1450,20 @@
           "name": ":draining: Draining",
           "color": "#849dc8",
           "description": "-10% Mana Regeneration",
+          "descriptionFormatted": "-%d%% Mana Regeneration",
+          "icon": "the_vault:gui/modifiers/draining"
+        }
+      },
+      "the_vault:drought": {
+        "properties": {
+          "type": "mana_regen_additive_percentile",
+          "amount": -0.25,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": ":draining: Drought",
+          "color": "#849dc8",
+          "description": "-25% Mana Regeneration",
           "descriptionFormatted": "-%d%% Mana Regeneration",
           "icon": "the_vault:gui/modifiers/draining"
         }
@@ -1848,6 +1901,21 @@
           "name": ":muscle: Stronk",
           "color": "#d73b46",
           "description": "+1 Strength",
+          "descriptionFormatted": "+%d Strength",
+          "icon": "the_vault:gui/modifiers/stronk"
+        }
+      },
+      "the_vault:super_stronk": {
+        "properties": {
+          "effect": "minecraft:strength",
+          "effectAmplifier": 3,
+          "operator": "add",
+          "type": "icon_only"
+        },
+        "display": {
+          "name": ":muscle: Super Stronk",
+          "color": "#d73b46",
+          "description": "+3 Strength",
           "descriptionFormatted": "+%d Strength",
           "icon": "the_vault:gui/modifiers/stronk"
         }
@@ -2367,12 +2435,12 @@
       "the_vault:copiously": {
         "properties": {
           "stat": "copiously",
-          "addend": 0.05
+          "addend": 0.1
         },
         "display": {
           "name": ":gem_gorginite: Copiously",
           "color": "#F74780",
-          "description": "+5% Copiously",
+          "description": "+10% Copiously",
           "descriptionFormatted": "%d%% Copiously",
           "icon": "the_vault:gui/modifiers/rich"
         }
@@ -2538,6 +2606,19 @@
           "name": ":plentiful: Plentiful",
           "color": "#FF85FF",
           "description": "+20% Vault Ores",
+          "descriptionFormatted": "+%d%% Vault Ores",
+          "icon": "the_vault:gui/modifiers/plentiful"
+        }
+      },
+      "the_vault:super_plentiful": {
+        "properties": {
+          "type": "ORE",
+          "chance": 0.4
+        },
+        "display": {
+          "name": ":plentiful: Super Plentiful",
+          "color": "#FF85FF",
+          "description": "+40% Vault Ores",
           "descriptionFormatted": "+%d%% Vault Ores",
           "icon": "the_vault:gui/modifiers/plentiful"
         }
@@ -2738,6 +2819,18 @@
           "name": ":chaotic: Chaos",
           "color": "#DB7C00",
           "description": "A Chaotic Experience",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:unhinged": {
+        "properties": {
+          "pool": "the_vault:chaos",
+          "level": 0
+        },
+        "display": {
+          "name": ":chaotic: Unhinged",
+          "color": "#DB7C00",
+          "description": "An Unhinged Experience",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       },
@@ -3072,6 +3165,40 @@
       }
     },
     "the_vault:modifier_type/grouped": {
+      "the_vault:omega_bonus": {
+        "properties": {
+          "children": {
+            "the_vault:gilded": 1,
+            "the_vault:wooden": 1,
+            "the_vault:ornate": 1,
+            "the_vault:living": 1,
+            "the_vault:coin_pile": 1
+          }
+        },
+        "display": {
+          "name": ":chest: Omega Bonus",
+          "color": "#3ffbf4",
+          "description": "Adds +1 Chests and Coins",
+          "icon": "the_vault:gui/modifiers/item_quant_4"
+        }
+      },
+      "the_vault:omega_cascade": {
+        "properties": {
+          "children": {
+            "the_vault:gilded_cascade": 1,
+            "the_vault:ornate_cascade": 1,
+            "the_vault:living_cascade": 1,
+            "the_vault:wooden_cascade": 1,
+            "the_vault:coin_cascade": 1
+          }
+        },
+        "display": {
+          "name": ":sheepspin: Omega Cascade",
+          "color": "#3ffbf4",
+          "description": "Adds +20% Cascading chests and coins.",
+          "icon": "the_vault:gui/modifiers/item_quant_4"
+        }
+      },
       "the_vault:blessed": {
         "properties": {
           "children": {
@@ -3651,6 +3778,23 @@
           "color": "#da6d5a",
           "description": "+20% Mob Damage and Health",
           "icon": "the_vault:gui/modifiers/armored_mobs"
+        }
+      },
+      "the_vault:abusive_mobs": {
+        "properties": {
+          "children": {
+            "the_vault:ruthless_mobs": 2,
+            "the_vault:chunky_mobs2": 2,
+            "the_vault:enraged_mobs": 2,
+            "the_vault:critical_mobs": 2,
+            "the_vault:unhinged_mob_increase": 1
+          }
+        },
+        "display": {
+          "name": ":Cri: Abusive Mobs",
+          "color": "#da6d5a",
+          "description": "+40% Mob Damage, +80% Mob Health, +30% Mob Speed, +30% Critical Chance Mobs, +40% More Mob Spawns",
+          "icon": "the_vault:gui/modifiers/difficult"
         }
       },
       "the_vault:cake_layer": {
