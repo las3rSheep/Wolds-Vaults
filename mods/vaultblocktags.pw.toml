@@ -1,0 +1,13 @@
+name = "VaultBlockTags"
+filename = "vaultblocktags-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33bd58e2a02be9033e2e2c1b425c677d17a16c0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5720159
+project-id = 1102117

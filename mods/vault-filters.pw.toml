@@ -1,13 +1,13 @@
 name = "Vault Filters"
-filename = "vaultfilters-1.13.0.jar"
+filename = "vaultfilters-1.14.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1031355c598d205e644feef6ce23335588bba574"
+hash = "155a1cc67b1eabe8d29aaa73424d194c11914d24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5640552
+file-id = 5721001
 project-id = 952507

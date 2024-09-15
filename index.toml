@@ -19751,6 +19751,11 @@ hash = "4113c78d75e6d646186b640c23de9b612ca0930d5fa739b380fe97914ff9aef6"
 metafile = true
 
 [[files]]
+file = "mods/logjanitor.pw.toml"
+hash = "e15049abc1c4716b7064b164678c97166b1ecd1dcd2834489bc22b161ee2e7ac"
+metafile = true
+
+[[files]]
 file = "mods/loot-beams.pw.toml"
 hash = "2ab26b00c0016a05df747ccbfa4531cce65f8febe47433cd056d1272b5945ce6"
 metafile = true
@@ -20103,6 +20108,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6900fa6938b07374b653534cf0a99f6cb98774047bcc301ca11eb817bd80df09"
+metafile = true
+
+[[files]]
+file = "mods/qol-hunters.pw.toml"
+hash = "55c6cdbc0107b2fc239ec5c990feabb2c36a7fe332c1df35bc5422b7f3aee694"
 metafile = true
 
 [[files]]
@@ -20487,7 +20497,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "dc77736c398e34071581985227cd3b8c2662957fcc95eef01f61b28865c69394"
+hash = "c67f5c58b97a909ed93fc17b189db99e42deab4a7aafe228807e34a444b5e5a5"
 metafile = true
 
 [[files]]
@@ -20542,7 +20552,12 @@ metafile = true
 
 [[files]]
 file = "mods/vaultarhud.pw.toml"
-hash = "832cf12f26c09e6402dc53592fa6479726fab1b6639a3977c3b77a15339a7d83"
+hash = "31226c8e3154265c2196391c04bcb8c603ace31b650784e5542185220283a343"
+metafile = true
+
+[[files]]
+file = "mods/vaultblocktags.pw.toml"
+hash = "4778488d133e6b666106578050aa6fc9c96be3cec488877d334ded5d32766dae"
 metafile = true
 
 [[files]]

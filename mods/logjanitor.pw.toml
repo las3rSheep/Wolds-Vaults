@@ -1,0 +1,13 @@
+name = "LogJanitor"
+filename = "logjanitor-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91c275de03f7bf9ff92a3b05680e42405812f652"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5720317
+project-id = 1102170

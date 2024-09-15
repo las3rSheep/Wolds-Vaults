@@ -1,0 +1,13 @@
+name = "QOL Hunters"
+filename = "QOL Hunters-0.8.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14e4fa43ece80c304e9ef3f2865f091d1b79c799"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5725470
+project-id = 1093452
