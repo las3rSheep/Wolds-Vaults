@@ -1008,7 +1008,7 @@
           "name": ":knife: Critical Mobs",
           "color": "#dc693c",
           "description": "+7.5% Mob Critical Strike Chance",
-          "descriptionFormatted": "+7.5% Mob Critical Strike Chance",
+          "descriptionFormatted": "+%d%% Mob Critical Strike Chance",
           "icon": "the_vault:gui/modifiers/destructive"
         }
       },
@@ -1022,7 +1022,7 @@
           "name": ":knife: Critical",
           "color": "#dc693c",
           "description": "+15% Mob Critical Strike Chance",
-          "descriptionFormatted": "+15% Mob Critical Strike Chance",
+          "descriptionFormatted": "+%d%% Mob Critical Strike Chance",
           "icon": "the_vault:gui/modifiers/destructive"
         }
       },
@@ -2824,7 +2824,7 @@
       },
       "the_vault:unhinged": {
         "properties": {
-          "pool": "the_vault:chaos",
+          "pool": "the_vault:unhinged",
           "level": 0
         },
         "display": {

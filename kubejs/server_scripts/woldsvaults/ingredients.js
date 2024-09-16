@@ -287,5 +287,16 @@ onEvent('recipes', event => {
         S: 'the_vault:black_chromatic_steel_ingot'
     })
 
+    //placeholder recipe
+    event.shaped(Item.of('woldsvaults:uber_chaos_catalyst'),
+        [
+            'CCC',
+            'COC',
+            'CCC'
+        ], {
+        C: 'the_vault:vault_catalyst_chaos',
+        O: 'the_vault:pog_prism'
+    })
+
 
 })

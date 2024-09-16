@@ -1423,9 +1423,14 @@
           {
             "value": {
               "type": "haunted_braziers",
-              "objective_probability": 1.0
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 15
+              }
             },
-            "weight": 2
+            "weight": 1
           },
           {
             "value": {

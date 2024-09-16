@@ -1058,7 +1058,7 @@ hash = "2104c3bf4878be6f17628526b28f1bf139ce8c527d3801382d3dd826794676cd"
 
 [[files]]
 file = "config/infernalmobs.cfg"
-hash = "81734ca77f12b3d383c89e23e471c66cad8ac31fa8a3d45d8299c694312dd98a"
+hash = "7d7ed9faf06fa177b8685879af989f0d27043df8055133ff83d90400c0c70627"
 
 [[files]]
 file = "config/integratedcrafting-common.toml"
@@ -12078,7 +12078,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "a48498f35e6d437d90802894949e57c6a467c87cbe285968adfdaea0bdfeca05"
+hash = "3516db9d5933fd6f9ead1544b675e6d0cd67856828a8d3093049af8b34886364"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -12118,7 +12118,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "e090ae7dbc7519c7ce696c0f4a06b36578b9b628de4e406161216950266991b8"
+hash = "b6fe7f5d0a8cebe4aa53267c7af701130dbf42fdcd2ebc83a47444042e23763b"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -12182,7 +12182,7 @@ hash = "d33d13b785e6aef7b64eb2789cb1195d823ac12dd21e42f79f38b3b3b49f52b1"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "1ed59472f6ccf656e7b11ddedc279e7d6d2b28e1b4789dcbff6c2241fbe0d65d"
+hash = "25c8d118a2f08930961fb22eff669cb14e15b99c922c80c97746f68259bb4545"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -12326,7 +12326,7 @@ hash = "02242dcc33621a4b4fa8731cfde1323dec289c8da2b2c1b0f2b0cf6426550577"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "79e2d06fcaa469f0776a05ca68d55f721cf48222684ef32b124ca143822a02e1"
+hash = "3ce4bc647feec9da6fc9f8990b60f7932c97c0aa64a7d3b0d96afdd88d86e79c"
 
 [[files]]
 file = "defaultconfigs/davespotioneering-server.toml"
@@ -16725,10 +16725,6 @@ file = "kubejs/data/curios/tags/items/deck.json"
 hash = "66dca2d330a39baad6bf37df6d1dd07d0f67ddce8c0c05cc22d38c7a1ca6c224"
 
 [[files]]
-file = "kubejs/data/curios/tags/items/shard_pouch.json"
-hash = "d7c09a88d3ea1de31aa9ea5a653c7837ece3b574463ea3f7ebc644a94a1693e3"
-
-[[files]]
 file = "kubejs/data/curios/tags/items/wireless_terminal.json"
 hash = "945e47a28418af2a273e5e03814d98d0b3d461b4690b353b2d9dff28a36b8eb3"
 
@@ -18658,7 +18654,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "ee710b501ef775fb5f3782e3e08119418f21c205f9eed41448ba62739b13dd7d"
+hash = "7a190a658f0a22ba8913171e22352a0e2ee572d266d6f3d007444fade9c60c71"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -20491,7 +20487,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-curios-enhancements.pw.toml"
-hash = "cec391b363feda8a63d9a79f23a59727d825491ffe6497683e3f3949a32faff5"
+hash = "5763c3662bda28b0112809f4065f4a475c58deedeaa571e562d024158223a302"
 metafile = true
 
 [[files]]
@@ -20986,6 +20982,18 @@ hash = "43496640261bf8935285c693d6ee08c8a74406a82c44f3d5768d64fadaeebb43"
 [[files]]
 file = "patchouli_books/the_vault_main_guide/en_us/entries/vault_tools/variants.json"
 hash = "f7d0e95bb7a5ad0cab8ad1c633cb75775f1c17c3935104c4c4f64401b9280d54"
+
+[[files]]
+file = "patchouli_books/wold_pedia/book.json"
+hash = "56b37afe85a35985b1eb2f2daffe657d3abfaa83c8de1b2c0aaf0a69ec6ffc63"
+
+[[files]]
+file = "patchouli_books/wold_pedia/en_us/categories/new_items.json"
+hash = "114dfbf8740c37a6bf66dc2d07a2fbdce45a144d0d4b09dc27b313eaf29da6e5"
+
+[[files]]
+file = "patchouli_books/wold_pedia/en_us/entries/new_items/unhinged_vault_rock.json"
+hash = "3606faeddc7d1640a3964be5d478241f81ce25d083547021b832ce4d5139238d"
 
 [[files]]
 file = "patchouli_data.json"

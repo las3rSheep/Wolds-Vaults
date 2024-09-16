@@ -59,18 +59,6 @@
 	override = true
 
 [[curiosSettings]]
-	identifier = "shard_pouch"
-	size = 1
-	visible = true
-	icon = "curios:slot/shard_pouch"
-
-[[curiosSettings]]
-	identifier = "shard_pouch"
-	size = 1
-	visible = true
-	icon = "curios:slot/shard_pouch"
-
-[[curiosSettings]]
 	identifier = "wireless_terminal"
 	size = 1
 	visible = true
