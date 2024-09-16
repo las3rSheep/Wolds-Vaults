@@ -18654,7 +18654,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "7a190a658f0a22ba8913171e22352a0e2ee572d266d6f3d007444fade9c60c71"
+hash = "9c115e7186e569daeaa7a3b1282648b650b1a7e5b0924b8462dcbcfde85595ec"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -20737,7 +20737,7 @@ hash = "99959e4e950755e3a333ac506eb3281c9d386833837185b06069c756ff676bcc"
 
 [[files]]
 file = "patchouli_books/the_vault_main_guide/book.json"
-hash = "a7955f89f88cbaecd4d96069db1fbfcf418078c4a5d0fded519825cf41e461dc"
+hash = "44cc32536e1ac1ac8b8a71579224e7f55ae028ebf51792c9b967b30fac162ee4"
 
 [[files]]
 file = "patchouli_books/the_vault_main_guide/en_us/categories/game_mechanics_category.json"
@@ -20990,6 +20990,10 @@ hash = "56b37afe85a35985b1eb2f2daffe657d3abfaa83c8de1b2c0aaf0a69ec6ffc63"
 [[files]]
 file = "patchouli_books/wold_pedia/en_us/categories/new_items.json"
 hash = "114dfbf8740c37a6bf66dc2d07a2fbdce45a144d0d4b09dc27b313eaf29da6e5"
+
+[[files]]
+file = "patchouli_books/wold_pedia/en_us/entries/new_items/inscription_box.json"
+hash = "c30b56a8f2ee34d55be2d3c16d017485292b8834ca46886bb2f4e39e44d41221"
 
 [[files]]
 file = "patchouli_books/wold_pedia/en_us/entries/new_items/unhinged_vault_rock.json"
