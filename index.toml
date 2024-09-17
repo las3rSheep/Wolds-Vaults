@@ -12082,7 +12082,7 @@ hash = "3516db9d5933fd6f9ead1544b675e6d0cd67856828a8d3093049af8b34886364"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "eb30b7e1814bf8d2199420eb989602f9a48ae93573a1b6bc26cb023795518299"
+hash = "53e33d43064c8dda065fa4f85a26ed7cdcf73c7865b8523119d0ce5b526dbdb0"
 
 [[files]]
 file = "config/the_vault/vault_altar_chest.json"
@@ -12178,11 +12178,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "d33d13b785e6aef7b64eb2789cb1195d823ac12dd21e42f79f38b3b3b49f52b1"
+hash = "c7178a30b8560865f802a4277a35ce3d2c25b231e582392c8d1a8e05e86321c1"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "25c8d118a2f08930961fb22eff669cb14e15b99c922c80c97746f68259bb4545"
+hash = "3f055993740a15045cb52af5493c2887937111802cde8a00a8f73a4bbbbe0b22"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18686,7 +18686,7 @@ hash = "a11857af8a370c81a5b514dd70426b84a8916843b2fd4a1320c65fd6aa944361"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/emojis.js"
-hash = "ca0be4575c6c5b2faa2b98594ef6c309545b1794f68f78154cf2093123cc3253"
+hash = "5ee419c2626c43202d6ae8cbcf72e6f8b9d6c59999abe3c6f5a4894e1630d379"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/gem_box.js"
@@ -21127,7 +21127,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "2fc0d78c014c97a9ec4c013908a8673c8eba5c12e30f7c4b194a8ec04569f1c9"
+hash = "cd8349266328542f632eca1cf483691a7c58433b589d2a93adb8d63544f8c462"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -21179,7 +21179,7 @@ hash = "b9d20914ad31ada393115308c477b7fb27cfaec8f109224de6024dff30507be5"
 
 [[files]]
 file = "scripts/ExtraTags.zs"
-hash = "59bf372114a31ff17ef89b012db52e8cc6f1c1ddbd3a8ea33506c01868eb3217"
+hash = "e17c4eb848e48f254e605ff90e709db02ae423965b2f5db7e08ed3cb65c99289"
 
 [[files]]
 file = "scripts/Flux.zs"

@@ -920,15 +920,15 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:tired",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:slowed",
                 "weight": 1
               },
               {
                 "value": "the_vault:hunger",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:wounded",
                 "weight": 1
               },
               {
@@ -956,6 +956,10 @@
                 "weight": 1
               },
               {
+                "value": "the_vault:chunky_mobs",
+                "weight": 1
+              },
+              {
                 "value": "the_vault:critical_mobs",
                 "weight": 1
               },
@@ -973,6 +977,30 @@
               },
               {
                 "value": "the_vault:trapped",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:shortened",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:drought",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:haunting",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:stunning",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:poisonous",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:critical_mobs",
                 "weight": 1
               }
             ]
@@ -1157,6 +1185,10 @@
               },
               {
                 "value": "the_vault:altar_hunter",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:pylon_hunter",
                 "weight": 1
               }
             ]
@@ -1604,10 +1636,6 @@
               {
                 "value": "the_vault:champion_chance",
                 "weight": 2
-              },
-              {
-                "value": "the_vault:classic_retro_mini",
-                "weight": 1
               },
               {
                 "value": "the_vault:raging",

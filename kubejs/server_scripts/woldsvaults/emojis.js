@@ -396,7 +396,7 @@ let emojis = [{
 {
     "category": "Giraffe",
     "name": "GiraffeWave",
-    "url": "https://cdn.discordapp.com/emojis/989669571642400788.png"
+    "url": "https://cdn.discordapp.com/emojis/989669571642400788.gif"
 },
 {
     "category": "Giraffe",
