@@ -17,23 +17,9 @@
     },
     {
       "type": "weighted_target",
-      "target": "minecraft:sand",
-      "output": {
-        "minecraft:green_concrete_powder": 1
-      }
-    },
-    {
-      "type": "weighted_target",
-      "target": "minecraft:andesite",
-      "output": {
-        "the_vault:velara_brick_chiseled": 1
-      }
-    },
-    {
-      "type": "weighted_target",
       "target": "minecraft:water",
       "output": {
-        "auxiliaryblocks:green_water": 1
+        "auxiliaryblocks:cyan_water": 1
       }
     },
     {

@@ -4,7 +4,7 @@
     "value": {
       "template": "the_vault:vault/rooms/omega/iskallian_garden",
       "palettes": [
-        "the_vault:iskallian_garden/base2",
+        "the_vault:iskallian_garden/base",
         "the_vault:paradox/iskallian_garden/wendarr"
       ]
     }

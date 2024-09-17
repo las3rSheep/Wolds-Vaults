@@ -6099,6 +6099,21 @@
           "value": {
             "items": [
               {
+                "item": "fluxnetworks:flux_dust"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.5
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:emerald"
               }
             ],
@@ -6109,6 +6124,21 @@
             "scale": 1.0
           },
           "weight": 12
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "botanicalmachinery:mana_emerald"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "scale": 0.6
+          },
+          "weight": 3
         },
         {
           "value": {

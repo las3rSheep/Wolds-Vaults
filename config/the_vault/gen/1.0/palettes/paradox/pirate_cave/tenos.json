@@ -17,20 +17,6 @@
     },
     {
       "type": "weighted_target",
-      "target": "minecraft:sand",
-      "output": {
-        "minecraft:blue_concrete_powder": 1
-      }
-    },
-    {
-      "type": "weighted_target",
-      "target": "minecraft:andesite",
-      "output": {
-        "the_vault:tenos_brick_chiseled": 1
-      }
-    },
-    {
-      "type": "weighted_target",
       "target": "minecraft:water",
       "output": {
         "auxiliaryblocks:cyan_water": 1

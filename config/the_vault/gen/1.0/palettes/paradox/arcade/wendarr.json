@@ -22,20 +22,6 @@
       }
     },
     {
-      "type": "weighted_target",
-      "target": "davebuildingmod:purple_steel_slab",
-      "output": {
-        "davebuildingmod:yellow_steel_slab": 1
-      }
-    },
-    {
-      "type": "weighted_target",
-      "target": "minecraft:purple_concrete",
-      "output": {
-        "minecraft:yellow_concrete": 1
-      }
-    },
-    {
       "type": "reference",
       "id": "the_vault:gate_lock/base"
     }

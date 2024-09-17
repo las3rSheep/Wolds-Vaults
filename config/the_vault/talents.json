@@ -1546,21 +1546,21 @@
             "tiers": [
               {
                 "type": "health_leech_lucky_hit",
-                "maxHealthPercentage": 0.06,
+                "maxHealthPercentage": 0.1,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 25
               },
               {
                 "type": "health_leech_lucky_hit",
-                "maxHealthPercentage": 0.12,
+                "maxHealthPercentage": 0.2,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 25
               },
               {
                 "type": "health_leech_lucky_hit",
-                "maxHealthPercentage": 0.18,
+                "maxHealthPercentage": 0.3,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 25

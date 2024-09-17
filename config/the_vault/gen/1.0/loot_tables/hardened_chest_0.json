@@ -7,28 +7,27 @@
         "max": 11
       },
       "pool": [
-        {
-          "weight": 70,
+        { "weight": 70,
           "pool": [
             {
-              "weight": 32,
-              "item": {
+                "weight": 32,
+                "item": {
                 "id": "minecraft:torch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 3
+                  }
                 }
-              }
             },
             {
               "weight": 16,
               "item": {
-                "id": "minecraft:scaffolding",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
+              "id": "minecraft:scaffolding",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
                 }
               }
             },
@@ -40,7 +39,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -51,7 +50,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -62,7 +61,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -73,7 +72,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -84,7 +83,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -95,7 +94,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -106,7 +105,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -117,7 +116,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -128,7 +127,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -139,7 +138,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -150,7 +149,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 3
-                }
+                  }
               }
             },
             {
@@ -161,13 +160,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 4
-                }
+                  }
               }
             }
+            
           ]
         },
-        {
-          "weight": 20,
+        { "weight": 20,
           "pool": [
             {
               "weight": 7,
@@ -177,7 +176,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 3
-                }
+                  }
               }
             },
             {
@@ -188,7 +187,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             },
             {
@@ -199,24 +198,23 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             }
           ]
         },
-        {
-          "weight": 8,
+        { "weight": 8,
           "pool": [
             {
-              "weight": 8,
-              "item": {
-                "id": "minecraft:experience_bottle",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 2
+                "weight": 8,
+                "item": {
+                  "id": "minecraft:experience_bottle",
+                  "count": {
+                    "type": "uniform",
+                    "min": 1,
+                    "max": 2
+                    }
                 }
-              }
             },
             {
               "weight": 8,
@@ -226,13 +224,12 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             }
           ]
         },
-        {
-          "weight": 2,
+        { "weight": 2,
           "pool": [
             {
               "weight": 24,
@@ -242,18 +239,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
-              }
-            },
-            {
-              "weight": 12,
-              "item": {
-                "id": "the_vault:vaultar_box",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
+                  }
               }
             },
             {
@@ -264,7 +250,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                }
+                  }
               }
             }
           ]
