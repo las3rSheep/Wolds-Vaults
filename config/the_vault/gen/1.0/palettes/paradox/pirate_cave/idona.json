@@ -17,6 +17,13 @@
     },
     {
       "type": "weighted_target",
+      "target": "minecraft:andesite",
+      "output": {
+        "the_vault:idona_brick_chiseled": 1
+      }
+    },
+    {
+      "type": "weighted_target",
       "target": "minecraft:red_sand",
       "output": {
         "tropicraft:volcanic_sand": 1
