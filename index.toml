@@ -2958,7 +2958,7 @@ hash = "e701caf8cb02cef123e744b849edde55ed28b8d29d9dafb06d1a3c49c77d79da"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/gate_lock/rooms.json"
-hash = "be83527976ba4ac5cebf12a11f221ee9b2f0d943e5099b1469c42d5d82c3f768"
+hash = "4bcfe23ca28b5814c770c2078d7d5e1321d0e5844da566544393a31504ca59e1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/air_to_cave_air.json"
@@ -3350,19 +3350,19 @@ hash = "54910dc62e28a923f65c8e64ea8e233e1a223f20c750b86286aab4a2e2efb7f7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/arcade/idona.json"
-hash = "62373a3bc5ab4aaf5145eb20dcbe2f9ad29dd3e6e3b96b82085323ae0308e468"
+hash = "538bb2d74333fadfdefc0c49c032c3af09905803ceaf99563909da43f54e9459"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/arcade/tenos.json"
-hash = "9cdc34cb98aeb0ccc343cd2655c78cb554f6ec642daa352d5c66a9f7ab8f9c56"
+hash = "9d0232b6b6eefa4bc32a427a4c17ec61d75e574f9be4a1d67e0f7d91d16ab4f5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/arcade/velara.json"
-hash = "f16b316f94d588ae3da6a63d3bb9b7187baaa6e01c1ed5cf1c9fad16e2eb16ce"
+hash = "5873461e0e9fdd8a513bbdf84e78b6826222ba7d49ded343e0554f8840de5fa4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/arcade/wendarr.json"
-hash = "df68db3a9d5ca43c0f44c3177bc191090b5692fb4f4648ee7391921685d3cdc6"
+hash = "dc8cecd0b49a2feaf7fc137dbbf711783b34a3d6639aca7f714570468621b3ea"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/blacksmith/idona.json"
@@ -3478,19 +3478,19 @@ hash = "f32b1d5a96450c62726b78990061432d3c75de5bd1c0ece9a9a17c8bf58d72da"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/idona.json"
-hash = "afee7c11468bde8181d6829f62e966c7f738849e025cd466b741c79f472d3695"
+hash = "70c549d403e23d07ab95ebb9bfa68b748e74de6088d186bd372a94c1265296ad"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/tenos.json"
-hash = "13a5eabfd235f742e28e19f6fc974f0df3998b0de7c1402bc48391a83fb16c5c"
+hash = "b785c1fc05e065d90daa0069a346503448487577dafef69ec6baf506748ba50f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/velara.json"
-hash = "d064942e85fe9ab59b0d420339ce7b49e23f928be5dcd0869891ef6d1abd1485"
+hash = "b715234a8d26b73e54d952edc80b2b5b558c001fd0cf23c309850573b0e907f9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/iskallian_garden/wendarr.json"
-hash = "736a496883a3121756100a587dd0c3c1f92bb3b0847b8fa0ec810fd1bf476452"
+hash = "d0b3a06015df13125a93b4c082899b2581cd3d7a002a160dd8e417b26f3e7f29"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/library/idona.json"
@@ -11994,7 +11994,7 @@ hash = "a9deacc54552f404e051e3d23b4f2a81e6603755f420fb12b5422b5b1fea7bff"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "4a93f8067e0d6c1d98e403fb68defb3959edca0c85300003a51c711eac7f7f45"
+hash = "a72450c383b40961ed5ed31cfb734dec0f281de1a41ff43a1c7caf03c201cca5"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -12334,7 +12334,7 @@ hash = "3ce4bc647feec9da6fc9f8990b60f7932c97c0aa64a7d3b0d96afdd88d86e79c"
 
 [[files]]
 file = "defaultconfigs/davespotioneering-server.toml"
-hash = "66a993a2af0d99e61f5c51b091dc884e3af17fa561cf25edf46b7020dc70b5ff"
+hash = "41b6721b6cc1b93c674f9717dfb056257d24ea4d632575cab99bc814e325f79d"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -16725,6 +16725,42 @@ file = "kubejs/config/probejs.json"
 hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
 
 [[files]]
+file = "kubejs/data/ccvault/loot_tables/blocks/vault_reader.json"
+hash = "4b553c52b03e25b8afbd577ed33a10441887ad97c34ed5c0935feb07da825e20"
+
+[[files]]
+file = "kubejs/data/ccvault/recipes/vault_reader.json"
+hash = "07fd8ecf923acfd4f7d6fe4e28f923aa9cac773257849d81ccb895a94b8fa458"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_advanced.json"
+hash = "62e71ea5a2645728fa1b66f2788b99f7ddf1861b24a004af0437bcfa42d8c306"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_advanced_upgrade.json"
+hash = "31da05079d8ba811271c1f015a3c5afbb63e2d2050a3c994d07fafb911a99c1f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_normal.json"
+hash = "3854d3c4bfe0ce71c2b3c8ab80f846ff892be158b0214999b4c9082c872dd65f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_advanced.json"
+hash = "a669af9d5ac132feb23de212b579f4cdb8d5dd51b09ee7b1f4ed32cfa6ed1c1b"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
+hash = "e3c6299d7442d400894d7e44cda8b8c355ab4d31591a3ba2c69b3b6469339f64"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_normal.json"
+hash = "d83dba86e768a5e104c3556bbff91de803ae85103063b8770a8e6cc4fb221662"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/wired_modem.json"
+hash = "41738e35cec1ffbdd5fc771ffb10fa0525cd3042b6e284b0a818815776a009c7"
+
+[[files]]
 file = "kubejs/data/curios/tags/items/deck.json"
 hash = "66dca2d330a39baad6bf37df6d1dd07d0f67ddce8c0c05cc22d38c7a1ca6c224"
 
@@ -18334,7 +18370,7 @@ hash = "2b338e194fbf8375d154701e52a3070d28b185029219c90f21c9e3175269c097"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/computercraft/recipes.js"
-hash = "5b175c299d6aa0709bdf8811115ed8f34589aa55e09ad9d59a6f6867c3baa44f"
+hash = "b0398ba3665145021b6637fef6013bf1bbab979c0970172a952f7eb250c70fe1"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/craftingstation/recipes.js"
