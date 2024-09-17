@@ -3781,7 +3781,7 @@
         "entries": [
           {
             "min": 30,
-            "max": 50,
+            "max": 40,
             "pool": [
               {
                 "value": "the_vault:wild",
@@ -3800,6 +3800,14 @@
                 "weight": 4
               },
               {
+                "value": "the_vault:coin_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:super_coin_cascade",
+                "weight": 2
+              },
+              {
                 "value": "the_vault:gilded_cascade",
                 "weight": 8
               },
@@ -3816,8 +3824,20 @@
                 "weight": 8
               },
               {
-                "value": "the_vault:plentiful",
-                "weight": 8
+                "value": "the_vault:super_gilded_cascade",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:super_ornate_cascade",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:super_living_cascade",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:super_wooden_cascade",
+                "weight": 2
               },
               {
                 "value": "the_vault:item_quantity",
@@ -3852,11 +3872,19 @@
                 "weight": 4
               },
               {
-                "value": "the_vault:sparkling",
+                "value": "the_vault:prismatic",
                 "weight": 4
               },
               {
-                "value": "the_vault:soul_boost",
+                "value": "the_vault:hoard",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:treasure",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:soul_surge",
                 "weight": 4
               },
               {
@@ -3888,7 +3916,7 @@
                 "weight": 4
               },
               {
-                "value": "the_vault:crate_tier",
+                "value": "the_vault:super_crate_tier",
                 "weight": 4
               },
               {
@@ -3949,7 +3977,7 @@
               },
               {
                 "value": "the_vault:super_plentiful",
-                "weight": 2
+                "weight": 4
               },
               {
                 "value": "the_vault:extended",
@@ -3992,7 +4020,7 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:classic_retro_mini",
+                "value": "the_vault:classic_retro",
                 "weight": 1
               },
               {
@@ -4009,6 +4037,42 @@
               },
               {
                 "value": "the_vault:omega_cascade",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:bronze_nuke",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:goblin_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:chunky_mobs4",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:rigged",
+                "weight": 3
+              },
+              {
+                "value": "the_vault:wounded",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:frenzy",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:mini_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:big_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:champions_realm",
                 "weight": 1
               }
             ]
@@ -4075,6 +4139,10 @@
               },
               {
                 "value": "the_vault:living_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:coin_cascade",
                 "weight": 8
               },
               {

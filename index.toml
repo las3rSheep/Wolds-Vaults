@@ -12178,11 +12178,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "c7178a30b8560865f802a4277a35ce3d2c25b231e582392c8d1a8e05e86321c1"
+hash = "f7f08c7a51954fe21d587ec9d4f9e1f5dabb5cbff92ae71b731d10add4d46ad6"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "3f055993740a15045cb52af5493c2887937111802cde8a00a8f73a4bbbbe0b22"
+hash = "8e5f5f2c946e271ca0eb3aac4695fb9f501c56855a105b3bd6756d406a45de34"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -16679,6 +16679,22 @@ hash = "68dca6b28ce03ff6a6b8e1b3768a3e38234c9a0b00a58bb1318633ae0b526dfd"
 [[files]]
 file = "kubejs/assets/woldsvaults/textures/item/arcane_shard.png.mcmeta"
 hash = "164bebc3f641f8d6456337fc1cf4e41e1ef648dd08e3a590b410eca423f3e975"
+
+[[files]]
+file = "kubejs/assets/woldsvaults/textures/item/artifact_bound_crystal_4.png"
+hash = "f28716622b676484371ef9ba8892e6d844cbaab7eaf3ea8ae0e9e5315390e3ed"
+
+[[files]]
+file = "kubejs/assets/woldsvaults/textures/item/artifact_dark_bone_figurine.png"
+hash = "7d1a1a28e8dc0d3a7487ccf6bcf10ba01625bfd579f6fa911ac3c3fa2467fd0f"
+
+[[files]]
+file = "kubejs/assets/woldsvaults/textures/item/artifact_heart_mechanism.png"
+hash = "b769f64576ac62da230eedc272b6031c3d481bfee7bf4db4c8e8b99d465d42bb"
+
+[[files]]
+file = "kubejs/assets/woldsvaults/textures/item/artifact_lodestone.png"
+hash = "00604bdcf8b24bd29a2d131ceba16df7a9dbd5f9460048c82cddb1cd7d3f3f94"
 
 [[files]]
 file = "kubejs/assets/woldsvaults/textures/item/extraordinary_pog_prism.png"
@@ -21179,7 +21195,7 @@ hash = "b9d20914ad31ada393115308c477b7fb27cfaec8f109224de6024dff30507be5"
 
 [[files]]
 file = "scripts/ExtraTags.zs"
-hash = "e17c4eb848e48f254e605ff90e709db02ae423965b2f5db7e08ed3cb65c99289"
+hash = "af2c93d95d2df12c929d191227e606db79e6505d2d82c39f0b5110f6bce834c8"
 
 [[files]]
 file = "scripts/Flux.zs"

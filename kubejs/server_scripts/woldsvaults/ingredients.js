@@ -306,8 +306,85 @@ onEvent('recipes', event => {
             'CCC'
         ], {
         C: 'the_vault:vault_catalyst_chaos',
-        O: 'the_vault:pog_prism'
+        O: 'woldsvaults:heart_of_chaos'
     }).id('woldsvaults:uber_chaos_catalyst')
+
+    event.shaped(Item.of('the_vault:memory_powder'),
+        [
+            'CCC',
+            'COC',
+            'CCC'
+        ], {
+        C: 'the_vault:knowledge_star_essence',
+        O: 'the_vault:perfect_benitoite'
+    }).id('woldsvaults:memory_powder')
+
+    event.shaped(Item.of('the_vault:memory_shard'),
+        [
+            'CCC',
+            'COC',
+            'CCC'
+        ], {
+        C: 'the_vault:memory_powder',
+        O: 'the_vault:red_vault_essence'
+    }).id('the_vault:memory_shard')
+
+    event.shaped(Item.of('the_vault:memory_shard'),
+        [
+            'CCC',
+            'COC',
+            'CCC'
+        ], {
+        C: 'the_vault:vault_essence',
+        O: 'the_vault:perfect_painite'
+    }).id('the_vault:red_vault_essence')
+
+    event.shaped(Item.of('the_vault:sublime_vault_essence'),
+        [
+            'CAC',
+            'DOD',
+            'CAC'
+        ], {
+        C: 'the_vault:extraordinary_painite',
+        A: 'the_vault:extraordinary_alexandrite',
+        D: 'the_vault:vault_essence_1',
+        O: 'the_vault:packed_vault_meat_block'
+    }).id('the_vault:sublime_vault_essence')
+
+    event.shaped(Item.of('the_vault:sublime_vault_vision'),
+        [
+            'CDC',
+            'DOD',
+            'CDC'
+        ], {
+        C: 'the_vault:mystical_powder',
+        D: 'the_vault:dreamstone',
+        O: 'the_vault:pog_prism'
+    }).id('the_vault:sublime_vault_vision')
+
+    event.shaped(Item.of('the_vault:sublime_vault_elixir'),
+        [
+            'CDC',
+            'DOD',
+            'CDC'
+        ], {
+        C: 'the_vault:vault_diamond_block',
+        D: 'the_vault:hardened_wutodic_mass',
+        O: 'minecraft:glass_bottle'
+    }).id('the_vault:sublime_vault_elixir')
+
+    event.shaped(Item.of('woldsvaults:heart_of_chaos'),
+        [
+            'BMB',
+            'EXE',
+            'BUB'
+        ], {
+        X: 'the_vault:sublime_vault_essence',
+        E: 'the_vault:sublime_vault_elixir',
+        M: 'the_vault:memory_crystal',
+        U: 'the_vault:pog_prism',
+        B: 'the_vault:black_chromatic_steel_ingot'
+    }).id('woldsvaults:heart_of_chaos')
 
 
 })

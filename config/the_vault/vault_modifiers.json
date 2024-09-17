@@ -557,6 +557,18 @@
           "descriptionFormatted": "Increases the reward crate tier once per modifier",
           "icon": "the_vault:gui/modifiers/crate_item_quantity"
         }
+      },
+      "the_vault:super_crate_tier": {
+        "properties": {
+          "percentage": 4.0
+        },
+        "display": {
+          "name": ":crate_item_quantity: Super Crate Tier",
+          "color": "#38C9C0",
+          "description": "Increases the reward crate tier four times per modifier",
+          "descriptionFormatted": "Increases the reward crate tier once per modifier",
+          "icon": "the_vault:gui/modifiers/crate_item_quantity"
+        }
       }
     },
     "the_vault:modifier_type/cast_on_kill": {
@@ -671,7 +683,7 @@
           "percentage": 1.0
         },
         "display": {
-          "name": ":item_quant_1: Opulent",
+          "name": ":item_quant_1: Goblin Hoard",
           "color": "#ffcc73",
           "description": "+100% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
@@ -1064,6 +1076,20 @@
           "name": ":armored_mobs: Chunky Mobs",
           "color": "#dc693c",
           "description": "+20% Mob Health",
+          "descriptionFormatted": "+%d%% Mob Health",
+          "icon": "the_vault:gui/modifiers/chunky"
+        }
+      },
+      "the_vault:chunky_mobs4": {
+        "properties": {
+          "type": "max_health_additive_percentile",
+          "amount": 1.0,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": ":armored_mobs: Chungus Mobs",
+          "color": "#dc693c",
+          "description": "+100% Mob Health",
           "descriptionFormatted": "+%d%% Mob Health",
           "icon": "the_vault:gui/modifiers/chunky"
         }
@@ -2341,6 +2367,19 @@
           "icon": "the_vault:gui/modifiers/trapped"
         }
       },
+      "the_vault:rigged": {
+        "properties": {
+          "stat": "trap_disarm_chance",
+          "addend": -1.0
+        },
+        "display": {
+          "name": ":trapped: Rigged",
+          "color": "#CB866D",
+          "description": "-100% Trap Disarm & Increases traps while below 0%",
+          "descriptionFormatted": "%d%% Trap Disarm",
+          "icon": "the_vault:gui/modifiers/trapped"
+        }
+      },
       "the_vault:inert": {
         "properties": {
           "stat": "cooldown_reduction",
@@ -2933,6 +2972,19 @@
           "icon": "the_vault:gui/modifiers/gilded"
         }
       },
+      "the_vault:super_gilded_cascade": {
+        "properties": {
+          "filter": "the_vault:gilded_chest",
+          "chance": 0.25
+        },
+        "display": {
+          "name": ":gilded: Super Gilded",
+          "color": "#FFEC00",
+          "description": "+75% Gilded Chests",
+          "descriptionFormatted": "+%d%% Gilded Chests",
+          "icon": "the_vault:gui/modifiers/gilded"
+        }
+      },
       "the_vault:soul_cascade_gilded": {
         "properties": {
           "filter": "the_vault:gilded_chest",
@@ -3050,6 +3102,19 @@
           "icon": "the_vault:gui/modifiers/living"
         }
       },
+      "the_vault:super_living_cascade": {
+        "properties": {
+          "filter": "the_vault:living_chest",
+          "chance": 0.75
+        },
+        "display": {
+          "name": ":living: Super Living",
+          "color": "#38d800",
+          "description": "+75% Living Chests",
+          "descriptionFormatted": "+%d%% Living Chests",
+          "icon": "the_vault:gui/modifiers/living"
+        }
+      },
       "the_vault:ornate_cascade": {
         "properties": {
           "filter": "the_vault:ornate_chest",
@@ -3059,6 +3124,19 @@
           "name": ":ornate: Ornate",
           "color": "#c90d73",
           "description": "+25% Ornate Chests",
+          "descriptionFormatted": "+%d%% Ornate Chests",
+          "icon": "the_vault:gui/modifiers/ornate"
+        }
+      },
+      "the_vault:super_ornate_cascade": {
+        "properties": {
+          "filter": "the_vault:ornate_chest",
+          "chance": 0.75
+        },
+        "display": {
+          "name": ":ornate: Super Ornate",
+          "color": "#c90d73",
+          "description": "+75% Ornate Chests",
           "descriptionFormatted": "+%d%% Ornate Chests",
           "icon": "the_vault:gui/modifiers/ornate"
         }
@@ -3076,6 +3154,19 @@
           "icon": "the_vault:gui/modifiers/wooden"
         }
       },
+      "the_vault:super_wooden_cascade": {
+        "properties": {
+          "filter": "the_vault:wooden_chest",
+          "chance": 0.75
+        },
+        "display": {
+          "name": ":wooden: Wooden",
+          "color": "#c7b281",
+          "description": "+75% Wooden Chests",
+          "descriptionFormatted": "+%d%% Wooden Chests",
+          "icon": "the_vault:gui/modifiers/wooden"
+        }
+      },
       "the_vault:coin_cascade": {
         "properties": {
           "filter": "the_vault:coin_pile",
@@ -3085,6 +3176,19 @@
           "name": ":wealthy: Wealthy",
           "color": "#ffae00",
           "description": "+25% Coin Piles",
+          "descriptionFormatted": "+%d%% Coin Piles",
+          "icon": "the_vault:gui/modifiers/wealthy"
+        }
+      },
+      "the_vault:super_coin_cascade": {
+        "properties": {
+          "filter": "the_vault:coin_pile",
+          "chance": 0.75
+        },
+        "display": {
+          "name": ":wealthy: Wealthy",
+          "color": "#ffae00",
+          "description": "+75% Coin Piles",
           "descriptionFormatted": "+%d%% Coin Piles",
           "icon": "the_vault:gui/modifiers/wealthy"
         }
@@ -3149,6 +3253,17 @@
           "name": ":champion_increase: Champion's Domain",
           "color": "#bbf333",
           "description": "+50% Chance for Champions to Spawn",
+          "icon": "the_vault:gui/modifiers/champion_domain"
+        }
+      },
+      "the_vault:champions_realm": {
+        "properties": {
+          "chance": 0.25
+        },
+        "display": {
+          "name": ":champion_increase: Champion's Realm",
+          "color": "#bbf333",
+          "description": "+25% Chance for Champions to Spawn",
           "icon": "the_vault:gui/modifiers/champion_domain"
         }
       },
