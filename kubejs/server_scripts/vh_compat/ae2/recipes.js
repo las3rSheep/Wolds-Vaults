@@ -10,7 +10,7 @@ onEvent("recipes", event => {
             "item": "ae2:charged_certus_quartz_crystal"
         }
     })
-    event.shaped(Item.of('ae2:charged_certus_quartz_crystal'),
+    event.shaped(Item.of('ae2:charged_certus_quartz_crystal', 2),
         [
             'LVL',
             'VGV',
@@ -21,7 +21,7 @@ onEvent("recipes", event => {
         G: 'ae2:certus_quartz_crystal'
     })
 
-    event.shaped(Item.of('ae2:fluix_crystal'),
+    event.shaped(Item.of('ae2:fluix_crystal', 2),
         [
             'LVL',
             'VGV',

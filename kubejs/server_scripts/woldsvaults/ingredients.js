@@ -263,6 +263,17 @@ onEvent('recipes', event => {
         S: 'minecraft:sugar'
     }).id('woldsvaults:vault_rock_candy')
 
+    event.shaped(Item.of('woldsvaults:mercy_orb'),
+        [
+            'XSX',
+            'SOS',
+            'XSX'
+        ], {
+        X: 'the_vault:regret_nugget',
+        O: 'minecraft:pink_wool',
+        S: 'the_vault:cluster_gorginite'
+    }).id('woldsvaults:mercy_orb')
+
     event.shaped(Item.of('woldsvaults:crystal_reinforcement'),
         [
             'SXS',
