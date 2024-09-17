@@ -503,6 +503,8 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:fruits>.add(<item:the_vault:grapes>);
 <tag:items:the_vault:fruits>.add(<item:the_vault:mango>);
 <tag:items:the_vault:fruits>.add(<item:the_vault:star_fruit>);
+<tag:items:the_vault:fruits>.add(<item:woldsvaults:hasty_pomegranate>);
+<tag:items:the_vault:fruits>.add(<item:woldsvaults:wisdom_fruit>);
 
 // Vault Altar Resource Pool
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:acacia_log>);
@@ -609,6 +611,8 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:vault_altar_mob>.add(<item:minecraft:magma_cream>);
 <tag:items:the_vault:vault_altar_mob>.add(<item:minecraft:wither_skeleton_skull>);
 <tag:items:the_vault:vault_altar_mob>.add(<item:minecraft:ender_pearl>);
+<tag:items:the_vault:vault_altar_mob>.add(<item:cloudstorage:balloon_bit>);
+<tag:items:the_vault:vault_altar_mob>.add(<item:quark:frog_leg>);
 
 
 // Vault Altar Farmable Pool
@@ -723,7 +727,46 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:vault_altar_misc>.add(<item:minecraft:nether_star>);
 <tag:items:the_vault:vault_altar_misc>.add(<item:minecraft:quartz>);
 <tag:items:the_vault:vault_altar_misc>.add(<item:minecraft:chorus_flower>);
-
+<tag:items:the_vault:vault_altar_modded>.add(<item:create:zinc_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:moremekanismprocessing:zinc_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_tin>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:tin_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_lead>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:lead_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:electrum_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:createaddition:electrum_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:immersiveengineering:ingot_electrum>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:lumium_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:signalum_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:enderium_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:invar_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:silver_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:immersiveengineering:ingot_silver>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:moremekanismprocessing:silver_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:apatite_dust>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_steel>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:immersiveengineering:ingot_steel>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:integrateddynamics:crystalized_menril_chunk>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:refinedstorage:silicon>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:ae2:silicon>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:ae2:certus_quartz_dust>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:powah:uraninite>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:botania:livingrock>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:create:brass_ingot>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:create:rose_quartz>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:integrateddynamics:menril_log>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:botania:livingwood>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:tropicraft:iguana_leather>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:blitz_rod>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:blizz_rod>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:thermal:basalz_rod>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:integrateddynamics:menril_berries>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:industrialforegoing:tinydryrubber>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:create:sweet_roll>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mysticalagriculture:inferium_essence>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_uranium>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:immersiveengineering:ingot_uranium>);
+<tag:items:the_vault:vault_altar_modded>.add(<item:mekanism:ingot_osmium>);
 
 // Vault Altar: All Pools
 <tag:items:the_vault:vault_altar_all>.add(<tag:items:the_vault:vault_altar_resource>);
