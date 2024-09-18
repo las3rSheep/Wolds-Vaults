@@ -66,6 +66,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_beach.json"
     },
     {
+      "id": "the_vault:classic_vault_tropical",
+      "name": "Tropical Oasis",
+      "color": 14873528,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tropical.json"
+    },
+    {
       "id": "the_vault:classic_vault_mesa",
       "name": "Mesa",
       "color": 14840320,

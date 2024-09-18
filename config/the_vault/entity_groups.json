@@ -184,7 +184,11 @@
       "minecraft:creeper",
       "the_vault:t1_creeper",
       "the_vault:t2_creeper",
-      "the_vault:t3_creeper"
+      "the_vault:t3_creeper",
+      "tropicraft:tropicreeper",
+      "tropicraft:tropiskelly",
+      "tropicraft:tropi_spider",
+      "tropicraft:ashen"
     ],
     "the_vault:tank": [
       "the_vault:shiver",
@@ -198,7 +202,8 @@
       "the_vault:deep_dark_horror",
       "rottencreatures:dead_beard",
       "rottencreatures:mummy",
-      "rottencreatures:glacial_hunter"
+      "rottencreatures:glacial_hunter",
+      "tropicraft:eih"
     ],
     "the_vault:guardian": [
       "the_vault:bruiser_guardian",

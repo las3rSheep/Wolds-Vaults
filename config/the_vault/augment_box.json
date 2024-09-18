@@ -3,6 +3,15 @@
     {
       "value": {
         "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_tropical\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
         "nbt": "{theme:\"the_vault:classic_vault_ice_cave\"}",
         "amountMin": 1,
         "amountMax": 1
@@ -238,6 +247,15 @@
       "value": {
         "id": "the_vault:augment",
         "nbt": "{theme:\"the_vault:classic_vault_haunted\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_white\"}",
         "amountMin": 1,
         "amountMax": 1
       },
