@@ -198,7 +198,7 @@
               }
             },
             {
-              "weight": 70,
+              "weight": 35,
               "item": {
                 "id": "the_vault:pyretic_focus",
                 "count": {
@@ -209,7 +209,7 @@
               }
             },
             {
-              "weight": 65,
+              "weight": 25,
               "item": {
                 "id": "the_vault:cryonic_focus",
                 "count": {
@@ -220,7 +220,7 @@
               }
             },
             {
-              "weight": 70,
+              "weight": 20,
               "item": {
                 "id": "the_vault:empowered_chaotic_focus",
                 "count": {
@@ -231,7 +231,7 @@
               }
             },
             {
-              "weight": 40,
+              "weight": 10,
               "item": {
                 "id": "the_vault:opportunistic_focus",
                 "count": {
@@ -242,7 +242,7 @@
               }
             },
             {
-              "weight": 80,
+              "weight": 60,
               "item": {
                 "id": "the_vault:fundamental_focus",
                 "count": {

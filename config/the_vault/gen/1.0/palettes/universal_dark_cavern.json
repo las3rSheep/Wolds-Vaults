@@ -8,55 +8,56 @@
             "type": "weighted_target",
             "target": "minecraft:stone",
             "output": {
-                "minecraft:deepslate": 55,
-                "create:layered_deepslate": 45
+                "chipped:deepslate_67": 55,
+                "chipped:deepslate_7": 45,
+                "chipped:deepslate_24": 30
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
             "output": {
-                "auxiliaryblocks:lab_dark_gray": 2,
-                "minecraft:deepslate": 3,
-                "minecraft:cobbled_deepslate": 3,
-                "minecraft:deepslate_bricks": 2
+                "davebuildingmod:gray_steel_seamless": 2,
+                "chipped:deepslate_62": 3,
+                "rechiseled:cobbled_deepslate_bricks": 3,
+                "chipped:deepslate_8": 2
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:gray_concrete",
             "output": {
-                "minecraft:deepslate_tiles": 1,
-                "minecraft:deepslate_bricks": 1
+                "chipped:deepslate_50": 1,
+                "chipped:deepslate_53": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:coarse_dirt",
             "output": {
-                "minecraft:cobblestone": 15,
-                "minecraft:andesite": 40,
-                "minecraft:stone": 45
+                "rechiseled:obsidian_dark": 15,
+                "chipped:blackstone_8": 40,
+                "chipped:blackstone_40": 45
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:grass_block",
             "output": {
-                "minecraft:deepslate": 5,
-                "minecraft:cobbled_deepslate": 5,
-                "minecraft:dirt": 5,
-                "minecraft:podzol": 5,
-                "minecraft:coarse_dirt": 10,
-                "minecraft:dripstone_block": 25
+                "chipped:deepslate_7": 45,
+                "rechiseled:cobbled_deepslate_bricks": 3,
+                "create:polished_cut_scorchia": 5,
+                "create:layered_scorchia": 5,
+                "create:cut_scorchia_bricks": 5,
+                "create:cut_scorchia": 25
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:dirt",
             "output": {
-                "minecraft:deepslate": 45,
-                "minecraft:cobbled_deepslate": 55
+                "chipped:deepslate_7": 45,
+                "rechiseled:cobbled_deepslate_bricks": 55
             }
         },
         {
@@ -87,29 +88,29 @@
             "type": "weighted_target",
             "target": "minecraft:purple_wool",
             "output": {
-                "minecraft:dripstone_block": 40,
-                "create:cut_dripstone": 60
+                "create:scorchia": 40,
+                "create:cut_scorchia": 60
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:water",
             "output": {
-                "minecraft:water": 1
+                "auxiliaryblocks:black_water": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:birch_log",
             "output": {
-                "minecraft:oak_log": 1
+                "minecraft:dark_oak_log": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:birch_fence",
             "output": {
-                "minecraft:air": 1
+                "minecraft:dark_oak_fence": 1
             }
         },
         {
@@ -144,14 +145,14 @@
             "type": "weighted_target",
             "target": "minecraft:cave_vines_plant",
             "output": {
-                "minecraft:pointed_dripstone[thickness=frustum,vertical_direction=down]": 1
+                "chipped:pointed_dripstone_10[thickness=frustum,vertical_direction=down]": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:cave_vines",
             "output": {
-                "minecraft:pointed_dripstone[thickness=tip,vertical_direction=down]": 1
+                "chipped:pointed_dripstone_10[thickness=tip,vertical_direction=down]": 1
             }
         },
         {
@@ -179,7 +180,7 @@
             "type": "weighted_target",
             "target": "minecraft:grass",
             "output": {
-                "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up]": 5,
+                "chipped:pointed_dripstone_10[thickness=tip,vertical_direction=up]": 5,
                 "minecraft:dead_tube_coral[waterlogged=false]": 1,
                 "minecraft:dead_bubble_coral[waterlogged=false]": 1
             }
@@ -188,14 +189,14 @@
             "type": "weighted_target",
             "target": "minecraft:tall_grass[half=lower]",
             "output": {
-                "minecraft:pointed_dripstone[thickness=frustum,vertical_direction=up]": 1
+                "chipped:pointed_dripstone_10[thickness=frustum,vertical_direction=up]": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:tall_grass[half=upper]",
             "output": {
-                "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up]": 1
+                "chipped:pointed_dripstone_10[thickness=tip,vertical_direction=up]": 1
             }
         },
         {
@@ -251,7 +252,7 @@
             "type": "weighted_target",
             "target": "minecraft:oak_leaves",
             "output": {
-                "ecologics:walnut_leaves": 1
+                "minecraft:air": 1
             }
         },
         {
@@ -389,7 +390,7 @@
             "type": "weighted_target",
             "target": "minecraft:mossy_cobblestone",
             "output": {
-                "minecraft:dripstone_block": 1
+                "create:layered_dripstone": 1
             }
         },
         {
@@ -438,28 +439,28 @@
             "type": "weighted_target",
             "target": "minecraft:lantern",
             "output": {
-                "minecraft:lantern": 1
+                "supplementaries:lead_lantern": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\"}}",
             "output": {
-                "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
+                "supplementaries:wall_lantern{Lantern:{Name:\"supplementaries:lead_lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:soul_lantern",
             "output": {
-                "minecraft:lantern": 1
+                "supplementaries:lead_lantern": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:glass",
             "output": {
-                "minecraft:light[level=10]": 1
+                "minecraft:light[level=5]": 1
             }
         },
         {
@@ -501,42 +502,42 @@
             "type": "weighted_target",
             "target": "create:cut_crimsite_wall",
             "output": {
-                "architects_palette:dripstone_brick_wall": 1
+                "create:cut_scorchia_wall": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "quark:azalea_log",
             "output": {
-                "create:dripstone_pillar": 1
+                "chipped:deepslate_68": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "quark:azalea_planks",
             "output": {
-                "create:polished_cut_dripstone": 1
+                "create:polished_cut_deepslate": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "quark:azalea_planks_stairs",
             "output": {
-                "create:cut_dripstone_stairs": 1
+                "create:polished_cut_deepslate_stairs": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "create:cut_veridium_wall",
             "output": {
-                "create:cut_dripstone_wall": 1
+                "create:polished_cut_deepslate_wall": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:sand",
             "output": {
-                "minecraft:gravel": 1
+                "tropicraft:volcanic_sand": 1
             }
         },
         {
@@ -605,16 +606,16 @@
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
             "stack": [
-                "THEME_CAVE_DEEPSLATE",
-                "THEME_CATEGORY_CAVE"
+                "THEME_CAVE_DARK_CAVERN",
+                "THEME_CATEGORY_DARK_CAVERN"
             ]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
             "stack": [
-                "THEME_CAVE_DEEPSLATE",
-                "THEME_CATEGORY_CAVE"
+                "THEME_CAVE_DARK_CAVERN",
+                "THEME_CATEGORY_DARK_CAVERN"
             ]
         }
     ],

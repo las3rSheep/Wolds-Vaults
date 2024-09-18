@@ -682,11 +682,11 @@ hash = "071e2e0d64c8505f5201f18c54c3fe6dfcfabc47aed37cb9b9d4789b8f48df37"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
-hash = "faf0397228ea219af840d87174e4a6ac94edd66e69d2a636d86cae2b2098a3da"
+hash = "21d3c43a8da95eabd50437af87ea404d2af47766f27fadff6bc751006bf8a242"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
-hash = "fa3cc6218f192c0f6d8b3d710b0035d7fba13bd098e027384a7cc5737cbafd0d"
+hash = "4309455adf7d0d0d810275924beb6af835310bca05bda50302d0256c1e767231"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
@@ -9598,7 +9598,7 @@ hash = "ee4b7b31cb31479e7a25827f43f2d0f885fa133a9b9b5a86b1bf7062b78afd98"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_rooms.json"
-hash = "4d22a93e8727a25be7d3baef96228d670bfbb4267c22e8419b6bd1e95a3a4acf"
+hash = "43dbe696268b0c767c828edf067065d4fb406915fdb3e7ad47c69216eabf0bc7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/undersea_common_rooms.json"
@@ -10762,7 +10762,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "c5ae942d6b65c7b5300a9c46ca77d308802fcab96cdbff17e2c18b53dbc59dad"
+hash = "019ace6368e530ab3367af7b27de72a5e8a8a498408e4ca9fcd25d1e5c4d4166"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -19150,6 +19150,11 @@ hash = "d52adf57306105b4cba5eff3845d97b64abc1195a8d97e8cb8e86aeded1c06d6"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "22317c55466a8591cf0ce4aa01f95e3a15285056aa0d679a3310d938e4bc56c3"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
@@ -19400,6 +19405,11 @@ hash = "fabe374a0724338ae2de0d4d91ba68f23f0806769e5d377fc796233a2ef1ffd5"
 metafile = true
 
 [[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "e042b076d75e1d38d226aee99b532b5cdba1051b35a4be8bab3de00f04d2663e"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "0cce27c4798642869bf81ff7c5102cd5a454cb1b42e0a2ecdf53b555fe058df1"
 metafile = true
@@ -19497,6 +19507,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-gaia.pw.toml"
+hash = "31eef992432c386d508cf55d48c629119a6bade38048ed91b40269682ce0b772"
 metafile = true
 
 [[files]]
@@ -19905,6 +19920,11 @@ hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "2832ee34ca7efe81c91111484df5a8e6cc8a5678a97bca2353566f4c75d0600c"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "0c4037041d6e546c141984f8294166af45c729f5ff536d811a23d65973d807c0"
 metafile = true
@@ -19947,6 +19967,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
+metafile = true
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "332a4a92dd815b5b937952a8443a9b5fa22c767cf406c3d1e4323d81bc1ce7e0"
 metafile = true
 
 [[files]]
