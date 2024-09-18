@@ -174,7 +174,7 @@ hash = "50d296ed9727c3423f1bd31b227bbe13bc9f4ef3a2996fb2588caf71d5764a84"
 
 [[files]]
 file = "config/the_vault/augment_box.json"
-hash = "7726d92956af55b4732860bc9ef47a5ff690d9e871c2455634cfd8df9884c123"
+hash = "3b609b9cb510c4fab87fda6e479143e746e9b2399868d0494d08f4858577b98d"
 
 [[files]]
 file = "config/the_vault/ballistic_bingo.json"
@@ -1842,7 +1842,7 @@ hash = "67ab94ef01c565f894e8b8d94d7a6b19691ef7a38daec8de3e70f145ae7e9b69"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/tropical_mobs.json"
-hash = "a844de10a9a89d9eed557141b5029eab19f1f8bfcd23779f8ff36793d8f83f94"
+hash = "521aa9de85f86717c32e7f03f4545db4b5f629eec9b93d46538b41903a1db547"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/underwater_mobs.json"
@@ -2630,7 +2630,7 @@ hash = "5b2edfe64610660786fd899293a575d8c6c445d97a0e1205c43a746e815bc4ae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tropical.json"
-hash = "49b80ed3d1736221745b4412aca1acd56a0c3a5f7cf9d54aed3b7050c6fb34d1"
+hash = "ef6417ff6c952c51e7f8b0a839fb1a21f33fdab0677814a167dc7a25f2eabb1a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_undersea.json"
@@ -8286,7 +8286,7 @@ hash = "6dabeb6bb5b3b94b32d57a07e4871a539097873b509ed22a58c9720e984f2da1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/beach_rooms.json"
-hash = "43dbe696268b0c767c828edf067065d4fb406915fdb3e7ad47c69216eabf0bc7"
+hash = "4d22a93e8727a25be7d3baef96228d670bfbb4267c22e8419b6bd1e95a3a4acf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/blank_common_rooms.json"
@@ -9594,7 +9594,7 @@ hash = "1eae0dc74fb173f964ba1b15a488de664b7ce450b0a3c76a814e0734df058e09"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_common_rooms.json"
-hash = "80eec343c9005e4b24bcb725482279b104b7cd063072e789c351439dac07829e"
+hash = "ee4b7b31cb31479e7a25827f43f2d0f885fa133a9b9b5a86b1bf7062b78afd98"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_rooms.json"
@@ -10034,7 +10034,7 @@ hash = "e2d66a04882fb8e3aae9f8a211c6c9ca9cfd11f89f74067a1718b3ba518856e8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/tropical_tunnels.json"
-hash = "dffcfcf5186e2731e0abb297c1f16ce48411264c16e79bab1320a7c9463d25e1"
+hash = "94d03e696fd7d2e7eeedd81d6286a7ae72c3a5710328f32c285638ca34e81abe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/tunnels.json"
@@ -10366,11 +10366,11 @@ hash = "2481f94ebe58c92c7b271a94c7d6a3f2565609b6f4e833a1f3875d3709aeb5eb"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "2e22ebc013981c75b37a186e78ecbe50b0b5e3b15c474d2b6fb766b6a58b4ab7"
+hash = "d80aabcf47bca1c7e6f620affc7f54a536e4b52189f8e5c433b0951f8a56e5cf"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "f7f726e4130295027f1db9b5bb7f6bb7e96de789795e74bc9c1aa4c1f537bca4"
+hash = "09a4dec2b70a921d2a0d488056ddbe37a0954d875728fc1840a1076c1d43bcf6"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
@@ -10810,7 +10810,7 @@ hash = "8bb5dec154c46f750efb4bb4d74ef5b977f3b4f769c4089bc293eeece09e9ffd"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "e70f870bf1d0f2e091770efc1ec12b5e58b7a19d8c3c690ac4d177fc21e898c8"
+hash = "e708616b550e795782a83e2bb251fe32d5da4d2c2c941009c2c68a08922d942b"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"

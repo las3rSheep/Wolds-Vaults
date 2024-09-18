@@ -160,14 +160,14 @@
             "type": "weighted_target",
             "target": "minecraft:brown_wool",
             "output": {
-                "minecraft:air": 1
+                "tropicraft:eel_grass_block": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:pink_wool",
             "output": {
-                "minecraft:air": 1
+                "tropicraft:fern_seagrass_block": 1
             }
         },
         {
@@ -200,14 +200,14 @@
             "type": "weighted_target",
             "target": "minecraft:twisting_vines_plant",
             "output": {
-                "minecraft:air": 1
+                "tropicraft:acai_vine": 1
             }
         },
         {
             "type": "weighted_target",
             "target": "minecraft:twisting_vines",
             "output": {
-                "minecraft:air": 1
+                "tropicraft:acai_vine": 1
             }
         },
         {
@@ -613,16 +613,16 @@
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",
             "stack": [
-                "THEME_BEACH",
-                "THEME_CATEGORY_BEACH"
+                "THEME_TROPICAL",
+                "THEME_CATEGORY_TROPICAL"
             ]
         },
         {
             "type": "template_stack_spawner",
             "target": "ispawner:spawner",
             "stack": [
-                "THEME_BEACH",
-                "THEME_CATEGORY_BEACH"
+                "THEME_TROPICAL",
+                "THEME_CATEGORY_TROPICAL"
             ]
         }
     ],

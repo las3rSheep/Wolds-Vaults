@@ -35,7 +35,6 @@
     {
       "id": "the_vault:vault/rooms/tropical_rooms",
       "name": "Tropical Rooms",
-      "1.1": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_rooms.json",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_rooms.json"
     },
     {
@@ -191,7 +190,6 @@
     {
       "id": "the_vault:vault/starts/tropical_starts",
       "name": "Tropical Starts",
-      "1.1": "config/the_vault/gen/1.0/template_pools/vault/starts/tropical_starts.json",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/tropical_starts.json"
     },
     {
@@ -1898,8 +1896,7 @@
     },
     {
       "id": "the_vault:vault/rooms/tropical_common_rooms",
-      "name": "Beach Common Rooms",
-      "1.1": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_common_rooms.json",
+      "name": "Tropical Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_common_rooms.json"
     },
     {

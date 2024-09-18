@@ -6725,7 +6725,7 @@
         "SCALE_MAX_LEVEL": -1
       }
     ],
-    "the_vault:tropi_spider": [
+    "tropicraft:tropi_spider": [
       {
         "NAME": "the_vault:generic.crit_chance",
         "LEVELS": [
