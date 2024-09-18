@@ -10842,7 +10842,7 @@ hash = "87d005ba18694f67fea927df8182ee563877d668d5e7c7baabc61682516ad372"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "d2e0715a62aa928c183ff7939752493c33f98b41841288e8f251ec7c83d95003"
+hash = "61e286d35aad3e5b64b6eb4e4c45968f44943f7bd35cfad7f514befce31082b8"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18446,7 +18446,7 @@ hash = "0332743144e184d71004b02a27aa2a55b9c98660338b2b9a1aaa524b4f1c4d91"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_mechanical_extruder/recipes.js"
-hash = "60c671e716bebcf8e4bed44331c1622091c7ad493c4ac992c91a5e0339b2ec71"
+hash = "c283ed77c98753e5621ceb949bfafb3baf3ce2f8e4194377ab4b1d5dbe72e7d7"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/create_ore_excavation/recipes.js"
@@ -20676,7 +20676,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "0a77733891d463166fe5de837d396a6ec2c4d91ebc1900a5aabb354b0a648288"
+hash = "3d95c8380f0787d476cbe085a475604d3222ee31f007dd6dfd68d26aa7a497dd"
 metafile = true
 
 [[files]]
