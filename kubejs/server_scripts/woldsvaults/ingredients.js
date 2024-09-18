@@ -339,7 +339,7 @@ onEvent('recipes', event => {
         O: 'the_vault:perfect_painite'
     }).id('the_vault:red_vault_essence')
 
-    event.shaped(Item.of('the_vault:sublime_vault_essence'),
+    event.shaped(Item.of('the_vault:sublime_vault_substance'),
         [
             'CAC',
             'DOD',
@@ -349,7 +349,7 @@ onEvent('recipes', event => {
         A: 'the_vault:extraordinary_alexandrite',
         D: 'the_vault:vault_essence_1',
         O: 'the_vault:packed_vault_meat_block'
-    }).id('the_vault:sublime_vault_essence')
+    }).id('the_vault:sublime_vault_substance')
 
     event.shaped(Item.of('the_vault:sublime_vault_vision'),
         [
@@ -379,7 +379,7 @@ onEvent('recipes', event => {
             'EXE',
             'BUB'
         ], {
-        X: 'the_vault:sublime_vault_essence',
+        X: 'the_vault:sublime_vault_substance',
         E: 'the_vault:sublime_vault_elixir',
         M: 'the_vault:memory_crystal',
         U: 'the_vault:pog_prism',

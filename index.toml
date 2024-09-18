@@ -10758,7 +10758,7 @@ hash = "25a187e3578e191b44e99915575a77ec50b985117cde4531f623ab790d3baa86"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "a72293c83fd8a0b94036bba3e6687dccd23d8119960d9a0982645ef5827daf1b"
+hash = "788d933880a2d7100603ce910d1f460f1bd0a7464306edbdaef1e31571abc4d8"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -10794,11 +10794,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "8af8e2bcfc725244501ca66359688f0dfcb3a531405832dc8ac5eef61976527b"
+hash = "87d005ba18694f67fea927df8182ee563877d668d5e7c7baabc61682516ad372"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "24c97468d41955dfd711efc883abe3861efba0c7aa3776b273a9e08f9e11a044"
+hash = "975a97c59b72ac7e962a068c442127b83e68e1afc5c0bbe1351fc8d8445570cb"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18710,7 +18710,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "1f8f16c439e6cf522fc3870f38039c213474f012fb001d681f4b082898009d83"
+hash = "1659cbdb660f42a49cf9d328380cd5ee2d24e2039c465e0d51363ecbdba5e9d5"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -20163,7 +20163,7 @@ metafile = true
 
 [[files]]
 file = "mods/qol-hunters.pw.toml"
-hash = "55c6cdbc0107b2fc239ec5c990feabb2c36a7fe332c1df35bc5422b7f3aee694"
+hash = "624ca069984b71cab6522c45d74f37dbf709cf1f3443532add701a412b8f7656"
 metafile = true
 
 [[files]]

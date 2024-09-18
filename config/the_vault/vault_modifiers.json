@@ -4925,6 +4925,74 @@
           "description": "Highlights God Altars in this vault",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
         }
+      },
+      "the_vault:velara_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:god_altar[god=velara]",
+              "radius": 64.0,
+              "color": 5817009
+            }
+          ]
+        },
+        "display": {
+          "name": ":velara: Velara Hunter",
+          "color": "#58C2B1",
+          "description": "Highlights Velara God Altars in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_velara"
+        }
+      },
+      "the_vault:tenos_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:god_altar[god=tenos]",
+              "radius": 64.0,
+              "color": 5817009
+            }
+          ]
+        },
+        "display": {
+          "name": ":tenos: Tenos Hunter",
+          "color": "#58C2B1",
+          "description": "Highlights Tenos God Altars in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_tenos"
+        }
+      },
+      "the_vault:idona_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:god_altar[god=idona]",
+              "radius": 64.0,
+              "color": 5817009
+            }
+          ]
+        },
+        "display": {
+          "name": ":idona: Idona Hunter",
+          "color": "#58C2B1",
+          "description": "Highlights Idona God Altars in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_idona"
+        }
+      },
+      "the_vault:wendarr_hunter": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:god_altar[god=idona]",
+              "radius": 64.0,
+              "color": 5817009
+            }
+          ]
+        },
+        "display": {
+          "name": ":wendarr: Wendarr Hunter",
+          "color": "#58C2B1",
+          "description": "Highlights Wendarr God Altars in this vault",
+          "icon": "the_vault:gui/modifiers/god_token_wendarr"
+        }
       }
     },
     "the_vault:modifier_type/template_processor": {
