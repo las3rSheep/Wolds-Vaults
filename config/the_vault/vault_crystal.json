@@ -116,6 +116,10 @@
         "level": 20,
         "pool": [
           {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
+          {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
           },
@@ -260,6 +264,10 @@
       {
         "level": 30,
         "pool": [
+          {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
           {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
