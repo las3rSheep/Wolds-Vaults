@@ -3510,6 +3510,16 @@
                 "weight": 100
               }
             ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:wendarr_hunter",
+                "weight": 100
+              }
+            ]
           }
         ]
       }
@@ -3524,6 +3534,16 @@
             "pool": [
               {
                 "value": "the_vault:idona_inline",
+                "weight": 100
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:idona_hunter",
                 "weight": 100
               }
             ]
@@ -3544,6 +3564,16 @@
                 "weight": 100
               }
             ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:tenos_hunter",
+                "weight": 100
+              }
+            ]
           }
         ]
       }
@@ -3558,6 +3588,16 @@
             "pool": [
               {
                 "value": "the_vault:velara_inline",
+                "weight": 100
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:velara_hunter",
                 "weight": 100
               }
             ]
