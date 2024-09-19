@@ -2306,7 +2306,7 @@ hash = "0047d72e2c6a9a58c63eb32053d3b3d6f8e58a4a7a8f6c6bee9dea038d988ff9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/benitoite_ore_placeholder.json"
-hash = "afb90a310838c383a1ee4af14e44a6f09441eaf5aa117406e9437c313d1dc9fc"
+hash = "c23c87e5ba6e5f8e0138d3ac9a3a4d33792738cd3ebfa86318439d0d90b698e3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base.json"
@@ -2422,7 +2422,7 @@ hash = "fa6d65360c715adf202ca6a722c7e11567b403a74bcbd84a3ffbe424dfa625f1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/painite_ore_placeholder.json"
-hash = "df52fdec46b22fdc9363f43e040b1e3e333af99fa45d6dd9502f8c59d595936f"
+hash = "a404f513021dcd76291bcb5e06e88dfab7f75682548412b7e591a162469df86e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/pylon_placeholder.json"
@@ -8790,11 +8790,11 @@ hash = "5032f5a4a27715c9345b71db780774ab69a6313582fd2810e27564a6315e4718"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/dark_cavern_resource_rooms.json"
-hash = "2584a814614144c4cc8a195fd1ae3359c91ba88a8e71d853d85baa344a2fc94f"
+hash = "866816e991e883404f76fc59e77c957c6318e926848e5e423077bfe1e7b89f01"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/dark_cavern_rooms.json"
-hash = "a13ab79c2388b2bca4281aa7b6fe86da6cec67d4ff3734cb9e37941709eaa01e"
+hash = "3aa4042ebf983108dd12c66c6939aa90e60f321d50b4835323f85de55f1e38b7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/deep_mesa_common_rooms.json"
@@ -10434,7 +10434,7 @@ hash = "2481f94ebe58c92c7b271a94c7d6a3f2565609b6f4e833a1f3875d3709aeb5eb"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "733a86204e26434edd40aca63e83080ff134478539ae75593b0c57978bd3e7c4"
+hash = "e4cde6cc37d9cc0951827b9eab69668ffbecbfa42edf1e417a5fbe7fd2538cfd"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
@@ -10830,7 +10830,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "a9c55173cabe3e3c2da04c82f23880cae6a4d7cc242f40405bbcd2060296fced"
+hash = "67bbfcc5d7ee841bc45664051b33d4151634d01e4eb66fd7787ea425fda77bbd"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"

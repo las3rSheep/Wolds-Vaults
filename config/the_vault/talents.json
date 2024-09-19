@@ -1518,6 +1518,13 @@
             "tiers": [
               {
                 "type": "mana_leech_lucky_hit",
+                "maxManaPercentage": 0.04,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "mana_leech_lucky_hit",
                 "maxManaPercentage": 0.08,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
@@ -1526,13 +1533,6 @@
               {
                 "type": "mana_leech_lucky_hit",
                 "maxManaPercentage": 0.16,
-                "learnPointCost": 2,
-                "regretPointCost": 1,
-                "unlockLevel": 25
-              },
-              {
-                "type": "mana_leech_lucky_hit",
-                "maxManaPercentage": 0.24,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 25
@@ -1546,6 +1546,13 @@
             "tiers": [
               {
                 "type": "health_leech_lucky_hit",
+                "maxHealthPercentage": 0.05,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "health_leech_lucky_hit",
                 "maxHealthPercentage": 0.1,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
@@ -1553,14 +1560,7 @@
               },
               {
                 "type": "health_leech_lucky_hit",
-                "maxHealthPercentage": 0.2,
-                "learnPointCost": 2,
-                "regretPointCost": 1,
-                "unlockLevel": 25
-              },
-              {
-                "type": "health_leech_lucky_hit",
-                "maxHealthPercentage": 0.3,
+                "maxHealthPercentage": 0.15,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 25
