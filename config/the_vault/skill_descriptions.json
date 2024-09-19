@@ -13226,21 +13226,35 @@
         "text": " to not apply a negative modifier.\n\n1 "
       },
       {
-        "text": "20%",
+        "text": "15%",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "40%",
+        "text": "30%",
         "color": "#FFEB07"
       },
       {
         "text": "\n3 "
       },
       {
+        "text": "45%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
         "text": "60%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "75%",
         "color": "#FFEB07"
       }
     ],
@@ -13272,6 +13286,20 @@
       {
         "text": "+30",
         "color": "#FFEB07"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+40",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+50",
+        "color": "#FFEB07"
       }
     ],
     "Trinketer": [
@@ -13301,6 +13329,20 @@
       },
       {
         "text": "30%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "40%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "50%",
         "color": "#FFEB07"
       }
     ],
@@ -13346,21 +13388,42 @@
         "text": "of Vault Experience you gain when you gain experience.\n\n1 "
       },
       {
-        "text": "10% more",
+        "text": "15% more",
         "color": "#D9FF00"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "20% more",
+        "text": "30% more",
         "color": "#D9FF00"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "30% more",
+        "text": "45% more",
+        "color": "#D9FF00"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "60% more",
+        "color": "#D9FF00"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "80% more",
+        "color": "#D9FF00"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "100% more",
         "color": "#D9FF00"
       }
     ],
@@ -13391,6 +13454,20 @@
       },
       {
         "text": "30%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "40%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "50%",
         "color": "#FFEB07"
       }
     ],
@@ -13846,14 +13923,18 @@
         "text": " on items sold in shopping pedestals inside a vault.\n\n1 "
       },
       {
-        "text": "-25%",
+        "text": "-15%",
         "color": "yellow"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "-50%",
+        "text": "-30%",
+        "color": "yellow"
+      },
+      {
+        "text": "-45%",
         "color": "yellow"
       }
     ],
@@ -14444,6 +14525,16 @@
       },
       {
         "text": " at any given time."
+      },
+      {
+        "text": ".\n\n4\nHave "
+      },
+      {
+        "text": "3 active bounties",
+        "color": "#FFEB07"
+      },
+      {
+        "text": " at any given time."
       }
     ],
     "Sorcery": [
@@ -14947,6 +15038,20 @@
       {
         "text": "+30%",
         "color": "#B2F44B"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+40%",
+        "color": "#B2F44B"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+50%",
+        "color": "#B2F44B"
       }
     ],
     "Altar Automation": [
@@ -15022,6 +15127,27 @@
       },
       {
         "text": "3 re-rolls",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "4 re-rolls",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "5 re-rolls",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "6 re-rolls",
         "color": "#FFEB07"
       }
     ],
