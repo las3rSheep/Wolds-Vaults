@@ -5,6 +5,10 @@ file = ".onedev-buildspec.yml"
 hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "42c938bfe404e5b2e797b7a5d2080447a3ba95aa37864dbd5ca6ed8d5e13c24a"
+
+[[files]]
 file = "config/farmingforblockheads/MarketRegistry.json"
 hash = "22389fe91a6952292f08691163f587affaa6123b49a2e695a6d6ca48c0b825e4"
 
@@ -10670,7 +10674,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "f452409da433f08c0a5e0be5be295710681a6f13fea3c15842eb89dabb132fe8"
+hash = "494bef249683b119c7506ee9637de4e35f9f34a8dc138fa6fcc430ed0fe40364"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -10706,7 +10710,7 @@ hash = "a9deacc54552f404e051e3d23b4f2a81e6603755f420fb12b5422b5b1fea7bff"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "4a93f8067e0d6c1d98e403fb68defb3959edca0c85300003a51c711eac7f7f45"
+hash = "e104a4fc12af368d02d433a9a8ac70d050c4ddf0ac8a1b945e624122eab1465f"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -11335,10 +11339,6 @@ hash = "e08f873e48ce89890688f5d453050e34a290e6de67c6f8e87de06a6692ae2e77"
 [[files]]
 file = "configureddefaults/config/auxiliaryblocks/waterlog.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
-
-[[files]]
-file = "configureddefaults/config/bcc-common.toml"
-hash = "8d9381808a824fb5f65831214c366d0f763d46de5316a85c17151aad4365e2e6"
 
 [[files]]
 file = "configureddefaults/config/bettercombat/client.json5"
@@ -20732,7 +20732,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "3d95c8380f0787d476cbe085a475604d3222ee31f007dd6dfd68d26aa7a497dd"
+hash = "d978fab272e6ae3408b5b74508e8b7c132e8ae37581947167f6d492d1df1314b"
 metafile = true
 
 [[files]]
@@ -20767,7 +20767,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "5d19621f68034d847e014fe8e94a827b4fbe6dd373c48155201a2929dbbc334e"
+hash = "dbe63661f8457f83f4a122e8f2ee5e20fd7f16cd5053f463056eaca5c1d23404"
 metafile = true
 
 [[files]]
