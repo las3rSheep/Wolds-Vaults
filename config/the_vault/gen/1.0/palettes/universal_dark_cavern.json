@@ -596,7 +596,7 @@
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/spawners/cave_mobs"
+            "id": "the_vault:generic/spawners/dark_cavern_mobs"
         },
         {
             "type": "reference",

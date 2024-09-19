@@ -139,7 +139,8 @@
       "the_vault:overgrown_zombie_t4",
       "the_vault:vault_yellow_gummy_soldier",
       "the_vault:deep_dark_skeleton",
-      "the_vault:deep_dark_zombie"
+      "the_vault:deep_dark_zombie",
+      "grimoireofgaia:goblin_feral"
     ],
     "the_vault:assassin": [
       "the_vault:deep_dark_silverfish",
@@ -188,7 +189,9 @@
       "tropicraft:tropicreeper",
       "tropicraft:tropiskelly",
       "tropicraft:tropi_spider",
-      "tropicraft:ashen"
+      "tropicraft:ashen",
+      "grimoireofgaia:harpy",
+      "grimoireofgaia:bone_knight"
     ],
     "the_vault:tank": [
       "the_vault:shiver",
@@ -203,7 +206,10 @@
       "rottencreatures:dead_beard",
       "rottencreatures:mummy",
       "rottencreatures:glacial_hunter",
-      "tropicraft:eih"
+      "tropicraft:eih",
+      "grimoireofgaia:cobble_golem",
+      "grimoireofgaia:cobblestone_golem",
+      "grimoireofgaia:flesh_lich"
     ],
     "the_vault:guardian": [
       "the_vault:bruiser_guardian",

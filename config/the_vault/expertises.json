@@ -312,7 +312,7 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          }
+          },
           {
             "type": "mystic",
             "additionalCrystalVolume": 40,
@@ -410,7 +410,7 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          }
+          },
           {
             "type": "experience",
             "increasedExpPercentage": 0.6,

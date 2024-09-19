@@ -243,7 +243,13 @@
             "tropicraft:tropiskelly",
             "tropicraft:tropi_spider",
             "tropicraft:ashen",
-            "tropicraft:eih"
+            "tropicraft:eih",
+            "grimoireofgaia:harpy",
+            "grimoireofgaia:bone_knight",
+            "grimoireofgaia:harpy",
+            "grimoireofgaia:flesh_lich",
+            "grimoireofgaia:harpy",
+            "grimoireofgaia:cobblestone_golem"
           ]
         },
         "the_vault:scavenger_mob_purple": {
@@ -314,7 +320,8 @@
             "the_vault:deep_dark_zombie",
             "the_vault:vault_yellow_gummy_soldier",
             "the_vault:vault_green_gummy_soldier",
-            "the_vault:vault_red_gummy_soldier"
+            "the_vault:vault_red_gummy_soldier",
+            "grimoireofgaia:goblin_feral"
           ]
         }
       }

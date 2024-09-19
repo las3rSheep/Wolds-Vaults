@@ -38,6 +38,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/dark_cavern_rooms",
+      "name": "Tropical Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/dark_cavern_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/ice_rooms",
       "name": "Ice Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/ice_rooms.json"
@@ -191,6 +196,11 @@
       "id": "the_vault:vault/starts/tropical_starts",
       "name": "Tropical Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/tropical_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/dark_cavern_starts",
+      "name": "Tropical Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/dark_cavern_starts.json"
     },
     {
       "id": "the_vault:vault/starts/ice_starts",
@@ -392,6 +402,12 @@
       "name": "Tropical Tunnels",
       "1.1": "config/the_vault/gen/1.0/template_pools/vault/tunnels/tropical_tunnels.json",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/tropical_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/dark_cavern_tunnels",
+      "name": "Dark Cavern Tunnels",
+      "1.1": "config/the_vault/gen/1.0/template_pools/vault/tunnels/dark_cavern_tunnels.json",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/dark_cavern_tunnels.json"
     },
     {
       "id": "the_vault:vault/tunnels/ice_tunnels",
@@ -1900,6 +1916,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/tropical_common_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/dark_cavern_common_rooms",
+      "name": "Dark Cavern Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/dark_cavern_common_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/ice_common_rooms",
       "name": "Ice Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/ice_common_rooms.json"
@@ -2355,6 +2376,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_resource_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/dark_cavern_resource_rooms",
+      "name": "Dark Cavern Resource Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/dark_cavern_resource_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/raw/chromatic_caves",
       "name": "Chromatic Caves",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/chromatic_caves.json"
@@ -2473,6 +2499,16 @@
       "id": "the_vault:vault/rooms/raw/chromatic_caves_regular",
       "name": "Chromatic Caves Non-Raw",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/chromatic_caves_regular.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/benitoite_caves",
+      "name": "Chromatic Caves Non-Raw",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/benitoite_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/painite_caves",
+      "name": "Chromatic Caves Non-Raw",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/painite_caves.json"
     },
     {
       "id": "the_vault:vault/rooms/gingerbread_common_rooms",

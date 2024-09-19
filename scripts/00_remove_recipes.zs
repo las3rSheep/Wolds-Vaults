@@ -223,7 +223,6 @@ craftingTable.remove(<item:snad:snad>);
 craftingTable.remove(<item:ae2:io_port>);
 craftingTable.remove(<item:ae2:controller>);
 craftingTable.remove(<item:ae2:vibration_chamber>);
-craftingTable.remove(<item:ae2:matter_cannon>);
 craftingTable.remove(<item:ae2:crafting_card>);
 craftingTable.remove(<item:ae2:item_storage_cell_1k>);
 craftingTable.remove(<item:ae2:item_storage_cell_4k>);

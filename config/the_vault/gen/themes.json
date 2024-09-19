@@ -68,8 +68,14 @@
     {
       "id": "the_vault:classic_vault_tropical",
       "name": "Tropical Oasis",
-      "color": 14873528,
+      "color": 11504308,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tropical.json"
+    },
+    {
+      "id": "the_vault:classic_vault_dark_cavern",
+      "name": "Dark Cavern",
+      "color": 3080351,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_dark_cavern.json"
     },
     {
       "id": "the_vault:classic_vault_mesa",
@@ -138,7 +144,7 @@
     {
       "id": "the_vault:classic_vault_cave_deepslate",
       "name": "Deepslate Caves",
-      "color": 594432,
+      "color": 2895426,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_deepslate.json"
     },
     {
