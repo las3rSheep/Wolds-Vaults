@@ -1360,7 +1360,7 @@
             "type": "infinite",
             "tunnel_span": 1
           },
-          "weight": 40000
+          "weight": 40
         }
       ]
     }

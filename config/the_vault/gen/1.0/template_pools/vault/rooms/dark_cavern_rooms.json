@@ -8,7 +8,7 @@
     "reference": "the_vault:vault/rooms/challenge_rooms"
   },
   {
-    "weight": 6000,
+    "weight": 6,
     "reference": "the_vault:vault/rooms/dark_cavern_resource_rooms"
   },
   {
