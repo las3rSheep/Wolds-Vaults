@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"ae2:matter_cannon",
 		"peripherals:*",
 		"computercraft:*",
 		"advancedperipherals:*",

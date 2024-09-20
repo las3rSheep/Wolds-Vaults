@@ -10438,7 +10438,7 @@ hash = "2481f94ebe58c92c7b271a94c7d6a3f2565609b6f4e833a1f3875d3709aeb5eb"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "e4cde6cc37d9cc0951827b9eab69668ffbecbfa42edf1e417a5fbe7fd2538cfd"
+hash = "7d60ca76aede1db83b8ae893b9b692bd3c7b4260bf9887de0a03062083a062c8"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"

@@ -18,7 +18,7 @@
       "type": "weighted_target",
       "target": "minecraft:brown_concrete",
       "output": {
-        "the_vault:orange_concrete": 1
+        "minecraft:orange_concrete": 1
       }
     },
     {

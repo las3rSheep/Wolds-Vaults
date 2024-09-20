@@ -17,6 +17,20 @@
     },
     {
       "type": "weighted_target",
+      "target": "minecraft:sand",
+      "output": {
+        "minecraft:orange_concrete_powder": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:andesite",
+      "output": {
+        "the_vault:wendarr_brick_chiseled": 1
+      }
+    },
+    {
+      "type": "weighted_target",
       "target": "minecraft:water",
       "output": {
         "auxiliaryblocks:orange_water": 1

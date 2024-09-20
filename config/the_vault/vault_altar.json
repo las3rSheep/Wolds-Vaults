@@ -92,6 +92,48 @@
       }
     },
     {
+      "input": "woldsvaults:uber_chaos_catalyst",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "children": [
+                {
+                  "id": "the_vault:unhinged_default",
+                  "type": "pool"
+                }
+              ],
+              "type": "compound"
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:unhinged",
+                  "size": 1
+                }
+              ]
+            },
+            "Model": {
+              "type": "unhinged"
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_chaos"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
       "input": "the_vault:vault_catalyst_chaos",
       "output": {
         "id": "the_vault:vault_crystal",
@@ -138,16 +180,16 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:herald", 
+                  "id": "the_vault:herald",
                   "size": 1
-                  }
-                ]
+                }
+              ]
             },
             "Layout": {
               "type": "herald"
             },
             "Theme": {
-              "type": "value", 
+              "type": "value",
               "id": "the_vault:classic_vault_herald"
             },
             "Time": {

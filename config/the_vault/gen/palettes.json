@@ -236,7 +236,7 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/coin_stack_placeholder.json"
     },
     {
-      "id": "the_vault:raw/ore_placeholder",
+      "id": "the_vault:generic/ore_placeholder",
       "name": "Ore Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder.json"
     },
@@ -246,7 +246,7 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/benitoite_ore_placeholder.json"
     },
     {
-      "id": "the_vault:generic/painite_ore_placeholder",
+      "id": "the_vault:raw/painite_ore_placeholder",
       "name": "Ore Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/painite_ore_placeholder.json"
     },
