@@ -13,7 +13,7 @@
             {
               "weight": 15,
               "item": {
-                "id": "the_vault:arcane_essence",
+                "id": "woldsvaults:arcane_essence",
                 "count": {
                   "type": "uniform",
                   "min": 8,
