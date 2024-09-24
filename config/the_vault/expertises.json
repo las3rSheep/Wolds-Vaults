@@ -65,7 +65,7 @@
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.45,
+            "costReduction": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0

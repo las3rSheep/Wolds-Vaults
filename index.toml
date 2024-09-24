@@ -20676,7 +20676,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "19ce144c9ceb8df4f9f58055a580219f30bc90296ac6f3e9b14c43538620dd94"
+hash = "cdb264737a004540d3870a93bb7886a6a63458de6e2c6279d9efe1af8b4f251f"
 metafile = true
 
 [[files]]
@@ -20766,7 +20766,7 @@ metafile = true
 
 [[files]]
 file = "mods/woldfaster.pw.toml"
-hash = "fcb782ffd288c40aacdf7db758f4e68ac111ee4d03852c2b0dfbd0f356552aac"
+hash = "bc7ca85e7c05ed62ecb14e1dffa9c77a0e60044d0837665ba71ace0976de6e9c"
 metafile = true
 
 [[files]]
