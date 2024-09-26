@@ -248,7 +248,7 @@
             {
               "weight": 12,
               "item": {
-                "id": "the_vault:vaultar_box",
+                "id": "woldsvaults:vaultar_box",
                 "count": {
                   "type": "uniform",
                   "min": 1,
