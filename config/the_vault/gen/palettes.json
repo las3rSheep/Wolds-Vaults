@@ -26,6 +26,16 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_beach.json"
     },
     {
+      "id": "the_vault:universal_tropical",
+      "name": "Universal Tropical",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_tropical.json"
+    },
+    {
+      "id": "the_vault:universal_dark_cavern",
+      "name": "Universal Dark Cavern",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_dark_cavern.json"
+    },
+    {
       "id": "the_vault:universal_ice",
       "name": "Universal Ice",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_ice.json"
@@ -229,6 +239,16 @@
       "id": "the_vault:generic/ore_placeholder",
       "name": "Ore Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder.json"
+    },
+    {
+      "id": "the_vault:raw/benitoite_ore_placeholder",
+      "name": "Ore Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/benitoite_ore_placeholder.json"
+    },
+    {
+      "id": "the_vault:raw/painite_ore_placeholder",
+      "name": "Ore Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/painite_ore_placeholder.json"
     },
     {
       "id": "the_vault:generic/pylon_placeholder",
@@ -916,6 +936,16 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base_regular.json"
     },
     {
+      "id": "the_vault:raw/chromatic_caves/base_benitoite",
+      "name": "Chromatic Caves Non-Raw Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base_benitoite.json"
+    },
+    {
+      "id": "the_vault:raw/chromatic_caves/base_painite",
+      "name": "Chromatic Caves Non-Raw Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base_painite.json"
+    },
+    {
       "id": "the_vault:raw/chromatic_caves/base_modded",
       "name": "Modded Caves Base",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/chromatic_caves/base_modded.json"
@@ -1074,6 +1104,16 @@
       "id": "the_vault:generic/spawners/beach_mobs",
       "name": "Beach Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/beach_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/tropical_mobs",
+      "name": "Tropical Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/tropical_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/dark_cavern_mobs",
+      "name": "Dark Cavern Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/dark_cavern_mobs.json"
     },
     {
       "id": "the_vault:generic/spawners/mushroom_mobs",

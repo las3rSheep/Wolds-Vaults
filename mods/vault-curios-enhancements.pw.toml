@@ -1,13 +1,13 @@
 name = "Vault Curios Enhancements"
-filename = "vault_curios_enhancements-1.0.jar"
+filename = "vault_curios_enhancements-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ce70c84bd9e4f2626e092b5ee847f327683400cf"
+hash = "a05f2450d820baf0ee26b568352f1dfdfdcc144e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5064617
+file-id = 5711153
 project-id = 967059

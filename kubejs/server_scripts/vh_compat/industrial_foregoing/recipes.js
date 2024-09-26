@@ -655,19 +655,19 @@ onEvent("recipes", event => {
         I: '#forge:gears/gold'
     })
 
-    event.shaped(Item.of('industrialforegoing:plant_gatherer'),
-        [
-            'PpP',
-            'RMR',
-            'ITI'
-        ], {
-        P: '#forge:plastic',
-        p: 'minecraft:glass_bottle',
-        R: 'the_vault:vault_essence',
-        M: 'industrialforegoing:machine_frame_simple',
-        T: 'minecraft:redstone_block',
-        I: 'industrialforegoing:diamond_gear'
-    })
+    // event.shaped(Item.of('industrialforegoing:plant_gatherer'),
+    //     [
+    //         'PpP',
+    //         'RMR',
+    //         'ITI'
+    //     ], {
+    //     P: '#forge:plastic',
+    //     p: 'minecraft:glass_bottle',
+    //     R: 'the_vault:vault_essence',
+    //     M: 'industrialforegoing:machine_frame_simple',
+    //     T: 'minecraft:redstone_block',
+    //     I: 'industrialforegoing:diamond_gear'
+    // })
 
     event.shaped(Item.of('industrialforegoing:plant_sower'),
         [

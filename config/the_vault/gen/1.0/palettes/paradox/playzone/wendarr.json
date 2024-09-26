@@ -29,6 +29,13 @@
       }
     },
     {
+      "type": "weighted_target",
+      "target": "chipped:green_wool_12",
+      "output": {
+        "chipped:yellow_wool_12": 1
+      }
+    },
+    {
       "type": "reference",
       "id": "the_vault:gate_lock/base"
     }

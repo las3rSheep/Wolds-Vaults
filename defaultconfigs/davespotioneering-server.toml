@@ -17,7 +17,7 @@
 	coat_all = true
 	#Number of uses per coating
 	#Range: > 1
-	coating_uses = 25
+	coating_uses = 100
 	#Range: 1 ~ 64
 	potion_stack_size = 16
 	#Range: 1 ~ 64

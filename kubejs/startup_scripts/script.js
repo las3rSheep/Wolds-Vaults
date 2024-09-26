@@ -17,6 +17,7 @@ onEvent('item.registry', event => {
 	event.create('woldsvaults:arcane_essence').group('the_vault').displayName('Arcane Essence')
 	event.create('woldsvaults:arcane_shard').group('the_vault').displayName('Arcane Shard')
 	event.create('woldsvaults:extraordinary_pog_prism').group('the_vault').displayName('Extraordinary Pog Prism')
+	event.create('woldsvaults:heart_of_chaos').group('the_vault').displayName('Heart of Chaos')
 })
 
 onEvent('block.registry', event => {

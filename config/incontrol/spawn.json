@@ -7,8 +7,11 @@
         "result": "deny"
     },
     {
+        "mod": "grimoireofgaia",
+        "result": "deny"
+    },
+    {
         "mod": "naturalist",
-        "dimension": "minecraft:overworld",
         "result": "deny"
     },
     {

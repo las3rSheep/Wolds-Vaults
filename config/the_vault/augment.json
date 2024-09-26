@@ -1,6 +1,12 @@
 {
   "dropChance": 0.2,
   "drops": {
+    "the_vault:classic_vault_dark_cavern": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_dark_cavern\"}": 2
+    },
+    "the_vault:classic_vault_tropical": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_tropical\"}": 5
+    },
     "the_vault:classic_vault_ice": {
       "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_ice_cave\"}": 3

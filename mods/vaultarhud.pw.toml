@@ -1,13 +1,13 @@
 name = "VaultarHUD"
-filename = "vaultarhud-1.0.0-1.18.2.jar"
+filename = "VaultarHUD-1.2.0-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9042bf68fff745057c571d6615b934d67f9ac06b"
+hash = "43779158346020c2db94dbf771a0d24319e3a49d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5706845
+file-id = 5724227
 project-id = 1011085
