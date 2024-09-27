@@ -14,8 +14,13 @@
         },
         {
             "type": "patchouli:crafting",
+            "recipe": "the_vault:heart_of_chaos",
+            "text": "You will need a Heart of Chaos, a new crafting ingredient, in order to make one!"
+        },
+        {
+            "type": "patchouli:crafting",
             "recipe": "the_vault:uber_chaos_catalyst",
-            "text": "Combine many Chaotic Vault Rocks to form an Unhinged Vault Rock!"
+            "text": "Combine many Chaotic Vault Rocks and a Heart of Chaos to form an Unhinged Vault Rock!"
         }
     ]
 }
