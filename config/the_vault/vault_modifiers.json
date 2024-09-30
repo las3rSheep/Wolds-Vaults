@@ -5260,7 +5260,7 @@
         "properties": {
           "entries": [
             {
-              "filter": "the_vault:god_altar[god=idona]",
+              "filter": "the_vault:god_altar[god=wendarr]",
               "radius": 64.0,
               "color": 16748800
             }
