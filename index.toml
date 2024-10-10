@@ -18980,6 +18980,11 @@ hash = "63a3b07a64df284b65d589f9e5e1db4ca49ff97aac9cbf840f22a0fa7b00f7e3"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fb694b2ac3ce618e01b4284e52025b26fe4bf9721132854836c0a985fdd7fabb"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
@@ -20286,7 +20291,7 @@ metafile = true
 
 [[files]]
 file = "mods/qol-hunters.pw.toml"
-hash = "624ca069984b71cab6522c45d74f37dbf709cf1f3443532add701a412b8f7656"
+hash = "4bb169f8d070c7a6ba57a451d6ad022263817dce1a75e0262a11018994cee4f2"
 metafile = true
 
 [[files]]
@@ -20675,6 +20680,11 @@ hash = "cdb264737a004540d3870a93bb7886a6a63458de6e2c6279d9efe1af8b4f251f"
 metafile = true
 
 [[files]]
+file = "mods/vault-hunters-api.pw.toml"
+hash = "49d7a9b0844362766791818b9eff3184b869c36608571d3133972a5943348676"
+metafile = true
+
+[[files]]
 file = "mods/vault-hunters-better-gear-model-unlocks.pw.toml"
 hash = "2ba135a941856b159296fc67cb38becdc9c17f72301e3b2f40839c27cb2dc7f2"
 metafile = true
@@ -20837,6 +20847,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "63bb7449af08c6ec9e8140c3f2448ecdb849bd6ef0d9ab7ba0f771e3e3b1492a"
 metafile = true
 
 [[files]]
