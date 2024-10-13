@@ -15769,6 +15769,10 @@ file = "kubejs/server_scripts/vh_compat/boosters/recipes.js"
 hash = "738b6bf3c505480f2367a2b383689021d901953635731a180b1b1b8f6a7cffaa"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/botania/botania-orechid-recipes.js"
+hash = "81b9ce7cfba3ed3709249f5e8d59c30cc6b557bcec6d8a1114f580b49205d603"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/botania/loot.js"
 hash = "3383b8d1d052c2e41b6503687b3e19ccc35031254681567bd460a936f97a3b8e"
 
@@ -15855,6 +15859,10 @@ hash = "40e000f2d1780248d4c080a8fb4c28b628e556f394814552fa0af4f2913cacda"
 [[files]]
 file = "kubejs/server_scripts/vh_compat/entangled/recipes.js"
 hash = "30ad01baf5542a528b45640872dd68921cd88f98c5389729d43bc684f2eccf3f"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/everycompat/everycompat-board-recipes.js"
+hash = "3fc49bd4c19e38baba1fb515a207d5a04758c8955cab0d2a45729eeb2e5a3792"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/explorerscompass/recipes.js"
@@ -15985,6 +15993,10 @@ file = "kubejs/server_scripts/vh_compat/pneumaticcraft/tags.js"
 hash = "678644137d26c85ded57417f4d8289b0d1a9f67fa55609949b16816276153363"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/powah/powah-recipes.js"
+hash = "94831bafd43b2a97ba239b9e12febe8b78d47fd7d8383ac8c64a0d5383d4e9f7"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/psi/recipes.js"
 hash = "8ee709926aaebc752fc733a61d0b7cf527109ef4a7c24cc2f7651127318880fb"
 
@@ -16094,7 +16106,7 @@ hash = "0acc3bcf5929c0b4209d36da87e42be144834ac92722ec43473b7e79a80f3ead"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/tropicraft/recipes.js"
-hash = "7664859fff643b767b073d3cdab1168bd5f1f3d99b4f562e198ecc143b0896bb"
+hash = "15fd691e3651404cf5557fe09626fa1b9ad7d1e2a137eac2ab29666bb13003fc"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/vanilla/loot.js"
@@ -18629,7 +18641,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "4769c6653fa0fba5272f799635fd21b50877758c150a36fbd71c54baf800e93a"
+hash = "62a4079f1438feb3aaed410300ef922b184ce6b6df359f8803c96856cf926c22"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -18637,7 +18649,7 @@ hash = "c9e1c4364ebe76be563dea7eb7a5876ea83be4958f9ef55fd8a04f250fba1d37"
 
 [[files]]
 file = "scripts/Botania.zs"
-hash = "acabc4365741dda24f595bc63567e0adc715c9f33abfd1e4332e8db6ae709e47"
+hash = "384ceac9543d6bb0f7acdaf5d7972769c7add19d33e3df3e9823bd00776536e0"
 
 [[files]]
 file = "scripts/Botany_Pots.zs"
@@ -18713,7 +18725,7 @@ hash = "f3359b2d976b5303a33efa062c01e863ec20de173347bab120e4d005184291c2"
 
 [[files]]
 file = "scripts/Powah.zs"
-hash = "652293c45c19ee67a7005d6d38a365ed906c7743ddba0e15afc80429c60dc6ed"
+hash = "9a8a7ba5b8260db17a6c1f0cb5d8cf76a99c7c826189599a4d9d56fe505855bd"
 
 [[files]]
 file = "scripts/Quark.zs"

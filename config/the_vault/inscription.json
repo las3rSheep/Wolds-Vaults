@@ -2255,12 +2255,7 @@
     "the_vault:vault/rooms/omega/vendor": 12,
     "the_vault:vault/rooms/challenge/village": 13,
     "the_vault:vault/rooms/challenge/wildwest": 14,
-    "the_vault:vault/rooms/challenge/x-mark": 15,
-    "the_vault:vault/rooms/omega/iskallian_garden": 16,
-    "the_vault:vault/rooms/challenge/pirate_cave": 17,
-    "the_vault:vault/rooms/omega/arcade": 18,
-    "the_vault:vault/rooms/omega/hellish_digsite": 19,
-    "the_vault:vault/rooms/omega/playzone": 20
+    "the_vault:vault/rooms/challenge/x-mark": 15
   },
   "ringWeights": [
     50,
