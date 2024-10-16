@@ -250,7 +250,7 @@ hash = "8a245ef81195df152e206cb6e4f60e6891ba084d731f48b44f1eaa52a73981c2"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "044f613253c4b9ab461cc18bca6b584514cdbaf88b07de941de2ea4d81df287a"
+hash = "e18eff31699a35a919fb777e9573eadc08cf1a11dce98eeb74877ac0829669d7"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
@@ -10470,7 +10470,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "087b3cfa579e54bd00f8a2dc1520d5f2b40b7d83991921d7a577c6f068e9fda4"
+hash = "37d9a329eaa28049f5626519e40d682a4302723e5c098ff56303263f7fcd7f48"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -10610,15 +10610,15 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "069e637c038422b888f3ba40c134760c93ec9f54b3d6e70e3396f8a2428caf9a"
+hash = "8c7ad06117c74fa0868487a4bc5d1436725c09c24bf199da45e6a7b1ee6b4958"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
-hash = "8017153645d07be854bb78cf8b50ed18ed59ce2b180cd8c6c3c68db168fdceec"
+hash = "2556d20ba5829b717df1bdb92d6bdb17e0999c81308858febe75207b3262529b"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "ce4201bc570d3d01def8d1239275857687b2edf3ec83099f66f77114e31728e9"
+hash = "04ed41ec064ee716f3dcbb0b209d8c5cb4aab8ee4d2c811b8d4d50ff97b95d5d"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -17614,7 +17614,7 @@ metafile = true
 
 [[files]]
 file = "mods/qol-hunters.pw.toml"
-hash = "4bb169f8d070c7a6ba57a451d6ad022263817dce1a75e0262a11018994cee4f2"
+hash = "c86ea6b1b80cfdfc3615ce7ea4dde0cfbd04fcdbbc67fced6358e1add217266c"
 metafile = true
 
 [[files]]
@@ -17839,7 +17839,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-vault-upgrades.pw.toml"
-hash = "9d3b62c77aed2045d1489312f950b316e61fb7c84c404414bebcb282031e888c"
+hash = "fb567bf4542a8f5ebb287524559d28649031ae5afdea433d5ec217f5c11ea4d0"
 metafile = true
 
 [[files]]
@@ -17943,6 +17943,11 @@ hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "ee1bc72c980997a48a8bc00aad6de353fa0b913c13266076bab03a0fdc025180"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "3c8a9cab20117f9c2e155b64a870f32646f1ce329acc74f31e21a09d3aafe526"
 metafile = true
@@ -18004,7 +18009,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "49d7a9b0844362766791818b9eff3184b869c36608571d3133972a5943348676"
+hash = "808a71f5ce4dffcf2ed3716631b72c4f097510eb131be3b6737524b5a89728d5"
 metafile = true
 
 [[files]]
@@ -18099,7 +18104,7 @@ metafile = true
 
 [[files]]
 file = "mods/woldfaster.pw.toml"
-hash = "bc7ca85e7c05ed62ecb14e1dffa9c77a0e60044d0837665ba71ace0976de6e9c"
+hash = "b51e2fe1adb941fd8fb161db6fe2b98954eb99ddc7dc369b9120d4465a2d9788"
 metafile = true
 
 [[files]]
