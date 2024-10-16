@@ -18023,16 +18023,6 @@ hash = "88c268096bfd287af747f2f3c6b351803b248548b7c689bcdbe81e1f04f6cd36"
 metafile = true
 
 [[files]]
-file = "mods/vault-hunters-copiously-fix.pw.toml"
-hash = "83f06e44d8a6064cea1495df918c3ecf4a4e3a43d65dbb1da3bbb067d404febe"
-metafile = true
-
-[[files]]
-file = "mods/vault-hunters-easy-caking.pw.toml"
-hash = "e37a1c468e5a4b50527191a9f8c2409fa1245d4699d49e2e9290718c3d452cad"
-metafile = true
-
-[[files]]
 file = "mods/vault-hunters-invhud-fix.pw.toml"
 hash = "21d1cfdb830dd844205c1fce1795ff1992c6d5ca76f6bddbaa4d903ed7b9cad9"
 metafile = true
