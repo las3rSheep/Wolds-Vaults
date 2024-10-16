@@ -10766,7 +10766,7 @@ hash = "a9e0b6ddb664e04003a844c0c032f5afb586902c9ebca80da6d128dd814c2906"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "37f1cc5e7cb62d530c3529c87c4f2955ac667893c601107bbae71d116b27f019"
+hash = "c62c46d5db3bc9d8f134e1384ae1b560610d9413769b1d2354e107b842c2ba58"
 
 [[files]]
 file = "config/the_vault/unhinged_scavenger.json"
@@ -13801,6 +13801,18 @@ file = "kubejs/assets/supplementaries/textures/block/flint_block_1.png"
 hash = "75416756e3002279126b882b1dac253312ed229419f581328c8cd0b58e360c0c"
 
 [[files]]
+file = "kubejs/assets/the_vault/models/item/trinket.json"
+hash = "abed54c050c0f709e2e795cbfc0f60af11a439a8b87000fcc9c472e1937df780"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/trinket/miners_headlamp.json"
+hash = "daec30f51d058f6d844e28b1e84dc0cda4838d5cb69ef02afc43a2001dd00ab6"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/trinket/running_shoes.json"
+hash = "42b340663058b44eddb3950ca610872a26428b096000f103adc71d1e0b5120d4"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/block/ancient_copper_block_1.png"
 hash = "f7b496a3c6a130a231694205d397f29be0d90ca588a26d8e9ef314de96599078"
 
@@ -14079,6 +14091,14 @@ hash = "7e66e2bf6513a7b413815be30f08cd69035eea099cc770ae3623d7af8db581ad"
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/velvet_block_1.png"
 hash = "803f5c34189d7eb0ba4d24ae8e631cc14c91612b52b591e5252df753f21b9628"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/trinket/miners_headlamp.png"
+hash = "4b2e359c70108b50f34a6dc0f38747158f5e4d23aa9fb7b3275fa5e1668cceee"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/trinket/running_shoes.png"
+hash = "851c6ba02dd96e18fbe7846e804f88d22266bfc02a3d65f81664ad05e2dffb9e"
 
 [[files]]
 file = "kubejs/assets/wolds_vaults/lang/en_us.json"
@@ -15970,7 +15990,7 @@ hash = "2dd4cf6f50d86f00200ad8f1b4f957136f5a5896ff1063de2dd5720b672d2aeb"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
-hash = "c12ac031711d7c0e58aa5b571c0787236a74b89b2861525434e5f427e6ddfdc9"
+hash = "d8d04545bfc4d804ed3d5591d086cf67802c510e9584d3e9eec36c29575e3279"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/peripherals/recipes.js"
@@ -16095,6 +16115,10 @@ hash = "c297b7afa49abec22ac39e3fcdf4ce6692793b2941bbfcac999a875263344cf8"
 [[files]]
 file = "kubejs/server_scripts/vh_compat/toms_storage/recipes.js"
 hash = "1b9ebe0e27e6e0ab8f0da516246e054d2a13e9062bc75979d8733a8fa2673a5a"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/toolbelt/recipes.js"
+hash = "b3142a7e364848cb70cfdf514bf0f76800260389bb042196636529822484ab17"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/transmog/recipes.js"
