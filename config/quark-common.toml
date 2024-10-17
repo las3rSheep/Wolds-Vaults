@@ -619,10 +619,10 @@
 					"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Limestone" = false
-		"Enable Jasper" = false
-		"Enable Shale" = false
-		"Enable Myalite" = false
+		"Enable Limestone" = true
+		"Enable Jasper" = true
+		"Enable Shale" = true
+		"Enable Myalite" = true
 
 		[world.new_stone_types.limestone]
 
@@ -639,7 +639,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 2.0
+				"Cluster Count" = 0
 
 			[world.new_stone_types.limestone.oregen_upper]
 				#Allowed values: [-64,320]
@@ -650,7 +650,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0.1666666
+				"Cluster Count" = 0
 
 		[world.new_stone_types.jasper]
 
@@ -667,7 +667,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 2.0
+				"Cluster Count" = 0
 
 			[world.new_stone_types.jasper.oregen_upper]
 				#Allowed values: [-64,320]
@@ -678,7 +678,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0.1666666
+				"Cluster Count" = 0
 
 		[world.new_stone_types.shale]
 
@@ -695,7 +695,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 2.0
+				"Cluster Count" = 0
 
 			[world.new_stone_types.shale.oregen_upper]
 				#Allowed values: [-64,320]
@@ -706,7 +706,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0.1666666
+				"Cluster Count" = 0
 
 		[world.new_stone_types.myalite]
 
@@ -723,7 +723,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 2.0
+				"Cluster Count" = 0
 
 			[world.new_stone_types.myalite.oregen_upper]
 				#Allowed values: [-64,320]
@@ -734,7 +734,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0.1666666
+				"Cluster Count" = 0
 
 	[world.nether_obsidian_spikes]
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)

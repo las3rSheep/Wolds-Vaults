@@ -98,7 +98,7 @@ hash = "8497e6dcd941429e0ad78b699330ffdd5c72039edb3bbae908ef1a88d96fb873"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "628c526836afc75211bcd492eed9bd2c29fdbdd2872069cf421a3e7a320b5cbf"
+hash = "1a00a0cbc11ccc2c81881b763357aab64acf507788a620844ee9e9dcfd755603"
 
 [[files]]
 file = "config/the_vault/abilities.json"
@@ -10898,7 +10898,7 @@ hash = "832ea7bea0df42ba7db362ffa9de3e06dedfaab537d92434efa837571fdc327a"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "3cdf646c8a7ec61dccefee81c1c717a27e8dd435fb89d9a91bd05a208d7bf6ee"
+hash = "75915a0b9d3d6535bae306d30876e84a44f8dfe68f8a8afdcdda73f59b1e8b4a"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -17649,6 +17649,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/raw-vault-qol-vault-hunters-3-addon.pw.toml"
+hash = "ea56f491b4d3058c8ba550afa4518fb4ed6b3a942b6d8c8c84a7fa6b5612d0dd"
 metafile = true
 
 [[files]]

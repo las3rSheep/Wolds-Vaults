@@ -1,0 +1,13 @@
+name = "Raw Vault QoL - Vault Hunters 3 addon"
+filename = "rawvaultqol-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae729ca005be0d89d196e7e519ac285fb7b32e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5755369
+project-id = 1109154

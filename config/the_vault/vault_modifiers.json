@@ -2848,6 +2848,20 @@
         }
       }
     },
+    "the_vault:modifier_type/experience_multiplier": {
+      "the_vault:true_noxp": {
+        "properties": {
+          "addend": 0
+        },
+        "display": {
+          "name": "No XP",
+          "color": "#DB7C00",
+          "description": "x0 Vault XP Gained",
+          "descriptionFormatted": "+%d%% Vault XP Gained",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
     "the_vault:modifier_type/inline_pool": {
       "the_vault:chaos": {
         "properties": {
@@ -3967,7 +3981,7 @@
       "the_vault:plunderer": {
         "properties": {
           "children": {
-            "the_vault:noxp": 1,
+            "the_vault:true_noxp": 1,
             "the_vault:item_quantity": 1,
             "the_vault:plentiful": 1,
             "the_vault:plunder_artifact": 1
