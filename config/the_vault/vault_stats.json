@@ -249,6 +249,11 @@
       "FAILED": 0,
       "COMPLETED": 400
     },
+    "zealot": {
+      "BAILED": 0,
+      "FAILED": 0,
+      "COMPLETED": 24000
+    },
     "elixir": {
       "BAILED": 0,
       "FAILED": 0,

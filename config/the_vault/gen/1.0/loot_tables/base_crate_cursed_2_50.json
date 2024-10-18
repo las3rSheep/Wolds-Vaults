@@ -11,18 +11,55 @@
           "weight": 1,
           "pool": [
             {
-              "weight": 15,
+              "weight": 1,
               "item": {
                 "id": "the_vault:eternal_soul",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 4
+                  "min": 3,
+                  "max": 6
                 }
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 0,
+        "max": 2
+      },
+      "pool": [
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 32,
+              "item": {
+                "id": "the_vault:jewel",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "jewel_completion"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 0,
+        "max": 2
+      },
+      "pool": [
         {
           "weight": 1,
           "pool": [
@@ -215,35 +252,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 0,
-        "max": 1
-      },
-      "pool": [
-        {
-          "weight": 1,
-          "pool": [
-            {
-              "weight": 32,
-              "item": {
-                "id": "the_vault:jewel",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "jewel_completion"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "roll": {
-        "type": "uniform",
-        "min": 1,
+        "min": 2,
         "max": 2
       },
       "pool": [
@@ -290,8 +299,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
-        "max": 1
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
@@ -315,7 +324,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
+        "min": 2,
         "max": 2
       },
       "pool": [
@@ -328,8 +337,8 @@
                 "id": "the_vault:vault_gold",
                 "count": {
                   "type": "uniform",
-                  "min": 5,
-                  "max": 8
+                  "min": 7,
+                  "max": 10
                 }
               }
             }
@@ -340,7 +349,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
+        "min": 2,
         "max": 2
       },
       "pool": [
@@ -387,8 +396,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 1,
-        "max": 1
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
@@ -412,185 +421,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 0,
-        "max": 1
-      },
-      "pool": [
-        {
-          "weight": 1,
-          "pool": [
-            {
-              "weight": 1,
-              "item": {
-                "id": "the_vault:unidentified_treasure_key",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:soul_vortex",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:card_deck",
-                "nbt": {
-                  "id": "double"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "the_vault:card_deck",
-                "nbt": {
-                  "id": "large"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 5,
-              "item": {
-                "id": "the_vault:trinket",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 18,
-              "item": {
-                "id": "the_vault:mango",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:sour_orange",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 10,
-              "item": {
-                "id": "the_vault:gem_echo",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "the_vault:capstone_dungeon_hunter",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 1,
-              "item": {
-                "id": "the_vault:capstone_treasure_hunter",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 12,
-              "item": {
-                "id": "the_vault:eye_of_avarice",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:gem_pog",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:inscription",
-                "nbt": {
-                  "pool": "the_vault:random"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 1,
-              "item": {
-                "id": "woldsvaults:omega_box",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "roll": {
-        "type": "uniform",
-        "min": 1,
-        "max": 3
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
@@ -671,20 +503,6 @@
               "item": {
                 "id": "the_vault:booster_pack",
                 "nbt": {
-                  "id": "the_vault:temporal_pack"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-                "id": "the_vault:booster_pack",
-                "nbt": {
                   "id": "the_vault:mega_mix_pack"
                 },
                 "count": {
@@ -742,6 +560,203 @@
                 "id": "the_vault:booster_pack",
                 "nbt": {
                   "id": "the_vault:wild_pack"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 0,
+        "max": 2
+      },
+      "pool": [
+        {
+          "weight": 6,
+          "pool": [
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:soul_vortex",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:trinket",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "woldsvaults:catalyst_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 2
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "pool": [
+            {
+              "weight": 18,
+              "item": {
+                "id": "the_vault:mango",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:sour_orange",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "woldsvaults:wisdom_fruit",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "woldsvaults:hasty_pomegranate",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 8,
+          "pool": [
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:capstone_dungeon_hunter",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:capstone_treasure_hunter",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:eye_of_avarice",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 2,
+          "pool": [
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:card_deck",
+                "nbt": {
+                  "id": "double"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:card_deck",
+                "nbt": {
+                  "id": "large"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_pog",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:inscription",
+                "nbt": {
+                  "pool": "the_vault:random"
                 },
                 "count": {
                   "type": "uniform",
