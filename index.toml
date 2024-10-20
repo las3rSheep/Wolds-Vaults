@@ -7489,10 +7489,6 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.n
 hash = "651561d8ace8876357485308878024b042888afe94fdf0f04c0d349202244512"
 
 [[files]]
-file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden_old.nbt"
-hash = "2b36ecf9e204a9f0c518c5c5d093da361a70d92186f610cccd4ea0ef15597f1b"
-
-[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/library1.nbt"
 hash = "a2150ed0bd39a52c96de11a9afbca03393ace961f12dcbd0789abbe4715bd7e2"
 
@@ -18553,6 +18549,11 @@ hash = "3b79cfa0bfe56749ea15c3d752b88816ec0e5f05faa2325e5dab0e66ab916a3d"
 metafile = true
 
 [[files]]
+file = "mods/shulkerified-vault-stations.pw.toml"
+hash = "fcd99d9a4d948e2d066b58f047f7760411a376caaf86182034cb0f35f151050a"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
@@ -18879,7 +18880,7 @@ metafile = true
 
 [[files]]
 file = "mods/woldfaster.pw.toml"
-hash = "b51e2fe1adb941fd8fb161db6fe2b98954eb99ddc7dc369b9120d4465a2d9788"
+hash = "631a809ca194e1f5698ffed99e50da70088db8cfdd94855124f05fb4eb58991d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Shulkerified Vault Stations"
+filename = "shulkerifiedvaultstations-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aae2609333a8d7b561ba5bfe68224fa5c1054670"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5822543
+project-id = 1123882

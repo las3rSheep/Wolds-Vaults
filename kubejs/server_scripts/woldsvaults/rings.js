@@ -79,7 +79,7 @@ onEvent('recipes', event => {
         ], {
         G: 'the_vault:chromatic_gold_block',
         T: 'the_vault:trinket_scrap',
-        W: 'the_vault:wold_star_chunk',
+        W: 'the_vault:wold_star',
         V: 'the_vault:vault_ingot_1',
         P: 'woldsvaults:extraordinary_pog_prism'
     })
