@@ -11634,7 +11634,7 @@ hash = "8bb5dec154c46f750efb4bb4d74ef5b977f3b4f769c4089bc293eeece09e9ffd"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "5e9034001eda080c53185bfdcd9650a45517cfd37c9a71dee901b65178bd46c1"
+hash = "9e8601d910b82d5fcaceabfc35098c6d18449e385102d120da4cf90a8012a85b"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -11650,7 +11650,7 @@ hash = "832ea7bea0df42ba7db362ffa9de3e06dedfaab537d92434efa837571fdc327a"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "d2bad557def707da07c11fc946613becc7415a0d25485ea3792ab6e7ae591f5b"
+hash = "0177a05aa286f5dc05e608e8087113d6a6a3df146e8c96fc5ebadd3c514dc892"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
