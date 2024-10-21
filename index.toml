@@ -1002,7 +1002,7 @@ hash = "5bc8a185c3dd495282a5618a0f34533d24b4bbb6ea394a89c15438416d27fec0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl50.json"
-hash = "38d6837913d5006d7584759a0749e4ee8851f3fa0be2320e90878b3db9d48c7b"
+hash = "6c95f926c452f5767381cf3125604639a8f1a427dc6a3da79901830e638a1190"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_100.json"
@@ -11210,7 +11210,7 @@ hash = "9e779716f20776218614a824fe5a14ba1463fad8dfea203b85ac5ffddf3faf4a"
 
 [[files]]
 file = "config/the_vault/haunted_braziers.json"
-hash = "9d2d8fd1f1a1f120ebcf777c3dfde356418b106474cd0aefff23a4fc4ec21311"
+hash = "21cbcefd3f66861fee4fe0c8a44029fd22b78750d72ecd949814e5ee27a5552b"
 
 [[files]]
 file = "config/the_vault/herald.json"
@@ -11586,7 +11586,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "f57d19bdc6e3810300ba65c76e30c4b3e364be1ff7ef01857d750cf5e3c89c88"
+hash = "d446f32393c227d6528e3e06d52fab7f1e03c96596cd4be11f808306bf507bca"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -11650,7 +11650,7 @@ hash = "832ea7bea0df42ba7db362ffa9de3e06dedfaab537d92434efa837571fdc327a"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "75915a0b9d3d6535bae306d30876e84a44f8dfe68f8a8afdcdda73f59b1e8b4a"
+hash = "d2bad557def707da07c11fc946613becc7415a0d25485ea3792ab6e7ae591f5b"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -16930,7 +16930,7 @@ hash = "b9569254f995be1909d13e554bf3634849a876cde63a02e6456ae4ee74583c02"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/rings.js"
-hash = "a01d925dd7200c0334e3d424457a2716adedd93d4141991a72457e46a12a1387"
+hash = "04fa1ddf054dc28992b609390c52457084c2403f530836dc9db7fba1b162dd21"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/wold_star.js"
