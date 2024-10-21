@@ -682,7 +682,7 @@ hash = "86c37682ddc597ecd1a474332ebdbd9b9b6a6f61390a57c68f4a27d2620a16a4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_100.json"
-hash = "6c51a1e37719aa7da6f13c14d0c7b3a0c42eb8bb23bcec93e61f0fb6be35e425"
+hash = "82d6bc73482a54a1aef0a2fb5087f04b6c99f69a6cc37031f89f37f6cf332953"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_20.json"
@@ -690,23 +690,23 @@ hash = "6f90d026f0a3673e543b977dd9835a49e25ad581ab033fcbd892f05c3e0de31e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_100.json"
-hash = "92ee14e4ecec42e39a99a1c8b2122d9c5c5c9f00f3c05b9c88a1deb7371bf3b5"
+hash = "061e7c28c62c97149281bdff8560d1b8a1a64fe338aadb21e02887a2bb4dd210"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_50.json"
-hash = "7a97bac5b36e7ae9b5e32359ee1a9575d612513fb6e8f98692e06f5f26686413"
+hash = "27c8b45a48e6030e0ec293fee08df63e92df18c5a8635b5f49cc4db36bc690b6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
-hash = "f44179be5297da7a6e81eae46397bff390863edecbfadb8494c6ac805287258f"
+hash = "a3f5d2d095fe4196a59f71dad5e164ae324d3e03914ed18126c9980f2a067273"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
-hash = "fd95b82ac8debe1eeea5bd4a5a4f0111aceb0ad6983c6f186a4db2625ff0f927"
+hash = "a1876952848ac3948b55a781dc28eb46e578e583bd4d4a1b822b5fb1b8dfdfbf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
-hash = "676cd8a7129ff64fd7931afbcfd408a7eedaec9dc5f1c6eacc3df04e9189d4c4"
+hash = "e021a0d4ae9ac74d9a5cb8bd314a2a7b81e57854c11b239a43a5882d9afb8b35"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_template.json"
@@ -1002,15 +1002,15 @@ hash = "5bc8a185c3dd495282a5618a0f34533d24b4bbb6ea394a89c15438416d27fec0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl50.json"
-hash = "6c95f926c452f5767381cf3125604639a8f1a427dc6a3da79901830e638a1190"
+hash = "14f4dfb64e2bfef3ec9252fc1f2a34c8ce7d2a744f7d8673ae797986238994f7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_100.json"
-hash = "d4ad498475e99f5aa1cafd4ee73fbc5305525f781f40b28d828a2038dd16ee48"
+hash = "f2fb69a4a4719c95fba79ef04dd6ba27df852dd1271e14b3947619ddcc372270"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_50.json"
-hash = "1427941392c5fa061a249860b0e90c7f67d3d01aebd685bff3f0368bf479218e"
+hash = "e43f9edd80c5c69b4c0eeb8ed8f81faf0e864417dc5ec13cb020793cf4bd1775"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/hellish_sand.json"
@@ -1158,11 +1158,11 @@ hash = "412053bc6500729914e464c33dca7c6224c054a1b11b4dbe40b6341d2668f2f7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/zealot_crate_100.json"
-hash = "6c51a1e37719aa7da6f13c14d0c7b3a0c42eb8bb23bcec93e61f0fb6be35e425"
+hash = "66e9ddd61a10dff74fbe4227412bddaa314ab4af78b611390a1f29ed2eb6c35a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/zealot_crate_50.json"
-hash = "676cd8a7129ff64fd7931afbcfd408a7eedaec9dc5f1c6eacc3df04e9189d4c4"
+hash = "302c771554189567b2333e9155480205f7e2d7317db471682598f63690a1745a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/arcade/base.json"
@@ -11634,7 +11634,7 @@ hash = "8bb5dec154c46f750efb4bb4d74ef5b977f3b4f769c4089bc293eeece09e9ffd"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "9e8601d910b82d5fcaceabfc35098c6d18449e385102d120da4cf90a8012a85b"
+hash = "3ab377ccfa2951b8b90cfbcb47350f310adfa8aa2c7849e0716e53637ca4794b"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
