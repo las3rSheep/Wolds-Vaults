@@ -462,7 +462,7 @@ hash = "8104566fd11b366659f53a6a3b1e17e02078d2601d4c77df267813ade95675ad"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "8fc94c676aa006d5809c5d7a821ad279753ff9d01392282f660c0df4a818608e"
+hash = "cf0c6ae6caec5c0d522ce5fa327e3e32e2391e80a4d66e3815258d19e9b13ef7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -11646,7 +11646,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "832ea7bea0df42ba7db362ffa9de3e06dedfaab537d92434efa837571fdc327a"
+hash = "822a9f077053e7098a19379a55d60fdfe5328f2f0d7567f687c690ba0cf7fe44"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -16130,7 +16130,7 @@ hash = "e9cd1a2c8895ca7f0bf903c29268efc455b28fc18dd2d1f48d5a4c23811c22f4"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/kill_wold.json"
-hash = "c771a595285b39d053ddaf15630309499670605b19f9b5beaa81eafdae7d01e8"
+hash = "6e6ab53b1a2d02149560d4721820551d5891a4dd437052d5ac4d4076bd030c83"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/mystic_pear.json"
@@ -18155,7 +18155,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
+hash = "e8ea1ed24c1b1acbf78409861fe031e5b65fb1164f9ba3bd73973a863432ba5a"
 metafile = true
 
 [[files]]
@@ -18795,7 +18795,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "808a71f5ce4dffcf2ed3716631b72c4f097510eb131be3b6737524b5a89728d5"
+hash = "27232345e32666def7f5502e4c47dcbc43780fa1ff76dd71abcbaf866cb8b022"
 metafile = true
 
 [[files]]
@@ -18845,7 +18845,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "d978fab272e6ae3408b5b74508e8b7c132e8ae37581947167f6d492d1df1314b"
+hash = "79a5fa99047e05cbbd5b4cd9d147dd84a41d04778791f110c6fb3a33eac11675"
 metafile = true
 
 [[files]]
