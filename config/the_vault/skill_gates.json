@@ -849,10 +849,6 @@
           },
           {
             "type": "constant",
-            "id": "Extra Storage"
-          },
-          {
-            "type": "constant",
             "id": "Mega Cells"
           },
           {
