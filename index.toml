@@ -11430,7 +11430,7 @@ hash = "6ea1da5ecaa1e54a48a3633eb5c33c614006492a75263e696ab7a830c09b2438"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "e11506cf67dcc639996fad11db00727d56b58810936dd7164b7388028e6b2234"
+hash = "1900928cc2f179cca0a98c8fddc0afe9f90db296902f6c746cf9f83ed383499a"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"
@@ -18845,7 +18845,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "79a5fa99047e05cbbd5b4cd9d147dd84a41d04778791f110c6fb3a33eac11675"
+hash = "1ffb2585db3764d08e6a3242b15998ca63ae3656acb9270a8514f2c815639265"
 metafile = true
 
 [[files]]
