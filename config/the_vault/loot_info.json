@@ -97,6 +97,14 @@
         }
       }
     },
+    "the_vault:digsite_sand": {
+      "display": "Digsite Sand",
+      "lootTableKeys": {
+        "the_vault:digsite_sand_lvl0": {
+          "level": 0
+        }
+      }
+    },
     "the_vault:treasure_sand": {
       "display": "Treasure Sand",
       "lootTableKeys": {
