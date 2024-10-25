@@ -7,7 +7,8 @@
         "max": 1
       },
       "pool": [
-        {"weight": 240,
+        {
+          "weight": 240,
           "pool": [
             {
               "weight": 25,
@@ -22,7 +23,8 @@
             }
           ]
         },
-        {"weight": 120,
+        {
+          "weight": 120,
           "pool": [
             {
               "weight": 8,
@@ -48,8 +50,9 @@
             }
           ]
         },
-        {"weight": 60,
-        "pool": [
+        {
+          "weight": 60,
+          "pool": [
             {
               "weight": 20,
               "item": {
@@ -73,7 +76,7 @@
               }
             },
             {
-              "weight": 8,
+              "weight": 4,
               "item": {
                 "id": "the_vault:gem_pog",
                 "count": {
@@ -94,13 +97,57 @@
                 "id": "the_vault:gem_black_opal",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 4
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 3,
+              "item": {
+                "id": "the_vault:vault_catalyst_fragment",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:phoenix_dust",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 4,
+              "item": {
+                "id": "the_vault:inscription_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "the_vault:altar_recatalyzer",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 2,
               "item": {
                 "id": "the_vault:lost_bounty",
                 "count": {
