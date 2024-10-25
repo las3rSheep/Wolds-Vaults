@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a783c7437d159bcd2ceffba7902b4a569c8f699e5a03e7e6cf42554ff94494dc"
+hash = "fc601c127dc5e3b63b0ead2586cbc99102ddee9062f5407637a60b650d4c1a04"
 
 [[files]]
 file = "config/farmingforblockheads/MarketRegistry.json"
@@ -11386,7 +11386,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "505c2d10ddea583d291e369976ce23c40b958b3555d00d4a7719f9f470bd981a"
+hash = "3afc17ed63cd26c29dc80b61255dd15328cb3e3df4f7b96c9e6d6ad22ca6a372"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11426,7 +11426,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "6ea1da5ecaa1e54a48a3633eb5c33c614006492a75263e696ab7a830c09b2438"
+hash = "934168f4b8c4acb3712245ebfb26ce20812e5b27f7ac1a8bb43367789622b0b9"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18803,7 +18803,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "27232345e32666def7f5502e4c47dcbc43780fa1ff76dd71abcbaf866cb8b022"
+hash = "bb9e5c2886ff3d50c1d2d0a5e7af5f69a8cf2850a0cf46f1915677166769f324"
 metafile = true
 
 [[files]]
@@ -18893,7 +18893,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "88548452f8c58b9af44ad88b829551ee65f0470562adaf5986309fc13b0948db"
+hash = "a638d6e1ca59cd508324150a5a34e13615076f7569e9ea2c992203719bc1713e"
 metafile = true
 
 [[files]]
