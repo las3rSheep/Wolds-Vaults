@@ -1748,6 +1748,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/iskallian_garden.json"
     },
     {
+      "id": "the_vault:vault/rooms/nonparadox/velara/omega/iskallian_garden",
+      "name": "Velara iskallian_garden",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/omega/iskallian_garden.json"
+    },
+    {
       "id": "the_vault:vault/rooms/paradox/wendarr/omega/iskallian_garden",
       "name": "Wendarr iskallian_garden",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/iskallian_garden.json"

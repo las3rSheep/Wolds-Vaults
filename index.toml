@@ -226,7 +226,7 @@ hash = "71ef8237935909194628b294914f1b0a30ddc377d992e3f6362c8e3f50522572"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
-hash = "660305e8cf2f0fefbf184fa85a86a03c90f58f90ea826faf427efb10a118b282"
+hash = "8f7aa326ea3933eee413c56a8242edeebfa60e265ed85f26de0a5ae29b313231"
 
 [[files]]
 file = "config/the_vault/bounty/task/damage_entity.json"
@@ -2914,7 +2914,7 @@ hash = "d3f217e41f123b96c44b76bc8b160261db6c495ce475a91b5e9b77025e9722f3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_idona_normal.json"
-hash = "f0e7bac90cd4234e3108fd033886b6dc75859e99b0589ef17b7cde83a60c4212"
+hash = "2d104f05973480cac3e33a83868282fc3f3b6148334bdc02b75fe5aa3524a520"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_intermediary.json"
@@ -2998,7 +2998,7 @@ hash = "5b2edfe64610660786fd899293a575d8c6c445d97a0e1205c43a746e815bc4ae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos_normal.json"
-hash = "ed04a0154225fb21a81e81ad0bc66a3b31d01a9c25bb50645afab35b94a7e2c4"
+hash = "da0ef857acc0c910192b036b96345bf005a37ff701db32a078e4f7fa7c566b0d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tropical.json"
@@ -3014,7 +3014,7 @@ hash = "b7af3fc3140a14b58e6ff922fe9c6fa4205be6517d126105e2b63f7d4b07dced"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_velara_normal.json"
-hash = "7b56c159b02448a9fa7eca694790c0d7b8d33f6264e7a9cb82acbca804ce5a3a"
+hash = "826f6b4453cdac70bf5d883461dcdf6bdafdc2f5805cb186970288c92fc27bf2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_void.json"
@@ -3026,7 +3026,7 @@ hash = "ef24afb6d88715e4372297d85a81897888e3ae60b50b83b79e77a7754cd46442"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_wendarr_normal.json"
-hash = "5c7f6e2070f11c1c2dd5a9f9e61f10289ac9769d16fc627146be1e90ef616c0e"
+hash = "f615b0988ecc2852985a96d3ada5bc5e63e1bb451714af5d8141cda036c8aa60"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_white.json"
@@ -9346,7 +9346,7 @@ hash = "ca8e729b266b65005fa101ced08551c6d439b3dc2b0e469cce83203dcc359a59"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/challenge/pirate_cave.json"
-hash = "1e444c56527396bfce32d385d9788c752146312ea54a70a868eb8f6233965379"
+hash = "3a3216d39f56565c20edd7ca1fc564fcfad635625e3b46dbea8af788db8d7004"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/challenge/village.json"
@@ -9406,7 +9406,7 @@ hash = "d689a2365b67f39cd95262725bd257f8163845478dd7222437fb28fbda07edd4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/omega/playzone.json"
-hash = "1ecfd4f8e8d45c3ba3b0335c955c20cc2e6cceb53b8cba750ada11f6049b3517"
+hash = "0c76dc1e3bd576f97a64ae38f69295aa1af3f5dc989ba6768eff64cb5cde2e01"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/omega/vendor.json"
@@ -9430,7 +9430,7 @@ hash = "e2f1602282a4c1c44700ab7ccb845df8c0837eee32d10713af2322001093b44b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/challenge/pirate_cave.json"
-hash = "e6134eaf05ab6b49502e74cf7949627ffe3bda2e1dfd82b95dcf6fefca5f0375"
+hash = "88236a4d8a72a0799679f096ee9d5b6c70ed46cd2709d935b1d6ab79cee7986e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/challenge/village.json"
@@ -9490,7 +9490,7 @@ hash = "94f98892fe2545eeb8c7b32c8310c6aa8de0ffdc9bc5c743749e6b644acae50d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/playzone.json"
-hash = "ca37172bc84ace6a4308a9f626cea211c4ed0b56e8402f087bab133bfd469010"
+hash = "fcdcd77a48c58cb8d1926cfe838368eb856a434247a8b18695648ac8b66a0200"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/vendor.json"
@@ -9514,7 +9514,7 @@ hash = "4e4fd8a1d29b6dd78bf29c89180e95374e0bc28751a8982a9c5fe34fceff4909"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/challenge/pirate_cave.json"
-hash = "591478674c4052afcc3ffbde42394b406f6496437a1cfb671a2588d320f62979"
+hash = "ffb1ebaf6db21930045877199004c112824f26f77be2519b620b688e7daea6c9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/challenge/village.json"
@@ -9574,7 +9574,7 @@ hash = "a69b6e4c2b5df5c56e2d7cb7f6456bba85df9ccd8fb0a547ae61c4708a6bb90d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/omega/playzone.json"
-hash = "247b928bf567e8d13ba0e9a3309abb784b53c4bd25f58c1897396fc4df2c767f"
+hash = "d5f8a6ba0552db459c2618810c3e4edca4916d8edc5c40025da815c9972a1add"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/omega/vendor.json"
@@ -9598,7 +9598,7 @@ hash = "8386eac4a7a65ff151d341d75da4c039a79804d0dd241829df69fb140a673fae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge/pirate_cave.json"
-hash = "83d9eeed1e28726c6a7970c91308c0480b445fa2d0590853e16096ec90d7aa5b"
+hash = "07011ed36e4ea0b144c9c780be404771b0bf1b18ae44911ac4782288af0cbfe8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge/village.json"
@@ -9658,7 +9658,7 @@ hash = "f06f5f551774e4ffbe60823d31f86e32914004797c381b46c95422dfa428d258"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/omega/playzone.json"
-hash = "e9f09253db80d283b7232ab047a63e81e488f1e5f4db36a72b9297ee0eb56421"
+hash = "6eec38545b38b6d9d0722a032a1dc9949361a37c3f391fbb6c679cec20dfc9fb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/omega/vendor.json"
@@ -9746,7 +9746,7 @@ hash = "d6a3ff1192c96841fde1e90d50d1ab852cce1cade7d09aa182738598e6a8e4d8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/pirate_cave.json"
-hash = "3f97b0adaec30d26b9edeae0d764dcf46a84458eef4f930c999b7c48b05b74aa"
+hash = "e0ceed4199b68d338b8c36725c5dd01d7ec6ffbe3e6eb411813f846f5d27ded9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/village.json"
@@ -9806,7 +9806,7 @@ hash = "09072fe25cc5b5275f4735a3f42c8fd26253b9cca169ff429196a42db9bb87b0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/playzone.json"
-hash = "b6fb3ca817960282d88f8987ff4909adcfd1abbc3bdbeb170bdb1dfb1b62b729"
+hash = "2cf15f40e267a9b45ccff3480a2f7b0b8e0cf07c294df671c114b1876a41212f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/vendor.json"
@@ -9846,7 +9846,7 @@ hash = "2250ce0101c0d438f12cf82449e94eb9872d41efc1629211a65a4921527bf5cd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/pirate_cave.json"
-hash = "0da152e33c517d168d3f194e1a11d536c64af6c8aa7acc37a104aa55460543de"
+hash = "e2f070169c8b11a5b70eac2d1385a0d23df33eb30c7bad7f7ec9edef0ccc6d53"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/village.json"
@@ -9906,7 +9906,7 @@ hash = "a94e3889507b686414e49bea2871c6ddb8c470efe2b62f5d5d6eb35ffd1d7f78"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/playzone.json"
-hash = "903e32e34c573226a0c71a9b059f06a2437a1450b69cea9744702cac134b54a8"
+hash = "38866b77c4c734435b3cbb817af7500c6e2c4ac59bc02dd61f2b3c17c79df688"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/vendor.json"
@@ -9938,7 +9938,7 @@ hash = "8507ccfc6b10ba2d8858b015e1db4806c122777fbf5cd158fa140bf4e4600d12"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/pirate_cave.json"
-hash = "b06369f082dda16167f17dd56012e5c6d1cad7f9ac812108a8a91d7409650c4e"
+hash = "85cfcf28496fbf573daf2cc80a4b8aed478c2eee80a4edfb417e53f098ed7234"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/village.json"
@@ -9998,7 +9998,7 @@ hash = "884b8d87abeba4c597e692e55087c8297063e165ae5e7624f61183f20ab949d3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/playzone.json"
-hash = "d9495e59fad1248b6f59f3712ccbe8e585a911000342b767634aa90e86d6940f"
+hash = "4ed9da78c6d0b60f8026a7e11c17a0565871d770065f1033bddca34f0b1d26b4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/vendor.json"
@@ -10030,7 +10030,7 @@ hash = "4d557f2229251c9bff6b3ab7a8e714110b3b258c2499ea940b8b34163c5c4f0b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/pirate_cave.json"
-hash = "f71855fb3d1760f6d93b5c481cc35626c74142d70d68f21889abbfd664652da6"
+hash = "2f6711a2349476f12b38e0c143c5e9071b053741c8e57aff1ec62f7bd21cd6e7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/village.json"
@@ -10090,7 +10090,7 @@ hash = "4fa0da859d6023409d4efcfb6b03826aecda171a751e62114698c24958aedff0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/playzone.json"
-hash = "0f68e37a3b7c533d2a32ab1d7e5e1df1f94e7630459b4d5abc7651d6cd4b31ff"
+hash = "660a3508359be39d5e1be06c07335ae2a43902ddab503303b70c0616e975bfeb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/vendor.json"
@@ -11194,7 +11194,7 @@ hash = "25a2ea1179be1eb1f2b495063a74b819e40790d9289004493078036da23a2b7f"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "ef663a2647ad25c2ef823b45e5d1174580a6b1a9bec19d294b9d2fcb2ec3dd0b"
+hash = "d8ba4269f9a4bfea4a19c621c60a537cf579b67219e377e0547a3645fa73d2bf"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
@@ -11222,7 +11222,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "37d9a329eaa28049f5626519e40d682a4302723e5c098ff56303263f7fcd7f48"
+hash = "851130888793dec6c7941375d47774d0349a4c396eabfdd311ceb80bdbec931d"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -11362,7 +11362,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "8c7ad06117c74fa0868487a4bc5d1436725c09c24bf199da45e6a7b1ee6b4958"
+hash = "ae83b38921837fe9c01c9f7a216b72d609728db12573b77b6bb7f4936f11ef72"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -11518,7 +11518,7 @@ hash = "a9e0b6ddb664e04003a844c0c032f5afb586902c9ebca80da6d128dd814c2906"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "c62c46d5db3bc9d8f134e1384ae1b560610d9413769b1d2354e107b842c2ba58"
+hash = "15b178ce7fb8fd53cdbb85c805690885d918fc8c6bfd763ebf7e761144594c99"
 
 [[files]]
 file = "config/the_vault/unhinged_scavenger.json"
@@ -18803,7 +18803,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "bb9e5c2886ff3d50c1d2d0a5e7af5f69a8cf2850a0cf46f1915677166769f324"
+hash = "a7862c2c4afb09d7db93139580438ce001fbb8de8b1b072d7a9eb49e3841cbd5"
 metafile = true
 
 [[files]]
