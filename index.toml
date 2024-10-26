@@ -18628,7 +18628,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-vault-storage.pw.toml"
-hash = "56ec506a95a3dcbc0bc7187c3bfd550f15072fa3240c9d422bb4f79bc6a0239f"
+hash = "d6725b6a4e382ef7c6b1c87d20cd63a43863a1a65dde4b48df4d3c6cae00d3a5"
 metafile = true
 
 [[files]]
