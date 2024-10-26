@@ -26,17 +26,6 @@ onEvent("recipes", event => {
         C: 'refinedstorage:advanced_processor'
     })
 
-    event.shaped(Item.of('cabletiers:creative_exporter'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_exporter',
-        C: 'the_vault:echo_pog'
-    })
-
     event.shaped(Item.of('cabletiers:elite_importer'),
         [
             'XEX',
@@ -60,16 +49,6 @@ onEvent("recipes", event => {
         C: 'refinedstorage:advanced_processor'
     })
 
-    event.shaped(Item.of('cabletiers:creative_importer'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_importer',
-        C: 'the_vault:echo_pog'
-    })
 
 
     event.shaped(Item.of('cabletiers:elite_constructor'),
@@ -95,16 +74,6 @@ onEvent("recipes", event => {
         C: 'refinedstorage:advanced_processor'
     })
 
-    event.shaped(Item.of('cabletiers:creative_constructor'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_constructor',
-        C: 'the_vault:echo_pog'
-    })
 
     event.shaped(Item.of('cabletiers:elite_destructor'),
         [
@@ -129,16 +98,6 @@ onEvent("recipes", event => {
         C: 'refinedstorage:advanced_processor'
     })
 
-    event.shaped(Item.of('cabletiers:creative_destructor'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_destructor',
-        C: 'the_vault:echo_pog'
-    })
 
     event.shaped(Item.of('cabletiers:elite_disk_manipulator'),
         [
@@ -163,16 +122,6 @@ onEvent("recipes", event => {
         C: 'refinedstorage:advanced_processor'
     })
 
-    event.shaped(Item.of('cabletiers:creative_disk_manipulator'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_disk_manipulator',
-        C: 'the_vault:echo_pog'
-    })
 
     event.shaped(Item.of('cabletiers:elite_requester'),
         [
@@ -195,17 +144,6 @@ onEvent("recipes", event => {
         X: 'the_vault:vault_diamond_block',
         E: 'cabletiers:elite_requester',
         C: 'refinedstorage:advanced_processor'
-    })
-
-    event.shaped(Item.of('cabletiers:creative_requester'),
-        [
-            'XEX',
-            'ECE',
-            'XEX'
-        ], {
-        X: 'the_vault:black_chromatic_steel_block',
-        E: 'cabletiers:ultra_requester',
-        C: 'the_vault:echo_pog'
     })
 
 })

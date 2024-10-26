@@ -572,10 +572,6 @@
         "level": 0,
         "rollTypeOutcomes": [
           {
-            "value": "Common+",
-            "weight": 40
-          },
-          {
             "value": "Rare+",
             "weight": 40
           },

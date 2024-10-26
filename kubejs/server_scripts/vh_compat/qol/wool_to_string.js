@@ -11,8 +11,6 @@ onEvent("recipes", event => {
     event.shapeless('4x minecraft:brick', ['minecraft:bricks'])
     event.shapeless('4x minecraft:prismarine_shard', ['minecraft:prismarine'])
     event.shapeless('9x woldsvaults:arcane_essence', ['woldsvaults:arcane_shard'])
-    event.shapeless('9x minecraft:blaze_powder', ['minecraft:blaze_rod'])
-    event.shapeless('minecraft:blaze_rod', ['9x minecraft:blaze_powder'])
     event.shapeless('9x the_vault:knowledge_star_essence', ['the_vault:knowledge_star_shard'])
     event.shapeless('4x minecraft:glowstone_dust', ['minecraft:glowstone'])
     event.shapeless('3x quark:limestone', ['minecraft:stone', 'minecraft:andesite', 'minecraft:diorite'])

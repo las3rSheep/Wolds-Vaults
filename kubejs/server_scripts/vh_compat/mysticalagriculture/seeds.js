@@ -179,7 +179,7 @@ onEvent("recipes", event => {
             Item.of('mysticalagriculture:supremium_essence').toJson()
         ],
         result: Item.of('mysticalagriculture:chromatic_iron_seeds').toResultJson()
-    })
+    }).id('mysticalagriculture:chromatic_iron_seeds_infusion')
 
     event.custom({
         type: 'mysticalagriculture:infusion',

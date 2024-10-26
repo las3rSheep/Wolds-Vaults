@@ -57,7 +57,7 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 1,
+              "exhausted": 0,
               "volume": 0
             },
             "Version": 3
@@ -225,6 +225,13 @@
             },
             "Modifiers": {
               "type": "paradox"
+            },
+            "Time": {
+              "type": "value",
+              "roll": {
+                "type": "constant",
+                "count": 108000
+              }
             },
             "Properties": {
               "type": "capacity",

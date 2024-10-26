@@ -351,6 +351,26 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/bingo_full_crate_cursed.json"
     },
     {
+      "id": "the_vault:haunted_braziers_crate_50",
+      "name": "Haunted Braziers Crate Level 50-99",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_50.json"
+    },
+    {
+      "id": "the_vault:haunted_braziers_crate_100",
+      "name": "Haunted Braziers Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_100.json"
+    },
+    {
+      "id": "the_vault:zealot_crate_50",
+      "name": "Zealot Crate Level 50-99",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/zealot_crate_50.json"
+    },
+    {
+      "id": "the_vault:zealot_crate_100",
+      "name": "Zealot Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/zealot_crate_100.json"
+    },
+    {
       "id": "the_vault:base_crate_cursed_0",
       "name": "Cursed Completion Crate Level 0-19",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_0.json"

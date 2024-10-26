@@ -381,7 +381,7 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_wendarr\"}",
+        "nbt": "{theme:\"the_vault:classic_vault_wendarr_normal\"}",
         "amountMin": 1,
         "amountMax": 1
       },
@@ -390,7 +390,7 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_velara\"}",
+        "nbt": "{theme:\"the_vault:classic_vault_velara_normal\"}",
         "amountMin": 1,
         "amountMax": 1
       },
@@ -399,7 +399,7 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_tenos\"}",
+        "nbt": "{theme:\"the_vault:classic_vault_tenos_normal\"}",
         "amountMin": 1,
         "amountMax": 1
       },
@@ -408,7 +408,7 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_idona\"}",
+        "nbt": "{theme:\"the_vault:classic_vault_idona_normal\"}",
         "amountMin": 1,
         "amountMax": 1
       },

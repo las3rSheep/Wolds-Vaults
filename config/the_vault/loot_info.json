@@ -97,6 +97,14 @@
         }
       }
     },
+    "the_vault:digsite_sand": {
+      "display": "Digsite Sand",
+      "lootTableKeys": {
+        "the_vault:digsite_sand_lvl0": {
+          "level": 0
+        }
+      }
+    },
     "the_vault:treasure_sand": {
       "display": "Treasure Sand",
       "lootTableKeys": {
@@ -140,7 +148,7 @@
         }
       }
     },
-    "the_vault:completion_crate_haunted_mono": {
+    "the_vault:completion_crate_haunted_braziers": {
       "display": "Haunted Braziers Completion Crate",
       "lootTableKeys": {
         "the_vault:base_crate_cursed_0": {
@@ -149,10 +157,27 @@
         "the_vault:base_crate_cursed_20": {
           "level": 20
         },
-        "the_vault:base_crate_cursed_50": {
+        "the_vault:haunted_braziers_crate_50": {
           "level": 50
         },
-        "the_vault:base_crate_cursed_100": {
+        "the_vault:haunted_braziers_crate_100": {
+          "level": 100
+        }
+      }
+    },
+    "the_vault:completion_crate_zealot": {
+      "display": "Zealot Completion Crate",
+      "lootTableKeys": {
+        "the_vault:base_crate_cursed_0": {
+          "level": 0
+        },
+        "the_vault:base_crate_cursed_20": {
+          "level": 20
+        },
+        "the_vault:zealot_crate_50": {
+          "level": 50
+        },
+        "the_vault:zealot_crate_100": {
           "level": 100
         }
       }
@@ -170,7 +195,7 @@
           "level": 50
         },
         "the_vault:base_crate_100": {
-          "level": 50
+          "level": 100
         }
       }
     },
@@ -187,11 +212,11 @@
           "level": 50
         },
         "the_vault:base_crate_100": {
-          "level": 50
+          "level": 100
         }
       }
     },
-    "the_vault:completion_crate_enchanted_brutal_bosses": {
+    "the_vault:completion_crate_brutal_bosses": {
       "display": "Brutal Bosses Completion Crate",
       "lootTableKeys": {
         "the_vault:base_crate_cursed_0": {
@@ -221,11 +246,11 @@
           "level": 50
         },
         "the_vault:base_crate_100": {
-          "level": 50
+          "level": 100
         }
       }
     },
-    "the_vault:completion_crate_bingo_wold": {
+    "the_vault:completion_crate_bingo": {
       "display": "Bingo Completion Crate",
       "lootTableKeys": {
         "the_vault:base_crate_0": {
@@ -238,7 +263,7 @@
           "level": 50
         },
         "the_vault:base_crate_100": {
-          "level": 50
+          "level": 100
         }
       }
     },
@@ -314,7 +339,7 @@
           "level": 50
         },
         "the_vault:base_crate_2_100": {
-          "level": 50
+          "level": 100
         }
       }
     },

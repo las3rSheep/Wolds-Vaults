@@ -226,12 +226,12 @@
       },
       "the_vault:exorcising": {
         "properties": {
-          "chance": 0.4
+          "chance": 0.5
         },
         "display": {
           "name": ":soul_shard_increase_yellow: Exorcising",
           "color": "#6410A1",
-          "description": "+40% Soul Shard Drop Rate",
+          "description": "+50% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
           "icon": "the_vault:gui/modifiers/soul_shard_increase_pink"
         }
@@ -313,6 +313,20 @@
       }
     },
     "the_vault:modifier_type/decorator_add": {
+      "woldsvaults:ghost_town": {
+        "properties": {
+          "output": "the_vault:custom_entity_spawner{spawnerGroupName: \"all_ghosts\"}",
+          "attemptsPerChunk": 1,
+          "requireConditions": false
+        },
+        "display": {
+          "name": ":ghost: Ghost Town",
+          "color": "#237da1",
+          "description": "+4 Randomly spawning Ghosts.",
+          "descriptionFormatted": "+4 Randomly Spawning Ghosts.",
+          "icon": "the_vault:gui/modifiers/vexation"
+        }
+      },
       "the_vault:coin_pile": {
         "properties": {
           "output": "the_vault:placeholder[type=coin_stacks]",
@@ -666,6 +680,18 @@
       }
     },
     "the_vault:modifier_type/loot_item_quantity": {
+      "the_vault:item_quantity2": {
+        "properties": {
+          "percentage": 0.25
+        },
+        "display": {
+          "name": ":item_quant_1: Affluent",
+          "color": "#ffcc73",
+          "description": "+25% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
+        }
+      },
       "the_vault:item_quantity": {
         "properties": {
           "percentage": 0.1
@@ -2848,6 +2874,20 @@
         }
       }
     },
+    "the_vault:modifier_type/experience_multiplier": {
+      "the_vault:true_noxp": {
+        "properties": {
+          "addend": 0
+        },
+        "display": {
+          "name": "No XP",
+          "color": "#DB7C00",
+          "description": "x0 Vault XP Gained",
+          "descriptionFormatted": "+%d%% Vault XP Gained",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
     "the_vault:modifier_type/inline_pool": {
       "the_vault:chaos": {
         "properties": {
@@ -3967,7 +4007,7 @@
       "the_vault:plunderer": {
         "properties": {
           "children": {
-            "the_vault:noxp": 1,
+            "the_vault:true_noxp": 1,
             "the_vault:item_quantity": 1,
             "the_vault:plentiful": 1,
             "the_vault:plunder_artifact": 1
@@ -5260,7 +5300,7 @@
         "properties": {
           "entries": [
             {
-              "filter": "the_vault:god_altar[god=idona]",
+              "filter": "the_vault:god_altar[god=wendarr]",
               "radius": 64.0,
               "color": 16748800
             }

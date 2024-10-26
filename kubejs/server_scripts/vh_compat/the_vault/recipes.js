@@ -295,7 +295,7 @@ onEvent("recipes", event => {
         }
     })
 
-    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:gilded_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:gilded_ingot'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:gilded_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:gilded_ingot']).id('woldsvaults:chiseling_focus_gilded')
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:ornate_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:ornate_ingot'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:living_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:mossy_bone'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:wooden_affinity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'the_vault:wooden_chunk'])

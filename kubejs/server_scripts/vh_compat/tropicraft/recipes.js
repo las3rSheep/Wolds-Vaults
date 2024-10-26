@@ -11,5 +11,6 @@ onEvent("recipes", event => {
     })
 
     event.shapeless('2x tropicraft:pineapple_cubes', ['tropicraft:pineapple'])
-
+    event.shapeless('1x tropicraft:coconut_chunk', ['ecologics:coconut_slice'])
+    event.shapeless('2x tropicraft:coconut_chunk', ['tropicraft:coconut'])
 })

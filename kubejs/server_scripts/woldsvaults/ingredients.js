@@ -319,7 +319,7 @@ onEvent('recipes', event => {
         O: 'the_vault:perfect_benitoite'
     }).id('woldsvaults:memory_powder')
 
-    event.shaped(Item.of('the_vault:memory_shard'),
+    event.shaped(Item.of('the_vault:red_vault_essence'),
         [
             'CCC',
             'COC',

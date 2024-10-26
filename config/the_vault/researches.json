@@ -1942,12 +1942,19 @@
             "USABILITY": false,
             "CRAFTABILITY": true
           }
+        },
+        "woldsvaults:xl_backpack": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Big Backpacks",
-      "cost": 3,
+      "cost": 4,
       "usesKnowledge": true
     },
     {

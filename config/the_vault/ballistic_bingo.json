@@ -11,6 +11,690 @@
         },
         "tasks": [
           {
+            "type": "mine_block",
+            "filter": "the_vault:coin_pile[size=1]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 600
+              },
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Loot Coins",
+              "icon": "the_vault:textures/gui/bingo/wealthy.png"
+            },
+            "children": [
+              {
+                "type": "kill_entity",
+                "filter": "@the_vault:horde",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 600
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 5,
+                    "max": 5
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Kill Hordes",
+                  "icon": "the_vault:textures/gui/bingo/killhorde.png"
+                },
+                "children": [
+                  {
+                    "type": "loot_chest",
+                    "filter": "@the_vault:wooden",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 600
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 3,
+                        "max": 5
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.25
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Loot Wooden",
+                      "icon": "the_vault:textures/gui/bingo/wooden.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "mine_block",
+            "filter": "@the_vault:ores[generated=true]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 600
+              },
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 10
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Mine Vault Ores",
+              "icon": "the_vault:textures/gui/bingo/minevaultore.png"
+            },
+            "children": [
+              {
+                "type": "kill_entity",
+                "filter": "@the_vault:horde",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 600
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 5,
+                    "max": 5
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Kill Hordes",
+                  "icon": "the_vault:textures/gui/bingo/killhorde.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:assassin",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 600
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 4,
+                        "max": 4
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.25
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Kill Assassins",
+                      "icon": "the_vault:textures/gui/bingo/killassassin.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 800
+              },
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 3
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Loot Gilded",
+              "icon": "the_vault:textures/gui/bingo/gilded.png"
+            },
+            "children": [
+              {
+                "type": "loot_chest",
+                "filter": "@the_vault:wooden",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 800
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 4,
+                    "max": 5
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Loot Wooden",
+                  "icon": "the_vault:textures/gui/bingo/wooden.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:tank",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 800
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 1,
+                        "max": 1
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.0
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Kill Tank",
+                      "icon": "the_vault:textures/gui/bingo/killtank.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:living",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 800
+              },
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Loot Living",
+              "icon": "the_vault:textures/gui/bingo/living.png"
+            },
+            "children": [
+              {
+                "type": "loot_chest",
+                "filter": "@the_vault:wooden",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 800
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 4,
+                    "max": 5
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Loot Wooden",
+                  "icon": "the_vault:textures/gui/bingo/wooden.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:tank",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 800
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 1,
+                        "max": 1
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.0
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Kill Tank",
+                      "icon": "the_vault:textures/gui/bingo/killtank.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:ornate",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 800
+              },
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Loot Ornate",
+              "icon": "the_vault:textures/gui/bingo/ornate.png"
+            },
+            "children": [
+              {
+                "type": "loot_chest",
+                "filter": "@the_vault:wooden",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 800
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 6,
+                    "max": 8
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Loot Wooden",
+                  "icon": "the_vault:textures/gui/bingo/wooden.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:tank",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 800
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 1,
+                        "max": 1
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.0
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Kill Tank",
+                      "icon": "the_vault:textures/gui/bingo/killtank.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:mob_type/dweller",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 600
+              },
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 3
+              },
+              "variables": {
+                "targetPlayerContribution": 0.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/4]: Kill Dweller",
+              "icon": "the_vault:textures/gui/bingo/killdweller.png"
+            },
+            "children": [
+              {
+                "type": "kill_entity",
+                "filter": "@the_vault:assassin",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 600
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 2,
+                    "max": 2
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.0
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/4]: Kill Assassin",
+                  "icon": "the_vault:textures/gui/bingo/killassassin.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:horde",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 600
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 10,
+                        "max": 10
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.0
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/4]: Kill Horde",
+                      "icon": "the_vault:textures/gui/bingo/killhorde.png"
+                    },
+                    "children": [
+                      {
+                        "type": "kill_entity",
+                        "filter": "@the_vault:tank",
+                        "counter": {
+                          "type": "sliding_timed_target",
+                          "window": {
+                            "type": "constant",
+                            "count": 600
+                          },
+                          "target": {
+                            "type": "uniform",
+                            "min": 1,
+                            "max": 1
+                          },
+                          "variables": {
+                            "targetPlayerContribution": 0.0
+                          }
+                        },
+                        "renderer": {
+                          "type": "bingo",
+                          "name": "Combo [4/4]: Kill Tank",
+                          "icon": "the_vault:textures/gui/bingo/killtank.png"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "weight": 16.0
+          },
+          {
+            "type": "interact_block",
+            "pre": "the_vault:dungeon_door[open=false]",
+            "post": "the_vault:dungeon_door[open=true]",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 6
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Open Dungeons",
+              "icon": "the_vault:textures/gui/bingo/dungeon_doors.png"
+            },
+            "weight": 50.0
+          },
+          {
+            "type": "interact_block",
+            "pre": "the_vault:vendor_door[open=false]",
+            "post": "the_vault:vendor_door[open=true]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              },
+              "variables": {
+                "targetPlayerContribution": 0.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/2]: Open Vendoor (Rapid Shopping)",
+              "icon": "the_vault:textures/gui/bingo/vendoor.png"
+            },
+            "children": [
+              {
+                "type": "interact_block",
+                "pre": "the_vault:shop_pedestal[active=true]",
+                "post": "the_vault:shop_pedestal[active=false]",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 120
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 3,
+                    "max": 3
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.0
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/2]: Buy 3 items",
+                  "icon": "the_vault:textures/gui/bingo/wealthy.png"
+                }
+              }
+            ],
+            "weight": 24.0
+          },
+          {
+            "type": "interact_block",
+            "pre": "the_vault:dungeon_door[open=false]",
+            "post": "the_vault:dungeon_door[open=true]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 900
+              },
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              },
+              "variables": {
+                "targetPlayerContribution": 0.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Combo [1/3]: Open Dungeon (Rapid Dungeon)",
+              "icon": "the_vault:textures/gui/bingo/dungeon_doors.png"
+            },
+            "children": [
+              {
+                "type": "kill_entity",
+                "filter": "@the_vault:dungeon",
+                "counter": {
+                  "type": "sliding_timed_target",
+                  "window": {
+                    "type": "constant",
+                    "count": 900
+                  },
+                  "target": {
+                    "type": "uniform",
+                    "min": 7,
+                    "max": 7
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.0
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Combo [2/3]: Kill Dungeon Mobs",
+                  "icon": "the_vault:textures/gui/bingo/killdungeon.png"
+                },
+                "children": [
+                  {
+                    "type": "kill_entity",
+                    "filter": "@the_vault:mob_type/champion",
+                    "counter": {
+                      "type": "sliding_timed_target",
+                      "window": {
+                        "type": "constant",
+                        "count": 900
+                      },
+                      "target": {
+                        "type": "uniform",
+                        "min": 1,
+                        "max": 1
+                      },
+                      "variables": {
+                        "targetPlayerContribution": 0.0
+                      }
+                    },
+                    "renderer": {
+                      "type": "bingo",
+                      "name": "Combo [3/3]: Kill Champion",
+                      "icon": "the_vault:textures/gui/bingo/killchampion.png"
+                    }
+                  }
+                ]
+              }
+            ],
+            "weight": 12.0
+          },
+          {
+            "type": "interact_block",
+            "pre": "the_vault:shop_pedestal[active=true]",
+            "post": "the_vault:shop_pedestal[active=false]",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 10
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Go Shopping",
+              "icon": "the_vault:textures/gui/bingo/shopping.png"
+            },
+            "weight": 40.0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "minecraft:vindicator",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 15
+              },
+              "variables": {
+                "targetPlayerContribution": 0.50
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Vindicators",
+              "icon": "the_vault:textures/gui/bingo/vindicator.png"
+            },
+            "weight": 60.0
+          },
+          {
             "type": "loot_chest",
             "filter": "@the_vault:wooden",
             "counter": {

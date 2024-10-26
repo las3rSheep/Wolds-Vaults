@@ -14,6 +14,9 @@ onEvent("recipes", event => {
         event.remove({ 'output': `${id}` })
     })
 
+    event.remove({ id: 'sophisticatedbackpacks:void_upgrade' })
+    event.remove({ id: 'sophisticatedbackpacks:advanced_void_upgrade' })
+
     event.shaped(Item.of('sophisticatedbackpacks:crafting_upgrade'),
         [
             'ITI',
@@ -241,5 +244,31 @@ onEvent("recipes", event => {
         X: 'the_vault:omega_pog_1'
     }).id('sophisticatedbackpacks:inception_upgrade')
 
+    event.shaped(Item.of('sophisticatedbackpacks:void_upgrade'),
+        [
+            'SXS',
+            'BCB',
+            'ABA'
+        ], {
+        C: 'sophisticatedbackpacks:upgrade_base',
+        S: 'the_vault:chromatic_steel_ingot',
+        B: 'the_vault:vault_diamond',
+        A: 'the_vault:chromatic_steel_block',
+        X: 'the_vault:void_liquid_bucket'
+    }).id('sophisticatedbackpacks:void_upgrade_alt')
+
+    event.shaped(Item.of('sophisticatedbackpacks:advanced_void_upgrade'),
+        [
+            'SXS',
+            'BCB',
+            'ALA'
+        ], {
+        C: 'sophisticatedbackpacks:void_upgrade',
+        S: 'the_vault:black_chromatic_steel_ingot',
+        B: 'the_vault:vault_diamond',
+        A: 'minecraft:redstone_block',
+        X: 'the_vault:void_liquid_bucket',
+        L: 'the_vault:carbon'
+    }).id('sophisticatedbackpacks:advanced_void_upgrade_alt')
 
 })

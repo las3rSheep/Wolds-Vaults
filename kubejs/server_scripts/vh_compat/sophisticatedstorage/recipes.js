@@ -976,7 +976,19 @@ onEvent("recipes", event => {
         P: 'the_vault:carbon',
         R: 'minecraft:redstone',
         U: 'sophisticatedstorage:upgrade_base'
-    })
+    }).id('sophisticatedstorage:void_upgrade')
+
+    event.shaped(Item.of('sophisticatedstorage:void_upgrade'),
+        [
+            ' P ',
+            ' U ',
+            'ROR'
+        ], {
+        O: 'the_vault:void_liquid_bucket',
+        P: 'the_vault:carbon',
+        R: 'minecraft:redstone',
+        U: 'sophisticatedstorage:upgrade_base'
+    }).id('sophisticatedstorage:void_upgrade_alt')
 
     event.shaped(Item.of('sophisticatedstorage:advanced_void_upgrade'),
         [
@@ -989,6 +1001,18 @@ onEvent("recipes", event => {
         R: 'the_vault:carbon',
         U: 'sophisticatedstorage:void_upgrade'
     })
+
+    event.shaped(Item.of('sophisticatedstorage:advanced_void_upgrade'),
+        [
+            ' P ',
+            ' U ',
+            'ROR'
+        ], {
+        O: 'the_vault:void_liquid_bucket',
+        P: 'the_vault:vault_diamond',
+        R: 'the_vault:carbon',
+        U: 'sophisticatedstorage:void_upgrade'
+    }).id('sophisticatedbackpacks:advanced_void_upgrade_alt')
 
     event.shaped(Item.of('sophisticatedstorage:pickup_upgrade'),
         [
