@@ -366,7 +366,7 @@
       }
     },
     "the_vault:miners_headlamp": {
-      "weight": 10000,
+      "weight": 10,
       "name": "Miner's Headlamp",
       "effectText": "Grants night vision, +25% Copiously",
       "color": 16534066,

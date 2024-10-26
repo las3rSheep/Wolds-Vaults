@@ -1841,7 +1841,7 @@
             "value": {
               "entries": [
                 {
-                  "pool": "the_vault:vault/rooms/omega/digsite",
+                  "pool": "the_vault:vault/rooms/omega/digsite2",
                   "count": 1,
                   "color": 7012096
                 }
