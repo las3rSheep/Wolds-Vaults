@@ -641,6 +641,10 @@
         },
         {
             "type": "reference",
+            "id": "the_vault:generic/altar_nbt"
+        },
+        {
+            "type": "reference",
             "id": "the_vault:generic/room_base"
         },
         {
