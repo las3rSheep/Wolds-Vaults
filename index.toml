@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fc601c127dc5e3b63b0ead2586cbc99102ddee9062f5407637a60b650d4c1a04"
+hash = "28bd4756ea6dfd277a616d08931368b2fab5e2c0dde34334a69fa27a35690e7b"
 
 [[files]]
 file = "config/farmingforblockheads/MarketRegistry.json"
@@ -18893,7 +18893,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "a638d6e1ca59cd508324150a5a34e13615076f7569e9ea2c992203719bc1713e"
+hash = "bf8acd5b9ca0901bf9c4f494dcea0329521a224d663d97aa6ec0bada182e725c"
 metafile = true
 
 [[files]]
