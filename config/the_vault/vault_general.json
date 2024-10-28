@@ -249,9 +249,12 @@
 		"appbot:*",
 		"appmek:*",
 		"createdieselgenerators:*",
-		"alexsmobs:dimensional_carver"
+		"alexsmobs:dimensional_carver",
+		"tiab:time_in_a_bottle"
 	],
 	"BLOCK_BLACKLIST": [
+		"supplementaries:book_pile",
+		"supplementaries:book_pile_horizontal",
 		"peripherals:*",
 		"computercraft:*",
 		"advancedperipherals:*",

@@ -1847,6 +1847,34 @@
       {
         "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
+        "identifier": "the_vault:enhancement_execute_health_percent",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "specialModificationKey": "the_vault:execute_health_percent",
+              "abilityKey": "Execute",
+              "value": 0.2
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 4,
+            "value": {
+              "specialModificationKey": "the_vault:execute_health_percent",
+              "abilityKey": "Execute",
+              "value": 0.35
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_special_modification",
+        "group": "ModEnhancement",
         "identifier": "the_vault:enhancement_farmer_additional_range",
         "tags": [],
         "tiers": [
@@ -2071,6 +2099,23 @@
       {
         "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
+        "identifier": "the_vault:enhancement_tank_immunity",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 0,
+            "value": {
+              "specialModificationKey": "the_vault:tank_immunity",
+              "abilityKey": "Tank"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_special_modification",
+        "group": "ModEnhancement",
         "identifier": "the_vault:enhancement_taunt_increased_range",
         "tags": [],
         "tiers": [
@@ -2146,6 +2191,32 @@
             "value": {
               "amount": -14.0,
               "abilityKey": "Dash"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_mana_cost_percent",
+        "group": "ModEnhancement",
+        "identifier": "the_vault:enhancement_mana_eternal",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 0,
+            "value": {
+              "amount": -0.6,
+              "abilityKey": "Summon Eternal"
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 0,
+            "value": {
+              "amount": -1.0,
+              "abilityKey": "Summon Eternal"
             }
           }
         ]
@@ -2465,6 +2536,32 @@
       {
         "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
+        "identifier": "the_vault:enhancement_cooldown_execute",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "amount": -0.3,
+              "abilityKey": "Execute"
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 4,
+            "value": {
+              "amount": -0.5,
+              "abilityKey": "Execute"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
+        "group": "ModEnhancement",
         "identifier": "the_vault:enhancement_cooldown_farmer",
         "tags": [],
         "tiers": [
@@ -2666,6 +2763,32 @@
             "value": {
               "amount": -0.7,
               "abilityKey": "Rampage"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
+        "group": "ModEnhancement",
+        "identifier": "the_vault:enhancement_cooldown_tank",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "amount": -0.3,
+              "abilityKey": "Tank"
+            }
+          },
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 4,
+            "value": {
+              "amount": -0.7,
+              "abilityKey": "Tank"
             }
           }
         ]
