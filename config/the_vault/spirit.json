@@ -31,7 +31,7 @@
         [
           {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -51,6 +51,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -134,7 +140,7 @@
         [
           {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -154,6 +160,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -237,7 +249,7 @@
         [
           {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -257,6 +269,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -340,7 +358,7 @@
         [
           {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -360,6 +378,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -449,7 +473,7 @@
         [
           {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -469,6 +493,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
