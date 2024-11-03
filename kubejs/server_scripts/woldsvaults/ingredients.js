@@ -325,8 +325,8 @@ onEvent('recipes', event => {
             'COC',
             'CCC'
         ], {
-        C: 'the_vault:memory_powder',
-        O: 'the_vault:red_vault_essence'
+        C: 'the_vault:vault_essence',
+        O: 'the_vault:perfect_painite'
     }).id('the_vault:memory_shard')
 
     event.shaped(Item.of('the_vault:memory_shard'),
@@ -335,8 +335,8 @@ onEvent('recipes', event => {
             'COC',
             'CCC'
         ], {
-        C: 'the_vault:vault_essence',
-        O: 'the_vault:perfect_painite'
+        C: 'the_vault:memory_powder',
+        O: 'the_vault:perfect_benitoite'
     }).id('the_vault:red_vault_essence')
 
     event.shaped(Item.of('the_vault:sublime_vault_substance'),
