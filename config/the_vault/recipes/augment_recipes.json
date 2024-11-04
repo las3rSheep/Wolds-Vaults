@@ -556,6 +556,36 @@
             ]
         },
         {
+            "id": "the_vault:classic_vault_living_cave",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:classic_vault_living_cave\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 8,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 64,
+                    "ITEM": "minecraft:moss_block",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 16,
+                    "ITEM": "minecraft:honeycomb",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:memory_powder",
+                    "NBT": "{}"
+                }
+            ]
+        },
+        {
             "id": "the_vault:classic_vault_lush_cave",
             "output": {
                 "AMOUNT": 1,

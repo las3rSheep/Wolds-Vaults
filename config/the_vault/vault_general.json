@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"occultism:*",
 		"ae2:matter_cannon",
 		"peripherals:*",
 		"computercraft:*",
@@ -253,6 +254,7 @@
 		"tiab:time_in_a_bottle"
 	],
 	"BLOCK_BLACKLIST": [
+		"occultism:*",
 		"supplementaries:book_pile",
 		"supplementaries:book_pile_horizontal",
 		"peripherals:*",

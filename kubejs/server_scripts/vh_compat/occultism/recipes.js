@@ -1,5 +1,5 @@
 onEvent("recipes", event => {
-    event.shapeless('occultism:datura_seeds', ['minecraft:seeds', 'the_vault:eternal_soul', 'the_vault:vault_essence']).id('occultism:datura_seeds')
+    event.shapeless('occultism:datura_seeds', ['minecraft:wheat_seeds', 'the_vault:eternal_soul', 'the_vault:vault_essence']).id('occultism:datura_seeds')
 
     event.custom({
         "type": "occultism:spirit_fire",
@@ -33,7 +33,7 @@ onEvent("recipes", event => {
             'GAE'
         ], {
         G: 'occultism:burnt_otherstone',
-        A: 'occultism:overworld_ashes',
+        A: 'occultism:otherworld_ashes',
         E: 'the_vault:vault_essence'
     }).id('occultism:crafting/chalk_white_impure')
 
@@ -58,6 +58,27 @@ onEvent("recipes", event => {
         S: 'the_vault:driftwood'
     }).id('occultism:crafting/divination_rod')
 
+    event.shaped(Item.of('occultism:butcher_knife'),
+        [
+            ' IS',
+            'IS ',
+            'S  '
+        ], {
+        I: 'the_vault:chromatic_iron_ingot',
+        S: 'the_vault:driftwood'
+    }).id('occultism:crafting/butcher_knife')
+
+    event.shaped(Item.of('occultism:iesnium_pickaxe'),
+        [
+            'ILI',
+            ' S ',
+            ' S '
+        ], {
+        I: 'occultism:iesnium_ingot',
+        S: 'the_vault:driftwood',
+        L: 'the_vault:extraordinary_larimar'
+    }).id('occultism:crafting/iesnium_pickaxe')
+
     event.shaped(Item.of('occultism:golden_sacrificial_bowl'),
         [
             'GGG',
@@ -68,6 +89,50 @@ onEvent("recipes", event => {
         S: 'occultism:sacrificial_bowl'
     }).id('occultism:crafting/golden_sacrificial_bowl')
 
+    event.shaped(Item.of('occultism:wormhole_frame'),
+        [
+            ' G ',
+            'GBG',
+            ' G '
+        ], {
+        G: 'the_vault:chromatic_gold_ingot',
+        B: 'occultism:otherstone_frame'
+    }).id('occultism:crafting/wormhole_frame')
+
+    event.shaped(Item.of('occultism:storage_remote_inert'),
+        [
+            'GTG',
+            'LGL',
+            'BBB'
+        ], {
+        G: 'the_vault:chromatic_gold_ingot',
+        T: 'occultism:otherstone_tablet',
+        L: 'the_vault:extraordinary_larimar',
+        B: 'minecraft:stone_button'
+    }).id('occultism:crafting/storage_remote_inert')
+
+    event.shaped(Item.of('occultism:lens_frame'),
+        [
+            'SSS',
+            'IXI',
+            'SSS'
+        ], {
+        I: '#forge:ingots/silver',
+        S: 'occultism:otherstone',
+        X: 'the_vault:chromatic_steel_ingot'
+    }).id('occultism:crafting/lens_frame')
+
+    event.shaped(Item.of('occultism:magic_lamp_empty'),
+        [
+            'PI ',
+            'IXI',
+            ' II'
+        ], {
+        I: '#forge:ingots/silver',
+        X: 'occultism:iesnium_ingot',
+        P: 'the_vault:gem_pog'
+    }).id('occultism:crafting/magic_lamp_empty')
+
     event.shaped(Item.of('occultism:sacrificial_bowl'),
         [
             'S S',
@@ -76,6 +141,17 @@ onEvent("recipes", event => {
         S: 'the_vault:perfect_black_opal',
         G: 'occultism:otherstone'
     }).id('occultism:crafting/sacrificial_bowl')
+
+    event.shaped(Item.of('occultism:candle_white'),
+        [
+            'S',
+            'T',
+            'M'
+        ], {
+        S: 'minecraft:string',
+        T: 'occultism:tallow',
+        M: 'the_vault:magic_silk'
+    }).id('occultism:crafting/candle_white')
 
     event.shapeless('occultism:chalk_red_impure', ['occultism:chalk_white_impure', 'occultism:afrit_essence', 'minecraft:blaze_powder', 'the_vault:perfect_painite']).id('occultism:crafting/chalk_red_impure')
     event.shapeless('occultism:chalk_gold_impure', ['occultism:chalk_white_impure', '#forge:dusts/gold', 'minecraft:glowstone_dust', 'the_vault:chromatic_gold_ingot']).id('occultism:crafting/chalk_gold_impure')
