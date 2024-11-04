@@ -26,24 +26,29 @@ let removedOutputsIFG = [
     'industrialforegoing:simple_black_hole_tank',
     'industrialforegoing:advanced_black_hole_tank',
     'industrialforegoing:supreme_black_hole_tank',
-    'industrialforegoing:range_addon0',
-    'industrialforegoing:range_addon1',
-    'industrialforegoing:range_addon2',
-    'industrialforegoing:range_addon3',
-    'industrialforegoing:range_addon4',
-    'industrialforegoing:range_addon5',
-    'industrialforegoing:range_addon6',
-    'industrialforegoing:range_addon7',
-    'industrialforegoing:range_addon8',
-    'industrialforegoing:range_addon9',
-    'industrialforegoing:range_addon10',
-    'industrialforegoing:range_addon11',
     'industrialforegoing:enchantment_factory'
 ];
 onEvent("recipes", event => {
     removedOutputsIFG.forEach(id => {
         event.remove({ 'output': `${id}` })
     })
+
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon0' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon1' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon3' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon4' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon5' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon6' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon7' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon8' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon9' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon10' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon11' })
+
+
+
+
 
     event.replaceInput(
         { mod: 'industrialforegoing' }, // Arg 1: the filter
