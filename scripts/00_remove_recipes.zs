@@ -1245,8 +1245,6 @@ JEI.hideIngredient(<item:the_vault:placeholder>);
 JEI.hideIngredient(<item:the_vault:bronze_scrap>);
 JEI.hideIngredient(<item:the_vault:elite_spawner>);
 JEI.hideIngredient(<item:the_vault:lodestone>);
-JEI.hideIngredient(<item:the_vault:memory_powder>);
-JEI.hideIngredient(<item:the_vault:memory_shard>);
 JEI.hideIngredient(<item:the_vault:crake_pedestal>);
 JEI.hideIngredient(<item:the_vault:crake_column>);
 JEI.hideIngredient(<item:the_vault:chunk_puffium>);

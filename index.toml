@@ -16766,7 +16766,7 @@ hash = "d0c6e74e68fba63049982c9b4353ebfd56bcc12d61049115768f76c7500d1efc"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/occultism/recipes.js"
-hash = "61ec48f9bd5b6546b4c66084ed9694403483f44893c2aad246ebc291f3bd4c05"
+hash = "aa882f06101b2d1952bfa1f7ac5c1c8c7271c35dee06c1ad0b44c037f93a9218"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/occultism/rituals.js"
