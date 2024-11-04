@@ -270,6 +270,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/immersiveengineering"
     },
+    "Occultism": {
+      "x": 300,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/occultism"
+    },
     "Waystones": {
       "x": 390,
       "y": 120,

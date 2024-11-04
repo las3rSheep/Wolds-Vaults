@@ -1,5 +1,20 @@
 {
   "descriptions": {
+    "Occultism": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Occultism",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nOccultism is a mod inspired by the world of Jonathan Stroud's Bartimaeus. \nWith the help of occult rituals you will summon spirits, also known as demons, from \"The Other Place\" to aid you in your adventures.\n"
+      },
+      {
+        "text": "You can perform rituals to summon Familiars and Demons to help you. Mine random ores using a dimensional mineshaft, and crush ores to massively increase the value of them!"
+      }
+    ],
     "Misc Bag Upgrades": [
       {
         "text": "Unlocks the "
