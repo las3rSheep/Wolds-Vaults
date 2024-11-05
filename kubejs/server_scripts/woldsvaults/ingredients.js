@@ -63,16 +63,16 @@ onEvent('recipes', event => {
         B: 'the_vault:extraordinary_alexandrite'
     }).id('woldsvaults:crystal_seal_doomsayer')
 
-    event.shaped(Item.of('the_vault:augment_box'),
-        [
-            'GXG',
-            'XRX',
-            'GXG'
-        ], {
-        G: 'the_vault:gem_larimar',
-        R: 'the_vault:vault_essence_1',
-        X: 'the_vault:augment'
-    }).id('woldsvaults:augment_box')
+    // event.shaped(Item.of('the_vault:augment_box'),
+    //     [
+    //         'GXG',
+    //         'XRX',
+    //         'GXG'
+    //     ], {
+    //     G: 'the_vault:gem_larimar',
+    //     R: 'the_vault:vault_essence_1',
+    //     X: 'the_vault:augment'
+    // }).id('woldsvaults:augment_box')
 
     event.shaped(Item.of('woldsvaults:inscription_box'),
         [

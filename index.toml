@@ -321,6 +321,10 @@ file = "config/the_vault/custom_entity_spawner.json"
 hash = "a3b8ee2e6c748fe2cb7254e254a0c0e16c30febf417cae0c90cbc583e64b9a9c"
 
 [[files]]
+file = "config/the_vault/custom_vault_recycler.json"
+hash = "a89b0c0b20367b4720efe3412f08b04aea767cf7da1e4057f93fa089cc7db79f"
+
+[[files]]
 file = "config/the_vault/difficulty_description.json"
 hash = "67188b9dcec4087628ff109cb21d2a757bcb0b600ab8185dac93ace2c557584f"
 
@@ -11390,7 +11394,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "3afc17ed63cd26c29dc80b61255dd15328cb3e3df4f7b96c9e6d6ad22ca6a372"
+hash = "48565a38391ae60adfc4a5ae7b2772c2d255dad8af04de7079d9b988eda72f79"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -11402,7 +11406,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "569a7995922102d5143001be2dcc71347c4deaa96ced62afad0023f95bde0ac4"
+hash = "44cb43531a3266f1e135a90747787ddd5082e610c2d8fc9eccd474f0c7340d52"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -16950,7 +16954,7 @@ hash = "8db07d3f52320510491d91677c3d644b06358affb777c89f7640b711576bed27"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/ingredients.js"
-hash = "34adbeaad88284fd539c579b83407020965cc7be446b69dffebdb3b13bd7f443"
+hash = "5b662b412da2a491ed62b1f054bb2e7d84a3d6f094b43aa4ad86709f076be554"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/reagents.js"
@@ -18833,7 +18837,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "f7abb3ccba7b5a5d2b3289998e34ac21b26585d411d2d75b3cc6dbd04a56fb9a"
+hash = "a46ae0f3580b4a2829f0f523533e97bfeca6c3cd6e87af352df7521380d7b144"
 metafile = true
 
 [[files]]
