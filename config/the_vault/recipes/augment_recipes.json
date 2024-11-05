@@ -1264,6 +1264,31 @@
                     "NBT": "{}"
                 }
             ]
+        },
+        {
+            "id": "the_vault:classic_vault_plastic",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:classic_vault_plastic\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 8,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 32,
+                    "ITEM": "minecraft:clay",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:memory_powder",
+                    "NBT": "{}"
+                }
+            ]
         }
     ]
 }
