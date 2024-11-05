@@ -18321,6 +18321,11 @@ hash = "5cb012931e3de85b07c1701fbcb55f89d226528bef66f65eb6ec23186f819cc7"
 metafile = true
 
 [[files]]
+file = "mods/overvaults.pw.toml"
+hash = "0742f5e687e3bfb885f8bdc4aac630c53ad9824b64d34d6d3035d2041c496873"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.pw.toml"
 hash = "06d79fa3f10fa02efdbcdaaf0455d97ac2e5147d3d00bf74ed01aee9b5cc7269"
 metafile = true
