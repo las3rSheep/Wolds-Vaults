@@ -1,6 +1,6 @@
 {
   "modifierGroup": {
-    "IMPLICIT": [
+    "BASE_ATTRIBUTES": [
       { "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",

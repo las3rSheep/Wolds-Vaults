@@ -260,6 +260,18 @@
           "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow"
         }
       },
+      "the_vault:more_souls": {
+        "properties": {
+          "chance": 0.25
+        },
+        "display": {
+          "name": "More Souls",
+          "color": "#9eff20",
+          "description": "+25% Soul Shard Quantity",
+          "descriptionFormatted": "+%d%% Soul Shard Quantity",
+          "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow"
+        }
+      },
       "the_vault:haunted": {
         "properties": {
           "chance": 0.5
@@ -281,6 +293,18 @@
           "color": "#6410A1",
           "description": "+100% Soul Shard Drop Rate",
           "descriptionFormatted": "+%d%% Soul Shards",
+          "icon": "the_vault:gui/modifiers/soul_shard_increase_pink"
+        }
+      },
+      "the_vault:abundant_souls": {
+        "properties": {
+          "chance": 2.5
+        },
+        "display": {
+          "name": "Abundant Souls",
+          "color": "#ffba00",
+          "description": "+250% Soul Shard Quantity",
+          "descriptionFormatted": "+%d%% Soul Shard Quantity",
           "icon": "the_vault:gui/modifiers/soul_shard_increase_pink"
         }
       },
@@ -614,6 +638,32 @@
       }
     },
     "the_vault:modifier_type/cast_on_kill": {
+      "the_vault:kill_nova": {
+        "properties": {
+          "filter": "",
+          "ability": "nova_explosion_8",
+          "probability": 0.5
+        },
+        "display": {
+          "name": "Nova Explosion",
+          "color": "#FFEA00",
+          "description": "When killing a mob it will have a chance of casting a level 8 Nova on their death",
+          "icon": "the_vault:gui/modifiers/kill_nuke"
+        }
+      },
+      "the_vault:kill_frostnova": {
+        "properties": {
+          "filter": "",
+          "ability": "nova_frost_8",
+          "probability": 0.5
+        },
+        "display": {
+          "name": "Frozen Explosion",
+          "color": "#FFEA00",
+          "description": "When killing a mob it will have a chance of casting a level 8 Frost Nova on their death",
+          "icon": "the_vault:gui/modifiers/kill_nuke"
+        }
+      },
       "the_vault:bingo_kill_nuke": {
         "properties": {
           "filter": "",
@@ -624,19 +674,6 @@
           "name": ":kill_nuke: Mini Nova",
           "color": "#FFEA00",
           "description": "When killing a mob it has a 5% chance to cast a level 8 Nova on their death",
-          "icon": "the_vault:gui/modifiers/kill_nuke"
-        }
-      },
-      "the_vault:kill_nuke": {
-        "properties": {
-          "filter": "",
-          "ability": "nova_explosion_8",
-          "probability": 1.0
-        },
-        "display": {
-          "name": ":kill_nuke: Nova Explosion",
-          "color": "#FFEA00",
-          "description": "When killing a mob it will cast a level 8 Nova on their death",
           "icon": "the_vault:gui/modifiers/kill_nuke"
         }
       },
@@ -679,16 +716,55 @@
           "icon": "the_vault:gui/modifiers/kill_hunter"
         }
       },
-      "the_vault:kill_totem": {
+      "the_vault:kill_totem_wrath": {
         "properties": {
           "filter": "",
-          "ability": "totem_hatred_8",
+          "ability": "totem_wrath_8",
           "probability": 0.05
         },
         "display": {
-          "name": ":kill_totem: Totemic",
+          "name": "Totemic",
           "color": "#FFEA00",
-          "description": "Mobs have a chance to spawn a Totem of Hatred on death",
+          "description": "Mobs have a chance to spawn a Wrath Totem Level 8 on death",
+          "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      },
+      "the_vault:kill_totem_hatred": {
+        "properties": {
+          "filter": "",
+          "ability": "totem_hatred_8",
+          "probability": 0.02
+        },
+        "display": {
+          "name": "Totemic",
+          "color": "#FFEA00",
+          "description": "Mobs have a chance to spawn a Hatred Totem Level 8 on death",
+          "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      },
+      "the_vault:kill_totem_spirit": {
+        "properties": {
+          "filter": "",
+          "ability": "totem_spirit_8",
+          "probability": 0.05
+        },
+        "display": {
+          "name": "Totemic",
+          "color": "#FFEA00",
+          "description": "Mobs have a chance to spawn a Spirit Totem Level 8 on death",
+          "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      },
+      "the_vault:kill_totem_rejuv": {
+        "properties": {
+          "filter": "",
+          "ability": "totem_rejuv_8",
+          "probability": 0.05
+        },
+        "display": {
+          "name": "Totemic",
+          "color": "#FFEA00",
+          "description": "Mobs have a chance to spawn a Rejuvenation Totem Level 8 on death",
           "icon": "the_vault:gui/modifiers/kill_totem"
         }
       }
@@ -716,6 +792,18 @@
           "name": ":item_quant_1: Affluent",
           "color": "#ffcc73",
           "description": "+25% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
+        }
+      },
+      "the_vault:fuller_chests": {
+        "properties": {
+          "percentage": 0.2
+        },
+        "display": {
+          "name": "Fuller Chests",
+          "color": "#9eff20",
+          "description": "+15% Item Quantity",
           "descriptionFormatted": "+%d%% Item Quantity",
           "icon": "the_vault:gui/modifiers/item_quant_2"
         }
@@ -887,6 +975,18 @@
           "name": ":cake: Sweet",
           "color": "#b3ff20",
           "description": "+1% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/lucky"
+        }
+      },
+      "the_vault:luckier_chests": {
+        "properties": {
+          "percentage": 0.2
+        },
+        "display": {
+          "name": "Luckier Chests",
+          "color": "#9eff20",
+          "description": "+20% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
           "icon": "the_vault:gui/modifiers/lucky"
         }
@@ -1204,6 +1304,20 @@
           "icon": "the_vault:gui/modifiers/furious_mobs"
         }
       },
+      "the_vault:weak_mobs_damage": {
+        "properties": {
+          "type": "attack_damage_additive_percentile",
+          "amount": -0.75,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Weak Mobs",
+          "color": "#da6d5a",
+          "description": "-75% Mob Damage",
+          "descriptionFormatted": "+%d%% Mob Damage",
+          "icon": "the_vault:gui/modifiers/furious_mobs"
+        }
+      },
       "the_vault:ruthless_mobs": {
         "properties": {
           "type": "attack_damage_additive_percentile",
@@ -1270,6 +1384,48 @@
           "name": ":rapid_mobs: Rapid Mobs",
           "color": "#f66868",
           "description": "+5% Mob Speed",
+          "descriptionFormatted": "+%d%% Mob Speed",
+          "icon": "the_vault:gui/modifiers/rapid_mobs"
+        }
+      },
+      "the_vault:glued_mobs": {
+        "properties": {
+          "type": "speed_additive_percentile",
+          "amount": -0.90,
+          "attributeStackingStrategy": "SET"
+        },
+        "display": {
+          "name": "Glued Mobs",
+          "color": "#f66868",
+          "description": "-90% Mob Speed",
+          "descriptionFormatted": "-%d%% Mob Speed",
+          "icon": "the_vault:gui/modifiers/glued_mobs"
+        }
+      },
+      "the_vault:faster_mobs": {
+        "properties": {
+          "type": "speed_additive_percentile",
+          "amount": 0.1,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Faster Mobs",
+          "color": "#bc2525",
+          "description": "+10% Mob Speed",
+          "descriptionFormatted": "+%d%% Mob Speed",
+          "icon": "the_vault:gui/modifiers/rapid_mobs"
+        }
+      },
+      "the_vault:brutal_faster_mobs": {
+        "properties": {
+          "type": "speed_additive_percentile",
+          "amount": 0.2,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Brutal Faster Mobs",
+          "color": "#f66868",
+          "description": "+10% Mob Speed",
           "descriptionFormatted": "+%d%% Mob Speed",
           "icon": "the_vault:gui/modifiers/rapid_mobs"
         }
@@ -1473,12 +1629,24 @@
     "the_vault:modifier_type/spawner_mobs": {
       "the_vault:mob_increase": {
         "properties": {
-          "increase": 0.2
+          "increase": 1.0
         },
         "display": {
           "name": ":mob_increase: Onslaught",
           "color": "#FC7C5C",
           "description": "+20% Mob Spawns",
+          "descriptionFormatted": "+%d%% increased amount of mob spawns",
+          "icon": "the_vault:gui/modifiers/mob_increase"
+        }
+      },
+      "the_vault:more_mobs": {
+        "properties": {
+          "increase": 0.25
+        },
+        "display": {
+          "name": "More Mobs",
+          "color": "#bc2525",
+          "description": "+25% Mob Spawns",
           "descriptionFormatted": "+%d%% increased amount of mob spawns",
           "icon": "the_vault:gui/modifiers/mob_increase"
         }
@@ -1689,6 +1857,34 @@
           "icon": "the_vault:gui/modifiers/god_token_idona"
         }
       },
+      "the_vault:kbres": {
+        "properties": {
+          "type": "knockback_resistance_additive",
+          "amount": 100.0,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Knockback Resistance",
+          "color": "#849dc8",
+          "description": "+100% Knockback Resistance",
+          "descriptionFormatted": "+%d%% Knockback Resistance",
+          "icon": "the_vault:gui/modifiers/draining"
+        }
+      },
+      "the_vault:durability_cap": {
+        "properties": {
+          "type": "durability_wear_reduction_cap",
+          "amount": 1.0,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Durability Cap",
+          "color": "#849dc8",
+          "description": "+100% Durability Cap",
+          "descriptionFormatted": "+%d%% Durability Cap",
+          "icon": "the_vault:gui/modifiers/reinforced"
+        }
+      },
       "the_vault:velara_favour_3": {
         "properties": {
           "type": "max_health_additive_percentile",
@@ -1704,6 +1900,23 @@
           "description": "+1% Max Health",
           "descriptionFormatted": "+%d%% Max Health",
           "icon": "the_vault:gui/modifiers/god_token_velara"
+        }
+      },
+      "the_vault:injured_percent": {
+        "properties": {
+          "type": "max_health_additive_percentile",
+          "amount": -0.1,
+          "attributeStackingStrategy": "STACK",
+          "reputation": {
+            "addendPerLevel": 0.01
+          }
+        },
+        "display": {
+          "name": "Injured",
+          "color": "#bc2525",
+          "description": "-10% Max Health",
+          "descriptionFormatted": "-%d%% Max Health",
+          "icon": "the_vault:gui/modifiers/injured"
         }
       },
       "the_vault:wendarr_favour_1": {
@@ -1831,6 +2044,18 @@
           "description": "-40% Durability Damage",
           "descriptionFormatted": "-%d%% Durability Damage",
           "icon": "the_vault:gui/modifiers/plated"
+        }
+      },
+      "the_vault:extra_reinforced": {
+        "properties": {
+          "durabilityDamageTakenMultiplier": 0.0
+        },
+        "display": {
+          "name": "Extra Reinforced",
+          "color": "#9550FF",
+          "description": "-100% Durability Damage",
+          "descriptionFormatted": "-%d%% Durability Damage",
+          "icon": "the_vault:gui/modifiers/reinforced"
         }
       }
     },
@@ -2436,6 +2661,19 @@
           "icon": "the_vault:gui/modifiers/trapped"
         }
       },
+      "the_vault:more_traps": {
+        "properties": {
+          "stat": "trap_disarm_chance",
+          "addend": -0.5
+        },
+        "display": {
+          "name": "More Traps",
+          "color": "#bc2525",
+          "description": "Increases chance of trapped chests and lowers your trap disarm",
+          "descriptionFormatted": "%d%% Trap Disarm",
+          "icon": "the_vault:gui/modifiers/trapped"
+        }
+      },
       "the_vault:rigged": {
         "properties": {
           "stat": "trap_disarm_chance",
@@ -2458,6 +2696,32 @@
           "name": ":inert: Inert",
           "color": "#6DACB5",
           "description": "-10% Cooldown Reduction",
+          "descriptionFormatted": "%d%% Cooldown Reduction",
+          "icon": "the_vault:gui/modifiers/inert"
+        }
+      },
+      "the_vault:cooldown_reduction": {
+        "properties": {
+          "stat": "cooldown_reduction",
+          "addend": 0.8
+        },
+        "display": {
+          "name": "CDR",
+          "color": "#6DACB5",
+          "description": "+80% Cooldown Reduction",
+          "descriptionFormatted": "%d%% Cooldown Reduction",
+          "icon": "the_vault:gui/modifiers/inert"
+        }
+      },
+      "the_vault:cooldown_down": {
+        "properties": {
+          "stat": "cooldown_reduction",
+          "addend": 0.2
+        },
+        "display": {
+          "name": "Cooldown Reduction",
+          "color": "#6DACB5",
+          "description": "+20% Cooldown Reduction",
           "descriptionFormatted": "%d%% Cooldown Reduction",
           "icon": "the_vault:gui/modifiers/inert"
         }
@@ -2514,6 +2778,19 @@
           "icon": "the_vault:gui/modifiers/vulnerable"
         }
       },
+      "the_vault:tanky": {
+        "properties": {
+          "stat": "resistance",
+          "addend": 0.5
+        },
+        "display": {
+          "name": "Tanky",
+          "color": "#CA9A5B",
+          "description": "+50% Resistance",
+          "descriptionFormatted": "%d%% Resistance",
+          "icon": "the_vault:gui/modifiers/vulnerable"
+        }
+      },
       "the_vault:dangerous": {
         "properties": {
           "stat": "resistance",
@@ -2553,6 +2830,19 @@
           "icon": "the_vault:gui/modifiers/rich"
         }
       },
+      "the_vault:richer_ores": {
+        "properties": {
+          "stat": "copiously",
+          "addend": 0.2
+        },
+        "display": {
+          "name": "Richer Ores",
+          "color": "#9eff20",
+          "description": "+15% Copiously",
+          "descriptionFormatted": "+%d%% Copiously",
+          "icon": "the_vault:gui/modifiers/rich"
+        }
+      },
       "the_vault:orematic": {
         "properties": {
           "stat": "copiously",
@@ -2564,6 +2854,19 @@
           "description": "+25% Copiously",
           "descriptionFormatted": "%d%% Copiously",
           "icon": "the_vault:gui/modifiers/orematic"
+        }
+      },
+      "the_vault:opulent_ores": {
+        "properties": {
+          "stat": "copiously",
+          "addend": 0.5
+        },
+        "display": {
+          "name": "Opulent Ores",
+          "color": "#ffba00",
+          "description": "+50% Copiously",
+          "descriptionFormatted": "%d%% Copiously",
+          "icon": "the_vault:gui/modifiers/rich"
         }
       },
       "the_vault:leeching": {
@@ -2676,6 +2979,20 @@
           "descriptionFormatted": "+50% Ability Power",
           "icon": "the_vault:gui/modifiers/god_token_idona"
         }
+      },
+      "the_vault:durability_reduction": {
+        "properties": {
+          "type": "durability_wear_reduction",
+          "amount": 1.0,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Durability Reduction",
+          "color": "#FF5555",
+          "description": "+100% Durability Reduction",
+          "descriptionFormatted": "+100% Durability Reduction",
+          "icon": "the_vault:gui/modifiers/reinforced"
+        }
       }
     },
     "the_vault:modifier_type/vault_level": {
@@ -2779,6 +3096,18 @@
           "name": ":stopwatch: Shortened",
           "color": "#2F86AE",
           "description": "-1 minute Vault Time",
+          "descriptionFormatted": "-%d minutes Vault Time",
+          "icon": "the_vault:gui/modifiers/rush"
+        }
+      },
+      "the_vault:companion_shortened": {
+        "properties": {
+          "timeAddedTicks": -3000
+        },
+        "display": {
+          "name": "Shortened",
+          "color": "#2F86AE",
+          "description": "-2.5 minute Vault Time",
           "descriptionFormatted": "-%d minutes Vault Time",
           "icon": "the_vault:gui/modifiers/rush"
         }
@@ -2900,6 +3229,18 @@
           "name": ":xporb: Accustomed",
           "color": "#DB7C00",
           "description": "+20% Vault Experience",
+          "descriptionFormatted": "+%d%% Vault Experience",
+          "icon": "the_vault:gui/modifiers/experienced"
+        }
+      },
+      "the_vault:more_experience": {
+        "properties": {
+          "addend": 0.15
+        },
+        "display": {
+          "name": "More Experience",
+          "color": "#9eff20",
+          "description": "+15% Vault Experience",
           "descriptionFormatted": "+%d%% Vault Experience",
           "icon": "the_vault:gui/modifiers/experienced"
         }
@@ -3352,7 +3693,7 @@
       },
       "the_vault:champion_paradox": {
         "properties": {
-          "chance": 0.02
+          "chance": 0.05
         },
         "display": {
           "name": ":champion_increase: More Champions",
@@ -3519,6 +3860,20 @@
           "color": "#546E7A",
           "description": "Every Cursed BINGO adds 10% item rarity and quantity, 25% soul chance, and adds a stack of Cursed! to the vault.",
           "icon": "the_vault:gui/modifiers/bingo"
+        }
+      },
+      "the_vault:rock_solid": {
+        "properties": {
+          "children": {
+            "the_vault:kbres": 1,
+            "the_vault:tanky": 1
+          }
+        },
+        "display": {
+          "name": "Rock Solid",
+          "color": "#e6dfc6",
+          "description": "+50% Resistance and +100% Knockback Resistance",
+          "icon": "the_vault:gui/modifiers/rock_solid"
         }
       },
       "the_vault:spooky_bingo": {
@@ -3745,6 +4100,36 @@
           "icon": "the_vault:gui/modifiers/door_hunter"
         }
       },
+      "the_vault:kill_nuke": {
+        "properties": {
+          "children": {
+            "the_vault:kill_nova": 1,
+            "the_vault:kill_frostnova": 1
+          }
+        },
+        "display": {
+          "name": "Nova Explosion",
+          "color": "#bbf333",
+          "description": "Killing a mob will have a high chance of casting a Nova and/or a Frost Nova on its death.",
+          "icon": "the_vault:gui/modifiers/kill_nuke"
+        }
+      },
+      "the_vault:kill_totem": {
+        "properties": {
+          "children": {
+            "the_vault:kill_totem_hatred": 1,
+            "the_vault:kill_totem_wrath": 1,
+            "the_vault:kill_totem_spirit": 1,
+            "the_vault:kill_totem_rejuv": 1
+          }
+        },
+        "display": {
+          "name": "Totemic",
+          "color": "#FFEA00",
+          "description": "Killing a mob has a chance of spawning a random Totem",
+          "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      },
       "the_vault:herald": {
         "properties": {
           "children": {
@@ -3758,6 +4143,19 @@
           "color": "#ad2b2b",
           "description": "Dying in this vault does not cause you any item loss, and this vault is of course locked.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
+        }
+      },
+      "the_vault:companion_curse": {
+        "properties": {
+          "children": {
+            "the_vault:companion_shortened": 1
+          }
+        },
+        "display": {
+          "name": "Companion's Curse",
+          "color": "#ad2b2b",
+          "description": "Lowers the vault time with 2.5 minutes",
+          "icon": "the_vault:gui/modifiers/curse_voidpools"
         }
       },
       "the_vault:potion_drink": {
@@ -3788,6 +4186,22 @@
           "color": "#ba0000",
           "description": "Increases mob damage, mob health by 20% per stack, increases mob speed by 3.0% per stack, adds 7.5% critical chance to mobs per stack.",
           "icon": "the_vault:gui/modifiers/companion_challenge"
+        }
+      },
+      "the_vault:challenge_stack": {
+        "properties": {
+          "children": {
+            "the_vault:furious_mobs": 1,
+            "the_vault:chunky_mobs": 1,
+            "the_vault:cake_layer_mobspeed": 1,
+            "the_vault:cake_mob_increase": 1
+          }
+        },
+        "display": {
+          "name": "Challenge Stack",
+          "color": "#ba0000",
+          "description": "Increases mob damage, mob health and mob spawns by 10% per stack, increases mob speed by 1.5% per stack",
+          "icon": "the_vault:gui/modifiers/challenging"
         }
       },
       "the_vault:companion_challenge": {
@@ -4063,6 +4477,21 @@
           "icon": "the_vault:gui/modifiers/plunderer"
         }
       },
+      "the_vault:raid": {
+        "properties": {
+          "children": {
+            "the_vault:rotten": 1,
+            "the_vault:extra_reinforced": 1,
+            "the_vault:durability_cap": 1
+          }
+        },
+        "display": {
+          "name": "Raid",
+          "color": "#d89e01",
+          "description": "No Vault Fruit can be used, and you take no durability damage.",
+          "icon": "the_vault:gui/modifiers/raid"
+        }
+      },
       "the_vault:wendarr_favour": {
         "properties": {
           "children": {
@@ -4075,6 +4504,20 @@
           "color": "#d89e01",
           "description": "+100% Mana Regeneration & +50% Cooldown Reduction",
           "icon": "the_vault:gui/modifiers/god_token_wendarr"
+        }
+      },
+      "the_vault:incredible_chests": {
+        "properties": {
+          "children": {
+            "the_vault:hoard": 1,
+            "the_vault:treasure": 1
+          }
+        },
+        "display": {
+          "name": "Incredible Chests",
+          "color": "#ffba00",
+          "description": "+50% Item Quantity and +100% Item Rarity",
+          "icon": "the_vault:gui/modifiers/loot_goblin"
         }
       },
       "the_vault:idona_dmg": {
@@ -5219,6 +5662,20 @@
           "icon": "the_vault:gui/modifiers/chunky"
         }
       },
+      "the_vault:ethereal_mobs": {
+        "properties": {
+          "filter": "",
+          "effect": "the_vault:immortality",
+          "amplifier": 0,
+          "chance": 0.05
+        },
+        "display": {
+          "name": "Ethereal Mobs",
+          "color": "#631F1F",
+          "description": "Mobs in this vault can spawn in as ethereal, being immune to any damage.",
+          "icon": "the_vault:gui/modifiers/haunted"
+        }
+      },
       "the_vault:ethereal": {
         "properties": {
           "filter": "",
@@ -5603,6 +6060,39 @@
           "description": "+20% Poopsie Daisies, Whoopsie Walls and Fumbly Floors",
           "descriptionFormatted": "+%d%% Poopsie Daisies, Whoopsie Walls and Fumbly Floors",
           "icon": "the_vault:gui/modifiers/curse_wrecked"
+        }
+      },
+      "the_vault:peaceful": {
+        "properties": {
+          "probability": 1.0,
+          "whitelist": [
+            "ispawner:spawner"
+          ],
+          "fullBlock": [
+            {
+              "type": "weighted_target",
+              "target": "",
+              "output": {
+                "minecraft:air": 1
+              }
+            }
+          ],
+          "partialBlock": [
+            {
+              "type": "weighted_target",
+              "target": "",
+              "output": {
+                "minecraft:air": 1
+              }
+            }
+          ]
+        },
+        "display": {
+          "name": "Peaceful",
+          "color": "#EBFF8D",
+          "description": "No Mobs spawn in this vault",
+          "descriptionFormatted": "No Mobs spawn in this vault",
+          "icon": "the_vault:gui/modifiers/personalspace"
         }
       }
     }

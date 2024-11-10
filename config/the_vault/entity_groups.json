@@ -80,7 +80,8 @@
       "@the_vault:fighter",
       "@the_vault:horde",
       "@the_vault:tank",
-      "@the_vault:assassin"
+      "@the_vault:assassin",
+      "@the_vault:guardians"
     ],
     "the_vault:mob_type/nether": [
       "@the_vault:piglin",
@@ -106,6 +107,22 @@
     ],
     "the_vault:mob_type/horde": [
       "@the_vault:horde"
+    ],
+    "the_vault:mob_type/creeper": [
+      "minecraft:creeper",
+      "the_vault:t1_creeper",
+      "the_vault:t2_creeper",
+      "the_vault:t3_creeper"
+    ],
+    "the_vault:mob_type/dogs": [
+      "quark:foxhound",
+      "the_vault:winter_wolf"
+    ],
+    "the_vault:mob_type/polar_bears": [
+      "minecraft:polar_bear"
+    ],
+    "the_vault:mob_type/evil_rabbit": [
+      "minecraft:rabbit"
     ],
     "the_vault:horde": [
       "minecraft:husk",
@@ -140,7 +157,11 @@
       "the_vault:vault_yellow_gummy_soldier",
       "the_vault:deep_dark_skeleton",
       "the_vault:deep_dark_zombie",
-      "grimoireofgaia:goblin_feral"
+      "the_vault:blood_horde_t1",
+      "the_vault:blood_horde_t2",
+      "the_vault:blood_horde_t3",
+      "the_vault:blood_horde_t4",
+      "the_vault:blood_horde_t5"
     ],
     "the_vault:assassin": [
       "the_vault:deep_dark_silverfish",
@@ -206,6 +227,7 @@
       "rottencreatures:dead_beard",
       "rottencreatures:mummy",
       "rottencreatures:glacial_hunter",
+      "the_vault:blood_tank",
       "tropicraft:eih",
       "grimoireofgaia:cobble_golem",
       "grimoireofgaia:cobblestone_golem",
@@ -257,6 +279,24 @@
       "the_vault:dungeon_pillager",
       "the_vault:dungeon_vindicator",
       "the_vault:dungeon_skeleton"
+    ],
+    "the_vault:illagers": [
+      "minecraft:vindicator",
+      "minecraft:ravager",
+      "minecraft:vex",
+      "minecraft:pillager",
+      "minecraft:evoker",
+      "the_vault:healer"
+    ],
+    "the_vault:guardians": [
+      "the_vault:bruiser_guardian",
+      "the_vault:arbalist_guardian",
+      "the_vault:pirate_bruiser_guardian",
+      "the_vault:pirate_arbalist_guardian",
+      "the_vault:crystal_bruiser_guardian",
+      "the_vault:crystal_arbalist_guardian",
+      "the_vault:butcher_bruiser_guardian",
+      "the_vault:butcher_arbalist_guardian"
     ]
   }
 }

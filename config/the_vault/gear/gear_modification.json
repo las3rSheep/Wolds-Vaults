@@ -24,7 +24,7 @@
       "baseCostMultiplier": 2.0,
       "negativePotentialCostMultiplier": 4.0
     },
-    "the_vault:reforge_repairs": {
+    "the_vault:reforge_base_durability": {
       "potentialUseMin": 10,
       "potentialUseMax": 20,
       "baseCostMultiplier": 1.3,

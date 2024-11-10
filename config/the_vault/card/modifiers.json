@@ -560,8 +560,8 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.01,
-          "max": 0.01,
+          "min": 0.02,
+          "max": 0.02,
           "step": 0.01,
           "tier": 1
         },
