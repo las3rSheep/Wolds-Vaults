@@ -353,26 +353,9 @@
               }
             },
             {
-              "weight": 30,
+              "weight": 15,
               "item": {
-                "id": "the_vault:jewel",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "jewel_high"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
-              "weight": 40,
-              "item": {
-                "id": "the_vault:jewel",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "jewel_normal"
-                },
+                "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
