@@ -410,8 +410,8 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:jewel",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+              "item": "the_vault:jewel_pouch",
+              "nbt": "{}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 8,
@@ -1035,8 +1035,8 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:jewel",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+              "item": "the_vault:jewel_pouch",
+              "nbt": "{}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 8,
@@ -1789,8 +1789,8 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:jewel",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+              "item": "the_vault:jewel_pouch",
+              "nbt": "{}"
             },
             "CURRENCY": "the_vault:vault_gold",
             "MIN_COST": 8,

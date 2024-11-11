@@ -505,6 +505,8 @@ Updated for Version 3.14.3 */
 <tag:items:the_vault:fruits>.add(<item:the_vault:star_fruit>);
 <tag:items:the_vault:fruits>.add(<item:woldsvaults:hasty_pomegranate>);
 <tag:items:the_vault:fruits>.add(<item:woldsvaults:wisdom_fruit>);
+<tag:items:the_vault:fruits>.add(<item:woldsvaults:poltergeist_plum>);
+<tag:items:the_vault:fruits>.add(<item:the_vault:mystic_pear>);
 
 // Vault Altar Resource Pool
 <tag:items:the_vault:vault_altar_resource>.add(<item:minecraft:acacia_log>);

@@ -560,8 +560,8 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.02,
-          "max": 0.02,
+          "min": 0.01,
+          "max": 0.01,
           "step": 0.01,
           "tier": 1
         },
@@ -3473,7 +3473,7 @@
           }
         }
       ],
-      "task": "@default",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -3560,7 +3560,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -3608,7 +3608,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -3704,7 +3704,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -3752,7 +3752,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -3800,7 +3800,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4328,7 +4328,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -4376,7 +4376,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4424,7 +4424,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4472,7 +4472,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4520,7 +4520,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4568,7 +4568,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -4808,7 +4808,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,

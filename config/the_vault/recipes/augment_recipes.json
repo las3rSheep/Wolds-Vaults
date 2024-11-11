@@ -676,6 +676,71 @@
             ]
         },
         {
+            "id": "the_vault:classic_vault_blood",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:classic_vault_blood\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 20,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 96,
+                    "ITEM": "twigs:bloodstone",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:pog_prism",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 6,
+                    "ITEM": "the_vault:memory_shard",
+                    "NBT": "{}"
+                }
+            ]
+        },
+        {
+            "id": "the_vault:classic_vault_blood_ash",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:classic_vault_blood_ash\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 20,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 96,
+                    "ITEM": "twigs:bloodstone",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 64,
+                    "ITEM": "the_vault:soot",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:pog_prism",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 6,
+                    "ITEM": "the_vault:memory_shard",
+                    "NBT": "{}"
+                }
+            ]
+        },
+        {
             "id": "the_vault:classic_vault_nether_crimson",
             "output": {
                 "AMOUNT": 1,
@@ -1279,8 +1344,38 @@
                     "NBT": "{}"
                 },
                 {
+                    "AMOUNT": 64,
+                    "ITEM": "auxiliaryblocks:plastic",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:memory_powder",
+                    "NBT": "{}"
+                }
+            ]
+        },
+        {
+            "id": "the_vault:classic_vault_aurora_cave",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:classic_vault_aurora_cave\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 10,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
                     "AMOUNT": 32,
-                    "ITEM": "minecraft:clay",
+                    "ITEM": "minecraft:snow_block",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 8,
+                    "ITEM": "minecraft:amethyst_block",
                     "NBT": "{}"
                 },
                 {

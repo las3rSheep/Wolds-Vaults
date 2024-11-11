@@ -66,7 +66,7 @@
         "{FullName: \"Dragon Room\", RoomReference: \"the_vault:vault/rooms/challenge/dragon\"}": 1,
         "{FullName: \"Factory Room\", RoomReference: \"the_vault:vault/rooms/challenge/factory\"}": 1,
         "{FullName: \"Village Room\", RoomReference: \"the_vault:vault/rooms/challenge/village\"}": 1,
-        "{FullName: \"Wild West Room\", RoomReference: \"the_vault:vault/rooms/challenge/wildwest\"}": 1,
+        "{FullName: \"Wild West Room\", RoomReference: \"the_vault:vault/rooms/challenge/wildwest\"}": 0,
         "{FullName: \"X-Mark Room\", RoomReference: \"the_vault:vault/rooms/challenge/x-mark\"}": 1,
         "{FullName: \"Pirate Cave Room\", RoomReference: \"the_vault:vault/rooms/challenge/pirate_cave\"}": 1
       }

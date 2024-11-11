@@ -1,6 +1,7 @@
 {
     "trades": [
-        { "minLevel": 0,
+        {
+            "minLevel": 0,
             "shardTrades": [
                 {
                     "value": {
@@ -125,6 +126,30 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "the_vault:trident",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 700,
+                        "maxPrice": 1200
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:battlestaff",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 700,
+                        "maxPrice": 1200
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:jewel_pouch",
                             "AMOUNT": 1
                         },
@@ -195,7 +220,8 @@
                 }
             ]
         },
-        { "minLevel": 20,
+        {
+            "minLevel": 20,
             "shardTrades": [
                 {
                     "value": {
@@ -475,6 +501,30 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "the_vault:trident",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1000,
+                        "maxPrice": 1600
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:battlestaff",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1000,
+                        "maxPrice": 1600
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:artifact_fragment",
                             "AMOUNT": 1,
                             "NBT": "{}"
@@ -546,7 +596,8 @@
                 }
             ]
         },
-        { "minLevel": 50,
+        {
+            "minLevel": 50,
             "shardTrades": [
                 {
                     "value": {
@@ -834,6 +885,54 @@
                         "maxPrice": 2800
                     },
                     "weight": 26
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:trident",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:battlestaff",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:plushie",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:loot_sack",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
                 },
                 {
                     "value": {
@@ -1029,7 +1128,8 @@
                 }
             ]
         },
-        { "minLevel": 75,
+        {
+            "minLevel": 75,
             "shardTrades": [
                 {
                     "value": {
@@ -1104,16 +1204,16 @@
                     "weight": 2
                 },
                 {
-                  "value": {
-                      "item": {
-                          "ITEM": "the_vault:modifier_scroll",
-                          "AMOUNT": 1,
-                          "NBT": "{}"
-                      },
-                      "minPrice": 3000,
-                      "maxPrice": 6000
-                  },
-                  "weight": 2
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:modifier_scroll",
+                            "AMOUNT": 1,
+                            "NBT": "{}"
+                        },
+                        "minPrice": 3000,
+                        "maxPrice": 6000
+                    },
+                    "weight": 2
                 },
                 {
                     "value": {
@@ -1346,6 +1446,54 @@
                     "value": {
                         "item": {
                             "ITEM": "the_vault:magnet",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:trident",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:battlestaff",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:plushie",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
+                        },
+                        "minPrice": 1600,
+                        "maxPrice": 2800
+                    },
+                    "weight": 24
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:loot_sack",
                             "AMOUNT": 1,
                             "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket_omega\",\"the_vault:is_loot\":\"true\"}"
                         },
