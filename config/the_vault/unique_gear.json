@@ -11,9 +11,7 @@
           "the_vault:base_armor",
           "the_vault:base_lucky_hit_chance"
         ],
-        "PREFIX": [
-          
-        ],
+        "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_item_rarity",
           "the_vault:jester_lucky_hit"
@@ -26,7 +24,6 @@
       "name": "The Castle",
       "model": "the_vault:gear/armor/castle/chestplate",
       "modifierIdentifiers": {
-
         "BASE_ATTRIBUTE": [
           "the_vault:base_durability"
         ],
@@ -62,8 +59,7 @@
           "the_vault:mod_health",
           "the_vault:mod_health"
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 10
@@ -81,7 +77,6 @@
         ],
         "PREFIX": [
           "the_vault:mod_ap"
-          
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen",
@@ -98,8 +93,7 @@
         "BASE_ATTRIBUTE": [
           "the_vault:base_durability"
         ],
-        "IMPLICIT": [
-        ],
+        "IMPLICIT": [],
         "PREFIX": [
           "the_vault:mod_fear"
         ],
@@ -110,9 +104,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:crashguards": {
       "name": "Crashguards",
       "model": "the_vault:gear/armor/crashguards/leggings",
@@ -128,7 +119,6 @@
           "the_vault:u_mod_armor",
           "the_vault:mod_resistance",
           "the_vault:u_knockback_resistance"
-
         ],
         "SUFFIX": [
           "the_vault:mod_kinetic_immunity",
@@ -138,7 +128,20 @@
       "modifierTags": [],
       "weight": 1
     },
-
+    "woldsvaults:eternal_stella": {
+      "name": "Eternal Stella",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size_stella"
+        ],
+        "PREFIX": [
+          "the_vault:u_immortality"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:kaleidoscope": {
       "name": "Kaleidoscope",
       "modifierIdentifiers": {
@@ -151,10 +154,8 @@
           "the_vault:u_gilded_affinity",
           "the_vault:u_ornate_affinity",
           "the_vault:u_living_affinity"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -167,10 +168,8 @@
         ],
         "PREFIX": [
           "the_vault:u_mana_looting"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -185,19 +184,12 @@
           "the_vault:u_picking",
           "the_vault:u_axing",
           "the_vault:u_shovelling"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
     },
-
-
-
-
-
     "the_vault:inflated_justice": {
       "name": "Inflated Justice",
       "model": "the_vault:gear/sword/inflatedjustice",
@@ -212,7 +204,6 @@
         "PREFIX": [
           "the_vault:mod_attack_damage",
           "the_vault:mod_damage_baby"
-          
         ],
         "SUFFIX": [
           "the_vault:u_on_hit_aoe"
@@ -221,9 +212,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:frozen_orb": {
       "name": "Frozen Orb",
       "model": "the_vault:gear/focus/frozenorb",
@@ -232,7 +220,6 @@
           "the_vault:offhand_base_durability"
         ],
         "IMPLICIT": [
-          
           "the_vault:base_offhand_mana_additive"
         ],
         "PREFIX": [
@@ -246,8 +233,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
     "the_vault:stormcrown": {
       "name": "Stormcrown",
       "model": "the_vault:gear/armor/stormcrown/helmet",
@@ -262,7 +247,6 @@
           "the_vault:unique_storm_arrow_level",
           "the_vault:storm_aoe_reduce",
           "the_vault:storm_cooldown"
-          
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen"
@@ -271,8 +255,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
     "the_vault:inferno_reach": {
       "name": "Inferno's Reach",
       "model": "the_vault:gear/wand/infernos_reach",
@@ -284,7 +266,6 @@
           "the_vault:base_ap"
         ],
         "PREFIX": [
-          
           "the_vault:mod_ability_increase",
           "the_vault:mod_added_ability_level_fireball"
         ],
@@ -292,7 +273,6 @@
           "the_vault:fireball_aoe_increase",
           "the_vault:mod_cooldown_reduction",
           "the_vault:unique_area_of_effect"
-          
         ]
       },
       "modifierTags": [],
@@ -309,14 +289,12 @@
           "the_vault:base_armor"
         ],
         "PREFIX": [
-          
           "the_vault:mod_jav_scatter",
           "the_vault:mod_damage_increase"
         ],
         "SUFFIX": [
           "the_vault:mod_cooldown_reduction",
           "the_vault:mod_mana_regen"
-          
         ]
       },
       "modifierTags": [],
@@ -333,14 +311,12 @@
           "the_vault:base_armor"
         ],
         "PREFIX": [
-          
           "the_vault:u_movement",
           "the_vault:u_knockback_resistance"
         ],
         "SUFFIX": [
           "the_vault:u_effect_avoidance",
           "the_vault:mod_mana_regen"
-          
         ]
       },
       "modifierTags": [],
@@ -353,13 +329,10 @@
         "BASE_ATTRIBUTE": [
           "the_vault:base_durability"
         ],
-        "IMPLICIT": [
-        ],
-        "PREFIX": [
-        ],
+        "IMPLICIT": [],
+        "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_saturation"
-          
         ]
       },
       "modifierTags": [],
@@ -375,12 +348,8 @@
         "IMPLICIT": [
           "the_vault:u_chaining"
         ],
-        "PREFIX": [
-        ],
-        "SUFFIX": [
-          
-          
-        ]
+        "PREFIX": [],
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -402,7 +371,6 @@
         "SUFFIX": [
           "the_vault:mod_attack_range",
           "the_vault:mod_attack_speed_percent"
-          
         ]
       },
       "modifierTags": [],
@@ -415,23 +383,17 @@
         "BASE_ATTRIBUTE": [
           "the_vault:base_durability"
         ],
-        "IMPLICIT": [
-        ],
+        "IMPLICIT": [],
         "PREFIX": [
           "the_vault:u_knockback_resistance"
         ],
         "SUFFIX": [
           "the_vault:unique_entropic_poison"
-          
         ]
       },
       "modifierTags": [],
       "weight": 1
     }
-
-
-
-
   },
   "pools": {
     "the_vault:default_or": {
@@ -485,6 +447,9 @@
     },
     "the_vault:manabloom": {
       "the_vault:manabloom": 1
+    },
+    "woldsvaults:eternal_stella": {
+      "woldsvaults:eternal_stella": 1
     },
     "the_vault:crashguards": {
       "the_vault:crashguards": 1
