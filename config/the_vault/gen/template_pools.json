@@ -6,6 +6,26 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/empty.json"
     },
     {
+      "id": "the_vault:autumn_cherry_grove_rooms",
+      "name": "Autumn Cherry Grove Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/autumn_cherry_grove_rooms.json"
+    },
+    {
+      "id": "the_vault:autumn_cherry_grove_common_rooms",
+      "name": "Autumn Cherry Grove Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/autumn_cherry_grove_common_rooms.json"
+    },
+    {
+      "id": "the_vault:autumn_cherry_grove_starts",
+      "name": "Autumn Cherry Grove Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/autumn_cherry_grove_starts.json"
+    },
+    {
+      "id": "the_vault:autumn_cherry_grove_tunnels",
+      "name": "Autumn Cherry Grove Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/autumn_cherry_grove_tunnels.json"
+    },
+    {
       "id": "the_vault:vault/rooms/plastic_rooms",
       "name": "Plastic Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_rooms.json"

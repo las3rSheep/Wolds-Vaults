@@ -1384,6 +1384,31 @@
                     "NBT": "{}"
                 }
             ]
+        },
+        {
+            "id": "the_vault:skaia_vault_autumn_cherry_grove",
+            "output": {
+                "AMOUNT": 1,
+                "ITEM": "the_vault:augment",
+                "NBT": "{theme:\"the_vault:skaia_vault_autumn_cherry_grove\"}"
+            },
+            "inputs": [
+                {
+                    "AMOUNT": 8,
+                    "ITEM": "woldsvaults:augment_piece",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 16,
+                    "ITEM": "quark:paper_lantern",
+                    "NBT": "{}"
+                },
+                {
+                    "AMOUNT": 4,
+                    "ITEM": "the_vault:memory_powder",
+                    "NBT": "{}"
+                }
+            ]
         }
     ]
 }

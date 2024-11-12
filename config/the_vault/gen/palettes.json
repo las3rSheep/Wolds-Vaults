@@ -1,6 +1,11 @@
 {
   "keys": [
     {
+      "id": "the_vault:universal_autumn_cherry_grove",
+      "name": "Universal Autumn Cherry Grove",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_autumn_cherry_grove.json"
+    },
+    {
       "id": "the_vault:universal_plastic",
       "name": "Universal Plastic",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_plastic.json"
@@ -625,7 +630,7 @@
       "name": "Factory Base",
       "1.0": "config/the_vault/gen/1.0/palettes/factory/base.json"
     },
-      {
+    {
       "id": "the_vault:hellish_digsite/base",
       "name": "Hellish Digsite Base",
       "1.0": "config/the_vault/gen/1.0/palettes/hellish_digsite/base.json"
@@ -2480,7 +2485,7 @@
       "name": "Secret Room Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/secret_room_placeholder.json"
     },
-        {
+    {
       "id": "the_vault:special/boss/base",
       "name": "Boss",
       "1.0": "config/the_vault/gen/1.0/palettes/special/boss/base.json"
