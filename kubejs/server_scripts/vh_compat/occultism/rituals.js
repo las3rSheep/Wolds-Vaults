@@ -139,7 +139,7 @@ onEvent("recipes", event => {
                 "item": "the_vault:vault_diamond"
             },
             {
-                "item": "the_vault:chromatic_steel_ingot"
+                "item": "the_vault:wutodic_silver_ingot"
             },
             {
                 "tag": "forge:ingots/silver"
@@ -719,7 +719,7 @@ onEvent("recipes", event => {
                 "item": "the_vault:chromatic_gold_ingot"
             },
             {
-                "item": "the_vault:chromatic_steel_ingot"
+                "item": "the_vault:wutodic_silver_ingot"
             },
             {
                 "item": "minecraft:furnace"

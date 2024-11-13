@@ -5342,6 +5342,36 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:capstone_pylon_hunter"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:capstone_vendoor_hunter"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:capstone_peaceful"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:bitter_lemon"
                 },
                 "minCount": 1,

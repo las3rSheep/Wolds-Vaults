@@ -167,7 +167,18 @@
             {
               "weight": 16,
               "item": {
-                "id": "woldsvaults:capstone_vendoors",
+                "id": "the_vault:capstone_vendoor_hunter",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:capstone_pylon_hunter",
                 "count": {
                   "type": "uniform",
                   "min": 1,

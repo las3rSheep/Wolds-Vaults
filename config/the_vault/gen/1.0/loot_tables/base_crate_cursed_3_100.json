@@ -727,7 +727,7 @@
             {
               "weight": 6,
               "item": {
-                "id": "woldsvaults:capstone_vendoors",
+                "id": "the_vault:capstone_vendoor_hunter",
                 "count": {
                   "type": "uniform",
                   "min": 1,

@@ -119,7 +119,7 @@ onEvent("recipes", event => {
         ], {
         I: '#forge:ingots/silver',
         S: 'occultism:otherstone',
-        X: 'the_vault:chromatic_steel_ingot'
+        X: 'the_vault:wutodic_silver_ingot'
     }).id('occultism:crafting/lens_frame')
 
     event.shaped(Item.of('occultism:magic_lamp_empty'),
@@ -128,7 +128,7 @@ onEvent("recipes", event => {
             'IXI',
             ' II'
         ], {
-        I: '#forge:ingots/silver',
+        I: 'the_vault:wutodic_silver_ingot',
         X: 'occultism:iesnium_ingot',
         P: 'the_vault:gem_pog'
     }).id('occultism:crafting/magic_lamp_empty')

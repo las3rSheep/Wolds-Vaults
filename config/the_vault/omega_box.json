@@ -20,6 +20,15 @@
     },
     {
       "value": {
+        "id": "the_vault:capstone_peaceful",
+        "nbt": "{}",
+        "amountMin": 2,
+        "amountMax": 3
+      },
+      "weight": 8
+    },
+    {
+      "value": {
         "id": "the_vault:spicy_hearty_burger",
         "nbt": "{}",
         "amountMin": 4,
