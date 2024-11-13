@@ -49,6 +49,7 @@ onEvent('jei.hide.items', event => {
     event.hide('angelring:reinforced_angel_ring')
     event.hide('angelring:resonant_angel_ring')
     event.hide(/davespotioneering:.*_umbrella/)
+    event.hide('woldsvaults:capstone_vendoors')
 
     //Blocks with rendering/crashing issues
     event.hide('blockcarpentry:frame_sign')

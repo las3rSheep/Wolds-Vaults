@@ -5783,6 +5783,23 @@
           "icon": "the_vault:gui/modifiers/treasure_doors"
         }
       },
+      "the_vault:vendoor_doors": {
+        "properties": {
+          "entries": [
+            {
+              "filter": "the_vault:vendor_door[open=false]",
+              "radius": 64.0,
+              "color": 9945247
+            }
+          ]
+        },
+        "display": {
+          "name": ":vendoor: Vendoor Hunter",
+          "color": "#fbd93f",
+          "description": "Highlights Vendpor Doors in this vault",
+          "icon": "the_vault:gui/modifiers/treasure_doors"
+        }
+      },
       "the_vault:treasure_doors": {
         "properties": {
           "entries": [

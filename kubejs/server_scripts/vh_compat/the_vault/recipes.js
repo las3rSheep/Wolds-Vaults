@@ -37,6 +37,8 @@ onEvent("recipes", event => {
         E: 'the_vault:knowledge_star'
     })
 
+    event.shapeless('the_vault:capstone_vendoor_hunter', ['woldsvaults:capstone_vendoors'])
+
     event.shapeless('the_vault:vault_palladium', ['9x the_vault:vault_platinum'])
     event.shapeless('the_vault:vault_iridium', ['9x the_vault:vault_palladium'])
     event.shapeless('9x the_vault:vault_platinum', ['the_vault:vault_palladium'])
