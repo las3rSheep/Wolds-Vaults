@@ -603,6 +603,18 @@
       "color1": "0xFFED7B24",
       "color2": "0xFFe2a631"
     },
+    "wicked_witch": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Wicked Witch Plushie",
+      "item": {
+        "id": "the_vault:plushie",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:wicked_witch\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
     "inferno_reach": {
       "type": "floating_item_reward",
       "textColor": -1213660,
@@ -1267,10 +1279,6 @@
       {
         "value": "manabloom",
         "weight": 4
-      },
-      {
-        "value": "eternal_stella",
-        "weight": 4
       }
     ],
     "positive_lab": [
@@ -1325,6 +1333,10 @@
       {
         "value": "kaleidoscope",
         "weight": 8
+      },
+      {
+        "value": "wicked_witch",
+        "weight": 6
       },
       {
         "value": "baguette",

@@ -322,6 +322,25 @@
       "modifierTags": [],
       "weight": 1
     },
+    "woldsvaults:wicked_witch": {
+      "name": "The Wicked Witch",
+      "model": "the_vault:gear/plushie/witch",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [],
+        "PREFIX": [
+          "the_vault:u_witch_effect_duration",
+          "the_vault:u_witch_cooldown_reduction"
+        ],
+        "SUFFIX": [
+          "the_vault:u_witch_effect_avoidance"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:baguette": {
       "name": "The Baguette",
       "model": "the_vault:gear/wand/baguette",
@@ -448,9 +467,6 @@
     "the_vault:manabloom": {
       "the_vault:manabloom": 1
     },
-    "woldsvaults:eternal_stella": {
-      "woldsvaults:eternal_stella": 1
-    },
     "the_vault:crashguards": {
       "the_vault:crashguards": 1
     },
@@ -459,6 +475,12 @@
     },
     "the_vault:baguette": {
       "the_vault:baguette": 1
+    },
+    "woldsvaults:eternal_stella": {
+      "woldsvaults:eternal_stella": 1
+    },
+    "woldsvaults:wicked_witch": {
+      "woldsvaults:wicked_witch": 1
     }
   }
 }

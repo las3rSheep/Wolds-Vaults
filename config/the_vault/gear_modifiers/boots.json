@@ -2265,7 +2265,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 120,
+            "weight": 600,
             "value": {
               "effectKeys": [
                 "minecraft:poison",
@@ -2279,15 +2279,15 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.1,
-              "maxChance": 0.15,
+              "minChance": 0.05,
+              "maxChance": 0.1,
               "step": 0.01
             }
           },
           {
             "minLevel": 45,
             "maxLevel": -1,
-            "weight": 120,
+            "weight": 600,
             "value": {
               "effectKeys": [
                 "minecraft:poison",
@@ -2301,15 +2301,15 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.16,
-              "maxChance": 0.25,
+              "minChance": 0.11,
+              "maxChance": 0.16,
               "step": 0.01
             }
           },
           {
             "minLevel": 56,
             "maxLevel": -1,
-            "weight": 120,
+            "weight": 600,
             "value": {
               "effectKeys": [
                 "minecraft:poison",
@@ -2323,15 +2323,15 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.26,
-              "maxChance": 0.35,
+              "minChance": 0.17,
+              "maxChance": 0.23,
               "step": 0.01
             }
           },
           {
             "minLevel": 75,
             "maxLevel": -1,
-            "weight": 120,
+            "weight": 600,
             "value": {
               "effectKeys": [
                 "minecraft:poison",
@@ -2345,8 +2345,8 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.36,
-              "maxChance": 0.4,
+              "minChance": 0.24,
+              "maxChance": 0.3,
               "step": 0.01
             }
           },
@@ -2367,8 +2367,8 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.41,
-              "maxChance": 0.6,
+              "minChance": 0.31,
+              "maxChance": 0.36,
               "step": 0.01
             }
           },
@@ -2389,8 +2389,8 @@
                 "the_vault:corruption"
               ],
               "name": "the_vault.gear_attribute.effect_avoidance.avoidance.bad_effects",
-              "minChance": 0.61,
-              "maxChance": 0.9,
+              "minChance": 0.37,
+              "maxChance": 0.5,
               "step": 0.01
             }
           }
