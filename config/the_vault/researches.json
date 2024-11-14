@@ -316,19 +316,20 @@
     },
     {
       "modIds": [
-        "botanicalmachinery"
+        "botanicalmachinery",
+        "botanicalextramachinery"
       ],
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false
         }
       },
       "name": "Botanical Machinery",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true
     },
     {

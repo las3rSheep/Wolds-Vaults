@@ -1,0 +1,13 @@
+name = "Botanical Machinery Extra"
+filename = "BotanicalExtraMachinery-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00267e0f85faa8173d705a8575597455df0fbdd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5896578
+project-id = 1131545

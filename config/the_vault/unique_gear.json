@@ -412,6 +412,25 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "woldsvaults:leviathan": {
+      "name": "Leviathan",
+      "model": "the_vault:gear/axe/leviathan",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_leviathan_attack_damage",
+          "the_vault:u_leviathan_attack_speed"
+        ],
+        "PREFIX": [
+          "the_vault:u_leviathan_reaving_damage"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
@@ -481,6 +500,9 @@
     },
     "woldsvaults:wicked_witch": {
       "woldsvaults:wicked_witch": 1
+    },
+    "woldsvaults:leviathan": {
+      "woldsvaults:leviathan": 1
     }
   }
 }

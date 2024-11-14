@@ -18540,7 +18540,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
+hash = "d7dd310a55619b2ab78a8a687a5694c0640b710b7c759e1d4163f2307ed8539d"
 metafile = true
 
 [[files]]
@@ -18646,6 +18646,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/botanical-machinery-extra.pw.toml"
+hash = "f327c017a2ba0e1cb7d67ada0ebe72d0d35755da417b1c66ff2964b461e98707"
 metafile = true
 
 [[files]]

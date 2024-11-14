@@ -86,7 +86,7 @@ onEvent("recipes", event => {
             'GGG'
         ], {
         G: 'the_vault:chromatic_gold_ingot',
-        S: 'occultism:sacrificial_bowl'
+        B: 'occultism:sacrificial_bowl'
     }).id('occultism:crafting/golden_sacrificial_bowl')
 
     event.shaped(Item.of('occultism:wormhole_frame'),
