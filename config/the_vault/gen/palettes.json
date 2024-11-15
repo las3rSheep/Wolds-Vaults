@@ -516,6 +516,21 @@
       "1.0": "config/the_vault/gen/1.0/palettes/village/base.json"
     },
     {
+      "id": "the_vault:chaos/arcade/base",
+      "name": "Chaos Arcade Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/arcade/base.json"
+    },
+    {
+      "id": "the_vault:chaos/pirate_cave/base",
+      "name": "Chaos Pirate Cave Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/pirate_cave/base.json"
+    },
+    {
+      "id": "the_vault:chaos/playzone/base",
+      "name": "Chaos Playzone Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/playzone/base.json"
+    },
+    {
       "id": "the_vault:chaos/village/base",
       "name": "Chaos Village Base",
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/village/base.json"

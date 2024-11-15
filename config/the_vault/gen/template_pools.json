@@ -1333,6 +1333,21 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/challenge/pirate_cave",
+      "name": "Chaos Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/pirate_cave.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/arcade",
+      "name": "Chaos Arcade",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/arcade.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/playzone",
+      "name": "Chaos Playzone",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/playzone.json"
+    },
+    {
       "id": "the_vault:vault/rooms/chaos/challenge/village",
       "name": "Chaos Village",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/village.json"
