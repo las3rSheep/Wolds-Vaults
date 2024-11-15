@@ -373,6 +373,28 @@
       "modifierTags": [],
       "weight": 1
     },
+    "woldsvaults:chonknet": {
+      "name": "Chonknet",
+      "model": "the_vault:magnets/heart_magnet",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_magnet_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_magnet_range",
+          "the_vault:u_base_magnet_velocity"
+        ],
+        "PREFIX": [
+          "the_vault:u_chunky_magnet_health"
+        ],
+        "SUFFIX": [
+          "the_vault:u_chunky_magnet_item_quantity",
+          "the_vault:u_chunky_magnet_item_rarity"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:crystal_double_blade": {
       "name": "Crystal Double Blade",
       "model": "the_vault:gear/sword/crystalblade",
@@ -503,6 +525,9 @@
     },
     "woldsvaults:leviathan": {
       "woldsvaults:leviathan": 1
+    },
+    "woldsvaults:chonknet": {
+      "woldsvaults:chonknet": 1
     }
   }
 }

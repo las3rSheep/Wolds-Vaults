@@ -522,7 +522,7 @@ hash = "023c5a09b77389a313b6607b805ab46b5c94024dc2727771a33e4363ce5298f2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "5d39915712ced880a968798e0468b4cfcde1e773626326aeff8a8eaf38eb5aee"
+hash = "f4056be6859c772dafb72d312b55e072898096f43cb6bba3c369029744de438d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -9978,11 +9978,11 @@ hash = "f6c0598abb35ab8e420401789d8137c761937e7f377202570adbeea3d803da12"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/autumn_cherry_grove_common_rooms.json"
-hash = "46ac98230953749b2295637238a87420b023b75d604822e9cb73f4047492e561"
+hash = "c39ce1b9aae657fd45cbb9cd7c827722a5dd7bcd63eb873ba1a920d57de93710"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/autumn_cherry_grove_rooms.json"
-hash = "7af439f0fea779ce8631eef643a40a4d08c384c55873ffc644709d75983887c0"
+hash = "99f43120843a52c57f502812680d0d8bc39a7d2378b8f555d7efb76c91d06dc4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/beach_common_rooms.json"
@@ -10155,6 +10155,10 @@ hash = "e69ba4435b180dbc26de116b2720f1895a76d72b03eca194a559e5c03eb5d844"
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/blood_moon_common_rooms.json"
 hash = "bfffd7ccb09b459fd28ed9ad237643ab12dc5fd8866b81f6de12925d4feca42c"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cake_challenge_rooms.json"
+hash = "2b2139525e83620b7c9dbd910b4483715dfa5961d68793b847226e1d9927984d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_common_rooms.json"
@@ -10378,11 +10382,11 @@ hash = "d8aa9260c92b672b71d39cdcdf0586d50018c47e69b417cf67f75735cc729dc7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_cake_rooms.json"
-hash = "e62b0bc63c3084215d65067eb416c355a5674bf96fafbfd4c72eadef4e60f385"
+hash = "f980547eff198f2940b0fbb4688b13c45912ee9ef7bd3075aa7e039b80901d52"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_common_rooms.json"
-hash = "aea0d04559f0aa901950785e95636cf2cd308b2996d6d31f593cf362808cb200"
+hash = "36fb0c7a72198e77d996fa79dd41d77ecd0d16aa80c5ee2dc29a65d9008ea297"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_rooms.json"
@@ -12698,7 +12702,7 @@ hash = "44b1dbe8cd21d3220301bb31c0bc235b001a0a2fdcf1e04d96c0911fd802ae0a"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "85e7708678392f117c95d1c2cb0a210061130f3095b6156408a13903d3bbd46d"
+hash = "ba365dad599755d01d45a4b99f541cb7bcdb53d2ef302df597d75196f3629bb9"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
@@ -13074,7 +13078,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "687714dbfad3cdcaee1a330844f70810e5c9c365774833721e289b765ae8fe52"
+hash = "dee3fd009c019fb786d1ac8cf85188274fcae37575793d6820445ec3f0c641f0"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
