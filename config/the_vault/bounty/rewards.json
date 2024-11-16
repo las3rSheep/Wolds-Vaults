@@ -4724,13 +4724,24 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60000
+              "weight": 6
             },
             {
               "value": {
@@ -4988,13 +4999,24 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60000
+              "weight": 6
             },
             {
               "value": {
@@ -5195,13 +5217,24 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60000
+              "weight": 6
             },
             {
               "value": {
@@ -5571,13 +5604,24 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60000
+              "weight": 6
             },
             {
               "weight": 6,
@@ -5997,13 +6041,24 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60000
+              "weight": 6
             },
             {
               "value": {
