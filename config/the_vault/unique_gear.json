@@ -385,12 +385,77 @@
           "the_vault:u_base_magnet_velocity"
         ],
         "PREFIX": [
-          "the_vault:u_chunky_magnet_health"
+          "the_vault:u_chunky_magnet_health",
+          "the_vault:u_chunky_magnet_healing"
         ],
         "SUFFIX": [
           "the_vault:u_chunky_magnet_item_quantity",
           "the_vault:u_chunky_magnet_item_rarity"
         ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
+    "woldsvaults:treasure_magnet": {
+      "name": "Treasure Hunter's Magnet",
+      "model": "the_vault:magnets/treasure_magnet",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_magnet_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_magnet_range",
+          "the_vault:u_base_magnet_velocity"
+        ],
+        "PREFIX": [
+          "the_vault:u_treasure_magnet_item_rarity",
+          "the_vault:u_treasure_magnet_item_quantity"
+        ],
+        "SUFFIX": [
+          "the_vault:u_treasure_magnet_health",
+          "the_vault:u_treasure_magnet_mana"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
+    "woldsvaults:bloodseeking_magnet": {
+      "name": "Bloodfetcher",
+      "model": "the_vault:magnets/bloody_magnet",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_magnet_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_magnet_range",
+          "the_vault:u_base_magnet_velocity"
+        ],
+        "PREFIX": [
+          "the_vault:u_bloody_magnet_increase",
+          "the_vault:u_bloody_magnet_leech"
+        ],
+        "SUFFIX": [
+          "the_vault:u_bloody_magnet_trap_disarm",
+          "the_vault:u_bloody_magnet_mana_regen"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
+    "woldsvaults:ender_magnet": {
+      "name": "Otherworldly Receiver",
+      "model": "the_vault:magnets/ender_magnet",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_endergized",
+          "the_vault:base_magnet_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_magnet_range",
+          "the_vault:u_base_magnet_velocity"
+        ],
+        "PREFIX": [],
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -528,6 +593,15 @@
     },
     "woldsvaults:chonknet": {
       "woldsvaults:chonknet": 1
+    },
+    "woldsvaults:treasure_magnet": {
+      "woldsvaults:treasure_magnet": 1
+    },
+    "woldsvaults:bloodfetcher": {
+      "woldsvaults:bloodseeking_magnet": 1
+    },
+    "woldsvaults:ender_magnet": {
+      "woldsvaults:ender_magnet": 1
     }
   }
 }

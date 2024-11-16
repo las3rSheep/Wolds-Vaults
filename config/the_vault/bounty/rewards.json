@@ -4724,6 +4724,17 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 60000
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:vault_gold"
                 },
                 "minCount": 4,
@@ -4977,6 +4988,17 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 60000
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:artifact_fragment"
                 },
                 "minCount": 1,
@@ -5169,6 +5191,17 @@
                 "maxCount": 1
               },
               "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 60000
             },
             {
               "value": {
@@ -5534,6 +5567,17 @@
               },
               "minCount": 1,
               "maxCount": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 60000
             },
             {
               "weight": 6,
@@ -5949,6 +5993,17 @@
                 "maxCount": 1
               },
               "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 60000
             },
             {
               "value": {

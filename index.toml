@@ -226,7 +226,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "f4b61d07c2ab158f32edaa2962e143ce3acc97d3229225b917e8cc6572938c3d"
+hash = "4e7ec96b9107660573828077230ff12fc3212358aef1628e73e40d056cf6e93f"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -522,7 +522,7 @@ hash = "023c5a09b77389a313b6607b805ab46b5c94024dc2727771a33e4363ce5298f2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "f4056be6859c772dafb72d312b55e072898096f43cb6bba3c369029744de438d"
+hash = "e7702533f4bd87a6eb74b236f53a80d980721b99f3406a8a663ca3034d634408"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -1130,7 +1130,7 @@ hash = "eb307d0968118376d135ba452d186a6f5072cc94072b8bb7476a8945cd6acbd0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
-hash = "9731a021faf74b44c995e29405093f702c91813ccce8f55d3b512edf7b292b47"
+hash = "592ab2b1e1447660045002ba216f42a6f3b086f498074f8a81d63f69165abb09"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -13078,7 +13078,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "dee3fd009c019fb786d1ac8cf85188274fcae37575793d6820445ec3f0c641f0"
+hash = "c4104e101ee8dcf2774dc5ad540f6071a0d68957307df0bbf76f05c1ae264b7a"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
