@@ -1,5 +1,20 @@
 {
   "descriptions": {
+    "Ars Nouveau": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Ars Nouveau",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nArs Nouveau is a magic mod inspired by Ars Magicka that allows players to craft their own spells, create magical artifacts, perform rituals, and much more.\n"
+      },
+      {
+        "text": "Documentation is provided entirely in-game by Patchouli. To get started with this mod, craft the Worn Notebook using a book and 1 Lapis Lazuli."
+      }
+    ],
     "Occultism": [
       {
         "text": "Unlocks the "

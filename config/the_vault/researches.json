@@ -2,12 +2,29 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "ars_nouveau"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Ars Nouveau",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "occultism"
       ],
       "restrictions": {
         "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
           "USABILITY": true,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false

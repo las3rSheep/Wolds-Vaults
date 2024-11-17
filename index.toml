@@ -226,7 +226,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "4e7ec96b9107660573828077230ff12fc3212358aef1628e73e40d056cf6e93f"
+hash = "bd4da298935b62179fda26e1537291d8f79c1e663b8820b7a23e7d08cc108033"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -434,7 +434,7 @@ hash = "9182e3f915da4df44d8c5d21dd5ef99d78fdc793e206db3f2149a443341c0c27"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
-hash = "a15942a4204b57172fd335a9cfe60bd003db2f3aefb3a2e8d5b5142d58b95465"
+hash = "6d727af7eaf8a9897c0cb2d63642a40df362041b5d59b0ba097647a1f20d719e"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
@@ -522,7 +522,7 @@ hash = "023c5a09b77389a313b6607b805ab46b5c94024dc2727771a33e4363ce5298f2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "e7702533f4bd87a6eb74b236f53a80d980721b99f3406a8a663ca3034d634408"
+hash = "22b29b61528f198257a76294a8974fd1bf115118e3aa96abd71c6727e1238701"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -886,7 +886,7 @@ hash = "56e64dfdfae8c3262dcd83b09e722499086bfdb3905a2ac17d00926a15f48ef7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
-hash = "b308736245d261027ccfe4b6d942f722eb3deb5188dfe526e45faf9f80315892"
+hash = "3383699bce3c27a0292ea5d0d8ffc609cb5b3b36f02a08df40e35e8525970efe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
@@ -1130,7 +1130,7 @@ hash = "eb307d0968118376d135ba452d186a6f5072cc94072b8bb7476a8945cd6acbd0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
-hash = "592ab2b1e1447660045002ba216f42a6f3b086f498074f8a81d63f69165abb09"
+hash = "5cc62aebc4a7813dd2651447917eed5481fa2d223cf89beee6c20685ed826b41"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -12918,11 +12918,11 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "c424c68ad7050d4127e278b91b10a5026731b57d9d55bda958725fee2b03449a"
+hash = "b8bbc6680f2daaab6ca650edbddcc944a2963cc1abcc44c716c39b33cbcd0950"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "830c0fe9b3545c0d020ad4ed219ce37ddca63db427a515ee9ae7f1b149949212"
+hash = "42c24cc719142ca6a0c06a91a4c9b2dd34d5e9cb79c20f0d5afd115a0ed6cc8c"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -12930,7 +12930,7 @@ hash = "ec969a1ad75d139042a37544e573683724398ba088967aefd7af5ff45a2b9c8a"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "44cb43531a3266f1e135a90747787ddd5082e610c2d8fc9eccd474f0c7340d52"
+hash = "9d211eaaff64d891542365d23c61bb813f000ce3722fd0e291218d2e0949a1d4"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -12958,11 +12958,11 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "3b546832f2ca028ea1f3e988006eea0f2474073fe654b2cda238d99c741aea38"
+hash = "c6fddce4b64076789427f2a0f8dab48ac433e7e812b106a93db075bea3098ab5"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "1900928cc2f179cca0a98c8fddc0afe9f90db296902f6c746cf9f83ed383499a"
+hash = "489a36d5d3d9d67c814b9e78aedaf31d588936a33964dec8054c13bc741a938c"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"
@@ -13078,7 +13078,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "c4104e101ee8dcf2774dc5ad540f6071a0d68957307df0bbf76f05c1ae264b7a"
+hash = "15796183c49056aed6aeb443640c28ed61d551cbbde33a0f3a57a41620a9f068"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
@@ -16462,7 +16462,7 @@ hash = "b769f64576ac62da230eedc272b6031c3d481bfee7bf4db4c8e8b99d465d42bb"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "7e307e0d41fbff87ce22d67424ac0f1d94190bcf03a98b30919be286cd91d64b"
+hash = "8e08b45b9d91271a0e10a308f46a3d11bc1fac1a1a617d789011d83e0c49ed8e"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18089,6 +18089,18 @@ file = "kubejs/server_scripts/vh_compat/alexsmobs/recipes.js"
 hash = "abd3ff1579b2d83f4010478c4df74ef00eb945e4b5d40e190dd2f4b323b204fd"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/ars_nouveau/enchanter.js"
+hash = "023de8685a9945c95dcc9f971c17fe2919fc47ed24ca3907aa017508d75b56d0"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/ars_nouveau/glyphs.js"
+hash = "94950f1b05aed981cac9e827200cdcfe6735cd0115f8887548793f65f862a1a5"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/ars_nouveau/recipes.js"
+hash = "3f8d84b32d7daf9c3dcad0d7b20112935bd4d86f539576270c48058c4cbce83e"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/bonsaitrees3/recipes.js"
 hash = "0fec2dc16964c4c825cfe39dbcd9bf180da4dd96db4cc99c94ab2577418a4374"
 
@@ -18633,6 +18645,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0112d33ef55ca337e21a5d71bb570ef8a72eb408f68ad1c9b7f58835cf579980"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "e4e35734019bdd50533950d27b7923ebd433cf9851d8bb9ad89f77165067c1d7"
 metafile = true
 
 [[files]]
