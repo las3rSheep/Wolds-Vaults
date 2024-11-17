@@ -226,4 +226,5 @@ onEvent("recipes", event => {
     event.remove({ id: 'ars_nouveau:wixie_charm' })
     event.shapeless('ars_nouveau:runic_chalk', ['ars_nouveau:manipulation_essence', 'ars_nouveau:magebloom_fiber', 'the_vault:magic_silk']).id('ars_nouveau:runic_chalk')
     event.shapeless('ars_nouveau:ritual_brazier', ['ars_nouveau:arcane_pedestal', 'ars_nouveau:source_gem_block', '3x the_vault:chromatic_gold_ingot', 'the_vault:hardened_wutodic_mass']).id('ars_nouveau:ritual_brazier')
+    event.shapeless('ars_creo:starbuncle_wheel', ['ars_nouveau:starbuncle_charm', 'create:water_wheel', 'the_vault:vault_diamond_block']).id('ars_creo:starbuncle_wheel')
 })

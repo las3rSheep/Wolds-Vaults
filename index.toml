@@ -18648,6 +18648,11 @@ hash = "0112d33ef55ca337e21a5d71bb570ef8a72eb408f68ad1c9b7f58835cf579980"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "9757e37c467f1372b708692a92070797b7ba6f5deb43db60a269e4b869e9802d"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "e4e35734019bdd50533950d27b7923ebd433cf9851d8bb9ad89f77165067c1d7"
 metafile = true
