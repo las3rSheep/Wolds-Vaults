@@ -560,32 +560,32 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.01,
-          "max": 0.01,
-          "step": 0.01,
-          "tier": 1
-        },
-        {
           "min": 0.02,
           "max": 0.02,
           "step": 0.01,
-          "tier": 2
-        },
-        {
-          "min": 0.03,
-          "max": 0.03,
-          "step": 0.01,
-          "tier": 3
+          "tier": 1
         },
         {
           "min": 0.04,
           "max": 0.04,
           "step": 0.01,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.01,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.01,
           "tier": 4
         },
         {
-          "min": 0.05,
-          "max": 0.05,
+          "min": 0.1,
+          "max": 0.1,
           "step": 0.01,
           "tier": 5
         }
@@ -4839,6 +4839,534 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    "resource_catalyst_fragment": {
+      "type": "task_loot",
+      "name": {
+        "text": "Catalyst Fragment Card"
+      },
+      "model": "the_vault:vault_catalyst_fragment#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_catalyst_fragment"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Catalyst Fragment ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_grapes": {
+      "type": "task_loot",
+      "name": {
+        "text": "Juicy Grapes Card"
+      },
+      "model": "the_vault:grapes#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:grapes"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Juicy Grapes ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_lemon": {
+      "type": "task_loot",
+      "name": {
+        "text": "Bitter Lemon Card"
+      },
+      "model": "the_vault:bitter_lemon#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:bitter_lemon"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Bitter Lemon ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_mango": {
+      "type": "task_loot",
+      "name": {
+        "text": "Ripe Mango Card"
+      },
+      "model": "the_vault:mango#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mango"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Ripe Mango ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_inscription_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Inscription Piece Card"
+      },
+      "model": "the_vault:inscription_piece#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:inscription_piece"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Inscription Piece ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_augment_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Augment Piece Card"
+      },
+      "model": "woldsvaults:augment_piece#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "woldsvaults:augment_piece"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Augment Piece ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_faceted_focus": {
+      "type": "task_loot",
+      "name": {
+        "text": "Faceted Focus Card"
+      },
+      "model": "the_vault:faceted_focus#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:faceted_focus"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Faceted Focus ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_smashed_gem": {
+      "type": "task_loot",
+      "name": {
+        "text": "Smashed Vault Gem Card"
+      },
+      "model": "the_vault:smashed_vault_gem#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:smashed_vault_gem"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Smashed Vault Gem ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_gem_box": {
+      "type": "task_loot",
+      "name": {
+        "text": "Gem Box Card"
+      },
+      "model": "the_vault:gem_box#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_box"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Gem Box ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_eternal_soul": {
+      "type": "task_loot",
+      "name": {
+        "text": "Eternal Soul Card"
+      },
+      "model": "the_vault:eternal_soul#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:eternal_soul"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Eternal Soul ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_knowledge_essence": {
+      "type": "task_loot",
+      "name": {
+        "text": "Knowledge Essence Card"
+      },
+      "model": "the_vault:knowledge_star_essence#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:knowledge_star_essence"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " Knowledge Essence ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
     "wild_base": {
       "type": "dummy",
       "name": {
@@ -5537,7 +6065,7 @@
       },
       {
         "value": "resource_chromatic_iron",
-        "weight": 20.0
+        "weight": 25.0
       },
       {
         "value": "resource_mod_box",
@@ -5545,15 +6073,59 @@
       },
       {
         "value": "resource_carbon",
-        "weight": 22.0
+        "weight": 32.0
       },
       {
         "value": "resource_mystery_egg",
-        "weight": 4.0
+        "weight": 10.0
       },
       {
         "value": "resource_plating",
-        "weight": 22.0
+        "weight": 44.0
+      },
+      {
+        "value": "resource_catalyst_fragment",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_grapes",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_lemon",
+        "weight": 5.0
+      },
+      {
+        "value": "resource_mango",
+        "weight": 4.0
+      },
+      {
+        "value": "resource_inscription_piece",
+        "weight": 10.0
+      },
+      {
+        "value": "resource_augment_piece",
+        "weight": 10.0
+      },
+      {
+        "value": "resource_faceted_focus",
+        "weight": 8.0
+      },
+      {
+        "value": "resource_smashed_gem",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_gem_box",
+        "weight": 8.0
+      },
+      {
+        "value": "resource_eternal_soul",
+        "weight": 6.0
+      },
+      {
+        "value": "resource_knowledge_essence",
+        "weight": 5.0
       }
     ],
     "scaling": [
