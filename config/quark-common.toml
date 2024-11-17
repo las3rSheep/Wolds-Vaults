@@ -1554,8 +1554,8 @@
 	"Tiny Potato" = false
 	Pipes = true
 	"Matrix Enchanting" = false
-	Magnets = true
-	Crate = true
+	Magnets = false
+	Crate = false
 	Backpack = false
 
 	[oddities.totem_of_holding]
