@@ -77,6 +77,12 @@
       "potentialUseMax": 4,
       "baseCostMultiplier": 1.0,
       "negativePotentialCostMultiplier": 1.0
+    },
+    "the_vault:corrupt_gear": {
+      "potentialUseMin": 0,
+      "potentialUseMax": 0,
+      "baseCostMultiplier": 5.0,
+      "negativePotentialCostMultiplier": 1.0
     }
   }
 }
