@@ -19198,6 +19198,11 @@ hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
 
 [[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "8e1c78e270ba4f4ae070216890ac1ba23cf816d22db1c48e4ed2161be248c1a6"
+metafile = true
+
+[[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "828ff9c88dbde0e819795cd631ad91c9530cf4af1b7546a9a5e88ebc16be4606"
 metafile = true
