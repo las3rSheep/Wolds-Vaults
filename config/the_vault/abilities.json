@@ -1214,9 +1214,7 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 180,
                 "unlockLevel": 0
-              }
-
-            ,
+              },
               {
                 "type": "dash_damage",
                 "attackDamagePercentPerDash": 2.25,
@@ -5554,7 +5552,7 @@
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
                 "id": "hunter_lvl12"
-              }              
+              }
             ]
           },
           {
@@ -6042,7 +6040,7 @@
                 "manaCost": 30.0,
                 "unlockLevel": 0,
                 "id": "mana_shield_8"
-              },              
+              },
               {
                 "type": "mana_shield",
                 "durationTicks": 100,
@@ -6152,7 +6150,7 @@
                 "manaCost": 30.0,
                 "unlockLevel": 0,
                 "id": "mana_shield_18"
-              }              
+              }
             ]
           }
         ]
@@ -6402,7 +6400,7 @@
                 "manaCost": 40,
                 "chargeTime": 200,
                 "damageRadius": 3,
-                "damagePerStack": 0.005,
+                "damagePerStack": 0.01,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6422,7 +6420,7 @@
                 "manaCost": 40,
                 "chargeTime": 200,
                 "damageRadius": 4,
-                "damagePerStack": 0.01,
+                "damagePerStack": 0.02,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6442,7 +6440,7 @@
                 "manaCost": 40,
                 "chargeTime": 200,
                 "damageRadius": 5,
-                "damagePerStack": 0.015,
+                "damagePerStack": 0.03,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6462,7 +6460,7 @@
                 "manaCost": 40,
                 "chargeTime": 200,
                 "damageRadius": 6,
-                "damagePerStack": 0.02,
+                "damagePerStack": 0.04,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6482,7 +6480,7 @@
                 "manaCost": 40,
                 "chargeTime": 200,
                 "damageRadius": 7,
-                "damagePerStack": 0.025,
+                "damagePerStack": 0.05,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6500,9 +6498,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 8,
-                "damagePerStack": 0.03,
+                "damagePerStack": 0.06,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6520,9 +6518,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 9,
-                "damagePerStack": 0.035,
+                "damagePerStack": 0.07,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6540,9 +6538,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 10,
-                "damagePerStack": 0.04,
+                "damagePerStack": 0.08,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6560,9 +6558,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 11,
-                "damagePerStack": 0.045,
+                "damagePerStack": 0.09,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6580,9 +6578,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 12,
-                "damagePerStack": 0.05,
+                "damagePerStack": 0.1,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6600,9 +6598,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 13,
-                "damagePerStack": 0.055,
+                "damagePerStack": 0.11,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6620,9 +6618,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 14,
-                "damagePerStack": 0.06,
+                "damagePerStack": 0.12,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6640,9 +6638,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 15,
-                "damagePerStack": 0.065,
+                "damagePerStack": 0.13,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6660,9 +6658,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 16,
-                "damagePerStack": 0.07,
+                "damagePerStack": 0.14,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6680,9 +6678,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 17,
-                "damagePerStack": 0.075,
+                "damagePerStack": 0.15,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6700,9 +6698,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 18,
-                "damagePerStack": 0.08,
+                "damagePerStack": 0.16,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6720,9 +6718,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 19,
-                "damagePerStack": 0.085,
+                "damagePerStack": 0.17,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6740,9 +6738,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 20,
-                "damagePerStack": 0.09,
+                "damagePerStack": 0.18,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6760,9 +6758,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 21,
-                "damagePerStack": 0.095,
+                "damagePerStack": 0.19,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,
@@ -6780,9 +6778,9 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 22,
-                "damagePerStack": 0.1,
+                "damagePerStack": 0.2,
                 "stackage": {
                   "@the_vault:horde": 1,
                   "@the_vault:tank": 3,

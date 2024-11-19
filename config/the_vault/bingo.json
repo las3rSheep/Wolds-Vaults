@@ -2166,8 +2166,8 @@
               },
               "target": {
                 "type": "uniform",
-                "min": 300.0,
-                "max": 300.0
+                "min": 100.0,
+                "max": 100.0
               },
               "variables": {
                 "targetPlayerContribution": 0.75
@@ -5086,8 +5086,8 @@
               },
               "target": {
                 "type": "uniform",
-                "min": 300.0,
-                "max": 300.0
+                "min": 160.0,
+                "max": 160.0
               },
               "variables": {
                 "targetPlayerContribution": 0.75
@@ -8006,8 +8006,8 @@
               },
               "target": {
                 "type": "uniform",
-                "min": 300.0,
-                "max": 300.0
+                "min": 200.0,
+                "max": 200.0
               },
               "variables": {
                 "targetPlayerContribution": 0.75

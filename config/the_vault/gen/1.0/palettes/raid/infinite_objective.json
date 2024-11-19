@@ -8,7 +8,23 @@
           "block": "the_vault:raid_controller",
           "proxies": [
             {
-              "pos": [[3, 0, 0], [-3, 0, 0], [0, 0, 3]],
+              "pos": [
+                [
+                  3,
+                  0,
+                  0
+                ],
+                [
+                  -3,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  3
+                ]
+              ],
               "entries": [
                 {
                   "action": "positive",
@@ -24,12 +40,12 @@
                   "action": [
                     {
                       "type": "group",
-                      "add_pillager": 5,
+                      "add_pillager": 4,
                       "weight": 6
                     },
                     {
                       "type": "group",
-                      "add_vindicator": 4,
+                      "add_vindicator": 6,
                       "weight": 6
                     },
                     {
@@ -55,22 +71,22 @@
                     {
                       "type": "group",
                       "add_vindicator_champion": 1,
-                      "weight": 1
+                      "weight": 2
                     },
                     {
                       "type": "group",
                       "add_vex_champion": 1,
-                      "weight": 1
+                      "weight": 2
                     },
                     {
                       "type": "group",
                       "add_pillager_champion": 1,
-                      "weight": 1
+                      "weight": 2
                     },
                     {
                       "type": "group",
                       "add_ravager_champion": 1,
-                      "weight": 1
+                      "weight": 2
                     }
                   ],
                   "probability": 1.0,
@@ -79,7 +95,11 @@
               ]
             },
             {
-              "pos": [0, 0, -3],
+              "pos": [
+                0,
+                0,
+                -3
+              ],
               "entries": [
                 {
                   "action": {
