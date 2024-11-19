@@ -20463,6 +20463,11 @@ hash = "5025c2ab3e140f3638d3f17d5cc9f392003183b6bc48d49925488bf4c6d97eb2"
 metafile = true
 
 [[files]]
+file = "mods/vh-scaling-bingo-seals.pw.toml"
+hash = "fde6369a4c3061e3066fc14aac7e788a52cfb6ecef77c0e48f3196a431f771d8"
+metafile = true
+
+[[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
 hash = "001afc860d46bcb38cf2ff7bed5cdf4346b82c6d707c1f8d02d4c60b0bf01f29"
 metafile = true

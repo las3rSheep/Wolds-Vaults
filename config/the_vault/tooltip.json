@@ -61,6 +61,10 @@
       "value": "Use in the Crystal Workbench to set the objective to 'Ballistic Bingo'"
     },
     {
+      "item": "the_vault:crystal_seal_architect",
+      "value": "Use in the Crystal Workbench to set the objective to 'Bingo', add more to increase the Bingo board size!"
+    },
+    {
       "item": "the_vault:capstone_dungeon_hunter",
       "value": "Use in the Crystal Workbench as a capstone, making the crystal unmodifiable and adding the 'Dungeon Hunter' modifier"
     },

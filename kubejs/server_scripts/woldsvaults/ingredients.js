@@ -21,11 +21,24 @@ onEvent('recipes', event => {
             'XRX',
             'XBX'
         ], {
-        G: 'minecraft:soul_campfire',
+        G: 'minecraft:scaffolding',
         X: 'the_vault:eternal_soul',
         R: 'the_vault:crystal_seal_scout',
         B: 'the_vault:extraordinary_wutodie'
     }).id('woldsvaults:crystal_seal_spirits')
+
+    event.shaped(Item.of('the_vault:crystal_seal_architect'),
+        [
+            'LGL',
+            'XRX',
+            'LBL'
+        ], {
+        G: 'minecraft:scaffolding',
+        X: 'the_vault:wutodic_silver_ingot',
+        R: 'the_vault:crystal_seal_empty',
+        B: 'the_vault:perfect_larimar',
+        L: 'the_vault:vault_essence'
+    }).id('woldsvaults:crystal_seal_architect')
 
     event.shaped(Item.of('the_vault:crystal_seal_enchanter'),
         [
