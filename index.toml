@@ -18114,7 +18114,7 @@ hash = "abd3ff1579b2d83f4010478c4df74ef00eb945e4b5d40e190dd2f4b323b204fd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/enchanter.js"
-hash = "a7838046d5c62b027916dedff853c1b4872fc468d3f67d022a1b47d42d8b634c"
+hash = "984409ace38b9c4067860ca0d2bfb005031d81eb0ef58aab4a935a44882bad1b"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/glyphs.js"
@@ -18466,7 +18466,7 @@ hash = "729eb942cca1cdaa025a45ab99498c234b54107a9d19e320e0191ca1e5a79e83"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/tiab/recipes.js"
-hash = "74bc7aa168726e2659b0ff850316249a0aafff737a6ea940bd0a9a65aaee03ae"
+hash = "093acf218153f21e0a5b43b4990982dc22432205bc95696a95f1c8f422eade53"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/tinygates/recipes.js"
@@ -20438,7 +20438,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "cdb264737a004540d3870a93bb7886a6a63458de6e2c6279d9efe1af8b4f251f"
+hash = "dc6d8ef1157966c4ed11e54c5d3c930e79e94ed776635046fc2bc0cdfcb0b530"
 metafile = true
 
 [[files]]
