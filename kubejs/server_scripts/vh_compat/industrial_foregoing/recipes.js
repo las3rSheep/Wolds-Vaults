@@ -121,7 +121,7 @@ onEvent("recipes", event => {
             'PRP'
         ], {
         P: 'the_vault:driftwood_planks',
-        R: 'the_vault:chromatic_iron_ingot',
+        R: 'the_vault:chromatic_steel_ingot',
         M: 'the_vault:perfect_larimar'
     })
 
@@ -131,7 +131,7 @@ onEvent("recipes", event => {
             'RMR',
             'PTP'
         ], {
-        P: 'the_vault:chromatic_iron_ingot',
+        P: 'the_vault:chromatic_steel_ingot',
         p: 'minecraft:light_weighted_pressure_plate',
         R: 'minecraft:redstone_block',
         M: 'industrialforegoing:machine_frame_pity',
@@ -160,7 +160,7 @@ onEvent("recipes", event => {
             'ITI'
         ], {
         P: '#forge:plastic',
-        p: 'the_vault:chromatic_iron_block',
+        p: 'the_vault:chromatic_steel_block',
         R: 'minecraft:bucket',
         M: 'industrialforegoing:machine_frame_pity',
         T: 'industrialforegoing:diamond_gear',
@@ -197,7 +197,7 @@ onEvent("recipes", event => {
             'ILI',
             ' I '
         ], {
-        I: 'minecraft:gold_ingot',
+        I: 'the_vault:chromatic_gold_ingot',
         L: 'the_vault:perfect_larimar'
     })
 
@@ -316,7 +316,7 @@ onEvent("recipes", event => {
                 "item": 'industrialforegoing:diamond_gear'
             },
             {
-                "item": "the_vault:mystical_powder"
+                "item": "the_vault:chromatic_steel_block"
             },
             {
                 "item": 'industrialforegoing:diamond_gear'
@@ -395,7 +395,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -434,7 +434,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -473,7 +473,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -751,7 +751,7 @@ onEvent("recipes", event => {
         p: 'minecraft:netherite_sword',
         R: 'the_vault:magic_silk_block',
         M: 'industrialforegoing:machine_frame_advanced',
-        T: 'minecraft:redstone_block',
+        T: 'the_vault:chromatic_steel_block',
         I: 'industrialforegoing:diamond_gear'
     })
 

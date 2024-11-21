@@ -79,10 +79,10 @@ onEvent("recipes", event => {
             'XTX',
             'PIP'
         ], {
-        P: 'the_vault:gem_larimar',
+        P: 'the_vault:perfect_larimar',
         R: 'the_vault:carbon',
-        X: 'minecraft:redstone',
-        I: 'minecraft:gold_ingot',
+        X: 'the_vault:vault_essence',
+        I: 'the_vault:chromatic_gold_ingot',
         T: 'minecraft:smooth_stone'
     })
 
@@ -94,9 +94,9 @@ onEvent("recipes", event => {
         ], {
         B: 'the_vault:black_chromatic_steel_ingot',
         G: '#forge:glass_panes',
-        P: 'the_vault:perfect_larimar',
+        P: 'the_vault:extraordinary_larimar',
         O: 'minecraft:obsidian',
-        L: 'minecraft:lapis_block',
+        L: 'the_vault:wutodic_silver_block',
         R: 'minecraft:comparator'
     })
 
@@ -107,9 +107,9 @@ onEvent("recipes", event => {
             'LRL'
         ], {
         G: 'the_vault:extraordinary_black_opal',
-        P: 'the_vault:vault_diamond',
+        P: 'the_vault:vault_diamond_block',
         O: 'minecraft:obsidian',
-        L: 'minecraft:gold_block',
+        L: 'the_vault:chromatic_gold_block',
         R: 'minecraft:comparator'
     })
 

@@ -106,7 +106,7 @@ onEvent("recipes", event => {
         ], {
         C: 'integrateddynamics:crystalized_chorus_chunk',
         M: 'the_vault:extraordinary_larimar',
-        P: 'the_vault:vault_diamond',
+        P: 'the_vault:wutodic_silver_block',
         V: 'integrateddynamics:crystalized_menril_chunk'
     })
 
