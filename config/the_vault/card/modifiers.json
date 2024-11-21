@@ -685,7 +685,7 @@
     "soul_chance": {
       "type": "gear",
       "name": {
-        "text": "Soul Chance Card"
+        "text": "Soul Quantity Card"
       },
       "model": "the_vault:card/icon/soul_chance#inventory",
       "groups": [
@@ -696,32 +696,32 @@
       "attribute": "the_vault:soul_chance",
       "pool": [
         {
-          "min": 0.01,
-          "max": 0.01,
-          "step": 0.001,
-          "tier": 1
-        },
-        {
           "min": 0.02,
           "max": 0.02,
           "step": 0.001,
-          "tier": 2
-        },
-        {
-          "min": 0.03,
-          "max": 0.03,
-          "step": 0.001,
-          "tier": 3
+          "tier": 1
         },
         {
           "min": 0.04,
           "max": 0.04,
           "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.001,
           "tier": 4
         },
         {
-          "min": 0.05,
-          "max": 0.05,
+          "min": 0.1,
+          "max": 0.1,
           "step": 0.001,
           "tier": 5
         }
@@ -1735,32 +1735,32 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.0025,
-          "max": 0.0025,
+          "min": 0.01,
+          "max": 0.01,
           "step": 0.01,
           "tier": 1
         },
         {
-          "min": 0.005,
-          "max": 0.005,
+          "min": 0.02,
+          "max": 0.02,
           "step": 0.01,
           "tier": 2
         },
         {
-          "min": 0.0075,
-          "max": 0.0075,
+          "min": 0.03,
+          "max": 0.03,
           "step": 0.01,
           "tier": 3
         },
         {
-          "min": 0.01,
-          "max": 0.01,
+          "min": 0.04,
+          "max": 0.04,
           "step": 0.01,
           "tier": 4
         },
         {
-          "min": 0.0125,
-          "max": 0.0125,
+          "min": 0.05,
+          "max": 0.05,
           "step": 0.01,
           "tier": 5
         }
@@ -1860,7 +1860,7 @@
     "amp_soul_chance": {
       "type": "gear",
       "name": {
-        "text": "Evolving Soul Chance Card"
+        "text": "Evolving Soul Quantity Card"
       },
       "model": "the_vault:card/icon/soul_chance#inventory",
       "groups": [
@@ -1870,32 +1870,32 @@
       "attribute": "the_vault:soul_chance",
       "pool": [
         {
-          "min": 0.0025,
-          "max": 0.0025,
+          "min": 0.01,
+          "max": 0.01,
           "step": 0.001,
           "tier": 1
         },
         {
-          "min": 0.005,
-          "max": 0.005,
+          "min": 0.02,
+          "max": 0.02,
           "step": 0.001,
           "tier": 2
         },
         {
-          "min": 0.0075,
-          "max": 0.0075,
+          "min": 0.03,
+          "max": 0.03,
           "step": 0.001,
           "tier": 3
         },
         {
-          "min": 0.01,
-          "max": 0.01,
+          "min": 0.04,
+          "max": 0.04,
           "step": 0.001,
           "tier": 4
         },
         {
-          "min": 0.0125,
-          "max": 0.0125,
+          "min": 0.05,
+          "max": 0.05,
           "step": 0.001,
           "tier": 5
         }
@@ -2370,7 +2370,7 @@
           "levelChange": 1
         }
       ],
-      "maxTier": 5
+      "maxTier": 1
     },
     "heal_group": {
       "type": "gear",
@@ -2695,7 +2695,7 @@
     "empower_ice": {
       "type": "gear",
       "name": {
-        "text": "Empower Card"
+        "text": "Ice Armour Card"
       },
       "model": "the_vault:card/icon/empower_ice_armour#inventory",
       "groups": [
@@ -2715,7 +2715,7 @@
     "empower_entropy": {
       "type": "gear",
       "name": {
-        "text": "Empower Card"
+        "text": "Entropic Bind Card"
       },
       "model": "the_vault:card/icon/empower_entropy#inventory",
       "groups": [
@@ -5780,7 +5780,7 @@
         "weight": 1.0
       },
       {
-        "value": "warp",
+        "value": "dash_warp",
         "weight": 1.0
       },
       {

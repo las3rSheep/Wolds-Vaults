@@ -4433,6 +4433,36 @@
       "id": "the_vault:vault/rooms/chaos_cake_rooms",
       "name": "Chaos Cake Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_cake_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/chaos_cake_starts",
+      "name": "Chaos Cake Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_cake_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/chaos_cake_tunnels",
+      "name": "Chaos Cake Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_cake_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_raw_common_rooms",
+      "name": "Cave Raw Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_raw_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_granite_common_rooms",
+      "name": "Cave Granite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_granite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_diorite_common_rooms",
+      "name": "Cave Diorite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_diorite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_andersite_common_rooms",
+      "name": "Cave Andersite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_andersite_common_rooms.json"
     }
   ]
 }

@@ -931,6 +931,26 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/quarry/base.json"
     },
     {
+      "id": "the_vault:universal_raw_cave",
+      "name": "Universal Cave Raw",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_granite",
+      "name": "Universal Cave Granite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_granite.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_diorite",
+      "name": "Universal Cave Diorite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_diorite.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_andersite",
+      "name": "Universal Cave Andersite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_andersite.json"
+    },
+    {
       "id": "the_vault:universal_end_void",
       "name": "Universal End Void",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_end_void.json"

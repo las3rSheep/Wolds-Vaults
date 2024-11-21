@@ -5,7 +5,7 @@
         "name": "Acquired Taste",
         "rewardDescription": "Wand with legendary Ability Power",
         "subtext": "It's not going to be for everyone,\nbut it might be perfect for you",
-        "requiredCount": 7
+        "requiredCount": 6
       },
       "reward": {
         "results": [
@@ -27,8 +27,31 @@
         "type": "the_vault:gear_item_list"
       },
       "condition": {
-        "conditions": [],
-        "type": "the_vault:or"
+        "conditions": [
+          {
+            "key": [
+              "the_vault:healer"
+            ],
+            "type": "the_vault:key",
+            "display": "From Raid Healers"
+          },
+          {
+            "chance": 0.05,
+            "type": "the_vault:chance",
+            "display": "At a low chance"
+          },
+          {
+            "types": [
+              "ENTITY"
+            ],
+            "type": "the_vault:type"
+          },
+          {
+            "minLevel": 20,
+            "type": "the_vault:level"
+          }
+        ],
+        "type": "the_vault:and"
       }
     },
     "the_vault:lucky_cat_medallion": {
@@ -460,8 +483,38 @@
         "type": "the_vault:item_list"
       },
       "condition": {
-        "conditions": [],
-        "type": "the_vault:or"
+        "conditions": [
+          {
+            "tag": [
+              "THEME_CATEGORY_MUSHROOM"
+            ],
+            "type": "the_vault:tag",
+            "display": "In Forest Themes"
+          },
+          {
+            "key": [
+              "the_vault:levishroom"
+            ],
+            "type": "the_vault:key",
+            "display": "From Levishrooms"
+          },
+          {
+            "chance": 0.01,
+            "type": "the_vault:chance",
+            "display": "At a low chance"
+          },
+          {
+            "types": [
+              "ENTITY"
+            ],
+            "type": "the_vault:type"
+          },
+          {
+            "minLevel": 20,
+            "type": "the_vault:level"
+          }
+        ],
+        "type": "the_vault:and"
       }
     },
     "the_vault:lucky_bamboo": {
@@ -548,8 +601,31 @@
         "type": "the_vault:item_list"
       },
       "condition": {
-        "conditions": [],
-        "type": "the_vault:or"
+        "conditions": [
+          {
+            "group": [
+              "the_vault:elite"
+            ],
+            "type": "the_vault:entity_group",
+            "display": "From The Lab"
+          },
+          {
+            "chance": 0.5,
+            "type": "the_vault:chance",
+            "display": "At a reasonable chance"
+          },
+          {
+            "types": [
+              "ENTITY"
+            ],
+            "type": "the_vault:type"
+          },
+          {
+            "minLevel": 20,
+            "type": "the_vault:level"
+          }
+        ],
+        "type": "the_vault:and"
       }
     },
     "the_vault:the_unicorn": {

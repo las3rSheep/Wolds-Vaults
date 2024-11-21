@@ -61,22 +61,22 @@
       "negativePotentialCostMultiplier": 1.0
     },
     "the_vault:improve_tier": {
-      "potentialUseMin": 2,
-      "potentialUseMax": 4,
-      "baseCostMultiplier": 1.0,
-      "negativePotentialCostMultiplier": 1.0
+      "potentialUseMin": 16,
+      "potentialUseMax": 24,
+      "baseCostMultiplier": 8.0,
+      "negativePotentialCostMultiplier": 2.0
     },
     "the_vault:lock_modifier": {
-      "potentialUseMin": 2,
-      "potentialUseMax": 4,
-      "baseCostMultiplier": 1.0,
+      "potentialUseMin": 16,
+      "potentialUseMax": 40,
+      "baseCostMultiplier": 24.0,
       "negativePotentialCostMultiplier": 1.0
     },
     "the_vault:improve_rarity": {
-      "potentialUseMin": 2,
-      "potentialUseMax": 4,
-      "baseCostMultiplier": 1.0,
-      "negativePotentialCostMultiplier": 1.0
+      "potentialUseMin": 40,
+      "potentialUseMax": 80,
+      "baseCostMultiplier": 100.0,
+      "negativePotentialCostMultiplier": 12.0
     },
     "the_vault:corrupt_gear": {
       "potentialUseMin": 0,
