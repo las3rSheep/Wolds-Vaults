@@ -19732,6 +19732,11 @@ hash = "0c4037041d6e546c141984f8294166af45c729f5ff536d811a23d65973d807c0"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "afd73e5d918f91b731d5ef4e4508d5f6d603a30fb958b10a645b8d3290126205"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "792af8f1c872f70fc943d8ec8aa27a3bfbe678dccb6cadc90d633a2d9da36873"
 metafile = true
