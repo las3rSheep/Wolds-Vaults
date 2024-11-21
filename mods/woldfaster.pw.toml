@@ -1,13 +1,13 @@
 name = "WoldFaster"
-filename = "woldFaster-2.1.5LST.jar"
+filename = "woldfaster-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7fd99d879d40f22131da77d9b3b89c2900014e19"
+hash = "77260eec614541ddd193b38f2b868ed5696f6f66"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5817698
+file-id = 5925335
 project-id = 1094430

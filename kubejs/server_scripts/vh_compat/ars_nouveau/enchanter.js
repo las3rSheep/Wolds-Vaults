@@ -517,7 +517,7 @@ onEvent("recipes", event => {
             },
             {
                 "item": {
-                    "item": "the_vault:perfect_echo"
+                    "item": "the_vault:perfect_echo_gem"
                 }
             }
         ],

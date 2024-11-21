@@ -73,7 +73,5 @@ onEvent('jei.add.items', event => {
     modifierTypes.forEach(type => {
         event.add(Item.of('woldsvaults:chiseling_focus', { modifier: `the_vault:${type}` }))
     })
-})
-onEvent('jei.add.items', event => {
-    event.add(Item.of('example:item', { test: 123 }))
+    event.add(Item.of('woldsvaults:research_token', { research: "Waystones" }))
 })
