@@ -3834,7 +3834,7 @@
     "resource_gem_iskallium": {
       "type": "task_loot",
       "name": {
-        "text": "Iskallium Card"
+        "text": "Woldium Card"
       },
       "model": "the_vault:gem_iskallium#inventory",
       "groups": [

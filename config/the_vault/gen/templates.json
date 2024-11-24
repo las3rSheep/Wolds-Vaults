@@ -1961,7 +1961,7 @@
     },
     {
       "id": "the_vault:vault/rooms/omega/iskallian_garden",
-      "name": "Iskallian Garden",
+      "name": "Woldian Garden",
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.nbt"

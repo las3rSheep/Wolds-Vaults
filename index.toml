@@ -274,7 +274,7 @@ hash = "a2f1382eff26ff5408b23d9c31610e42fe2dd4efe5d6f5eed49a36373a0a2c33"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "4896e791a44a6ff869cb7eabdbcb2fb0427c47c2c790230d5b1d7e67d1821119"
+hash = "8db1086a0fa71987446043f300842343cac6fac20abe43aea3e01faef2cd2a89"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -522,7 +522,7 @@ hash = "f254278ec4eebbd74d2ec9c43be233108ce3ae15ebd64abb6342c1f956d5350f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "98992628c7780d99e36fdb2b8c34bd4052975ed7864a8705e23955ed6bdacee0"
+hash = "eab432a22bfba7d91b78eb74bf04eed796a44085810561988c9121646d65f6e8"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -1650,7 +1650,7 @@ hash = "e701caf8cb02cef123e744b849edde55ed28b8d29d9dafb06d1a3c49c77d79da"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/gate_lock/rooms.json"
-hash = "83c8abceda4421cbdeed69ddbc5ab298068ae7f514e1274a857f211800671214"
+hash = "c44f53c6af47ad40fe6dfe7d82569e28131baa783d1ad718c597dba212e0a905"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/air_to_cave_air.json"
@@ -2698,11 +2698,11 @@ hash = "0047d72e2c6a9a58c63eb32053d3b3d6f8e58a4a7a8f6c6bee9dea038d988ff9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base.json"
-hash = "e7f3fee0889489d6c814a525dadaa2dd4236f5b25bab86a984a5b0f36b6c8b9f"
+hash = "b2e339ec6950c90f940658171b6de28b651de19a6f8280be33a7d868836bdc49"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base_objective.json"
-hash = "715592fd52a7183b8f6aaf29a4d0e14377494ab9bcbddde476f4b3b758148380"
+hash = "d218153f8c5ef5fbd6b952172ce76b3b8c040caae8a977a2bc9918859f7d0ee0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/easter.json"
@@ -2710,7 +2710,7 @@ hash = "e3b13e3fd8ba9f05881e320a676510d5c6509d6d48a902a1c7e56f65d23638a7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/infinite_objective.json"
-hash = "b885e149d005a8061a5cd113dc32729c46ad2980c50c23d63221ee1a36fea308"
+hash = "adff604ec6a784a2519fcafbdfd845ca137cc7ccb66669725ddab16a186178d6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/objective.json"
@@ -12726,7 +12726,7 @@ hash = "f636c11801ea5945ff198083954372054e79d8ad060cf00a404b97d1f37dc5f3"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "c0c1fe2be528b7a75d36de401a637858d2823f4b4e1cbec550c6a2f57955ce2e"
+hash = "f6de71f5181846c22474f3570e5fe2abf482f06c810c081b54baff46b79bc59d"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -12734,15 +12734,15 @@ hash = "74e7797baf64b4f18a9ce3e25aa25f0d807058af9470d551f46191a23e679ebb"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "e53f45b801fca0be2dd7e5818bf1c7e15b63804f739be43adf4f954da75998db"
+hash = "fafa46856adb75aa28e0d811424f9e20f97d1b23666af4fa148c2e40ba458d77"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "21d2975b7691ffe920a1a5e57249b21b2135cfa7fd8e195a34ac0390be90a341"
+hash = "7a15e4a91c6bcb06a3f4ac49b116245c6ea758631208f69f5446ca529415ed90"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "7998eefc10f3bf0f19a3fee22d2183436998295b1ede8e8c367b92db3a5a90b9"
+hash = "aab58caff82808d0c51d99a4e280abd4815607708d1c6d3516978cae0e323d36"
 
 [[files]]
 file = "config/the_vault/global_trader.json"
@@ -12930,7 +12930,7 @@ hash = "5eba61d1745711adeed1f46bf02ab610f3a3ce661ca2af62b6b3c763de822b59"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "9ae6ec4beb6fe9b7035f0cb4d4961a3621afca09bd5d8801ac5bb592ae6fedb2"
+hash = "cd7567c1f09a55977954f6d12ad94201733f7becd71d98017bfa6ea14d0fe822"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
@@ -12990,7 +12990,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "c6fddce4b64076789427f2a0f8dab48ac433e7e812b106a93db075bea3098ab5"
+hash = "35f8f86f0baf2bc3c78deded5b21c76785b1702606116bdd3e8f9f4a103eb160"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13038,7 +13038,7 @@ hash = "7514ba3b89bbc3357b6ea6e6e92906b6b4d2046ef0526b9879db022055470ea7"
 
 [[files]]
 file = "config/the_vault/theme_tooltips.json"
-hash = "71a932d54b49cb6fbc37f6e7199624b691f7ff9871e20aa6f71d473e9abd0f0a"
+hash = "d05c9c5691ad41cdffd7ddf9850d472fae059dccd90719db55b93990301be13f"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -13058,7 +13058,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "b353b3ab190097a8554612616441b2b773c642516d951da00247a78aaa4d2932"
+hash = "048a9d93aa708e18602d469d7d1480114fc4d8191eeabc981ca7c9a767460423"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -13214,7 +13214,7 @@ hash = "97bb789c962e4256c1952c800e8f72619dd3dc23995775f42d6c80a8d4c66cc2"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
-hash = "a61342b3987582fa1bc4ceee7588835805e48023f17cb3eedb860a4185a85835"
+hash = "e2845d7806faead066795c3ffaa2fc2d141bfe3b8aaaa24ba620fb98332d2c7e"
 
 [[files]]
 file = "config/the_vault/vault_modifier_overlay.json"
@@ -13226,7 +13226,7 @@ hash = "dd08568d149b2a96542bd7d70b801e4e8a2fa11979ff5f9d2412fc357dd22632"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "98af70b2ad4e1b679eb3becfbbee5f3d82f70d92d8b5543e3025d73358cfa3dc"
+hash = "7d214ff61ed5aa2af8629d266bfadea7b26af167557dbd20d34295bd555ef705"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -14986,7 +14986,7 @@ hash = "2ea3666791f498b98318926fbc733fb91621f700830edd088cdf1df93d51c3db"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "3206cd3b6f793af1b59b225b1c91116759a372057e262cf4004626e346167bf2"
+hash = "72fb2fec488291683e13f1e37d2859166bb538f4fd6b98bad39f25f272b998fe"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/acacia_log_1.json"
@@ -16226,7 +16226,7 @@ hash = "b85efefc23a5531264d18bb62234a3fd36f8735a4aef0f2f3bb7cdd555cd8995"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/block_gem_iskallium.png"
-hash = "6be98cf943ee439fa581de40fa5be16674f50372b26484d62b9f27f36251995f"
+hash = "95918166928643869f2ae29e207abd5b2ec85dd8524045df59b8b36da90be3af"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/block_gem_iskallium.png.mcmeta"
@@ -16353,6 +16353,30 @@ file = "kubejs/assets/the_vault/textures/block/omega_pog_1.png.mcmeta"
 hash = "5906151eaedafaf61d4d51f4371ebc94a10dc162163f304ac59db7f687a388bc"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/stone/iskallium.png"
+hash = "a0919c1911af172337d113b0b3cdc827120c4e750b2686a4668929206669b737"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/stone/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/vault_stone/iskallium.png"
+hash = "8ad4f6c51696947aa1ce869138501e3eb3a849f5d97c8f2ff1e6e8787402e168"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/vault_stone/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/white/iskallium.png"
+hash = "fc6c042341a6c26312e784a4285d842cc1e1056cd0a332de86c70231247d373e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/white/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/block/ornate_block_1.png"
 hash = "d76d2d065e3e02cb51454d98217ada8f48d31c0f82b9154331c87393163f5449"
 
@@ -16379,6 +16403,10 @@ hash = "fe6256715079efe028f3a667a8beb738ca8ff720eb731d0f61b9132cb6e03402"
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/silver_scrap_2.png"
 hash = "8e17f5053b7d0196349ff08e4bb17ac6e0b481c04fcc6aaabdb959e7725e911e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/treasure_doors/iskallium.png"
+hash = "d686ab135c2f55c133db7a3e1b947c88fe0996b098147a91599bad84b2958c0d"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/vault_cobblestone_1.png"
@@ -16451,6 +16479,34 @@ hash = "be2f2837d269acbae76cdff58f395bfa81939d4e24238d49a0b4890f642879c9"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/bingo/vindicator.png"
 hash = "dc835a2d4dc175d9cd680b856f35ef62094e53d24abac95e49709effb35f1f6e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png"
+hash = "8a484230ddbdd8a3d760ddbe9d3fdb733b481bb8094d76639cde4b53a2d2a87c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png.mcmeta"
+hash = "ccae14555a2f227dbecba32c68580a73c9d151a99446445c94de41278671c7cb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png"
+hash = "e1752fa4e5157a952eaf6de7b9b28250b03a7c3e3262107bf1253b2d6364a2ff"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png.mcmeta"
+hash = "59baece448c0c48bbbdf25dd1fcf5f985e4053e49d2beb8d8eb8e9813c0b454d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png"
+hash = "fc027823be88fc615d753cb576033826e0085576c95f782d296260ad028503d0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png.mcmeta"
+hash = "a56fca95e9b14352649794acbe4f5a49e80f94992bad5a94ab8a4bfba5f8e420"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/key_iskallium.png"
+hash = "77178af77a2e8c71c3c917ed6b794df4da3f2ba7c78827a79fd4e4b222303428"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/trinket/miners_headlamp.png"
@@ -18578,7 +18634,7 @@ hash = "0a0a6789698f690e5e271e374e1280b3202a027eb4407534208ffbcb27070682"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "04085b71a30557afb33a459465739de360c3caedc925cfdfe695c42e52ffcdc7"
+hash = "668484777d49358040d8c843a347e25bef41e0740307f276e5d752ba7ef98f46"
 
 [[files]]
 file = "kubejs/startup_scripts/vh_compressio/blocks.js"
@@ -20531,7 +20587,7 @@ metafile = true
 
 [[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
-hash = "001afc860d46bcb38cf2ff7bed5cdf4346b82c6d707c1f8d02d4c60b0bf01f29"
+hash = "86136d1df1b3103dca9ddcbeffea9b5cf52d0051d94c0a3f8be73b58fbdd371d"
 metafile = true
 
 [[files]]
@@ -21088,7 +21144,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vault-loafers.pw.toml"
-hash = "c7fe7dbd2f3eee73d02b8e1cb5680ccf9c0b02726bda94ac2b760cf726432d9f"
+hash = "9e31eaf2b183e590c2ad1452ba2bc8a3e2ce5cf8de79ec644a7fd2ec0c19743d"
 metafile = true
 
 [[files]]

@@ -405,7 +405,7 @@
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:inscription",
-        "NBT": "{pool:\"the_vault:iskallian_garden\", data:{color:7012096,model:16}, display:{Name:'{\"text\":\"Iskallian Garden Inscription\",\"color\":\"#6AFF00\"}' }}"
+        "NBT": "{pool:\"the_vault:iskallian_garden\", data:{color:7012096,model:16}, display:{Name:'{\"text\":\"Woldian Garden Inscription\",\"color\":\"#6AFF00\"}' }}"
       },
       "inputs": [
         {

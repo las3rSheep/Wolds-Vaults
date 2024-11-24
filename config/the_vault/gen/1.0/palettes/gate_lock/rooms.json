@@ -84,7 +84,7 @@
         "{FullName: \"Painting Room\", RoomReference: \"the_vault:vault/rooms/omega/painting\"}": 10,
         "{FullName: \"Playzone Room\", RoomReference: \"the_vault:vault/rooms/omega/playzone\"}": 10,
         "{FullName: \"Arcade Room\", RoomReference: \"the_vault:vault/rooms/omega/arcade\"}": 8,
-        "{FullName: \"Iskallian Garden Room\", RoomReference: \"the_vault:vault/rooms/omega/iskallian_garden\"}": 4
+        "{FullName: \"Woldian Garden Room\", RoomReference: \"the_vault:vault/rooms/omega/iskallian_garden\"}": 4
       }
     }
   ],

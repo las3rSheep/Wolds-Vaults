@@ -34,7 +34,7 @@ onEvent('block.registry', event => {
 	event.create('the_vault:block_gem_black_opal').displayName('Block of Black Opal Gem').tagBlock('forge:storage_blocks/black_opal').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
 	event.create('the_vault:block_gem_echo').displayName('Block of Echo Gem').tagBlock('forge:storage_blocks/echo').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
 	event.create('the_vault:block_gem_sparkletine').displayName('Block of Sparkletine Gem').tagBlock('forge:storage_blocks/sparkletine').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
-	event.create('the_vault:block_gem_iskallium').displayName('Block of Iskallium Gem').tagBlock('forge:storage_blocks/iskallium').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
+	event.create('the_vault:block_gem_iskallium').displayName('Block of Woldium Gem').tagBlock('forge:storage_blocks/iskallium').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
 	event.create('the_vault:block_gem_upaline').displayName('Block of Upaline Gem').tagBlock('forge:storage_blocks/upaline').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
 	event.create('the_vault:block_gem_xenium').displayName('Block of Xeenium Gem').tagBlock('forge:storage_blocks/xenium').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
 	event.create('the_vault:block_gem_petzanite').displayName('Block of Petezanite Gem').tagBlock('forge:storage_blocks/petzanite').tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:beacon_base_blocks')
