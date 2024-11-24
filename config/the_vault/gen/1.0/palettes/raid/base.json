@@ -20,37 +20,17 @@
             "particleColor": "0xCC0000"
           },
           "zone": {
-            "min": [
-              -23,
-              -20,
-              -23
-            ],
-            "max": [
-              23,
-              27,
-              23
-            ]
+            "min": [-23, -20, -23],
+            "max": [23, 27, 23]
           },
           "spawners": [
             {
-              "pos": [
-                0,
-                -20,
-                0
-              ],
-              "groups": [
-                "ground"
-              ]
+              "pos": [0, -20, 0],
+              "groups": ["ground"]
             },
             {
-              "pos": [
-                0,
-                -19,
-                0
-              ],
-              "groups": [
-                "elevated"
-              ]
+              "pos": [0, -19, 0],
+              "groups": ["elevated"]
             }
           ],
           "waves": {
@@ -60,23 +40,7 @@
           },
           "proxies": [
             {
-              "pos": [
-                [
-                  3,
-                  0,
-                  0
-                ],
-                [
-                  -3,
-                  0,
-                  0
-                ],
-                [
-                  0,
-                  0,
-                  3
-                ]
-              ],
+              "pos": [[3, 0, 0], [-3, 0, 0], [0, 0, 3]],
               "entries": [
                 {
                   "action": "positive_base",
@@ -103,42 +67,42 @@
                     {
                       "type": "group",
                       "add_ravager": 2,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_healer": 2,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_evoker": 2,
-                      "weight": 3
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_vex": 4,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_vindicator_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_vex_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_pillager_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_ravager_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     }
                   ],
                   "probability": 1.0,
@@ -147,11 +111,7 @@
               ]
             },
             {
-              "pos": [
-                0,
-                0,
-                -3
-              ],
+              "pos": [0, 0, -3],
               "entries": [
                 {
                   "action": "forfeit",

@@ -15018,35 +15018,11 @@
     ],
     "Jeweler": [
       {
-        "text": "Gain the ability to "
+        "text": "Adds 1 additional choice to "
       },
       {
-        "text": "cut Jewels",
+        "text": "Jewel Pouches",
         "color": "yellow"
-      },
-      {
-        "text": " without affecting their grade.\n\n1. "
-      },
-      {
-        "text": "1 Cut",
-        "color": "yellow"
-      },
-      {
-        "text": "\n2. "
-      },
-      {
-        "text": "2 Cuts",
-        "color": "yellow"
-      },
-      {
-        "text": "\n3. "
-      },
-      {
-        "text": "3 Cuts",
-        "color": "yellow"
-      },
-      {
-        "text": "\n\n "
       }
     ],
     "Divine": [

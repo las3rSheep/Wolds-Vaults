@@ -13206,7 +13206,7 @@ hash = "bad62cf50ad8c82edddceb22a26bdb4eb6d3eeab405a8a4009515fc8f4e57b6b"
 
 [[files]]
 file = "config/the_vault/vault_levels.json"
-hash = "99bd1c217f4a7512dcd4454c9bf2052b58498c467bf3176dd8ac64bb1046dfa2"
+hash = "719341e39d1c9a04e9368c25177fddaa8db8df1f5d83b6b1f254f2a6100b85de"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"

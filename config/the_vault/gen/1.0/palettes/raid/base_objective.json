@@ -9,27 +9,11 @@
           "waves": {
             "type": "uniform",
             "min": 7,
-            "max": 10
+            "max": 11
           },
           "proxies": [
             {
-              "pos": [
-                [
-                  3,
-                  0,
-                  0
-                ],
-                [
-                  -3,
-                  0,
-                  0
-                ],
-                [
-                  0,
-                  0,
-                  3
-                ]
-              ],
+              "pos": [[3, 0, 0], [-3, 0, 0], [0, 0, 3]],
               "entries": [
                 {
                   "action": "positive",
@@ -56,42 +40,42 @@
                     {
                       "type": "group",
                       "add_ravager": 2,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_healer": 2,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_evoker": 2,
-                      "weight": 3
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_vex": 4,
-                      "weight": 4
+                      "weight": 6
                     },
                     {
                       "type": "group",
                       "add_vindicator_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_vex_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_pillager_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     },
                     {
                       "type": "group",
                       "add_ravager_champion": 1,
-                      "weight": 2
+                      "weight": 3
                     }
                   ],
                   "probability": 1.0,
@@ -100,11 +84,7 @@
               ]
             },
             {
-              "pos": [
-                0,
-                0,
-                -3
-              ],
+              "pos": [0, 0, -3],
               "entries": [
                 {
                   "action": "forfeit",

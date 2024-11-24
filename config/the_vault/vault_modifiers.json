@@ -4481,8 +4481,7 @@
         "properties": {
           "children": {
             "the_vault:rotten": 1,
-            "the_vault:extra_reinforced": 1,
-            "the_vault:durability_cap": 1
+            "the_vault:extra_reinforced": 1
           }
         },
         "display": {
