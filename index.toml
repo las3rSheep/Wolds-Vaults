@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "55ec20aea9f42433cefb96a6af276e8a4cc5669cda5fdc79ef2667e9ce0b84f1"
+hash = "f9c3824595f2be7fb01d4f60cfebbeadbd21ac8fef73cd4a4603559dd1fafd2c"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -20616,7 +20616,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "bd774172764064c15704348b0bdd55435b70033a0c00dbb613e7939a41c55c7f"
+hash = "c49df5e801fe73dcf0fb5051bba8bc1203a834e61461ac85067860c8aaa604bb"
 metafile = true
 
 [[files]]
