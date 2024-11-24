@@ -3378,8 +3378,9 @@
         ]
       }
     ],
-"the_vault:brazier_new": [
-      { "level": 0,
+    "the_vault:brazier_new": [
+      {
+        "level": 0,
         "entries": [
           {
             "min": 1,
@@ -3421,7 +3422,6 @@
                 "value": "the_vault:bronze_nuke",
                 "weight": 7
               }
-              
             ]
           },
           {
@@ -3430,10 +3430,6 @@
             "pool": [
               {
                 "value": "the_vault:harder_mobs",
-                "weight": 136
-              },
-              {
-                "value": "the_vault:more_mobs",
                 "weight": 136
               },
               {
@@ -3460,7 +3456,6 @@
                 "value": "the_vault:injured_percent",
                 "weight": 136
               },
-              
               {
                 "value": "the_vault:brutal_mobs",
                 "weight": 25
@@ -3469,13 +3464,12 @@
                 "value": "the_vault:ethereal_mobs",
                 "weight": 25
               }
-              
-              
             ]
           }
         ]
       },
-      { "level": 20,
+      {
+        "level": 20,
         "entries": [
           {
             "min": 1,
@@ -3529,7 +3523,6 @@
                 "value": "the_vault:bronze_nuke",
                 "weight": 7
               }
-              
             ]
           },
           {
@@ -3538,10 +3531,6 @@
             "pool": [
               {
                 "value": "the_vault:harder_mobs",
-                "weight": 136
-              },
-              {
-                "value": "the_vault:more_mobs",
                 "weight": 136
               },
               {
@@ -3568,7 +3557,6 @@
                 "value": "the_vault:injured_percent",
                 "weight": 136
               },
-              
               {
                 "value": "the_vault:brutal_mobs",
                 "weight": 25
@@ -3577,13 +3565,12 @@
                 "value": "the_vault:ethereal_mobs",
                 "weight": 25
               }
-              
-              
             ]
           }
         ]
       },
-      { "level": 50,
+      {
+        "level": 50,
         "entries": [
           {
             "min": 1,
@@ -3641,7 +3628,6 @@
                 "value": "the_vault:bronze_nuke",
                 "weight": 7
               }
-              
             ]
           },
           {
@@ -3650,10 +3636,6 @@
             "pool": [
               {
                 "value": "the_vault:harder_mobs",
-                "weight": 136
-              },
-              {
-                "value": "the_vault:more_mobs",
                 "weight": 136
               },
               {
@@ -3680,7 +3662,6 @@
                 "value": "the_vault:injured_percent",
                 "weight": 136
               },
-              
               {
                 "value": "the_vault:brutal_mobs",
                 "weight": 25
@@ -3689,8 +3670,6 @@
                 "value": "the_vault:ethereal_mobs",
                 "weight": 25
               }
-              
-              
             ]
           }
         ]
