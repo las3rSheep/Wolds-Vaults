@@ -195,7 +195,7 @@
           },
           {
             "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
+            "attribute": "the_vault:durability_wear_reduction_cap",
             "value": 0.25,
             "learnPointCost": 1,
             "regretPointCost": 0,

@@ -4701,46 +4701,46 @@
     ],
     "Unbreakable": [
       {
-        "text": "Passively adds a "
+        "text": "Increases the cap for "
       },
       {
-        "text": "chance",
-        "color": "#FFEB07"
+        "text": "Durability Damage Reduction",
+        "color": "#69D68F"
       },
       {
-        "text": " of not losing durability on gear and tools when getting hit or using them.\n\n1 "
+        "text": ".\n\n1 "
       },
       {
-        "text": "6%",
-        "color": "#FFEB07"
+        "text": "+5%",
+        "color": "#69D68F"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "12%",
-        "color": "#FFEB07"
+        "text": "+10%",
+        "color": "#69D68F"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "18%",
-        "color": "#FFEB07"
+        "text": "+15%",
+        "color": "#69D68F"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "24%",
-        "color": "#FFEB07"
+        "text": "+20%",
+        "color": "#69D68F"
       },
       {
         "text": "\n5 "
       },
       {
-        "text": "30%",
-        "color": "#FFEB07"
+        "text": "+25%",
+        "color": "#69D68F"
       }
     ],
     "Looter": [

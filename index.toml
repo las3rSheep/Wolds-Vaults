@@ -474,7 +474,7 @@ hash = "a39277e5d7c279b7b39976a19bf4929fa7114abeae417fc730954ab7cc09d6b0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
-hash = "0b3f9a95d41779232fbe8cd026414debf5e75c3766cb06fb49db19ddf8111876"
+hash = "0e8b568a30d5ec4fa9386d5f1d213d83682c358e0b2c95d330e738b580feed92"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
