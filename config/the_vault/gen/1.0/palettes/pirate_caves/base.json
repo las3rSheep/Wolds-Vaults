@@ -4,15 +4,15 @@
       "type": "weighted_target",
       "target": "the_vault:placeholder[type=\"gilded_chest\"]",
       "output": {
-        "the_vault:placeholder[type=gilded_chest]": 7,
-        "minecraft:air": 3
+        "the_vault:placeholder[type=gilded_chest]": 4,
+        "minecraft:air": 1
       }
     },
     {
       "type": "weighted_target",
       "target": "the_vault:placeholder[type=\"coin_stacks\"]",
       "output": {
-        "the_vault:placeholder[type=coin_stacks]": 1,
+        "the_vault:placeholder[type=coin_stacks]": 3,
         "minecraft:air": 1
       }
     },
