@@ -394,7 +394,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "488848b3654deaae613240cad3c6a9c2a5672e17fe7a5cfba3c77e9955cf9d43"
+hash = "77d777b6c8b0a330f7ce0ba651433470d2056ea96a8a9232a4851a1153041f14"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -2686,7 +2686,7 @@ hash = "96449a2d8b2fdd9980eed2c2649631117fa629b323c70aad45851ea22cb0b925"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/pirate_caves/base.json"
-hash = "ebccbfce2329e7ec171788b952f65e4ee5a0208d8b2b135e07d6f2937454754c"
+hash = "0a6eef4ccd7605396021766519b1ca127f1274cc8420ab7f548b5fd97e7a6d06"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/pirate_caves/spawner_settings.json"
@@ -8386,7 +8386,7 @@ hash = "1a67d31c5ebd50545657727bc3f6cb267b632f14a0f5175c7d99228b6f505d56"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
-hash = "14af9a27a8b3b70ca8793c5dc27a7d1060010519ff69f21ef12761fd2cc13d87"
+hash = "25530f03ef7f668e6bdbf591daca863eb9c18825e2b5a81d64fccd1844f6fb3e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/raid1.nbt"
@@ -12990,7 +12990,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "35f8f86f0baf2bc3c78deded5b21c76785b1702606116bdd3e8f9f4a103eb160"
+hash = "8a09079568287fb1c6765378c646fa1c22c98d61806d34f9a5e15774e3e17bcf"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13222,7 +13222,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "dd08568d149b2a96542bd7d70b801e4e8a2fa11979ff5f9d2412fc357dd22632"
+hash = "149827ac41cad1015113b55e1aadc4ca80726ff75472b0cfe40b7e4f379790f1"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -18397,6 +18397,10 @@ file = "kubejs/server_scripts/vh_compat/mega_cells/recipes.js"
 hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/mekanism/rec.js"
+hash = "d4c039a751132958e2be52c1d55b46a9a8756b6b84374616f040022f00017a50"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"
 hash = "d432ab36ee499ebceed17af40b2096699854ac72ef6a3afc98459fe35ddd9ef9"
 
@@ -21149,7 +21153,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "483b5760b4ecf7e619347ac6614f317b28e1056068306629ffdfbd16fd9485ae"
+hash = "d0f9da3480b642d9dce78bd8ec2f6b79f28b6de77cd5a4cddcde197c282092a6"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -21217,7 +21221,7 @@ hash = "b67fff2c8222988dd4eafe0799860fc59a708c9c0f9432321286536d51faca99"
 
 [[files]]
 file = "scripts/Mekanism.zs"
-hash = "cd01b756d98fc4ffdb595f2251c4115992cc63852b038ceb0d6b391739f59d41"
+hash = "c7674bc60a009ddd8ad9247240015e6abb9b4584d0f42c556ac223499f8af264"
 
 [[files]]
 file = "scripts/MekanismCustom.zs"
