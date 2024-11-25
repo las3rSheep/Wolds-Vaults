@@ -78,7 +78,7 @@ onEvent("recipes", event => {
     }).id('ars_nouveau:imbuement_amethyst_block')
 
     event.shapeless('ars_nouveau:source_gem_block', ['9x ars_nouveau:source_gem']).id('ars_nouveau:source_gem_block')
-
+    event.shapeless('9x ars_nouveau:source_gem', ['ars_nouveau:source_gem_block']).id('ars_nouveau:source_gem_block_2')
 
     event.remove({ id: 'ars_nouveau:imbuement_amethyst' })
 
