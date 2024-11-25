@@ -16501,6 +16501,14 @@ file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png.mcmeta"
 hash = "59baece448c0c48bbbdf25dd1fcf5f985e4053e49d2beb8d8eb8e9813c0b454d"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/sword/skallified_sword.png"
+hash = "d3415018f2ebf5bca560046f4ebcd5acabfa535ba9e9da7217b99c85430383f0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/wand/iskallium.png"
+hash = "9c3b37298f116b5e7a910be78118500e9df1edef1e035ae6be86593675a5c879"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png"
 hash = "fc027823be88fc615d753cb576033826e0085576c95f782d296260ad028503d0"
 
@@ -18202,7 +18210,7 @@ hash = "abd3ff1579b2d83f4010478c4df74ef00eb945e4b5d40e190dd2f4b323b204fd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/enchanter.js"
-hash = "dc793e833339678bba76fe71af2e16a1cd6c3a7411462226a911446cc3e2b3d2"
+hash = "ecb56dc3b39285d4a6368c13aaa41da5827e17bf73b179cd3e47f13fd93f2922"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/glyphs.js"
