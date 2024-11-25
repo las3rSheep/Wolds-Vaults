@@ -66,6 +66,19 @@ onEvent("recipes", event => {
         "pedestalItems": []
     }).id('ars_nouveau:imbuement_lapis')
 
+    event.custom({
+        "type": "ars_nouveau:imbuement",
+        "input": {
+            "item": "the_vault:wutodic_silver_block"
+        },
+        "output": "ars_nouveau:source_gem_block",
+        "count": 1,
+        "source": 2000,
+        "pedestalItems": []
+    }).id('ars_nouveau:imbuement_amethyst_block')
+
+    event.shapeless('ars_nouveau:source_gem_block', ['9x ars_nouveau:source_gem']).id('ars_nouveau:source_gem_block')
+
 
     event.remove({ id: 'ars_nouveau:imbuement_amethyst' })
 

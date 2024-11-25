@@ -74,4 +74,13 @@ onEvent('jei.add.items', event => {
         event.add(Item.of('woldsvaults:chiseling_focus', { modifier: `the_vault:${type}` }))
     })
     event.add(Item.of('woldsvaults:research_token', { research: "Waystones" }))
+
+    //Stuff for Filters
+    //Rarities
+    event.add(Item.of('the_vault:chestplate', {
+        "the_vault:gear_unique_pool": "the_vault:castle_chestplate", "the_vault:gear_roll_type": "Unique"
+    }))
+    event.add(Item.of('the_vault:chestplate', {
+        "the_vault:gear_roll_type": "Omega"
+    }))
 })

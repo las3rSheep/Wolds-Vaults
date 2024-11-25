@@ -2748,28 +2748,12 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:brutal_mobs",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:injured",
-                "weight": 40
-              },
-              {
                 "value": "the_vault:shortened",
                 "weight": 40
               },
               {
-                "value": "the_vault:drained",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:ethereal",
-                "weight": 20
-              },
-              {
-                "value": "the_vault:lethal",
-                "weight": 20
+                "value": "the_vault:empty",
+                "weight": 5
               }
             ]
           }

@@ -62,38 +62,6 @@
             }
           }
         ]
-      },
-      {
-        "attribute": "the_vault:endergized",
-        "group": "BaseEndergized",
-        "identifier": "the_vault:base_endergized",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:endergized",
-        "group": "BaseEndergized",
-        "identifier": "the_vault:base_no_endergized",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 90,
-            "value": {
-              "flag": false
-            }
-          }
-        ]
       }
     ],
     "IMPLICIT": [
@@ -227,6 +195,38 @@
               "min": 0.21,
               "max": 0.25,
               "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:endergized",
+        "group": "BaseEndergized",
+        "identifier": "the_vault:base_endergized",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:endergized",
+        "group": "BaseEndergized",
+        "identifier": "the_vault:base_no_endergized",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 90,
+            "value": {
+              "flag": false
             }
           }
         ]

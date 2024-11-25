@@ -262,7 +262,7 @@
         "identifier": "the_vault:u_base_magnet_velocity",
         "tiers": [
           {
-            "minLevel": 50,
+            "minLevel": 0,
             "maxLevel": -1,
             "weight": 100,
             "value": {
@@ -272,7 +272,7 @@
             }
           },
           {
-            "minLevel": 85,
+            "minLevel": 50,
             "maxLevel": -1,
             "weight": 100,
             "value": {

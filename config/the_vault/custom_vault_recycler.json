@@ -15,7 +15,7 @@
                     "item": "the_vault:knowledge_star_essence"
                 },
                 "minCount": 1,
-                "maxCount": 2
+                "maxCount": 8
             },
             "extraOutput2": {
                 "chance": 0.0,

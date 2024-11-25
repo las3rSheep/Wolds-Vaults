@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f9c3824595f2be7fb01d4f60cfebbeadbd21ac8fef73cd4a4603559dd1fafd2c"
+hash = "55ec20aea9f42433cefb96a6af276e8a4cc5669cda5fdc79ef2667e9ce0b84f1"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -334,7 +334,7 @@ hash = "a3b8ee2e6c748fe2cb7254e254a0c0e16c30febf417cae0c90cbc583e64b9a9c"
 
 [[files]]
 file = "config/the_vault/custom_vault_recycler.json"
-hash = "a89b0c0b20367b4720efe3412f08b04aea767cf7da1e4057f93fa089cc7db79f"
+hash = "fb62020643639b97347b97c763c57123434d66fc314632bf202c03cde81e5dc4"
 
 [[files]]
 file = "config/the_vault/difficulty_description.json"
@@ -510,7 +510,7 @@ hash = "6ba54574447edaefdb1f9eb32d379f858e9e3ae62ebe78eee7a60b6178a5cc61"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "47ef3d0f845120185d4fe6beec9650c47e1252390b6de4dc763d280431d8afbf"
+hash = "c9660dd5f9c81b6a8fb591d5c006e422e85528dfcbc4598854e5cfbebdada13c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
@@ -530,7 +530,7 @@ hash = "023c5a09b77389a313b6607b805ab46b5c94024dc2727771a33e4363ce5298f2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "22b29b61528f198257a76294a8974fd1bf115118e3aa96abd71c6727e1238701"
+hash = "edb4e1b21cfe7b5250670053406a9d42985b7ce92e87be3f296849677f42ac73"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -1574,15 +1574,15 @@ hash = "6b3d2bf354c0f0719e79809116fc40339737ec36e3c4824720870ed312278852"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_large.json"
-hash = "b5dce60d453405b432e7fca7612e8c87901a259da37a5a4fa879119a4d7e2d9a"
+hash = "d1a1deb56e158c5e28ec4f3e94eceb42f8196ee79f24d33ee953622db5a415cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_medium.json"
-hash = "a43819b85bffa3c8eddd94da8545e7f427859e3c7397bd73f3f940a7adf183ce"
+hash = "1b26b361be53ad8231757ba0525fcb92ea4700326fd19b61df7e567bdc2c23d5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_small.json"
-hash = "9081a695a62b96618ef430e005fcb6aa1b22e583dc5bdb11b114a098613381b5"
+hash = "4f7a0d9f60d0a2dadfdab9a24dcc69989e716c4c68a11acfeba984c91b2f9f94"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_rooms.json"
@@ -10410,7 +10410,7 @@ hash = "f980547eff198f2940b0fbb4688b13c45912ee9ef7bd3075aa7e039b80901d52"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_common_rooms.json"
-hash = "36fb0c7a72198e77d996fa79dd41d77ecd0d16aa80c5ee2dc29a65d9008ea297"
+hash = "d7fdb78713dc9c5f0ceabcd941d47657edf85baf1eac7f653a22179912d6135d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_rooms.json"
@@ -11870,11 +11870,11 @@ hash = "965851abe539516062bcc4505c5199c73147a64411b0a054042a2146bc7a48a2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_cake_starts.json"
-hash = "78b32544810d6e48cefd096f4671e30886017472eb14caf09d5a731f09074647"
+hash = "13c66166f775f69613c868593e573b3af1b7d041e606b9f31cecd6e14b7cbc93"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_starts.json"
-hash = "78b32544810d6e48cefd096f4671e30886017472eb14caf09d5a731f09074647"
+hash = "13c66166f775f69613c868593e573b3af1b7d041e606b9f31cecd6e14b7cbc93"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/dark_cavern_starts.json"
@@ -12138,11 +12138,11 @@ hash = "6951ad080604d659763d5b3f260c0cb6ba63bdf6aedce63500921850071282d2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_cake_tunnels.json"
-hash = "ecb0771d8c77bbae632be8bb22e053e6085097bc06cafcca6116525682017f2c"
+hash = "e64483ab055cd4a0ace1ee36b68014d73f520703d6738f3b28266ad1cd6fd291"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_tunnels.json"
-hash = "ecb0771d8c77bbae632be8bb22e053e6085097bc06cafcca6116525682017f2c"
+hash = "e64483ab055cd4a0ace1ee36b68014d73f520703d6738f3b28266ad1cd6fd291"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/dark_cavern_tunnels.json"
@@ -12830,7 +12830,7 @@ hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
 
 [[files]]
 file = "config/the_vault/monolith.json"
-hash = "7333e23ee9f686968bc58f37357536a744576e410e2f99f8f850d7ce189e408a"
+hash = "84e2054e6054f98dd253df5efe0c534bd184dcbdb7aececb4cc57746f8846b59"
 
 [[files]]
 file = "config/the_vault/mystery_box.json"
@@ -12970,7 +12970,7 @@ hash = "7ca6d5d38549cdde8cf81056f63ccd4394c6369e718892897b1aa070e5bc8db9"
 
 [[files]]
 file = "config/the_vault/scavenger.json"
-hash = "5f16e0dd710370920f88dc19375071d24127c5cf9f63a13c1895d334e7b3b0d0"
+hash = "71e64204bbceaed8b324ae9371733ae9011a81d0ae517c561962aa2fb3bc8f3b"
 
 [[files]]
 file = "config/the_vault/scavenger_hunt.json"
@@ -13222,11 +13222,11 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "149827ac41cad1015113b55e1aadc4ca80726ff75472b0cfe40b7e4f379790f1"
+hash = "a01ff1aea5955f9587db1609d76e9adc0c8b124b12cb2a3003b34b554b5af7b4"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "7d214ff61ed5aa2af8629d266bfadea7b26af167557dbd20d34295bd555ef705"
+hash = "615f5e00a1ac7e3b6a7f6189bf0a02d91dfee8eda43c1295d57837ba6637c74e"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -14627,6 +14627,10 @@ hash = "0542246c0eb4501f43fa767ffa909bd77c0d8981fcdcbd28868f9b31434a3e9e"
 [[files]]
 file = "configureddefaults/config/vaultintegrations/altar_conduit.json"
 hash = "60343881ba35f1d7754eb51487f27295bca18f86d0a2a5dbbfb2b7a931d88f13"
+
+[[files]]
+file = "configureddefaults/config/vaultmapper-client.toml"
+hash = "d57c8c561c2c3c7b5355d942bd173132cd4ed7def87922bfd66cf374d364aa98"
 
 [[files]]
 file = "configureddefaults/config/vhatcaniroll-client.toml"
@@ -16570,7 +16574,7 @@ hash = "b769f64576ac62da230eedc272b6031c3d481bfee7bf4db4c8e8b99d465d42bb"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
-hash = "dde33031924813423d62777fe5cb3f5bec3f36b3679154989d17678de74316b8"
+hash = "72bcac314c52d9aea7cdf0ab737868775e0a4e7c8fc2fc8335f9b7884e1e9237"
 
 [[files]]
 file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
@@ -18198,7 +18202,7 @@ hash = "abd3ff1579b2d83f4010478c4df74ef00eb945e4b5d40e190dd2f4b323b204fd"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/enchanter.js"
-hash = "984409ace38b9c4067860ca0d2bfb005031d81eb0ef58aab4a935a44882bad1b"
+hash = "dc793e833339678bba76fe71af2e16a1cd6c3a7411462226a911446cc3e2b3d2"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ars_nouveau/glyphs.js"
