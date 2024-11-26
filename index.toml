@@ -13162,7 +13162,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "a9818946feec40515b00886056cde4a657ca84509087adcae8c33b21cf43d155"
+hash = "ba21eeb94e2097047cae335b491fe7dc4c70c9883c22f4040487641bd54f345d"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -15161,6 +15161,22 @@ file = "kubejs/assets/kubejs/models/block/withered_bone_block_horizontal_1.json"
 hash = "bc852f8dd8dd5aa44331d89acb17d670d2d6408177a6dc1eafe0871591de67da"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/aqua_unobtanium_block.png"
+hash = "d43a20ff0ce4229a8b99636dbcc3b36d78bc73fa3337f095ce857154cd37cb76"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/black_unobtanium_block.png"
+hash = "4001d0eb8164cf0364343e5bf1f3d2f4f3b1fe115b0bf9ce2e755e1f35e37a54"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/blue_unobtanium_block.png"
+hash = "0c7832b6196ffb719d56132197aac085e013ba81bf136e85e80aeea3601a1b9f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/brown_unobtanium_block.png"
+hash = "e4db91cb555174060e53f50887d5015210e40c8530d071fcb212113bdeee1b2d"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/coconut_log.png"
 hash = "fa129b75754ea40f284f21149b3d01518a67ec1d19f37656be7611d14549bb8b"
 
@@ -15185,8 +15201,20 @@ file = "kubejs/assets/kubejs/textures/block/coconut_log_top_2.png"
 hash = "4dc1522388373275181cc5dc838e80531c849594e61eb4e1539ed3d240a79079"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/cyan_unobtanium_block.png"
+hash = "d75335042c17e06994e3c5e4947f57f945b5f90ea3418f6b53580aba6a0f80ea"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/gray_unobtanium_block.png"
+hash = "c2ca907ef810109b5960c79d399963d83da03fd5820fd2123b93a9288bdc1de1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/green_unobtanium_block.png"
+hash = "8beffadd1b2554554bcf5e96cf473f0daa9022eced60961b0d24bc70907b4403"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/gunpowder_sack_1.png"
@@ -15205,8 +15233,40 @@ file = "kubejs/assets/kubejs/textures/block/knowledge_star_shard.png"
 hash = "05f518e16160e02cad53395f07f24e71f3f52400e9308b7f6a78162d1996f5a8"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/light_blue_unobtanium_block.png"
+hash = "43f4e7c33f2454283f5ed24db3e89cbed0188bd5da25bebe95f0b8c34f79998c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/light_gray_unobtanium_block.png"
+hash = "7b1da3fd2aa7b550c16b9487ab1713c3828dba3c4b00a26ecf0c2d6da25b67b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/lime_unobtanium_block.png"
+hash = "262e506b43e28206f296c7269b59381aab08194df6b473176290c097b803af45"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/magenta_unobtanium_block.png"
+hash = "5f7e6aa059599d48a13c85de1be25b2396920729cc4552b3fe735893e111ede8"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/magma.png"
 hash = "b5abcdf0675a26b54140cbf982c1835492951a2faa627002c7b528e18781e722"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/orange_unobtanium_block.png"
+hash = "e41cb28d42b8bb7e1e7b353b963b3bd64ecd447f9ebaeb0be06c13db14a11e46"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/pink_unobtanium_block.png"
+hash = "6d7bf263aad9617fe0388645a9bd297e99f2d09463dbc70cf93cad68216078f3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/purple_unobtanium_block.png"
+hash = "810dc4294362ad4af29db5ee196052eb58e1b5cc9ef2ed12d7abec51f2276db8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/red_unobtanium_block.png"
+hash = "77e236bb98933933d2151f21292eea31085ce23412c08032536e30877d84b429"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/refined_carbon.png"
@@ -15265,12 +15325,36 @@ file = "kubejs/assets/kubejs/textures/block/walnut_log_top_2.png"
 hash = "96fd61cf8795885785f8f49203318f3c01e7969cad658084368df4ac279ba5a2"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/white_unobtanium_block.png"
+hash = "482310bd0826ff00f756287eaf658b45f9fac4fe7e7abe2016513c511cf60759"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/withered_bone_block_1.png"
 hash = "4f5ba6f0e7424a4f778f096a361b219d26362b60b444b6336ce9425f74872f95"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/withered_bone_block_top_1.png"
 hash = "4f3f26e76a3c2a12f7783757f2e76480074ce93fb6dafe87e83310e48f6745d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/yellow_unobtanium_block.png"
+hash = "53ef80899dcb6e92605ea7f96f2d19247699988dcdf4aff762711f9396f25e22"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/aqua_unobtanium.png"
+hash = "7d9d594e1601cb5de92dd3ec0065dd0a7df495df5583cce40906b4313ffc69ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/black_unobtanium.png"
+hash = "227f9fbcfeb67aff5525b6496b9d06433cb0f719e2589d86c5c4a11a2574bc6d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/blue_unobtanium.png"
+hash = "e8419d5898940c253d81db5f4fe08f25fb2afe23ab96dfd4011566210f0f2d31"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/brown_unobtanium.png"
+hash = "09897bb606b9246497d6548125154d14ec5224312f294fff1dd57287f5f7667d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chromatic_gold_ingot.png"
@@ -15281,8 +15365,60 @@ file = "kubejs/assets/kubejs/textures/item/chromatic_gold_ingot.png.mcmeta"
 hash = "2456485fca289f9c66cac4f0ac2d2c25bf96609c78b13db5f1a513256e0e1d48"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/cyan_unobtanium.png"
+hash = "4020facfe4045040d2dfca00e58bceac72fdc705616547891f0d9ab3db824279"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gray_unobtanium.png"
+hash = "c1992f714d7e4923f742522a7eb37e5b91cf390d1aae07a3c567f7fcefdac179"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/green_unobtanium.png"
+hash = "eeb4f19df10fa296e6c369786a57bdca20cba11c10fda84d983aaa891b15638d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/light_blue_unobtanium.png"
+hash = "eb9e5b4208e663356a4e30cd1c72f307323bee53f003ce7ccae7b290e2209756"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/light_gray_unobtanium.png"
+hash = "3f4b0cb1235773fe9043f1d0fa14926f787bb5dbf322cfb39d52b089f12f709b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lime_unobtanium.png"
+hash = "3ad7b5477903df15913b371c187e70c0b5e6641edddaa46869bc95514bc3944c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/magenta_unobtanium.png"
+hash = "ec3a10b26ddb27736b863f3ec75bf07993d7516d1b8270061fb5be257f35eb9c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/orange_unobtanium.png"
+hash = "a3449278b1dd18c48124731b8bf1519ce2f73293f3073d4e51f940e857d8b8fb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pink_unobtanium.png"
+hash = "3872002626e4858fde4659d6233a6886acde2232a24b761c8d9b85418610e33e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/purple_unobtanium.png"
+hash = "0652eef6d4b216afac445ac0db8aa4b128ed2d605ad00e83ff5e5828ec153c4f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/red_unobtanium.png"
+hash = "e4a0bfcd50b44c01b7a332a434d126e5fc6b94a85d000d24870655f3cb9762de"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/white_unobtanium.png"
+hash = "acb35c7286e42eb29e9d66f4fdd02dbe05ec71be496e8b088312b169f4633e03"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yellow_unobtanium.png"
+hash = "a12c8145a36e0ef200ac584731097789df96fc16ecad4e0aecd7bccfb671c2c8"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/extended_catalyst.json"
@@ -18193,6 +18329,10 @@ file = "kubejs/jsconfig.json"
 hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
 
 [[files]]
+file = "kubejs/server_scripts/colored_unobtainium/script.js"
+hash = "191c7a7bd831e756ad371f382418e2a1771d0b8689130bab5280cc5390de5766"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
 hash = "c48c7fa36cd0a00a4ddc2418b1e1c4670f2fedefb755bb6039ee10d8a541c4a1"
 
@@ -18382,7 +18522,7 @@ hash = "f39bb326e477938bcb0449d9a586f9bdfc2a4233140ab59ccd5c8cfc17e4e66c"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/integrateddynamics/recipes.js"
-hash = "6766e4014f620346818637926e67469df0b0d5d87926df222699c21dda6a5a29"
+hash = "78af485ae80c642cb6420ff0405dde359128ba2a16ac2e74eca146522c7c1946"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ironchests/recipes.js"
@@ -18643,6 +18783,10 @@ hash = "58e7c68a452f1413cb1505ceafa9e23adf877466b410982002dd54a3ad8f6b88"
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/wold_star.js"
 hash = "15d6756ff230828c462826279e1b7d14eb10846bdce4813a7c919c59f34f51df"
+
+[[files]]
+file = "kubejs/startup_scripts/colored_unobtainium/script.js"
+hash = "cf13de427e6475ccb5dcc502b40c3f4199a5d43d06c8565af62d2af02496d301"
 
 [[files]]
 file = "kubejs/startup_scripts/reagants.js"
@@ -21310,7 +21454,7 @@ hash = "670221dd9dac90d7a9be0577f7e4022eb9fa94f7768fde5f99ebfaec05ed08d6"
 
 [[files]]
 file = "scripts/ae2.zs"
-hash = "77021a6103df2c1e0c72a9839edabac9da197ca6546902b3e760d034966ee8a9"
+hash = "7bbde403978f72b935c4ffa1b0fd7873e62cefc82fa38c98fd6ef2f8cb5a75c4"
 
 [[files]]
 file = "scripts/alexsmobs.zs"
