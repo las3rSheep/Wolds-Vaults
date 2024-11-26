@@ -2072,6 +2072,18 @@
         }
       }
     ],
+    "woldsvaults:crystal_seal_warrior": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "offering_boss",
+          "objective_probability": 1.0
+        }
+      }
+    ],
     "woldsvaults:crystal_seal_zealot": [
       {
         "level": 0,

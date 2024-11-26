@@ -18514,7 +18514,7 @@ hash = "6f197482fa45e5d343b719c97a8d42d001c41bb083c382fd5bd86d2909dd2b4f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/scannable/recipes.js"
-hash = "b13262853270ca8c7793e702d06ba06c0b5d8a200f73a6a2a2a4d9ca8ba9b9e9"
+hash = "9ead065f803a3d2ec1e038f516ca4f9d9f25e0f3990b29a51f16f75384335b24"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedbackpacks/recipes.js"
@@ -19594,6 +19594,11 @@ metafile = true
 [[files]]
 file = "mods/jea.pw.toml"
 hash = "ba5ba67cff833925139185885660b01d3139d98df86c7bcf96f0d7460bbefd78"
+metafile = true
+
+[[files]]
+file = "mods/jei-bookmark-sharing.pw.toml"
+hash = "1f39a71aecebb260b5a891f0f650e9d17ac54d830086e9d697d7f53e1eac4ea7"
 metafile = true
 
 [[files]]
