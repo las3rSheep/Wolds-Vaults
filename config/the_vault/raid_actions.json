@@ -50,6 +50,26 @@
       "color1": "0xFFffc600",
       "color2": "0xFFa8150a"
     },
+    "eccentric_focus": {
+      "type": "floating_item_reward",
+      "textColor": "0xFFffb400",
+      "item": {
+        "id": "woldsvaults:eccentric_focus",
+        "count": 1
+      },
+      "color1": "0xFFffc600",
+      "color2": "0xFFa8150a"
+    },
+    "eccentric_focus_big": {
+      "type": "floating_item_reward",
+      "textColor": "0xFFffb400",
+      "item": {
+        "id": "woldsvaults:eccentric_focus",
+        "count": 2
+      },
+      "color1": "0xFFffc600",
+      "color2": "0xFFa8150a"
+    },
     "cryonic_focus": {
       "type": "floating_item_reward",
       "textColor": "0xFFffb400",
@@ -132,6 +152,18 @@
       "item": {
         "id": "the_vault:booster_pack",
         "nbt": "{id:\"the_vault:resource_pack\"}",
+        "count": 1
+      },
+      "color1": "0xFF2e99b3",
+      "color2": "0xFFa984bc"
+    },
+    "temporal_booster_pack": {
+      "type": "floating_item_reward",
+      "textColor": "0xFFffb400",
+      "name": "Temporal Booster Pack",
+      "item": {
+        "id": "the_vault:booster_pack",
+        "nbt": "{id:\"the_vault:temporal_pack\"}",
         "count": 1
       },
       "color1": "0xFF2e99b3",
@@ -1045,6 +1077,10 @@
         "weight": 30
       },
       {
+        "value": "temporal_booster_pack",
+        "weight": 1
+      },
+      {
         "value": "leg_helmet",
         "weight": 2
       },
@@ -1305,6 +1341,18 @@
       {
         "value": "cryonic_focus",
         "weight": 120
+      },
+      {
+        "value": "temporal_booster_pack",
+        "weight": 15
+      },
+      {
+        "value": "eccentric_focus",
+        "weight": 80
+      },
+      {
+        "value": "eccentric_focus_big",
+        "weight": 30
       },
       {
         "value": "cryonic_focus_big",

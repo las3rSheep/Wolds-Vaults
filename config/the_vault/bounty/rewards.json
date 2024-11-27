@@ -4614,6 +4614,17 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:jewel_pouch",
                   "nbt": "{}"
                 },
@@ -4856,6 +4867,17 @@
         },
         "itemPool": {
           "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
             {
               "value": {
                 "stack": {
@@ -5102,6 +5124,17 @@
         },
         "itemPool": {
           "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
             {
               "weight": 16,
               "item": {
@@ -5530,6 +5563,17 @@
         "itemPool": {
           "pool": [
             {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
               "weight": 16,
               "item": {
                 "id": "the_vault:booster_pack",
@@ -5937,6 +5981,17 @@
         },
         "itemPool": {
           "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
             {
               "weight": 16,
               "item": {

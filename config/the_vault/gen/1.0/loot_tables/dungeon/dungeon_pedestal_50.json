@@ -209,7 +209,7 @@
               }
             },
             {
-              "weight": 35,
+              "weight": 25,
               "item": {
                 "id": "the_vault:pyretic_focus",
                 "count": {
@@ -220,9 +220,9 @@
               }
             },
             {
-              "weight": 25,
+              "weight": 15,
               "item": {
-                "id": "the_vault:cryonic_focus",
+                "id": "woldsvaults:eccentric_focus",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -231,7 +231,7 @@
               }
             },
             {
-              "weight": 20,
+              "weight": 5,
               "item": {
                 "id": "the_vault:empowered_chaotic_focus",
                 "count": {

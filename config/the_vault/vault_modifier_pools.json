@@ -2208,10 +2208,6 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:wild",
-                "weight": 6
-              },
-              {
                 "value": "the_vault:frenzy",
                 "weight": 1
               },
@@ -2224,10 +2220,6 @@
                 "weight": 3
               },
               {
-                "value": "the_vault:rotten",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:dangerous",
                 "weight": 1
               },
@@ -2237,14 +2229,6 @@
               },
               {
                 "value": "the_vault:plentiful",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:mildly_enchanted",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:armed_chest",
                 "weight": 1
               },
               {
@@ -2371,10 +2355,6 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:wild",
-                "weight": 4
-              },
-              {
                 "value": "the_vault:frenzy",
                 "weight": 1
               },
@@ -2403,19 +2383,7 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:mildly_enchanted",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:armed_chest",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:champion_chance",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:classic_retro_mini",
                 "weight": 1
               },
               {

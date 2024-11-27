@@ -16,6 +16,7 @@
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_0",
         "zealot": "the_vault:base_crate_0",
+        "offering_boss": "the_vault:base_crate_2_0",
         "bingo_full": "the_vault:base_crate_0",
         "ballistic_bingo": "the_vault:base_crate_0",
         "ballistic_bingo_full": "the_vault:base_crate_0"
@@ -41,6 +42,7 @@
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_0",
         "zealot": "the_vault:base_crate_0",
+        "offering_boss": "the_vault:base_crate_2_0",
         "bingo_full": "the_vault:base_crate_0",
         "ballistic_bingo": "the_vault:base_crate_0",
         "ballistic_bingo_full": "the_vault:base_crate_0"
@@ -66,6 +68,7 @@
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_20",
         "zealot": "the_vault:base_crate_20",
+        "offering_boss": "the_vault:base_crate_cursed_20",
         "bingo_full": "the_vault:base_crate_20",
         "ballistic_bingo": "the_vault:base_crate_0",
         "ballistic_bingo_full": "the_vault:base_crate_0"
@@ -90,6 +93,7 @@
         "enchanted_elixir": "the_vault:base_crate_cursed_2_50",
         "paradox": "the_vault:completion_paradox",
         "zealot": "the_vault:zealot_crate_50",
+        "offering_boss": "the_vault:base_crate_cursed_2_50",
         "bingo": "the_vault:base_crate_50",
         "bingo_full": "the_vault:bingo_bonus",
         "ballistic_bingo": "the_vault:base_crate_cursed_2_50",
@@ -115,6 +119,7 @@
         "enchanted_elixir": "the_vault:base_crate_cursed_2_100",
         "paradox": "the_vault:completion_paradox",
         "zealot": "the_vault:zealot_crate_100",
+        "offering_boss": "the_vault:base_crate_cursed_2_100",
         "bingo": "the_vault:base_crate_100",
         "bingo_full": "the_vault:bingo_bonus",
         "ballistic_bingo": "the_vault:base_crate_cursed_2_100",

@@ -22,8 +22,8 @@
       "value": {
         "id": "the_vault:capstone_peaceful",
         "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 3
+        "amountMin": 1,
+        "amountMax": 1
       },
       "weight": 8
     },
@@ -156,6 +156,24 @@
     {
       "value": {
         "id": "the_vault:pyretic_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "woldsvaults:eccentric_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:vorpal_focus",
         "nbt": "{}",
         "amountMin": 4,
         "amountMax": 4

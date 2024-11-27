@@ -1135,6 +1135,17 @@
         {
           "value": {
             "OFFER": {
+              "item": "woldsvaults:eccentric_focus"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 24
+          },
+          "weight": 35
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "the_vault:lost_bounty"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1413,6 +1424,17 @@
     {
       "MIN_LEVEL": 65,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "woldsvaults:eccentric_focus"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 16,
+            "MAX_COST": 24
+          },
+          "weight": 35
+        },
         {
           "value": {
             "OFFER": {

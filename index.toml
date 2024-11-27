@@ -426,7 +426,7 @@ hash = "3982f217b485a21549210d6327176716a22b1408fb489fa6e05c6163a91dfb33"
 
 [[files]]
 file = "config/the_vault/gear/gear_modification.json"
-hash = "86ac4638d020e1616025a0762990564aca10f2c78aa6a247d697410e0ca157f8"
+hash = "7d134af274200e6b611fb0792113c8625abb188508883621cadbafcb7de875b5"
 
 [[files]]
 file = "config/the_vault/gear/gear_roll_type.json"
@@ -450,7 +450,7 @@ hash = "962fa464dbcf7fa21836540ce9d0fe8815db6576b86e6d9e6a9b969fce70b28f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
-hash = "189b1c25ef359bb5d4bab6a9d47ccd71934e9cbc05f3c4e1a0452ff7f10da712"
+hash = "353af4a7a3dd2250caa78ed05f60f10d9c68fa620822de2a51c4fab22b05d473"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
@@ -12806,7 +12806,7 @@ hash = "7b75019ac2911f58404cd152d879cd764d212fd6b1935780dd990b4d347fe31b"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "77a55257712259c1d4de602df813265ae7ad38ab12648285940b883e9cff6d05"
+hash = "676308fa87b954c79de00ed9c2ffb3ae37bd0bc3cfa8c92431c6fa8996eec875"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -13222,7 +13222,7 @@ hash = "a96a8ebca4250acf21461ce08703ed53557c4cfbbb46b69a3913ff445fedf19f"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "a01ff1aea5955f9587db1609d76e9adc0c8b124b12cb2a3003b34b554b5af7b4"
+hash = "a4ffc3aa6511956c66504bbea01491f9a69ccd9ebe2e8f0a4789e9bf68bb704b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
@@ -15265,6 +15265,14 @@ file = "kubejs/assets/kubejs/textures/block/purple_unobtanium_block.png"
 hash = "810dc4294362ad4af29db5ee196052eb58e1b5cc9ef2ed12d7abec51f2276db8"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/rainbow_unobtanium_block.png"
+hash = "8532d4e57762cb177f47f99639b66b477ea5e984bf7f873ee507ba5a4976988e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/rainbow_unobtanium_block.png.mcmeta"
+hash = "b88e0256c91f5736f562c77d4f905e65bc5b34f6b4a987e587921bf845cf8431"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/red_unobtanium_block.png"
 hash = "77e236bb98933933d2151f21292eea31085ce23412c08032536e30877d84b429"
 
@@ -15407,6 +15415,14 @@ hash = "3872002626e4858fde4659d6233a6886acde2232a24b761c8d9b85418610e33e"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/purple_unobtanium.png"
 hash = "0652eef6d4b216afac445ac0db8aa4b128ed2d605ad00e83ff5e5828ec153c4f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rainbow_unobtanium.png"
+hash = "05e0d03baecd38f29915f0cee11d5090317f2cab96d5bfb191c4b108dad3ca0d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rainbow_unobtanium.png.mcmeta"
+hash = "b88e0256c91f5736f562c77d4f905e65bc5b34f6b4a987e587921bf845cf8431"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/red_unobtanium.png"
@@ -18330,7 +18346,7 @@ hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
 
 [[files]]
 file = "kubejs/server_scripts/colored_unobtainium/script.js"
-hash = "191c7a7bd831e756ad371f382418e2a1771d0b8689130bab5280cc5390de5766"
+hash = "40f200a39a870a7365d8bcece27cb8cb8b90caeef56c218a8e146c7a1143a517"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
@@ -18786,19 +18802,19 @@ hash = "15d6756ff230828c462826279e1b7d14eb10846bdce4813a7c919c59f34f51df"
 
 [[files]]
 file = "kubejs/startup_scripts/colored_unobtainium/script.js"
-hash = "cf13de427e6475ccb5dcc502b40c3f4199a5d43d06c8565af62d2af02496d301"
+hash = "3fe3d2b07e778f7e89e3ed40b5bb383d703619f4445411a61899b0d7fbf4fe13"
 
 [[files]]
 file = "kubejs/startup_scripts/reagants.js"
 hash = "0a0a6789698f690e5e271e374e1280b3202a027eb4407534208ffbcb27070682"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "668484777d49358040d8c843a347e25bef41e0740307f276e5d752ba7ef98f46"
-
-[[files]]
 file = "kubejs/startup_scripts/vh_compressio/blocks.js"
 hash = "22a3494fd0683d57379d081064deceb7c4385b2d1cb296bb84b6153efe498ebb"
+
+[[files]]
+file = "kubejs/startup_scripts/wold_stuff.js"
+hash = "dad5e567131f79cd9d88d0bfdd94ef528c9d1981e53d48716ba782ec629becdf"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"

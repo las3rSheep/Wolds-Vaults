@@ -20,6 +20,7 @@ onEvent('item.registry', event => {
 	event.create('red_unobtanium').displayName('Red Unobtanium')
 	event.create('purple_unobtanium').displayName('Purple Unobtanium')
 	event.create('black_unobtanium').displayName('Black Unobtanium')
+	event.create('rainbow_unobtanium').displayName('Rainbow Unobtanium')
 })
 
 onEvent('block.registry', event => {
@@ -41,5 +42,6 @@ onEvent('block.registry', event => {
 	event.create('red_unobtanium_block').displayName('Red Unobtanium Block').material('metal').hardness(50.0).tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:needs_iron_tool').requiresTool(true)
 	event.create('purple_unobtanium_block').displayName('Purple Unobtanium Block').material('metal').hardness(50.0).tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:needs_iron_tool').requiresTool(true)
 	event.create('black_unobtanium_block').displayName('Black Unobtanium Block').material('metal').hardness(50.0).tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:needs_iron_tool').requiresTool(true)
+	event.create('rainbow_unobtanium_block').displayName('Rainbow Unobtanium Block').material('metal').hardness(50.0).tagBlock('minecraft:mineable/pickaxe').tagBlock('minecraft:needs_iron_tool').requiresTool(true)
 
 })
