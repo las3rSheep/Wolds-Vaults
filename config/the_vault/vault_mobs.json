@@ -14839,24 +14839,6 @@
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.0,
         "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_chance",
-        "MIN": 0.05,
-        "MAX": 0.2,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_damage",
-        "MIN": 0.25,
-        "MAX": 0.5,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
       }
     ],
     "the_vault:crystal_bruiser_guardian": [
@@ -14950,24 +14932,6 @@
         "NAME": "minecraft:generic.movement_speed",
         "MIN": 0.35,
         "MAX": 0.4,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_chance",
-        "MIN": 0.05,
-        "MAX": 0.2,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_damage",
-        "MIN": 0.25,
-        "MAX": 0.5,
         "OPERATOR": "set",
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.0,
@@ -15069,24 +15033,6 @@
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.0,
         "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_chance",
-        "MIN": 0.05,
-        "MAX": 0.2,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_damage",
-        "MIN": 0.25,
-        "MAX": 0.5,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
       }
     ],
     "the_vault:bruiser_guardian": [
@@ -15180,24 +15126,6 @@
         "NAME": "minecraft:generic.movement_speed",
         "MIN": 0.35,
         "MAX": 0.4,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_chance",
-        "MIN": 0.05,
-        "MAX": 0.2,
-        "OPERATOR": "set",
-        "ROLL_CHANCE": 1.0,
-        "SCALE_PER_LEVEL": 0.0,
-        "SCALE_MAX_LEVEL": -1
-      },
-      {
-        "NAME": "the_vault:generic.thorns_damage",
-        "MIN": 0.25,
-        "MAX": 0.5,
         "OPERATOR": "set",
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.0,
