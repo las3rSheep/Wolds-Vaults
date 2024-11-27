@@ -11,6 +11,78 @@
         },
         "tasks": [
           {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/challenge/crystal_caves1",
+              "the_vault:vault/rooms/challenge/crystal_caves2",
+              "the_vault:vault/rooms/challenge/crystal_caves3",
+              "the_vault:vault/rooms/challenge/crystal_caves4",
+              "the_vault:vault/rooms/challenge/crystal_caves5",
+              "the_vault:vault/rooms/challenge/village1",
+              "the_vault:vault/rooms/challenge/village2",
+              "the_vault:vault/rooms/challenge/village3",
+              "the_vault:vault/rooms/challenge/village4",
+              "the_vault:vault/rooms/challenge/wildwest1",
+              "the_vault:vault/rooms/challenge/wildwest2",
+              "the_vault:vault/rooms/challenge/wildwest3",
+              "the_vault:vault/rooms/challenge/wildwest4",
+              "the_vault:vault/rooms/challenge/factory1",
+              "the_vault:vault/rooms/challenge/challenge_digsite1",
+              "the_vault:vault/rooms/challenge/dragon1",
+              "the_vault:vault/rooms/challenge/x-mark_trap1",
+              "the_vault:vault/rooms/challenge/x-mark_treasure1",
+              "the_vault:vault/rooms/challenge/douwsky_graveyard",
+              "the_vault:vault/rooms/challenge/pirate_cave1",
+              "the_vault:vault/rooms/challenge/raid1",
+              "the_vault:vault/rooms/challenge/raid2",
+              "the_vault:vault/rooms/challenge/laboratory1",
+              "the_vault:vault/rooms/challenge/laboratory2"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Challenge Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 65.0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/common/ore1",
+              "the_vault:vault/rooms/common/ore2",
+              "the_vault:vault/rooms/common/ore3",
+              "the_vault:vault/rooms/common/ore4"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Ore Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 100.0
+          },
+          {
             "type": "loot_chest",
             "filter": "@the_vault:wooden",
             "counter": {
@@ -2134,7 +2206,12 @@
               "the_vault:vault/rooms/omega/library1",
               "the_vault:vault/rooms/omega/mine1",
               "the_vault:vault/rooms/omega/mine2",
-              "the_vault:vault/rooms/omega/painting1"
+              "the_vault:vault/rooms/omega/painting1",
+              "the_vault:vault/rooms/omega/arcade",
+              "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/iskallian_garden",
+              "the_vault:vault/rooms/omega/comet_observatory",
+              "the_vault:vault/rooms/omega/hellish_digsite"
             ],
             "counter": {
               "type": "target",
@@ -2178,7 +2255,7 @@
               "name": "Rapidly Mitigate Damage",
               "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
             },
-            "weight": 1000.0
+            "weight": 50.0
           }
         ],
         "firstBingo": [
@@ -5054,7 +5131,12 @@
               "the_vault:vault/rooms/omega/library1",
               "the_vault:vault/rooms/omega/mine1",
               "the_vault:vault/rooms/omega/mine2",
-              "the_vault:vault/rooms/omega/painting1"
+              "the_vault:vault/rooms/omega/painting1",
+              "the_vault:vault/rooms/omega/arcade",
+              "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/iskallian_garden",
+              "the_vault:vault/rooms/omega/comet_observatory",
+              "the_vault:vault/rooms/omega/hellish_digsite"
             ],
             "counter": {
               "type": "target",
@@ -5070,6 +5152,78 @@
             "renderer": {
               "type": "bingo",
               "name": "Discover Omega Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 10.0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/challenge/crystal_caves1",
+              "the_vault:vault/rooms/challenge/crystal_caves2",
+              "the_vault:vault/rooms/challenge/crystal_caves3",
+              "the_vault:vault/rooms/challenge/crystal_caves4",
+              "the_vault:vault/rooms/challenge/crystal_caves5",
+              "the_vault:vault/rooms/challenge/village1",
+              "the_vault:vault/rooms/challenge/village2",
+              "the_vault:vault/rooms/challenge/village3",
+              "the_vault:vault/rooms/challenge/village4",
+              "the_vault:vault/rooms/challenge/wildwest1",
+              "the_vault:vault/rooms/challenge/wildwest2",
+              "the_vault:vault/rooms/challenge/wildwest3",
+              "the_vault:vault/rooms/challenge/wildwest4",
+              "the_vault:vault/rooms/challenge/factory1",
+              "the_vault:vault/rooms/challenge/challenge_digsite1",
+              "the_vault:vault/rooms/challenge/dragon1",
+              "the_vault:vault/rooms/challenge/x-mark_trap1",
+              "the_vault:vault/rooms/challenge/x-mark_treasure1",
+              "the_vault:vault/rooms/challenge/douwsky_graveyard",
+              "the_vault:vault/rooms/challenge/pirate_cave1",
+              "the_vault:vault/rooms/challenge/raid1",
+              "the_vault:vault/rooms/challenge/raid2",
+              "the_vault:vault/rooms/challenge/laboratory1",
+              "the_vault:vault/rooms/challenge/laboratory2"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Omega Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 65.0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/common/ore1",
+              "the_vault:vault/rooms/common/ore2",
+              "the_vault:vault/rooms/common/ore3",
+              "the_vault:vault/rooms/common/ore4"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Ore Rooms",
               "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
             },
             "weight": 100.0
@@ -5098,7 +5252,7 @@
               "name": "Rapidly Mitigate Damage",
               "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
             },
-            "weight": 1000.0
+            "weight": 50.0
           }
         ],
         "firstBingo": [
@@ -5162,6 +5316,78 @@
           "type": "bingo"
         },
         "tasks": [
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/challenge/crystal_caves1",
+              "the_vault:vault/rooms/challenge/crystal_caves2",
+              "the_vault:vault/rooms/challenge/crystal_caves3",
+              "the_vault:vault/rooms/challenge/crystal_caves4",
+              "the_vault:vault/rooms/challenge/crystal_caves5",
+              "the_vault:vault/rooms/challenge/village1",
+              "the_vault:vault/rooms/challenge/village2",
+              "the_vault:vault/rooms/challenge/village3",
+              "the_vault:vault/rooms/challenge/village4",
+              "the_vault:vault/rooms/challenge/wildwest1",
+              "the_vault:vault/rooms/challenge/wildwest2",
+              "the_vault:vault/rooms/challenge/wildwest3",
+              "the_vault:vault/rooms/challenge/wildwest4",
+              "the_vault:vault/rooms/challenge/factory1",
+              "the_vault:vault/rooms/challenge/challenge_digsite1",
+              "the_vault:vault/rooms/challenge/dragon1",
+              "the_vault:vault/rooms/challenge/x-mark_trap1",
+              "the_vault:vault/rooms/challenge/x-mark_treasure1",
+              "the_vault:vault/rooms/challenge/douwsky_graveyard",
+              "the_vault:vault/rooms/challenge/pirate_cave1",
+              "the_vault:vault/rooms/challenge/raid1",
+              "the_vault:vault/rooms/challenge/raid2",
+              "the_vault:vault/rooms/challenge/laboratory1",
+              "the_vault:vault/rooms/challenge/laboratory2"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Omega Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 65.0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/common/ore1",
+              "the_vault:vault/rooms/common/ore2",
+              "the_vault:vault/rooms/common/ore3",
+              "the_vault:vault/rooms/common/ore4"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 2,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Ore Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 100.0
+          },
           {
             "type": "mine_block",
             "filter": "the_vault:coin_pile[size=1]",
@@ -7974,7 +8200,12 @@
               "the_vault:vault/rooms/omega/library1",
               "the_vault:vault/rooms/omega/mine1",
               "the_vault:vault/rooms/omega/mine2",
-              "the_vault:vault/rooms/omega/painting1"
+              "the_vault:vault/rooms/omega/painting1",
+              "the_vault:vault/rooms/omega/arcade",
+              "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/iskallian_garden",
+              "the_vault:vault/rooms/omega/comet_observatory",
+              "the_vault:vault/rooms/omega/hellish_digsite"
             ],
             "counter": {
               "type": "target",
@@ -8018,7 +8249,7 @@
               "name": "Rapidly Mitigate Damage",
               "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
             },
-            "weight": 1000.0
+            "weight": 50.0
           }
         ],
         "firstBingo": [

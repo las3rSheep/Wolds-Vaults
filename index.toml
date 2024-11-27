@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "55ec20aea9f42433cefb96a6af276e8a4cc5669cda5fdc79ef2667e9ce0b84f1"
+hash = "746fe7570b5b64a9ec7ea2fb7759ee8d04c970fb9180c1ad6ad0192d35c08f52"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -234,7 +234,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "bd4da298935b62179fda26e1537291d8f79c1e663b8820b7a23e7d08cc108033"
+hash = "0b94b50d0c5a42aed45fa01231261fd6357285ae5072cead8ada7a9e5637702e"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -894,7 +894,7 @@ hash = "56e64dfdfae8c3262dcd83b09e722499086bfdb3905a2ac17d00926a15f48ef7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
-hash = "3383699bce3c27a0292ea5d0d8ffc609cb5b3b36f02a08df40e35e8525970efe"
+hash = "68c6f4980f481d72c8a4928499afa69e1fcf247555d691cd72c50aae727bd7ae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
@@ -12854,7 +12854,7 @@ hash = "f6a1d0b68c76875c229ecfdd56c7516b3c2c9bbdefb2c3ee2138b480a21807a8"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "6dad9da8e2069bffbae714cd73f2ec2d653744d00c5fea51fc257ee104d8ec38"
+hash = "8b3f7c2e2429db98f4f05dad7b86d0a0a3a80b25744a2eba997afc0a113e8605"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
@@ -12914,7 +12914,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "9fa81bfe46ca3e9780bb55a18c56d053cab432978e260f2d94e9996567865989"
+hash = "3f0173bdc41aeb7345ccc8db893fcf659afbff67d776f46298833f6d9ba74102"
 
 [[files]]
 file = "config/the_vault/recipes/augment_recipes.json"
@@ -12982,7 +12982,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "c1b4fa0e35682319ddf0bae913a9d6938205a35bc8b36ce3ad11efc46191de11"
+hash = "ad402c12b623e9e2a1d56be7f9e76edf26b84e187681b5674b3b2479378cfa6e"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -13210,7 +13210,7 @@ hash = "719341e39d1c9a04e9368c25177fddaa8db8df1f5d83b6b1f254f2a6100b85de"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "97bb789c962e4256c1952c800e8f72619dd3dc23995775f42d6c80a8d4c66cc2"
+hash = "772071cc285baf80c5dfd04c7c68d40e02ae3a444ddb50c28624e7da198fc2ee"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -20793,7 +20793,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "c49df5e801fe73dcf0fb5051bba8bc1203a834e61461ac85067860c8aaa604bb"
+hash = "ac3cf717d476e0f3e44168fa161f3a257933c510157dd1d6e4290a8ec80ce7a6"
 metafile = true
 
 [[files]]
