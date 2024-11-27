@@ -6930,8 +6930,8 @@
       },
       {
         "NAME": "minecraft:generic.attack_damage",
-        "MIN": 6.0,
-        "MAX": 9.0,
+        "MIN": 4.0,
+        "MAX": 6.0,
         "OPERATOR": "set",
         "ROLL_CHANCE": 1.0,
         "SCALE_PER_LEVEL": 0.05,
