@@ -1653,12 +1653,12 @@
       },
       "the_vault:unhinged_mob_increase": {
         "properties": {
-          "increase": 0.2
+          "increase": 3.0
         },
         "display": {
           "name": ":mob_increase: Super Onslaught",
           "color": "#FC7C5C",
-          "description": "+40% Mob Spawns",
+          "description": "+200% Mob Spawns",
           "descriptionFormatted": "+%d%% increased amount of mob spawns",
           "icon": "the_vault:gui/modifiers/mob_increase"
         }
