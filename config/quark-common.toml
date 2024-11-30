@@ -540,15 +540,15 @@
 		"Pike Range" = 5.0
 
 [world]
-	"Spiral Spires" = false
-	Permafrost = false
+	"Spiral Spires" = true
+	Permafrost = true
 	"No More Lava Pockets" = true
-	"New Stone Types" = false
+	"New Stone Types" = true
 	"Nether Obsidian Spikes" = false
 	"Monster Box" = true
 	"Glimmering Weald" = true
 	"Fairy Rings" = false
-	Corundum = false
+	Corundum = true
 	"Chorus Vegetation" = false
 	"Blossom Trees" = true
 	"Big Stone Clusters" = false
@@ -601,7 +601,7 @@
 
 			[world.permafrost.generation_settings.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.permafrost.generation_settings.biomes]
 
@@ -628,7 +628,7 @@
 
 			[world.new_stone_types.limestone.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.new_stone_types.limestone.oregen_lower]
 				#Allowed values: [-64,320]
@@ -656,7 +656,7 @@
 
 			[world.new_stone_types.jasper.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.new_stone_types.jasper.oregen_lower]
 				#Allowed values: [-64,320]
@@ -684,7 +684,7 @@
 
 			[world.new_stone_types.shale.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.new_stone_types.shale.oregen_lower]
 				#Allowed values: [-64,320]
@@ -723,7 +723,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0
+				"Cluster Count" = 2
 
 			[world.new_stone_types.myalite.oregen_upper]
 				#Allowed values: [-64,320]
@@ -734,7 +734,7 @@
 				"Cluster Size" = 64
 				#Can be a positive integer or a fractional value betweeen 0 and 1. If integer, it spawns that many clusters. If fractional, it has that chance to spawn a single cluster. Set exactly zero to not spawn at all.
 				#Allowed values: [0,)
-				"Cluster Count" = 0
+				"Cluster Count" = 1.666666
 
 	[world.nether_obsidian_spikes]
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)
@@ -785,7 +785,7 @@
 		"Double Crystal Chance" = 0.2
 		#The chance that a crystal can grow, this is on average 1 in X world ticks, set to a higher value to make them grow slower. Minimum is 1, for every tick. Set to 0 to disable growth.
 		"Cave Crystal Growth Chance" = 5
-		"Crystals Craft Runes" = true
+		"Crystals Craft Runes" = false
 		"Enable Collateral Movement" = true
 
 		[world.corundum.generation_settings]
@@ -806,7 +806,7 @@
 
 			[world.corundum.generation_settings.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = ["minecraft:overworld", "tropicraft:tropics"]
 
 			[world.corundum.generation_settings.biomes]
 				#Allowed values: [[hot, cold, sparse, dense, wet, dry, savanna, coniferous,
