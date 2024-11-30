@@ -16,4 +16,6 @@ onEvent("recipes", event => {
     event.shapeless('quark:violet_corundum', ['the_vault:topaz_block', 'the_vault:gem_reagent_gorginite'])
     event.shapeless('quark:white_corundum', ['the_vault:topaz_block', 'the_vault:gem_reagent_upaline'])
     event.shapeless('quark:black_corundum', ['the_vault:topaz_block', 'the_vault:gem_reagent_iskallium'])
+
+    event.smelting('quark:myalite_crystal', 'quark:myalite')
 })
