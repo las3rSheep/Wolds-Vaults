@@ -6,7 +6,7 @@ onEvent("recipes", event => {
             'XCX',
             'ITI'
         ], {
-        C: 'the_vault:treasure_chest_placeable',
+        C: 'the_vault:treasure_chest',
         X: 'the_vault:vault_diamond_block',
         I: 'the_vault:pog_prism',
         T: 'the_vault:extraordinary_larimar'
@@ -18,7 +18,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:wooden_chest_placeable',
+        C: 'the_vault:wooden_chest',
         X: 'the_vault:vault_diamond',
         I: 'the_vault:wooden_planks'
     })
@@ -29,7 +29,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:hardened_chest_placeable',
+        C: 'the_vault:hardened_chest',
         X: 'the_vault:vault_stone',
         I: 'the_vault:chromatic_iron_ingot'
     })
@@ -40,7 +40,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:flesh_chest_placeable',
+        C: 'the_vault:flesh_chest',
         X: 'the_vault:regret_chunk',
         I: 'the_vault:vault_meat_block'
     })
@@ -51,7 +51,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:enigma_chest_placeable',
+        C: 'the_vault:enigma_chest',
         X: 'the_vault:black_chromatic_steel_ingot',
         I: 'the_vault:perfect_wutodie'
     })
@@ -63,7 +63,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:altar_chest_placeable',
+        C: 'the_vault:altar_chest',
         X: 'the_vault:black_chromatic_steel_ingot',
         I: 'the_vault:perfect_larimar'
     })
@@ -74,7 +74,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:living_chest_placeable',
+        C: 'the_vault:living_chest',
         X: 'the_vault:mossy_bone_block',
         I: 'the_vault:perfect_alexandrite'
     })
@@ -85,7 +85,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:ornate_chest_placeable',
+        C: 'the_vault:ornate_chest',
         X: 'the_vault:ornate_block',
         I: 'the_vault:perfect_painite'
     })
@@ -96,7 +96,7 @@ onEvent("recipes", event => {
             'XCX',
             'IXI'
         ], {
-        C: 'the_vault:gilded_chest_placeable',
+        C: 'the_vault:gilded_chest',
         X: 'the_vault:gilded_block',
         I: 'the_vault:chromatic_gold_ingot'
     })
