@@ -33,6 +33,7 @@
 	cosmetic = false
 	priority = 4
 
+
 [[curiosSettings]]
 	identifier = "back"
 	visible = true
@@ -110,6 +111,6 @@
 
 [[curiosSettings]]
 	identifier = "necklace"
-	visible = false
+	visible = true
 	override = true
 
