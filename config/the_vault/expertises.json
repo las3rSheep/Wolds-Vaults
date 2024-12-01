@@ -462,7 +462,7 @@
         "tiers": [
           {
             "type": "jeweler",
-            "additionalIdentifiedJewels": 1,
+            "additionalIdentifiedJewels": 0,
             "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0

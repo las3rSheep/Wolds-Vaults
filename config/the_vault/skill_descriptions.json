@@ -15018,11 +15018,7 @@
     ],
     "Jeweler": [
       {
-        "text": "Adds 1 additional choice to "
-      },
-      {
-        "text": "Jewel Pouches",
-        "color": "yellow"
+        "text": "Allows the ability for Jewels to randomly roll Corrupted, Greater, and Unusual affixes. "
       }
     ],
     "Divine": [

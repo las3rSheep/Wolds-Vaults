@@ -350,6 +350,34 @@
           "NBT": "{}"
         }
       ]
+    },
+    ,
+    {
+      "jewelAttribute": "the_vault:immortality",
+      "size": 20,
+      "id": "the_vault:jewel_crafting_immortality",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:jewel",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 10,
+          "ITEM": "the_vault:gemstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 128,
+          "ITEM": "the_vault:silver_scrap",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 10,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }
