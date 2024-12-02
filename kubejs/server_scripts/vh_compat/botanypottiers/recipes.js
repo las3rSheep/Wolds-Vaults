@@ -152,7 +152,7 @@ onEvent("recipes", event => {
             'XGX'
         ], {
         P: 'botanypots:terracotta_hopper_botany_pot',
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         I: 'the_vault:black_chromatic_steel_ingot',
         X: 'the_vault:packed_vault_meat_block'
     })
