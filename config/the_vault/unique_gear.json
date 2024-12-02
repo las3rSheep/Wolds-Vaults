@@ -130,6 +130,7 @@
     },
     "woldsvaults:eternal_stella": {
       "name": "Eternal Stella",
+      "model": "the_vault:gear/jewel/stella",
       "modifierIdentifiers": {
         "IMPLICIT": [
           "the_vault:u_jewel_size_stella"
