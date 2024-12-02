@@ -418,7 +418,7 @@
       "name": "Jewel Pouch",
       "item": {
         "id": "the_vault:jewel_pouch",
-        "count": 3
+        "count": 5
       },
       "color1": "0xFFabc839",
       "color2": "0xFFab763f"

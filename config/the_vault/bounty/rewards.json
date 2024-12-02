@@ -17,7 +17,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 15
+              "weight": 25
             },
             {
               "value": {
@@ -312,7 +312,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 15
+              "weight": 20
             },
             {
               "value": {
@@ -617,7 +617,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 15
+              "weight": 20
             },
             {
               "value": {
@@ -952,7 +952,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 15
+              "weight": 20
             },
             {
               "value": {

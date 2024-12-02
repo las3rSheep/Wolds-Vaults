@@ -95,7 +95,7 @@
           ]
         },
         {
-          "weight": 8,
+          "weight": 9,
           "pool": [
             {
               "weight": 1,
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "weight": 2,
+          "weight": 4,
           "pool": [
             {
               "weight": 3,

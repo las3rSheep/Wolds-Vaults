@@ -1058,9 +1058,9 @@
             "maxLevel": -1,
             "weight": 500,
             "value": {
-              "min": 40,
-              "max": 40,
-              "step": 1
+              "min": 20,
+              "max": 35,
+              "step": 5
             }
           }
         ]

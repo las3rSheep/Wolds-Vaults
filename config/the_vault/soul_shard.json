@@ -61,7 +61,7 @@
                         "minPrice": 1200,
                         "maxPrice": 3200
                     },
-                    "weight": 20
+                    "weight": 30
                 },
                 {
                     "value": {
@@ -546,7 +546,7 @@
                         "minPrice": 1600,
                         "maxPrice": 3200
                     },
-                    "weight": 32
+                    "weight": 28
                 },
                 {
                     "value": {
@@ -1187,7 +1187,7 @@
                         "minPrice": 1200,
                         "maxPrice": 3200
                     },
-                    "weight": 48
+                    "weight": 24
                 },
                 {
                     "value": {
@@ -2020,7 +2020,7 @@
                         "minPrice": 1200,
                         "maxPrice": 3200
                     },
-                    "weight": 40
+                    "weight": 20
                 },
                 {
                     "value": {
