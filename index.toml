@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "746fe7570b5b64a9ec7ea2fb7759ee8d04c970fb9180c1ad6ad0192d35c08f52"
+hash = "a73fc804829060f15f8e3f5d6dd20f185203dfdc766bd948cd5580205651e092"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -274,7 +274,7 @@ hash = "a2f1382eff26ff5408b23d9c31610e42fe2dd4efe5d6f5eed49a36373a0a2c33"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "8db1086a0fa71987446043f300842343cac6fac20abe43aea3e01faef2cd2a89"
+hash = "04e713f2bdacc270cb1b8aa729dfe202a83fc6ded3483b3629f8656b4e33e4b0"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -12970,7 +12970,7 @@ hash = "7ca6d5d38549cdde8cf81056f63ccd4394c6369e718892897b1aa070e5bc8db9"
 
 [[files]]
 file = "config/the_vault/scavenger.json"
-hash = "491b13142b7deaf067e33d9daf5f7305e21bc95289a0f424489eee326d49ac76"
+hash = "3309930062fa5d54da0ab4189c144110468896984b313c95cad8952e6ff3cb48"
 
 [[files]]
 file = "config/the_vault/scavenger_hunt.json"
@@ -13034,7 +13034,7 @@ hash = "a2d5eeeb7b5a82cbf3b66e6bb60c3c28c0fb84fdce7a7eef9914308fefe7e740"
 
 [[files]]
 file = "config/the_vault/team_tasks.json"
-hash = "f3428ececc044c5a83242b04af2eeba263140e00fad1390b344ff39aecd8ff1e"
+hash = "bdfc2905a74f81cd18fa408a3cf46b514a69100b7f35c9141f99412d6bfb578b"
 
 [[files]]
 file = "config/the_vault/theme_tooltips.json"
@@ -13210,7 +13210,7 @@ hash = "719341e39d1c9a04e9368c25177fddaa8db8df1f5d83b6b1f254f2a6100b85de"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "772071cc285baf80c5dfd04c7c68d40e02ae3a444ddb50c28624e7da198fc2ee"
+hash = "75635171fae949e1522de690f0529ab6a3c4834202a9783aa4e0851b0ad576d8"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -20817,7 +20817,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "ac3cf717d476e0f3e44168fa161f3a257933c510157dd1d6e4290a8ec80ce7a6"
+hash = "d8e9fefb2e0e5cdaeb8c80ec9b86095706d389f40c386b146046ea6af4e35e7e"
 metafile = true
 
 [[files]]
@@ -21519,11 +21519,3 @@ hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 [[files]]
 file = "shaderpacks/Complementary_meets_VH.zip"
 hash = "3cec0883be667bc6c612523290e842a77f8773a2b5374f283ee497826a8606be"
-
-[[files]]
-file = "vault_items.json"
-hash = "68a85e25da15fbc84d09872a0b4f131aef22bb01420790e3dbe13e2cc7af3310"
-
-[[files]]
-file = "vault_levels.json"
-hash = "45102ce925c34457ce4a395faed2d481f85038bb7132dd6dbbbf296d0c1323fc"
