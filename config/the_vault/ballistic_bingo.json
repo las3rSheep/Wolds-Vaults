@@ -5174,7 +5174,7 @@
               "the_vault:vault/rooms/challenge/factory1",
               "the_vault:vault/rooms/challenge/challenge_digsite1",
               "the_vault:vault/rooms/challenge/dragon1",
-              "the_vault:vault/rooms/challenge/x-mark_trap1",
+              "the_vault:vault/rooms/challenge/xmark1",
               "the_vault:vault/rooms/challenge/x-mark_treasure1",
               "the_vault:vault/rooms/challenge/douwsky_graveyard",
               "the_vault:vault/rooms/challenge/pirate_cave1",
@@ -5240,6 +5240,7 @@
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/arcade",
               "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/playzone1",
               "the_vault:vault/rooms/omega/iskallian_garden",
               "the_vault:vault/rooms/omega/comet_observatory",
               "the_vault:vault/rooms/omega/hellish_digsite"
@@ -8204,7 +8205,7 @@
               "the_vault:vault/rooms/challenge/factory1",
               "the_vault:vault/rooms/challenge/challenge_digsite1",
               "the_vault:vault/rooms/challenge/dragon1",
-              "the_vault:vault/rooms/challenge/x-mark_trap1",
+              "the_vault:vault/rooms/challenge/xmark1",
               "the_vault:vault/rooms/challenge/x-mark_treasure1",
               "the_vault:vault/rooms/challenge/douwsky_graveyard",
               "the_vault:vault/rooms/challenge/pirate_cave1",
@@ -8270,6 +8271,7 @@
               "the_vault:vault/rooms/omega/painting1",
               "the_vault:vault/rooms/omega/arcade",
               "the_vault:vault/rooms/omega/cube",
+              "the_vault:vault/rooms/omega/playzone1",
               "the_vault:vault/rooms/omega/iskallian_garden",
               "the_vault:vault/rooms/omega/comet_observatory",
               "the_vault:vault/rooms/omega/hellish_digsite"
