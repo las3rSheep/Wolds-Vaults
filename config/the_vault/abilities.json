@@ -4,6 +4,74 @@
     "skills": [
       {
         "type": "specialized",
+        "id": "Colossus",
+        "name": "Colossus",
+        "maxLearnableTier": 2,
+        "specializations": [
+          {
+            "type": "tiered",
+            "id": "Colossus_Base",
+            "name": "Colossus",
+            "maxLearnableTier": 2,
+            "tiers": [
+              {
+                "type": "colossus",
+                "durationTicks": 100,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 7200,
+                "size": 1.4,
+                "additionalResistance": 0.2,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 200,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 7200,
+                "size": 1.6,
+                "additionalResistance": 0.3,
+                "unlockLevel": 0
+              }
+            ]
+          },
+          {
+            "type": "tiered",
+            "id": "Sneaky_Getaway",
+            "name": "Sneaky Getaway",
+            "maxLearnableTier": 2,
+            "tiers": [
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 60,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 800,
+                "size": 0.5,
+                "speedPercentAdded": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 120,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 800,
+                "size": 0.4,
+                "speedPercentAdded": 0.6,
+                "unlockLevel": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "specialized",
         "id": "Heal",
         "name": "Heal",
         "maxLearnableLevel": 8,

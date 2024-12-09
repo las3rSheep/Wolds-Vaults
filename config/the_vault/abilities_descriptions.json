@@ -630,7 +630,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -879,40 +878,39 @@
     },
     "Shield_Bash": {
       "description": [
-          {
-            "text": "Bash mobs with your shield, dealing ",
-            "color": "$text"
-          },
-          {
-            "text": "Thorns Damage",
-            "color": "$thornsDamage"
-          },
-          {
-            "text": " in front of you in a ",
-            "color": "$text"
-          },
-          {
-            "text": "line",
-            "color": "$radius"
-          },
-          {
-            "text": ".",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "\u25d0 Cast Ability",
-            "color": "$castType"
-          }
+        {
+          "text": "Bash mobs with your shield, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Thorns Damage",
+          "color": "$thornsDamage"
+        },
+        {
+          "text": " in front of you in a ",
+          "color": "$text"
+        },
+        {
+          "text": "line",
+          "color": "$radius"
+        },
+        {
+          "text": ".",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25d0 Cast Ability",
+          "color": "$castType"
+        }
       ],
       "current": [
         "manaCost",
         "cooldown",
         "thornsDamage"
-
       ],
       "next": [
         "manaCost",
@@ -922,40 +920,39 @@
     },
     "Mana_Shield_Base": {
       "description": [
-          {
-            "text": "Grants a ",
-            "color": "$text"
-          },
-          {
-            "text": "protective barrier",
-            "color": "$absorb"
-          },
-          {
-            "text": " for a ",
-            "color": "$text"
-          },
-          {
-            "text": "limited time",
-            "color": "$duration"
-          },
-          {
-            "text": ", absorbing all incoming damage until the shield is depleted, or the time runs out.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "\u25d0 Cast Ability",
-            "color": "$castType"
-          }
+        {
+          "text": "Grants a ",
+          "color": "$text"
+        },
+        {
+          "text": "protective barrier",
+          "color": "$absorb"
+        },
+        {
+          "text": " for a ",
+          "color": "$text"
+        },
+        {
+          "text": "limited time",
+          "color": "$duration"
+        },
+        {
+          "text": ", absorbing all incoming damage until the shield is depleted, or the time runs out.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25d0 Cast Ability",
+          "color": "$castType"
+        }
       ],
       "current": [
         "manaCost",
         "cooldown",
         "healthPoints"
-
       ],
       "next": [
         "manaCost",
@@ -1014,9 +1011,8 @@
         "thornsDamage",
         "manaCost",
         "cooldown"
-
       ],
-      "next": [        
+      "next": [
         "thornsDamage",
         "manaCost",
         "cooldown"
@@ -1074,9 +1070,8 @@
         "radius",
         "manaCost",
         "cooldown"
-
       ],
-      "next": [        
+      "next": [
         "thornsDamage",
         "radius",
         "manaCost",
@@ -1114,7 +1109,6 @@
         "manaDamage",
         "radius",
         "cooldown"
-
       ],
       "next": [
         "manaDamage",
@@ -2446,7 +2440,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "radius",
@@ -3227,7 +3220,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "throwPower",
@@ -3286,7 +3278,6 @@
         "glacialChance",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "throwPower",

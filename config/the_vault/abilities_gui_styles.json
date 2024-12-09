@@ -1,5 +1,17 @@
 {
   "styles": {
+    "Colossus": {
+      "x": 900,
+      "y": 12,
+      "specializationStyles": {
+        "Colossus_Base": {
+          "icon": "the_vault:gui/abilities/colossus"
+        },
+        "Sneaky_Getaway": {
+          "icon": "the_vault:gui/abilities/sneaky_getaway"
+        }
+      }
+    },
     "Stonefall": {
       "x": 532,
       "y": 12,
@@ -88,7 +100,6 @@
         "Mana_Shield_Base": {
           "icon": "the_vault:gui/abilities/mana_shield"
         }
-        
       }
     },
     "Implode": {
@@ -98,7 +109,6 @@
         "Mana_Shield_Implode": {
           "icon": "the_vault:gui/abilities/implode"
         }
-        
       }
     },
     "Retribution": {
@@ -111,7 +121,6 @@
         "Mana_Shield_Retribution": {
           "icon": "the_vault:gui/abilities/shield_bash_retribution"
         }
-        
       }
     },
     "Heal": {

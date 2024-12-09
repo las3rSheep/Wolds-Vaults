@@ -114,11 +114,11 @@ hash = "0fd3c4000f450de8a8b2d45d864212f2eecf82350726204a0d38382f295bdea2"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "f1a95e07b5df7bf136df87c1ac448ae76b89d98ce881ab504ae30b40c39b9615"
+hash = "fd21ef37b44e5d762931eb3165b539da2d9134f26f01b417af24edc2529c30c5"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "4adb6bc4dad1b653c6b4648e56cbfc9b5da38060995014f2ec147abe8dfcc3d0"
+hash = "905f03d997158631fb450411b61f3a8b50ddc44f7e04cde4cb1d02bb7b341fe0"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -126,7 +126,7 @@ hash = "825f3ae5df1771bd8aeea8e9e5e1e5cdcdb2a1bd1aabbb784daf0a01dcd069be"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "d26d9f5857ac9a1d52d5c893e3d95688675e3ce3e001636d2019f498052fd776"
+hash = "aec326d3d117fd025f9b15a7dd6288a9113fdee5aa1d6ab42e35517770a6a756"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -206,7 +206,7 @@ hash = "e4722b7039a4bbf05ffda3a1520109a9ab4e02c1d864aeb4d17791efedf5a852"
 
 [[files]]
 file = "config/the_vault/ballistic_bingo.json"
-hash = "c727decec9542c2953af33af76b7d7b467fc2cc927b456956070c2ff1fa5722c"
+hash = "62e063e879f6f1224080b78fd28416c200744ab9e0d1f2f63b0b7e71703d2c5c"
 
 [[files]]
 file = "config/the_vault/bestiary.json"
@@ -214,7 +214,7 @@ hash = "d8f7da228636e2561677c335647115d563da80e062fe0b8b6550c4b7d65d099f"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "e456aeaf45ca53a2ce4e44a76aa1bbcf6310ea7dc3c1fe0c992e017729c87258"
+hash = "4db177150a4ccf2c500e92ca9cc8c55a8900ca40584b49c48998a8e8cd51394e"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -526,7 +526,7 @@ hash = "eab432a22bfba7d91b78eb74bf04eed796a44085810561988c9121646d65f6e8"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "023c5a09b77389a313b6607b805ab46b5c94024dc2727771a33e4363ce5298f2"
+hash = "a4803fac0e45c1cdf0d3b80ec91b783d22d3a622b63e41d2ab3fbe395b6a2a76"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -12934,7 +12934,7 @@ hash = "cd7567c1f09a55977954f6d12ad94201733f7becd71d98017bfa6ea14d0fe822"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
-hash = "aeef84581127d855cecb58ac31371588ee070b5fe57ab6a6e1fc0e3131dad8f5"
+hash = "59062cb01e72b250ed3a3df1d204d830b81e70148b19dc13314f4cd427600430"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"

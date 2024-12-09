@@ -2231,32 +2231,6 @@
               "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
             },
             "weight": 100.0
-          },
-          {
-            "type": "take_damage",
-            "filter": "@the_vault:mobs",
-            "phase": "POST_MITIGATION",
-            "counter": {
-              "type": "sliding_timed_target",
-              "window": {
-                "type": "constant",
-                "count": 120
-              },
-              "target": {
-                "type": "uniform",
-                "min": 240.0,
-                "max": 240.0
-              },
-              "variables": {
-                "targetPlayerContribution": 0.75
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Rapidly Mitigate Damage",
-              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
-            },
-            "weight": 50.0
           }
         ],
         "firstBingo": [
@@ -5262,32 +5236,6 @@
               "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
             },
             "weight": 100.0
-          },
-          {
-            "type": "take_damage",
-            "filter": "@the_vault:mobs",
-            "phase": "POST_MITIGATION",
-            "counter": {
-              "type": "sliding_timed_target",
-              "window": {
-                "type": "constant",
-                "count": 120
-              },
-              "target": {
-                "type": "uniform",
-                "min": 300.0,
-                "max": 300.0
-              },
-              "variables": {
-                "targetPlayerContribution": 0.75
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Rapidly Mitigate Damage",
-              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
-            },
-            "weight": 50.0
           }
         ],
         "firstBingo": [
@@ -8293,32 +8241,6 @@
               "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
             },
             "weight": 25.0
-          },
-          {
-            "type": "take_damage",
-            "filter": "@the_vault:mobs",
-            "phase": "POST_MITIGATION",
-            "counter": {
-              "type": "sliding_timed_target",
-              "window": {
-                "type": "constant",
-                "count": 120
-              },
-              "target": {
-                "type": "uniform",
-                "min": 350.0,
-                "max": 400.0
-              },
-              "variables": {
-                "targetPlayerContribution": 0.75
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Rapidly Mitigate Damage",
-              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
-            },
-            "weight": 50.0
           }
         ],
         "firstBingo": [
