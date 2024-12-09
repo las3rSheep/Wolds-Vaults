@@ -478,7 +478,7 @@ hash = "3117c4409252046ef799ce5b9a23f3927158294c2c49ee488b816d5109bb9a97"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "2edb1c869fc8b2c243e83cfd73117afdcc5c5c941fd121a7b1be62ed4fe6cf5c"
+hash = "63c7ae67096704e1a9483e20ec04aa4d0b7144c6083ad435b6ce7ce36ef013b3"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -530,7 +530,7 @@ hash = "a4803fac0e45c1cdf0d3b80ec91b783d22d3a622b63e41d2ab3fbe395b6a2a76"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "aa5627dde1cc4042c39d74763a2002fce4e6171bc08eea39ed3a1661cc548e37"
+hash = "f68ae91f0511e3c8d83dab553c9c3e0e6d1a8732a4378bab0d7477de11f2f32b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -12762,11 +12762,11 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "2303794195461fb35414c3a84f44731a2175f4fdb77e81aeb4e18b811c523030"
+hash = "fd0726f86baac196862f9314e593f4679f9230e32cf091b08a9e34f71acf6f57"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
-hash = "53d1056ed45541945f0ece7b7bfffee46d5301f672c48d4328eabfb292a99205"
+hash = "5f64f1984e4c63ccd9bf7eef90645ae1826af87658739326e092e2f1f4e60b37"
 
 [[files]]
 file = "config/the_vault/item_groups.json"
@@ -12930,7 +12930,7 @@ hash = "5eba61d1745711adeed1f46bf02ab610f3a3ce661ca2af62b6b3c763de822b59"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "532d06f806658e14c66c008c5b85931ab9a857acd9e9824a4c492041ea278ed5"
+hash = "d9ed4b8b1e1d33e23cf7bad2471d88efef9d1a5c6e9e5d36644fe404cfcfbff6"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
