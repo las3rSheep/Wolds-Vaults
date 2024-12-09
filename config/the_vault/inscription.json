@@ -58,6 +58,64 @@
         ]
       }
     ],
+    "the_vault:laboratory": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/laboratory",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 100,
+                "max": 100
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
+    "the_vault:raid": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/raid/rooms",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 99,
+                "max": 99
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
     "the_vault:pirate_cave": [
       {
         "level": 0,
@@ -1128,6 +1186,50 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/omega/arcade",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 18,
+                "max": 18
+              }
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/iskallian_garden",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 16,
+                "max": 16
+              }
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/x-mark",
                   "count": 1,
                   "color": 15769088
@@ -1255,6 +1357,72 @@
               }
             },
             "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/pirate_cave",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 17,
+                "max": 17
+              }
+            },
+            "weight": 10
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/raid",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 99,
+                "max": 99
+              }
+            },
+            "weight": 10
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/laboratory",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 100,
+                "max": 100
+              }
+            },
+            "weight": 10
           }
         ]
       }
@@ -1548,6 +1716,94 @@
               }
             },
             "weight": 12
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/arcade",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 18,
+                "max": 18
+              }
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/iskallian_garden",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 16,
+                "max": 16
+              }
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/raid",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 99,
+                "max": 99
+              }
+            },
+            "weight": 10
+          },
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/challenge/laboratory",
+                  "count": 1,
+                  "color": 15769088
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 100,
+                "max": 100
+              }
+            },
+            "weight": 10
           }
         ]
       }
@@ -2647,7 +2903,9 @@
     "the_vault:vault/rooms/challenge/pirate_cave": 17,
     "the_vault:vault/rooms/omega/arcade": 18,
     "the_vault:vault/rooms/omega/hellish_digsite": 19,
-    "the_vault:vault/rooms/omega/playzone": 20
+    "the_vault:vault/rooms/omega/playzone": 20,
+    "the_vault:vault/rooms/challenge/raid/rooms": 99,
+    "the_vault:vault/rooms/challenge/laboratory": 100
   },
   "ringWeights": [
     50,

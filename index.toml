@@ -206,7 +206,7 @@ hash = "e4722b7039a4bbf05ffda3a1520109a9ab4e02c1d864aeb4d17791efedf5a852"
 
 [[files]]
 file = "config/the_vault/ballistic_bingo.json"
-hash = "62e063e879f6f1224080b78fd28416c200744ab9e0d1f2f63b0b7e71703d2c5c"
+hash = "ec62b78abd227b9d8c949978cc6da77e1758fc11d0206f0e3a95eb82400aa09e"
 
 [[files]]
 file = "config/the_vault/bestiary.json"
@@ -214,7 +214,7 @@ hash = "d8f7da228636e2561677c335647115d563da80e062fe0b8b6550c4b7d65d099f"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "4db177150a4ccf2c500e92ca9cc8c55a8900ca40584b49c48998a8e8cd51394e"
+hash = "350816e22bf0b9b96974ec9660c1620cf2624299768e1d24a336534c6adf13f4"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -12762,7 +12762,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "c74fba47fe8b8049428e8eaafdac643dae2dc1133cf4ac6f0b8a31854ec96948"
+hash = "2303794195461fb35414c3a84f44731a2175f4fdb77e81aeb4e18b811c523030"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -12930,7 +12930,7 @@ hash = "5eba61d1745711adeed1f46bf02ab610f3a3ce661ca2af62b6b3c763de822b59"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
-hash = "cd7567c1f09a55977954f6d12ad94201733f7becd71d98017bfa6ea14d0fe822"
+hash = "532d06f806658e14c66c008c5b85931ab9a857acd9e9824a4c492041ea278ed5"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
