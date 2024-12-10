@@ -22,7 +22,7 @@
         "ballistic_bingo_full": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
-      "OFFERING_LOOT": "the_vault:champion_loot_lvl0",
+      "OFFERING_LOOT": "the_vault:offering_loot_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
       "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
       "ARTIFACT_CHANCE": 0.01
@@ -49,7 +49,7 @@
         "ballistic_bingo_full": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
-      "OFFERING_LOOT": "the_vault:champion_loot_lvl0",
+      "OFFERING_LOOT": "the_vault:offering_loot_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
       "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
       "ARTIFACT_CHANCE": 0.025
@@ -76,7 +76,7 @@
         "ballistic_bingo_full": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
-      "OFFERING_LOOT": "the_vault:champion_loot_lvl0",
+      "OFFERING_LOOT": "the_vault:offering_loot_lvl20",
       "CHAMPION": "the_vault:champion_loot_lvl20",
       "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
       "ARTIFACT_CHANCE": 0.05
@@ -103,7 +103,7 @@
         "ballistic_bingo_full": "the_vault:bingo_bonus_cursed"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
-      "OFFERING_LOOT": "the_vault:champion_loot_lvl0",
+      "OFFERING_LOOT": "the_vault:offering_loot_lvl50",
       "CHAMPION": "the_vault:champion_loot_lvl50",
       "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
       "ARTIFACT_CHANCE": 0.2
@@ -130,7 +130,7 @@
         "ballistic_bingo_full": "the_vault:bingo_bonus_cursed"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
-      "OFFERING_LOOT": "the_vault:champion_loot_lvl0",
+      "OFFERING_LOOT": "the_vault:offering_loot_lvl100",
       "CHAMPION": "the_vault:champion_loot_lvl50",
       "TREASURE_GOBLIN": "the_vault:entities/lvl0/treasure_goblin",
       "ARTIFACT_CHANCE": 0.2
