@@ -614,6 +614,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "woldsvaults:layout_manipulator",
+                            "AMOUNT": 1,
+                            "NBT": "{level: 200}"
+                        },
+                        "minPrice": 3000,
+                        "maxPrice": 4000
+                    },
+                    "weight": 16
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:jewel",
                             "AMOUNT": 1,
                             "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:eternal_stella\",\"the_vault:gear_roll_type\":\"Unique\"}"
@@ -621,7 +633,7 @@
                         "minPrice": 10000,
                         "maxPrice": 20000
                     },
-                    "weight": 4
+                    "weight": 5
                 },
                 {
                     "value": {
@@ -1155,6 +1167,18 @@
         {
             "minLevel": 75,
             "shardTrades": [
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "woldsvaults:layout_manipulator",
+                            "AMOUNT": 1,
+                            "NBT": "{level: 200}"
+                        },
+                        "minPrice": 3000,
+                        "maxPrice": 4000
+                    },
+                    "weight": 16
+                },
                 {
                     "value": {
                         "item": {

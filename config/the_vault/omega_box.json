@@ -2,6 +2,24 @@
   "POOL": [
     {
       "value": {
+        "id": "woldsvaults:layout_manipulator",
+        "nbt": "{layout: \"infinite\", tunnel: 1, value: 0}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 24
+    },
+    {
+      "value": {
+        "id": "woldsvaults:layout_manipulator",
+        "nbt": "{layout: \"spiral\", tunnel: 1, value: 5}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 32
+    },
+    {
+      "value": {
         "id": "the_vault:phoenix_feather",
         "nbt": "{}",
         "amountMin": 1,

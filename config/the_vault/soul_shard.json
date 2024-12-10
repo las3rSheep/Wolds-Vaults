@@ -881,6 +881,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "woldsvaults:layout_manipulator",
+                            "AMOUNT": 1,
+                            "NBT": "{level: 150}"
+                        },
+                        "minPrice": 1000,
+                        "maxPrice": 3000
+                    },
+                    "weight": 16
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:blank_key",
                             "AMOUNT": 1,
                             "NBT": "{}"
@@ -1675,6 +1687,18 @@
             "minLevel": 75,
             "shardTradePrice": 4500,
             "shardTrades": [
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "woldsvaults:layout_manipulator",
+                            "AMOUNT": 1,
+                            "NBT": "{level: 150}"
+                        },
+                        "minPrice": 1000,
+                        "maxPrice": 3000
+                    },
+                    "weight": 16
+                },
                 {
                     "value": {
                         "item": {
