@@ -478,7 +478,7 @@ hash = "3117c4409252046ef799ce5b9a23f3927158294c2c49ee488b816d5109bb9a97"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "63c7ae67096704e1a9483e20ec04aa4d0b7144c6083ad435b6ce7ce36ef013b3"
+hash = "2edb1c869fc8b2c243e83cfd73117afdcc5c5c941fd121a7b1be62ed4fe6cf5c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -1482,7 +1482,7 @@ hash = "d0f07ec92069976f419eb85235012697445ab3ad362c27f9a8383bd0b62f006a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/comet_observatory/base.json"
-hash = "b6ad70abe5e773aff60163d92f3564ab2b524e3955010c709863433dcb29c6df"
+hash = "848043203cd6009051e6018f8d956937ead62dd75953ef1a3d148f4892280ed0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/cove/base.json"
@@ -2890,7 +2890,7 @@ hash = "e9328e011676f8405c6bfb1f031ce3ef35eadfd5326189722074160b7c312772"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/special/boss/base.json"
-hash = "7f905f1c75adeaf5e5245fe3a2cf729c8406508c943a80e92a225081b13f6a98"
+hash = "ac65e19e60e3acde4e8c689b4d75addf4c3fcf11d1efb9b5b500ac91518706f5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/special/boss/boss1.json"
@@ -12806,7 +12806,7 @@ hash = "7b75019ac2911f58404cd152d879cd764d212fd6b1935780dd990b4d347fe31b"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "676308fa87b954c79de00ed9c2ffb3ae37bd0bc3cfa8c92431c6fa8996eec875"
+hash = "8168f08d95cea84717d3112d8dccaca1c9cc683fe43902eb1d9c35a1580e8ba1"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -12846,7 +12846,7 @@ hash = "1a30ed290fb8fd346b16161435a222caba41c10ed07e54ad554fc9c462aaa270"
 
 [[files]]
 file = "config/the_vault/offering_boss.json"
-hash = "e6ea8ce56c76c6ba0e6081b6f7c3d0dea969b54c2c4706bad84e9944e4d38dc7"
+hash = "2c49a0c1cbc883fbbf07b1c4c33c5ab7388b3defc0461c715b3dacde4b2109b8"
 
 [[files]]
 file = "config/the_vault/old_notes.json"
@@ -13090,7 +13090,7 @@ hash = "a9e0b6ddb664e04003a844c0c032f5afb586902c9ebca80da6d128dd814c2906"
 
 [[files]]
 file = "config/the_vault/translations.json"
-hash = "dadd4153c4e1118beaace7c03ae70f4da0ae71526acd64cf74ff6309e001d8cd"
+hash = "e1e4edcd0f7601d051d6b2359bb81622e6795d656c50582772740c08310e04d0"
 
 [[files]]
 file = "config/the_vault/trinket.json"
@@ -13210,7 +13210,7 @@ hash = "719341e39d1c9a04e9368c25177fddaa8db8df1f5d83b6b1f254f2a6100b85de"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "75635171fae949e1522de690f0529ab6a3c4834202a9783aa4e0851b0ad576d8"
+hash = "82d60404dcf0364e5b2eabf932b5e2f2f47c0374e85b7d88e014d9456d356bc9"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
