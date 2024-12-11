@@ -76,6 +76,18 @@ onEvent('recipes', event => {
         B: 'the_vault:extraordinary_alexandrite'
     }).id('woldsvaults:crystal_seal_doomsayer')
 
+    event.shaped(Item.of('woldsvaults:crystal_seal_warrior'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:golden_sword',
+        X: 'the_vault:vault_essence',
+        R: 'the_vault:crystal_seal_empty',
+        B: 'the_vault:red_vault_essence'
+    }).id('woldsvaults:crystal_seal_warrior')
+
     // event.shaped(Item.of('the_vault:augment_box'),
     //     [
     //         'GXG',
