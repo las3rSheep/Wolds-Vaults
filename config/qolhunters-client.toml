@@ -15,7 +15,7 @@
 	#Adds keybinds to craft/forge/reroll in the Bounty Table, Enchanter, Vault Forge, etc
 	"Vault Interface Keybinds" = true
 	#Improves the Abilities Tab including levelling specializations directly and showing all possible levels/overlevels
-	"Better Abilities Tab" = true
+	"Better Abilities Tab" = false
 	#Saves and loads current keybinds when you save/load skills in the Skill Altar
 	"Skill Altar Save Keybinds" = true
 	#Render a timer over Vault Gear items that are on cooldown

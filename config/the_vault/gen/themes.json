@@ -12,6 +12,11 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_plastic.json"
     },
     {
+      "id": "the_vault:classic_vault_trial",
+      "name": "Trial",
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_trial.json"
+    },
+    {
       "id": "the_vault:classic_vault_ice",
       "name": "Snowfell: Blizzard",
       "color": 5364991,

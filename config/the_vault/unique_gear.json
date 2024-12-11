@@ -519,6 +519,33 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "woldsvaults:trirang": {
+      "name": "Tri-Rang",
+      "model": "the_vault:gear/rang/trirang",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:rang_standard_attack_speed",
+          "the_vault:rang_standard_attack_damage",
+          "the_vault:rang_standard_range",
+          "the_vault:rang_standard_velocity"
+        ],
+        "PREFIX": [
+          "the_vault:trirang_chaining",
+          "the_vault:trirang_piercing",
+          "the_vault:trirang_returning"
+        ],
+        "SUFFIX": [
+          "the_vault:trirang_lucky_hit",
+          "the_vault:trirang_stun",
+          "the_vault:trirang_shock"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
@@ -603,6 +630,9 @@
     },
     "woldsvaults:ender_magnet": {
       "woldsvaults:ender_magnet": 1
+    },
+    "woldsvaults:trirang": {
+      "woldsvaults:trirang": 1
     }
   }
 }

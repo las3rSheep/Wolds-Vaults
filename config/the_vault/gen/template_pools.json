@@ -26,6 +26,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/autumn_cherry_grove_tunnels.json"
     },
     {
+      "id": "the_vault:vault/rooms/trial_rooms",
+      "name": "Trial Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/trial_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/plastic_rooms",
       "name": "Plastic Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_rooms.json"

@@ -10,6 +10,40 @@
       "output": "the_vault:vault_crystal"
     },
     {
+      "input": "the_vault:crystal_seal_trial_chamber",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "empty",
+              "objective_probability": 0.0
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:trial",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_trial"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
       "input": "woldsvaults:tome_of_tenos",
       "output": {
         "id": "the_vault:vault_crystal",

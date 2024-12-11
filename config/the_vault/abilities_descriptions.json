@@ -1,5 +1,81 @@
 {
   "data": {
+    "Colossus_Base": {
+      "description": [
+        {
+          "text": "Makes you considerably bigger, giving you ",
+          "color": "$text"
+        },
+        {
+          "text": "knockback immunity ",
+          "color": "$knockback"
+        },
+        {
+          "text": "and a boost in ",
+          "color": "$text"
+        },
+        {
+          "text": "resistance",
+          "color": "$radius"
+        },
+        {
+          "text": " for a limited duration\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "additionalResistance",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ],
+      "next": [
+        "additionalResistance",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ]
+    },
+    "Sneaky_Getaway": {
+      "description": [
+        {
+          "text": "Makes you considerably smaller and increases your",
+          "color": "$text"
+        },
+        {
+          "text": "movement speed",
+          "color": "$speed"
+        },
+        {
+          "text": "for a limited duration, allowing for a quick and sneaky getaway\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "speed",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ],
+      "next": [
+        "speed",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ]
+    },
     "Dash_Base": {
       "description": [
         {

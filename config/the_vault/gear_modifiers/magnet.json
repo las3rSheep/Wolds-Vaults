@@ -208,7 +208,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 30,
             "value": {
               "flag": true
             }
@@ -224,7 +224,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 90,
+            "weight": 70,
             "value": {
               "flag": false
             }

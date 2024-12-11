@@ -88,6 +88,18 @@ onEvent('recipes', event => {
         B: 'the_vault:red_vault_essence'
     }).id('woldsvaults:crystal_seal_warrior')
 
+    event.shaped(Item.of('the_vault:crystal_seal_trial_chamber'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:wooden_sword',
+        X: 'the_vault:vault_stone',
+        R: 'the_vault:vault_rock',
+        B: 'minecraft:copper_ingot'
+    }).id('woldsvaults:crystal_seal_trial_chamber')
+
     // event.shaped(Item.of('the_vault:augment_box'),
     //     [
     //         'GXG',

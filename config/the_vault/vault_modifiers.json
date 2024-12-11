@@ -3704,6 +3704,22 @@
       }
     },
     "the_vault:modifier_type/grouped": {
+      "the_vault:trial": {
+        "properties": {
+          "children": {
+            "the_vault:trial_loot": 1,
+            "the_vault:true_noxp": 1,
+            "the_vault:oneup": 1,
+            "the_vault:soulless": 1
+          }
+        },
+        "display": {
+          "name": "Trial",
+          "color": "#3ffbf4",
+          "description": "No loot, no soul shards, no xp, no challenge/omega rooms, just spawners",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
       "the_vault:omega_bonus": {
         "properties": {
           "children": {
@@ -6108,6 +6124,39 @@
           "color": "#EBFF8D",
           "description": "No Mobs spawn in this vault",
           "descriptionFormatted": "No Mobs spawn in this vault",
+          "icon": "the_vault:gui/modifiers/personalspace"
+        }
+      },
+      "the_vault:trial_loot": {
+        "properties": {
+          "probability": 1.0,
+          "whitelist": [
+            "the_vault:placeholder"
+          ],
+          "fullBlock": [
+            {
+              "type": "weighted_target",
+              "target": "",
+              "output": {
+                "minecraft:air": 1
+              }
+            }
+          ],
+          "partialBlock": [
+            {
+              "type": "weighted_target",
+              "target": "",
+              "output": {
+                "minecraft:air": 1
+              }
+            }
+          ]
+        },
+        "display": {
+          "name": "Trial Loot",
+          "color": "#EBFF8D",
+          "description": "No chests spawn in this vault",
+          "descriptionFormatted": "No chests spawn in this vault",
           "icon": "the_vault:gui/modifiers/personalspace"
         }
       }

@@ -16,22 +16,22 @@
             "tiers": [
               {
                 "type": "colossus",
-                "durationTicks": 100,
+                "durationTicks": 300,
                 "manaCost": 25.0,
                 "learnPointCost": 2,
                 "regretPointCost": 2,
-                "cooldownTicks": 7200,
+                "cooldownTicks": 2000,
                 "size": 1.4,
                 "additionalResistance": 0.2,
                 "unlockLevel": 0
               },
               {
                 "type": "colossus",
-                "durationTicks": 200,
+                "durationTicks": 400,
                 "manaCost": 25.0,
                 "learnPointCost": 2,
                 "regretPointCost": 2,
-                "cooldownTicks": 7200,
+                "cooldownTicks": 2000,
                 "size": 1.6,
                 "additionalResistance": 0.3,
                 "unlockLevel": 0
@@ -50,7 +50,7 @@
                 "manaCost": 25.0,
                 "learnPointCost": 2,
                 "regretPointCost": 2,
-                "cooldownTicks": 800,
+                "cooldownTicks": 1000,
                 "size": 0.5,
                 "speedPercentAdded": 0.4,
                 "unlockLevel": 0
@@ -61,7 +61,7 @@
                 "manaCost": 25.0,
                 "learnPointCost": 2,
                 "regretPointCost": 2,
-                "cooldownTicks": 800,
+                "cooldownTicks": 1000,
                 "size": 0.4,
                 "speedPercentAdded": 0.6,
                 "unlockLevel": 0
