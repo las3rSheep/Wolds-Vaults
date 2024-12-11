@@ -1997,6 +1997,41 @@
       {
         "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
+        "identifier": "the_vault:mod_everfrost_blast",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Ice_Bolt_Blast",
+              "levelChange": 1
+            }
+          },
+          {
+            "minLevel": 25,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Ice_Bolt_Blast",
+              "levelChange": 2
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "abilityKey": "Ice_Bolt_Blast",
+              "levelChange": 3
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:added_ability_level",
+        "group": "ModAbility",
         "identifier": "the_vault:mod_jav_scatter",
         "tags": [],
         "tiers": [
@@ -4122,6 +4157,28 @@
               "highlightColor": 6082075,
               "min": 1,
               "max": 3,
+              "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_special_modification",
+        "group": "ModEnhancement",
+        "identifier": "the_vault:unique_glacial_hypothermia",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:glacial_blast_hypothermia",
+              "abilityKey": "Ice_Bolt_Blast",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 1,
+              "max": 1,
               "step": 1
             }
           }

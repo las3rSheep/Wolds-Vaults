@@ -546,6 +546,29 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "woldsvaults:everfrost": {
+      "name": "Everfrost",
+      "model": "the_vault:gear/sword/everfrost",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:base_attack_damage",
+          "the_vault:base_attack_speed"
+        ],
+        "PREFIX": [
+          "the_vault:mod_attack_damage",
+          "the_vault:mod_everfrost_blast"
+        ],
+        "SUFFIX": [
+          "the_vault:mod_area_of_effect",
+          "the_vault:unique_glacial_hypothermia"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
@@ -633,6 +656,9 @@
     },
     "woldsvaults:trirang": {
       "woldsvaults:trirang": 1
+    },
+    "woldsvaults:everfrost": {
+      "woldsvaults:everfrost": 1
     }
   }
 }

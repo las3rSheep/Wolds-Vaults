@@ -234,7 +234,7 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "ae646fb6d5f47aa5c507862fbc15f2851242c7374ce3f83417d7c4d9ab918740"
+hash = "3aee71bab7c772b9822e10c49b6d797002a3479a9e9139b6333bc07e5142845b"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -518,7 +518,7 @@ hash = "0b9e2573df3cca33a40bdb7fd038e3d68cabd361b04e1b4b7023ffd3852f9c5b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/rang.json"
-hash = "897b3110f6d2b16a25b3c6fc9d96ca8259148e61e9a640e26675243e5c80cdd0"
+hash = "24897744c21cfbb718bc131aa77aa476ebfae489469b8f91b811ac8b97301d61"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -534,7 +534,7 @@ hash = "a4803fac0e45c1cdf0d3b80ec91b783d22d3a622b63e41d2ab3fbe395b6a2a76"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "fc6a0694959d27af79c3bdc1a764d236b7d781c161d4cd38a53883f7b95cb5f1"
+hash = "acd120e2485d325d5f2e9f4fc167928107c402b21d3bdb859cdd03b5dfc0c5a6"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13142,7 +13142,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "03993e425a4d20ce3e0e45a559630f9f32e61d88fd3def812c22162a66193b96"
+hash = "de0804baac7d65e81ee3c880327434a5a4f31fd00e08d786233213d9c3bec33b"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
