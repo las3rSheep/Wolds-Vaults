@@ -518,7 +518,7 @@ hash = "0b9e2573df3cca33a40bdb7fd038e3d68cabd361b04e1b4b7023ffd3852f9c5b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/rang.json"
-hash = "bcb50e6c6d25097088bff0b81e4893f8477280ce27353fff35508ef58358ebeb"
+hash = "897b3110f6d2b16a25b3c6fc9d96ca8259148e61e9a640e26675243e5c80cdd0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -595,6 +595,10 @@ hash = "ba2ca1bd8277c6e15de7a2e260a6c23777996f261315de1b9de0f01602f9bbed"
 [[files]]
 file = "config/the_vault/gear_workbench/plushie.json"
 hash = "dea041c4fb9380f10aa3bd290bdd16e369391f097190e990d9e93dcea0836385"
+
+[[files]]
+file = "config/the_vault/gear_workbench/rang.json"
+hash = "e1ba1080924d3e4bc7deb53a255a32a424afb580f1fb4842c35f149217ce495f"
 
 [[files]]
 file = "config/the_vault/gear_workbench/shield.json"
@@ -12954,7 +12958,7 @@ hash = "32fb1cd315c73065c99ba2631d2518b8deb4cfd755bdede6ae435f3eb53451d3"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
-hash = "5eba61d1745711adeed1f46bf02ab610f3a3ce661ca2af62b6b3c763de822b59"
+hash = "bda3b765851d9710966c8f8f4297612e168d2f59b6a487499c509757db138ac8"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"

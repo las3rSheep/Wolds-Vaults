@@ -4741,7 +4741,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 1
             },
             {
               "value": {
@@ -4752,7 +4752,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 1
             },
             {
               "value": {
@@ -5027,7 +5027,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 2
             },
             {
               "value": {
@@ -5038,7 +5049,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 4
             },
             {
               "value": {
@@ -5256,7 +5267,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
             },
             {
               "value": {
@@ -5267,7 +5289,7 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 6
+              "weight": 5
             },
             {
               "value": {
@@ -5655,6 +5677,17 @@
                 "maxCount": 1
               },
               "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
             },
             {
               "value": {
@@ -6103,6 +6136,17 @@
                 "maxCount": 1
               },
               "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
             },
             {
               "value": {
