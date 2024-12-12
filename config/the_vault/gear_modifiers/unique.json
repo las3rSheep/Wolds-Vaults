@@ -1995,6 +1995,66 @@
         ]
       },
       {
+        "attribute": "the_vault:hexing_chance",
+        "group": "ModOnHitType",
+        "identifier": "the_vault:mod_hexing_chance",
+        "tags": [
+          "focusHexing"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 30,
+            "weight": 600,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 31,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.11,
+              "max": 0.16,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 45,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.17,
+              "max": 0.23,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.24,
+              "max": 0.3,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 90,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.31,
+              "max": 0.35,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:mod_everfrost_blast",
@@ -2024,6 +2084,41 @@
             "weight": 10,
             "value": {
               "abilityKey": "Ice_Bolt_Blast",
+              "levelChange": 3
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:added_ability_level",
+        "group": "ModAbility",
+        "identifier": "the_vault:mod_everflame_fireball",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Fireball_Base",
+              "levelChange": 1
+            }
+          },
+          {
+            "minLevel": 25,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "abilityKey": "Fireball_Base",
+              "levelChange": 2
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "abilityKey": "Fireball_Base",
               "levelChange": 3
             }
           }
@@ -4170,6 +4265,20 @@
         "tiers": [
           {
             "minLevel": 0,
+            "maxLevel": 35,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:glacial_blast_hypothermia",
+              "abilityKey": "Ice_Bolt_Blast",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 2,
+              "max": 2,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 35,
             "maxLevel": -1,
             "weight": 5,
             "value": {
@@ -4177,9 +4286,129 @@
               "abilityKey": "Ice_Bolt_Blast",
               "textColor": 14076214,
               "highlightColor": 6082075,
-              "min": 1,
-              "max": 1,
+              "min": 3,
+              "max": 3,
               "step": 1
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:glacial_blast_hypothermia",
+              "abilityKey": "Ice_Bolt_Blast",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 4,
+              "max": 4,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:glacial_blast_hypothermia",
+              "abilityKey": "Ice_Bolt_Blast",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 5,
+              "max": 5,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:glacial_blast_hypothermia",
+              "abilityKey": "Ice_Bolt_Blast",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 6,
+              "max": 6,
+              "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ability_special_modification",
+        "group": "ModEnhancement",
+        "identifier": "the_vault:unique_everflame_modification",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 25,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:fireball_special_modification",
+              "abilityKey": "Fireball_Base",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 0.1,
+              "max": 0.15,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 25,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:fireball_special_modification",
+              "abilityKey": "Fireball_Base",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 0.15,
+              "max": 0.25,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:fireball_special_modification",
+              "abilityKey": "Fireball_Base",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 0.25,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:fireball_special_modification",
+              "abilityKey": "Fireball_Base",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 0.4,
+              "max": 0.5,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:fireball_special_modification",
+              "abilityKey": "Fireball_Base",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 0.5,
+              "max": 0.65,
+              "step": 0.01
             }
           }
         ]

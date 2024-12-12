@@ -569,6 +569,52 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "woldsvaults:everflame": {
+      "name": "Everflame",
+      "model": "the_vault:gear/sword/everflame",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:base_attack_damage",
+          "the_vault:base_attack_speed"
+        ],
+        "PREFIX": [
+          "the_vault:mod_attack_damage",
+          "the_vault:mod_everflame_fireball"
+        ],
+        "SUFFIX": [
+          "the_vault:mod_area_of_effect",
+          "the_vault:unique_everflame_modification"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
+    "woldsvaults:hexblade": {
+      "name": "Hexblade",
+      "model": "the_vault:gear/sword/hexblade",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:base_attack_damage",
+          "the_vault:base_attack_speed"
+        ],
+        "PREFIX": [
+          "the_vault:mod_hexing_chance",
+          "the_vault:mod_ability_increase"
+        ],
+        "SUFFIX": [
+          "the_vault:mod_attack_speed_percent",
+          "the_vault:mod_attack_range"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
@@ -659,6 +705,12 @@
     },
     "woldsvaults:everfrost": {
       "woldsvaults:everfrost": 1
+    },
+    "woldsvaults:everflame": {
+      "woldsvaults:everflame": 1
+    },
+    "woldsvaults:hexblade": {
+      "woldsvaults:hexblade": 1
     }
   }
 }

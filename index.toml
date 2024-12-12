@@ -102,7 +102,7 @@ hash = "b5f0e5ac136c1ff0d775dc5181c203f283b3d9500a8a6d8791e394815e290943"
 
 [[files]]
 file = "config/qolhunters-client.toml"
-hash = "84d8d38324cfcbcdea02811e9cb3d9814eab5405a69153651482eb367147a837"
+hash = "8497e6dcd941429e0ad78b699330ffdd5c72039edb3bbae908ef1a88d96fb873"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -114,7 +114,7 @@ hash = "0fd3c4000f450de8a8b2d45d864212f2eecf82350726204a0d38382f295bdea2"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "17c7ec686e409ad00f2bcd9a38a7efa1ddecafeb598c756d259f4ed368f3e264"
+hash = "ee0acf4171ee4a78c7d6d8e75025e56c829c0dc4efa547c2db0f06d185aba364"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -534,7 +534,7 @@ hash = "a4803fac0e45c1cdf0d3b80ec91b783d22d3a622b63e41d2ab3fbe395b6a2a76"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "acd120e2485d325d5f2e9f4fc167928107c402b21d3bdb859cdd03b5dfc0c5a6"
+hash = "ec0d50c2611428f77efa8aca6b0ad5223cb1bcbcce1649057d5a3a32a7cd60bb"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13014,7 +13014,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "eb1fc7a10840a12520981c8b387e05da533a83dc19bb63b1e030152d1022a38d"
+hash = "dbe8fb32448e22e1b173c308304dda03b6a793b2e0928cb2680bda6f513a3075"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -13142,7 +13142,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "de0804baac7d65e81ee3c880327434a5a4f31fd00e08d786233213d9c3bec33b"
+hash = "bf976daff71cca1ad103c35380e29e5aa23fca95c89ee8a1659940d29e4172ba"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
@@ -19868,7 +19868,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-vh.pw.toml"
-hash = "1dc878493d3876d446477117bac9243b1e75a656a027ba3c5ef5ca27df19c474"
+hash = "96c0ec507c88e63881a8f28e9a9405db0eff2ae66f2c516a9c6d753353cef46e"
 metafile = true
 
 [[files]]
@@ -20818,7 +20818,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "42f8f04392b59d0cd6951db1b4f84c1e2bef87cbb19fff141d619cd4ba421f70"
+hash = "7c6361d32c11b2a5483f76faeec95ffaa96ce41b280a0532058ded83c8cea56e"
 metafile = true
 
 [[files]]
