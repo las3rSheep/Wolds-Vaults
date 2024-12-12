@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a73fc804829060f15f8e3f5d6dd20f185203dfdc766bd948cd5580205651e092"
+hash = "a72d6939264d5be09f1e9ddf6778f537bc5108532d4d58be6f8986e3e01e1e9f"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -13014,7 +13014,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "dbe8fb32448e22e1b173c308304dda03b6a793b2e0928cb2680bda6f513a3075"
+hash = "48cebc0d53b62d299baa23d39ba63aa7f482c8ff935130ec1be0be9f354230ae"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
