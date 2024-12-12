@@ -10818,7 +10818,7 @@ hash = "d3dbea2ad8f569254e428867d34517e0ee9bbf924fb5796514b67810353dd094"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/challenge/x-mark.json"
-hash = "8c2b0926c59f86996be0a7ad7ffedbde24e5b2506ca53465f4d11f57f1c13fe1"
+hash = "bd68715bde4972bd2e76f47ad5775b80a65a3cad9d3c5687062e7b6fda6b684d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/challenge_rooms.json"
@@ -10902,7 +10902,7 @@ hash = "94e74e7190abef96aa8577ee4b6cb69acdcb71b99e1c780c4795d9d1cf10af9b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/challenge/x-mark.json"
-hash = "35a2ea672a84e12d77443b98084582aa0f50d26f47d0bed004ec980e7c047bb7"
+hash = "0aa8d5ee3179eb9d7d364143b23ad95513877f5734bb65f37391211fee91a8a9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/challenge_rooms.json"
@@ -10986,7 +10986,7 @@ hash = "dbd517cd0e649db6a6bbcb2ae1b04ba4e1644bcea40894cee854f8f633061115"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/challenge/x-mark.json"
-hash = "fe0cb09d94feb4296524f04b438f4bc416543c23636a5d2e9906ec7354a44272"
+hash = "1bf300578aec66fa83e3ea43491555987150b793abbc165c03e5dc72fdbc2971"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/challenge_rooms.json"
@@ -11070,7 +11070,7 @@ hash = "6efa6b8f9b86c2fa21e0a4703d65888173fd5b4375bad7133d86b041674b9051"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge/x-mark.json"
-hash = "3d4be4d703bbf115473fc0718a69065bd0e19a0e4a8eedbdbe5ff5fbc22c7ee0"
+hash = "9782b0b0f42c8abfa426148d184f886a842fd6fa574d31cc3ebc05297c24985f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge_rooms.json"
@@ -11218,7 +11218,7 @@ hash = "2587b91bcbad7f22fd2a494466f3c15bafcac51fea7d55f9ddbe9ede4f503feb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/x-mark.json"
-hash = "b545e0ffb2f01675d2edc7ddd5d1bdf5ecadd957a89a56a3f8ed72d5704db56a"
+hash = "048a6a9fd19d88336061ee834fad77f594fb421c9eb809e2f7a9ab14ff3b0aa2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge_rooms.json"
@@ -11318,7 +11318,7 @@ hash = "58689e60742b2faea9ea90e3743e12e86e0e1977a890abd01dbcb08144149841"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/x-mark.json"
-hash = "e876c62c902d292704c0085ea51ed35fece4ee741509bb03db5e58d18864e6ed"
+hash = "ab4b1675c208f526fdcaf66d7c8cc4e95bd246dc8833cfc3dae69876c3b67f14"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge_rooms.json"
@@ -11410,7 +11410,7 @@ hash = "aae5a9f1f9137de4c0e6878fdbcfe8e92296bd36a74f61372e15422b658e5760"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/x-mark.json"
-hash = "95d18b66b39f18f7aa4d954a87b9b2ad8b71eae99831337c9b83551cbbaa45c4"
+hash = "d29e29a358b26bfb25b9f095ee962495d24e58202b864fdf2a81824dc0949bb9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge_rooms.json"
@@ -11502,7 +11502,7 @@ hash = "1d18e6be647cf616a0bc57211db77ae5c9d4041fdd07ca9fb0db5c01b4431c3c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/x-mark.json"
-hash = "0629dfc8d3205fc8ede7402260d3dd5db392e250a38c78195934e671341404fb"
+hash = "e5385f360d5143f958cbd8135be38d5789b9459874de360e335547cafe165013"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge_rooms.json"
@@ -20853,7 +20853,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "d8e9fefb2e0e5cdaeb8c80ec9b86095706d389f40c386b146046ea6af4e35e7e"
+hash = "0afa5372c597109493d408f1c4302b76f3220442e3369963bd180eb6babbb14b"
 metafile = true
 
 [[files]]
