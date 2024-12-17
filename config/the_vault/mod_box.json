@@ -15,7 +15,7 @@
         "value": {
           "id": "immersiveengineeering:light_engineering",
           "amountMin": 1,
-          "amountMax": 2
+          "amountMax": 6
         },
         "weight": 25
       },
@@ -23,7 +23,7 @@
         "value": {
           "id": "immersiveengineeering:rs_engineering",
           "amountMin": 1,
-          "amountMax": 1
+          "amountMax": 4
         },
         "weight": 20
       },
@@ -39,7 +39,7 @@
         "value": {
           "id": "immersiveengineering:heavy_engineering",
           "amountMin": 1,
-          "amountMax": 2
+          "amountMax": 4
         },
         "weight": 10
       },
@@ -122,28 +122,44 @@
           "amountMax": 24
         },
         "weight": 30
+      },
+      {
+        "value": {
+          "id": "immersiveengineering:cloche",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 2
       }
     ],
     "Industrial Foregoing": [
       {
         "value": {
           "id": "industrialforegoing:plastic",
-          "amountMin": 2,
-          "amountMax": 2
+          "amountMin": 4,
+          "amountMax": 64
         },
         "weight": 120
       },
       {
         "value": {
-          "id": "industrialforegoing:iron_gear",
+          "id": "industrialforegoing:pink_slime",
           "amountMin": 2,
-          "amountMax": 2
+          "amountMax": 8
         },
-        "weight": 60
+        "weight": 50
       },
       {
         "value": {
-          "id": "industrialforegoing:gold_gear",
+          "id": "industrialforegoing:machine_frame_pity",
+          "amountMin": 1,
+          "amountMax": 3
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:machine_frame_simple",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -151,31 +167,23 @@
       },
       {
         "value": {
-          "id": "industrialforegoing:diamond_gear",
+          "id": "industrialforegoing:pink_slime_bucket",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 5
+        "weight": 30
       },
       {
         "value": {
-          "id": "industrialforegoing:conveyor",
-          "amountMin": 8,
-          "amountMax": 8
-        },
-        "weight": 15
-      },
-      {
-        "value": {
-          "id": "industrialforegoing:black_hole_controller",
+          "id": "industrialforegoing:ether_gas_bucket",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 1
+        "weight": 25
       },
       {
         "value": {
-          "id": "industrialforegoing:pink_slime",
+          "id": "industrialforegoing:machine_frame_advanced",
           "amountMin": 1,
           "amountMax": 1
         },
@@ -183,19 +191,75 @@
       },
       {
         "value": {
-          "id": "industrialforegoing:pity_black_hole_tank",
+          "id": "industrialforegoing:efficiency_addon_2",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 10
+        "weight": 12
       },
       {
         "value": {
-          "id": "industrialforegoing:pity_black_hole_unit",
+          "id": "industrialforegoing:speed_addon_2",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 12
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:laser_drill",
           "amountMin": 1,
           "amountMax": 1
         },
         "weight": 10
+      },      
+      {
+        "value": {
+          "id": "industrialforegoing:processing_addon_2",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 8
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:advanced_black_hole_tank",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 6
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:advanced_black_hole_unit",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 6
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:machine_frame_supreme",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 4
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:supreme_black_hole_tank",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 3
+      },
+      {
+        "value": {
+          "id": "industrialforegoing:supreme_black_hole_unit",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 3
       }
     ],
     "Integrated Dynamics": [
@@ -399,7 +463,7 @@
         "value": {
           "id": "pneumaticcraft:ingot_iron_compressed",
           "amountMin": 1,
-          "amountMax": 4
+          "amountMax": 32
         },
         "weight": 50
       },
@@ -431,7 +495,7 @@
         "value": {
           "id": "pneumaticcraft:transistor",
           "amountMin": 1,
-          "amountMax": 1
+          "amountMax": 2
         },
         "weight": 15
       },
@@ -439,7 +503,7 @@
         "value": {
           "id": "pneumaticcraft:capacitor",
           "amountMin": 1,
-          "amountMax": 1
+          "amountMax": 2
         },
         "weight": 15
       },
@@ -971,7 +1035,7 @@
         "value": {
           "id": "refinedstorage:speed_upgrade",
           "amountMin": 1,
-          "amountMax": 1
+          "amountMax": 2
         },
         "weight": 100
       },
@@ -998,6 +1062,38 @@
           "amountMax": 1
         },
         "weight": 65
+      },
+      {
+        "value": {
+          "id": "refinedstorage:cable",
+          "amountMin": 4,
+          "amountMax": 16
+        },
+        "weight": 65
+      },
+      {
+        "value": {
+          "id": "refinedstorage:machine_casing",
+          "amountMin": 1,
+          "amountMax": 2
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "refinedstorage:quartz_enriched_iron_block",
+          "amountMin": 2,
+          "amountMax": 6
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "refinedstorage:silicon",
+          "amountMin": 8,
+          "amountMax": 32
+        },
+        "weight": 50
       }
     ],
     "Applied Energistics": [
@@ -1006,6 +1102,14 @@
           "id": "ae2:fluix_smart_dense_cable",
           "amountMin": 4,
           "amountMax": 4
+        },
+        "weight": 100
+      },
+      {
+        "value": {
+          "id": "ae2:fluix_smart_cable",
+          "amountMin": 4,
+          "amountMax": 16
         },
         "weight": 100
       },
@@ -1031,7 +1135,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 70
+        "weight": 25
       },
       {
         "value": {
@@ -1059,6 +1163,14 @@
       },
       {
         "value": {
+          "id": "ae2:controller",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 20
+      },
+      {
+        "value": {
           "id": "ae2:drive",
           "amountMin": 1,
           "amountMax": 1
@@ -1069,7 +1181,7 @@
         "value": {
           "id": "ae2:speed_card",
           "amountMin": 2,
-          "amountMax": 2
+          "amountMax": 4
         },
         "weight": 75
       },
@@ -1085,43 +1197,11 @@
     "Powah": [
       {
         "value": {
-          "id": "powah:furnator_starter",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 120
-      },
-      {
-        "value": {
-          "id": "powah:furnator_hardened",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 70
-      },
-      {
-        "value": {
-          "id": "powah:furnator_blazing",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 40
-      },
-      {
-        "value": {
-          "id": "powah:furnator_spirited",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 5
-      },
-      {
-        "value": {
           "id": "powah:solar_panel_starter",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 80
+        "weight": 100
       },
       {
         "value": {
@@ -1129,7 +1209,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 70
+        "weight": 80
       },
       {
         "value": {
@@ -1141,11 +1221,27 @@
       },
       {
         "value": {
+          "id": "powah:solar_panel_niotic",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 5
+      },
+      {
+        "value": {
+          "id": "powah:solar_panel_spirited",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 2
+      },
+      {
+        "value": {
           "id": "powah:thermo_generator_basic",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 80
+        "weight": 100
       },
       {
         "value": {
@@ -1153,7 +1249,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 70
+        "weight": 80
       },
       {
         "value": {
@@ -1170,6 +1266,14 @@
           "amountMax": 1
         },
         "weight": 5
+      },
+      {
+        "value": {
+          "id": "powah:thermo_generator_spirited",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 2
       },
       {
         "value": {
@@ -1281,11 +1385,59 @@
       },
       {
         "value": {
+          "id": "thermal:energy_duct",
+          "amountMin": 1,
+          "amountMax": 16
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "thermal:fluid_duct",
+          "amountMin": 1,
+          "amountMax": 16
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "thermal:energy_duct",
+          "amountMin": 1,
+          "amountMax": 16
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "thermal:lead_block",
+          "amountMin": 2,
+          "amountMax": 8
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "thermal:tin_block",
+          "amountMin": 2,
+          "amountMax": 8
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "thermal:silver_block",
+          "amountMin": 2,
+          "amountMax": 8
+        },
+        "weight": 40
+      },
+      {
+        "value": {
           "id": "thermal:device_water_gen",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 80
+        "weight": 60
       },
       {
         "value": {
@@ -1329,6 +1481,30 @@
       },
       {
         "value": {
+          "id": "thermal:upgrade_augment_1",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 25
+      },
+      {
+        "value": {
+          "id": "thermal:upgrade_augment_2",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 15
+      },
+      {
+        "value": {
+          "id": "thermal:upgrade_augment_3",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 5
+      },
+      {
+        "value": {
           "id": "thermal:machine_sawmill",
           "amountMin": 1,
           "amountMax": 1
@@ -1343,15 +1519,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 80
-      },
-      {
-        "value": {
-          "id": "mekanismgenerators:bio_generator",
-          "amountMin": 1,
-          "amountMax": 1
-        },
-        "weight": 80
+        "weight": 60
       },
       {
         "value": {
@@ -1367,7 +1535,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 100
+        "weight": 80
       },
       {
         "value": {
@@ -1375,7 +1543,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 10
+        "weight": 5
       },
       {
         "value": {
@@ -1383,7 +1551,15 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 5
+        "weight": 15
+      },
+      {
+        "value": {
+          "id": "mekanismgenerators:fusion_reactor_frame",
+          "amountMin": 1,
+          "amountMax": 8
+        },
+        "weight": 1
       }
     ],
     "Create": [
@@ -1449,25 +1625,81 @@
           "amountMin": 1,
           "amountMax": 1
         },
+        "weight": 3
+      },
+      {
+        "value": {
+          "id": "create:rotation_speed_controller",
+          "amountMin": 1,
+          "amountMax": 1
+        },
         "weight": 5
       }
     ],
     "Mekanism": [
       {
         "value": {
-          "id": "mekanism:upgrade_speed",
-          "amountMin": 4,
-          "amountMax": 4
+          "id": "mekanism:block_lead",
+          "amountMin": 2,
+          "amountMax": 8
         },
-        "weight": 120
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "mekanism:block_osmium",
+          "amountMin": 2,
+          "amountMax": 8
+        },
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "mekanism:block_steel",
+          "amountMin": 2,
+          "amountMax": 8
+        },
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "mekanism:upgrade_speed",
+          "amountMin": 8,
+          "amountMax": 8
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "mekanism:alloy_infused",
+          "amountMin": 2,
+          "amountMax": 16
+        },
+        "weight": 50
+      },
+      {
+        "value": {
+          "id": "mekanism:alloy_reinforced",
+          "amountMin": 2,
+          "amountMax": 16
+        },
+        "weight": 35
+      },
+      {
+        "value": {
+          "id": "mekanism:alloy_atomic",
+          "amountMin": 2,
+          "amountMax": 16
+        },
+        "weight": 15
       },
       {
         "value": {
           "id": "mekanism:upgrade_energy",
-          "amountMin": 4,
-          "amountMax": 4
+          "amountMin": 8,
+          "amountMax": 8
         },
-        "weight": 120
+        "weight": 60
       },
       {
         "value": {
@@ -1475,7 +1707,7 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 75
+        "weight": 50
       },
       {
         "value": {
@@ -1491,15 +1723,15 @@
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 10
+        "weight": 20
       },
       {
         "value": {
-          "id": "mekanism:basic_energy_cube",
+          "id": "mekanism:ultimate_tier_installer",
           "amountMin": 1,
           "amountMax": 1
         },
-        "weight": 80
+        "weight": 5
       },
       {
         "value": {
@@ -1515,6 +1747,14 @@
           "amountMin": 1,
           "amountMax": 1
         },
+        "weight": 10
+      },
+      {
+        "value": {
+          "id": "mekanism:ultimate_energy_cube",
+          "amountMin": 1,
+          "amountMax": 1
+        },
         "weight": 5
       }
     ],
@@ -1523,7 +1763,7 @@
         "value": {
           "id": "botania:blacker_lotus",
           "amountMin": 1,
-          "amountMax": 1
+          "amountMax": 2
         },
         "weight": 140
       },
@@ -1550,6 +1790,30 @@
           "amountMax": 1
         },
         "weight": 70
+      },
+      {
+        "value": {
+          "id": "botania:manasteel_ingot",
+          "amountMin": 1,
+          "amountMax": 16
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "botania:mana_diamond",
+          "amountMin": 1,
+          "amountMax": 8
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "botania:terrasteel_ingot",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 10
       },
       {
         "value": {
@@ -1656,6 +1920,164 @@
           "amountMax": 1
         },
         "weight": 5
+      },
+      {
+        "value": {
+          "id": "easy_piglins:barterer",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 20
+      }
+    ],
+    "Modular Routers": [
+      {
+        "value": {
+          "id": "modularrouters:modular_router",
+          "amountMin": 1,
+          "amountMax": 4
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "modularrouters:blank_nmodule",
+          "amountMin": 1,
+          "amountMax": 6
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "modularrouters:blank_upgrade",
+          "amountMin": 1,
+          "amountMax": 6
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "modularrouters:augment_core",
+          "amountMin": 1,
+          "amountMax": 4
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "modularrouters:speed_upgrade",
+          "amountMin": 3,
+          "amountMax": 6
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "modularrouters:stack_upgrade",
+          "amountMin": 1,
+          "amountMax": 4
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "modularrouters:sender_module_3",
+          "amountMin": 1,
+          "amountMax": 4
+        },
+        "weight": 2
+      }
+    ],
+    "Flux Networks": [
+      {
+        "value": {
+          "id": "fluxnetworks:flux_dust",
+          "amountMin": 16,
+          "amountMax": 64
+        },
+        "weight": 70
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:flux_core",
+          "amountMin": 8,
+          "amountMax": 8
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:flux_plug",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 20
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:flux_point",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:basic_flux_storage",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 20
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:herculean_flux_storage",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 10
+      },
+      {
+        "value": {
+          "id": "fluxnetworks:gargantuan_flux_storage",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 2
+      }
+    ],
+    "Hostile Neural Networks": [
+      {
+        "value": {
+          "id": "hostilenetworks:empty_prediction",
+          "amountMin": 32,
+          "amountMax": 64
+        },
+        "weight": 120
+      },
+      {
+        "value": {
+          "id": "hostilenetworks:entity_data_model",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 60
+      },
+      {
+        "value": {
+          "id": "hostilenetworks:sim_chamber",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 10
+      },
+      {
+        "value": {
+          "id": "hostilenetworks:loot_fabricator",
+          "amountMin": 1,
+          "amountMax": 1
+        },
+        "weight": 10
       }
     ]
   }
