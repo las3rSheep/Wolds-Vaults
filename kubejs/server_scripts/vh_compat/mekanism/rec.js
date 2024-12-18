@@ -104,6 +104,18 @@ onEvent("recipes", event => {
 
     })
 
+
+    event.shaped(Item.of(`mekanism:basic_energy_cube`), [
+        'RCR',
+        'IMI',
+        'RCR'
+    ], {
+        R: 'the_vault:chromatic_steel_ingot',
+        C: 'mekanism:basic_control_circuit',
+        I: 'mekanism:energy_tablet',
+        M: `mekanism:steel_casing`
+    });
+
     for (let i = 0; i < basemachines.length; i++) {
         let base = basemachines[i];
         let machine = mekmachines[i];
