@@ -424,17 +424,6 @@
               }
             },
             {
-              "weight": 8,
-              "item": {
-                "id": "the_vault:hostile_mystery_egg",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            },
-            {
               "weight": 6,
               "item": {
                 "id": "the_vault:fundamental_focus",

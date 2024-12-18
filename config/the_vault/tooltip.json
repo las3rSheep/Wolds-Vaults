@@ -37,6 +37,14 @@
       "value": "An incredible powerful magical vortex core, holding the souls of many fallen.\n\nUse a Soul Diffuser to release it's power"
     },
     {
+      "item": "woldsvaults:layout_manipulator",
+      "value": "Combine with Vault Crystal in Anvil to set the Vault's Layout"
+    },
+    {
+      "item": "woldsvaults:crystal_seal_warrior",
+      "value": "Use in the Crystal Workbench to set the objective to 'Offering Boss'"
+    },
+    {
       "item": "the_vault:crystal_seal_scout",
       "value": "Use in the Crystal Workbench to set the objective to 'Light The Braziers'"
     },

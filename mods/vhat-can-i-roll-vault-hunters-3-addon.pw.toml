@@ -1,13 +1,13 @@
 name = "VHat Can I Roll? - Vault Hunters 3 addon"
-filename = "vhatcaniroll-1.3.jar"
+filename = "vhatcaniroll-1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a484303a5b26d26ab7c153085968c7203f88ae11"
+hash = "c72e53c0e85535b95f8b1b0fc452413f484b169f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5966555
+file-id = 5986719
 project-id = 1098054

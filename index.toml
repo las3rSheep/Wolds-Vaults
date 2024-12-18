@@ -6,7 +6,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a72d6939264d5be09f1e9ddf6778f537bc5108532d4d58be6f8986e3e01e1e9f"
+hash = "b00af93519a7f76da65cf85b7d2a01ee86b59effcb9313eb274926b401831823"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -13090,7 +13090,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "048a9d93aa708e18602d469d7d1480114fc4d8191eeabc981ca7c9a767460423"
+hash = "27dbd7af04b923c3d9e8882a9bc3e8bb1fa545036c774938670e82b6f84a8500"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -13130,7 +13130,7 @@ hash = "0adc7b1116b733336802c1ef96bacae57c71dcec057eddccc32d2af9d917d898"
 
 [[files]]
 file = "config/the_vault/unhinged_scavenger.json"
-hash = "cf753eb4aac7d834a91ee987ffa4a61bd4ef6b75ed6a820466624461655107a3"
+hash = "17db1334dbaeace82dca34a85da418cfeddb950fb8779671ccd3c857be0ad773"
 
 [[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
@@ -13194,7 +13194,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "eccdfaa0b063c98b2ce557bb3a7aac7d6e0e60995c9757aaadec5b3fb3de8c5d"
+hash = "58bd244e7032810ae68a7b6ca31c71634583ca8bccfe8925c911c7c49ca1ab1f"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -20763,7 +20763,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "2cda346d6b810b67a6333ef90036eddac65aa657f79747c73d0e8baa18c5c539"
+hash = "c5af05f254fc3712cf3789281ff37693d7d1e513b7ac9a20f79b360d366d26a0"
 metafile = true
 
 [[files]]
@@ -20818,7 +20818,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaultmapper.pw.toml"
-hash = "7c6361d32c11b2a5483f76faeec95ffaa96ce41b280a0532058ded83c8cea56e"
+hash = "ee84b24b826be11af34c04bc4d8cd674c958cbad9d4df285730681c8cd8c33c7"
 metafile = true
 
 [[files]]
@@ -20833,7 +20833,7 @@ metafile = true
 
 [[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
-hash = "7ac270feda101139a1e5095e96f297612712c7658ba68a1b3368cdee6239a7ac"
+hash = "6d94e8713d6c7a04950bf727a5f935142a2e557a247ac5bb8d98ab4325f4b783"
 metafile = true
 
 [[files]]
@@ -20853,7 +20853,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "0afa5372c597109493d408f1c4302b76f3220442e3369963bd180eb6babbb14b"
+hash = "04fb4d654d5d4aed657bd8939db5249341dbdad5d5085060c3d428afd4eff1f2"
 metafile = true
 
 [[files]]
