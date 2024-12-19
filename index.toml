@@ -1106,15 +1106,15 @@ hash = "728c6d007a6e0b32530e7847ac797abfd4cf66e1d59c85b3e3f1ac1d482e99f4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl100.json"
-hash = "756f2271f424650d2d6baadc5bd8e143c846d0747b802174918160c17e7e6556"
+hash = "02476d1bab3740a2cf53770722d5fd4745fd7384d27d4d368ad7c4c0688d94b6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl20.json"
-hash = "b41efc757a5d228daea2c6fd8943064329ae2120688d11cca8e897aa136d383e"
+hash = "f0372dada82d572f0f1d5a9b68c56e3c6d2e03156d9a9eac173d7047c1869d0c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl50.json"
-hash = "091ab9c41389155a323dcab6b3d246578561f3c82fd4146f07e82d44d193db13"
+hash = "612d9d4b849557fe65847f3a01cea73b1f9527da4f73fa10c0af7d546175b6ef"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_0.json"
@@ -12854,7 +12854,7 @@ hash = "c08fdb86c302895d920e9c6212b628f50f0a2a6264fcb0398f3a5ea84b406957"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
-hash = "0154a3a32b7afaff4ca3369bb09a10ba697d6324ba511af89a8fe4c3c6627845"
+hash = "d698e7db355de4fc744509cc38f0282f1f47fbf69fb79cf83cc5fb37a2820092"
 
 [[files]]
 file = "config/the_vault/modifier_groups.json"
@@ -13038,7 +13038,7 @@ hash = "cdcb833df1564b39e0693b75b3055485a3f1e544375d301f4a4f1fc0dfe63678"
 
 [[files]]
 file = "config/the_vault/spirit.json"
-hash = "e74d467738ce332c656bcdb84ccc1dec9de21199400cddb22afac6031ef1dd12"
+hash = "fc811ef9479610d055858c62155e771e2dd5bb195108efb0e1877abfdc0e494c"
 
 [[files]]
 file = "config/the_vault/statue_loot.json"
@@ -13130,7 +13130,7 @@ hash = "0adc7b1116b733336802c1ef96bacae57c71dcec057eddccc32d2af9d917d898"
 
 [[files]]
 file = "config/the_vault/unhinged_scavenger.json"
-hash = "17db1334dbaeace82dca34a85da418cfeddb950fb8779671ccd3c857be0ad773"
+hash = "d4bb1f0e2d57bd2a5fa824d28956c9cee600c26c72a3a54078d3900271073cbe"
 
 [[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
@@ -13154,7 +13154,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "a2cbc8997760d033e18ca24e3eaff748aac4a378fccb980820523ec926a793be"
+hash = "d3b6c2730336aab37c24a880ab537a3550750ee5d0b3d7051f4a1f33a9b443ee"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -13258,7 +13258,7 @@ hash = "a4ffc3aa6511956c66504bbea01491f9a69ccd9ebe2e8f0a4789e9bf68bb704b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "e955c467d6a06b117e01abc9ed654e177ffd0b3d442bd04ff2e11187377d3014"
+hash = "dba85db7677c658a6f6346f8562d0783d7ee3970d273dd8e351e2c64245c4335"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -14858,7 +14858,7 @@ hash = "f3899afbfa24695d72d02f8fc785cc1e72d345769557f0e1efc2f6542139bb48"
 
 [[files]]
 file = "defaultconfigs/skinfighters-server.toml"
-hash = "64910945ede9a6c0652b4c10cd3d4c8d18c5f196fac09a4268adc8af8a027e67"
+hash = "a35491e05e06cfa35002fb06890f090b053a5937b9b1950e6961b6d629599a12"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -18622,7 +18622,7 @@ hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/rec.js"
-hash = "d4c039a751132958e2be52c1d55b46a9a8756b6b84374616f040022f00017a50"
+hash = "bde1457752b2324d5b659f3f8df250552a9eddeb87a6abe8758803851493a15a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"

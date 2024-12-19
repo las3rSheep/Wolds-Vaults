@@ -10,6 +10,10 @@
       "output": "the_vault:vault_crystal"
     },
     {
+      "input": "woldsvaults:greedy_vault_rock",
+      "output": "the_vault:vault_crystal"
+    },
+    {
       "input": "the_vault:crystal_seal_trial_chamber",
       "output": {
         "id": "the_vault:vault_crystal",
