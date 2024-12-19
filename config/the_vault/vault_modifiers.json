@@ -1601,7 +1601,7 @@
         "properties": {
           "damage": 3.0,
           "movementSpeed": 0.1,
-          "maxHealth": 2.0,
+          "maxHealth": 0.5,
           "doHealthReduction": true
         },
         "display": {
@@ -1615,13 +1615,13 @@
         "properties": {
           "damage": 0.0,
           "movementSpeed": 0.0,
-          "maxHealth": 2.0,
+          "maxHealth": 0.1,
           "doHealthReduction": true
         },
         "display": {
           "name": ":overpower: Overpower",
           "color": "#FC7C5C",
-          "description": "Mobs spawn with 1 heart!",
+          "description": "Mobs spawn with 10% health!",
           "icon": "the_vault:gui/modifiers/overpower"
         }
       }
