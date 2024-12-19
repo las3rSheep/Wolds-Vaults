@@ -1,5 +1,16 @@
-
 onEvent("recipes", event => {
+    /**
+     * Make sure that ingredients and outputs are ItemStackJS objects (can be created using Item.of()), using item ids alone will not work
+     */
+    function strongboxUpgrade(result, key) {
+        return event.custom({
+            type: "sophisticatedstorage:storage_tier_upgrade",
+            key: key,
+            pattern: ['IXI', 'XCX', 'IXI'],
+            result: result
+        })
+    }
+
     event.shaped(Item.of('sophisticatedstorage:treasure_chest'),
         [
             'ITI',
@@ -101,37 +112,24 @@ onEvent("recipes", event => {
         I: 'the_vault:chromatic_gold_ingot'
     })
 
+    strongboxUpgrade(Item.of('sophisticatedstorage:ornate_strongbox'),
+        {
+            C: Item.of('sophisticatedstorage:ornate_chest'),
+            X: Item.of('the_vault:perfect_painite'),
+            I: Item.of('the_vault:ornate_chest_scroll')
+        })
 
-    event.shaped(Item.of('sophisticatedstorage:ornate_strongbox'),
-        [
-            'IXI',
-            'XCX',
-            'IXI'
-        ], {
-        C: 'sophisticatedstorage:ornate_chest',
-        X: 'the_vault:perfect_painite',
-        I: 'the_vault:ornate_chest_scroll'
-    })
+    strongboxUpgrade(Item.of('sophisticatedstorage:gilded_strongbox'),
+        {
+            C: Item.of('sophisticatedstorage:gilded_chest'),
+            X: Item.of('the_vault:chromatic_gold_ingot'),
+            I: Item.of('the_vault:gilded_chest_scroll')
+        })
 
-    event.shaped(Item.of('sophisticatedstorage:gilded_strongbox'),
-        [
-            'IXI',
-            'XCX',
-            'IXI'
-        ], {
-        C: 'sophisticatedstorage:gilded_chest',
-        X: 'the_vault:chromatic_gold_ingot',
-        I: 'the_vault:gilded_chest_scroll'
-    })
-
-    event.shaped(Item.of('sophisticatedstorage:living_strongbox'),
-        [
-            'IXI',
-            'XCX',
-            'IXI'
-        ], {
-        C: 'sophisticatedstorage:living_chest',
-        X: 'the_vault:perfect_alexandrite',
-        I: 'the_vault:living_chest_scroll'
-    })
+    strongboxUpgrade(Item.of('sophisticatedstorage:living_strongbox'),
+        {
+            C: Item.of('sophisticatedstorage:living_chest'),
+            X: Item.of('the_vault:perfect_alexandrite'),
+            I: Item.of('the_vault:living_chest_scroll')
+        })
 })

@@ -1,6 +1,16 @@
-let woodTypes = ['oak', 'birch', 'warped', 'spruce', 'dark_oak', 'crimson', 'acacia', 'jungle', 'vault_wooden_planks', 'overgrown', 'chromatic', 'tenos', 'velara', 'driftwood'];
-let dyes = ['white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'gray', 'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black']
 onEvent("recipes", event => {
+
+    /**
+     * Make sure that ingredients and outputs are ItemStackJS objects (can be created using Item.of()), using item ids alone will not work
+     */
+    function storageTierUpgrade(result, pattern, key) {
+        return event.custom({
+            type: "sophisticatedstorage:storage_tier_upgrade",
+            key: key,
+            pattern: pattern,
+            result: result
+        })
+    }
 
     event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `vault_wooden_planks` }),
         [
@@ -396,272 +406,268 @@ onEvent("recipes", event => {
     })
 
 
-    woodTypes.forEach(wood => {
+    storageTierUpgrade(Item.of('sophisticatedstorage:iron_chest'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:chest')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:iron_chest', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:chest', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:gold_chest'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:iron_chest')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:gold_chest', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:iron_chest', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:diamond_chest'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:gold_chest')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:diamond_chest', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:gold_chest', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:netherite_chest'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:diamond_chest')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:netherite_chest', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:diamond_chest', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:iron_barrel'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:barrel')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:iron_barrel', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:barrel', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:gold_barrel'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:iron_barrel')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:gold_barrel', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:iron_barrel', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:diamond_barrel'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:gold_barrel')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:diamond_barrel', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:gold_barrel', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:netherite_barrel'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:diamond_barrel')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:netherite_barrel', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:diamond_barrel', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_iron_barrel_1'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:limited_barrel_1')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_iron_barrel_1', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:limited_barrel_1', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_gold_barrel_1'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:limited_iron_barrel_1')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_gold_barrel_1', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:limited_iron_barrel_1', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_diamond_barrel_1'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:limited_gold_barrel_1')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_diamond_barrel_1', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:limited_gold_barrel_1', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_netherite_barrel_1'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:limited_diamond_barrel_1')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_netherite_barrel_1', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:limited_diamond_barrel_1', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_iron_barrel_2'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:limited_barrel_2')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_iron_barrel_2', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:limited_barrel_2', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_gold_barrel_2'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:limited_iron_barrel_2')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_gold_barrel_2', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:limited_iron_barrel_2', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_diamond_barrel_2'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:limited_gold_barrel_2')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_diamond_barrel_2', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:limited_gold_barrel_2', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_netherite_barrel_2'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:limited_diamond_barrel_2')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_netherite_barrel_2', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:limited_diamond_barrel_2', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_iron_barrel_3'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:limited_barrel_3')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_iron_barrel_3', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:limited_barrel_3', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_gold_barrel_3'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:limited_iron_barrel_3')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_gold_barrel_3', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:limited_iron_barrel_3', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_diamond_barrel_3'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:limited_gold_barrel_3')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_diamond_barrel_3', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:limited_gold_barrel_3', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_netherite_barrel_3'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:limited_diamond_barrel_3')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_netherite_barrel_3', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:limited_diamond_barrel_3', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_iron_barrel_4'),
+        [
+            'III',
+            'ICI',
+            'III'
+        ], {
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        C: Item.of('sophisticatedstorage:limited_barrel_4')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_iron_barrel_4', { 'woodType': `${wood}` }),
-            [
-                'III',
-                'ICI',
-                'III'
-            ], {
-            I: 'the_vault:chromatic_iron_ingot',
-            C: Item.of('sophisticatedstorage:limited_barrel_4', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_gold_barrel_4'),
+        [
+            'PIP',
+            'DCD',
+            'PIP'
+        ], {
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
+        C: Item.of('sophisticatedstorage:limited_iron_barrel_4')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_gold_barrel_4', { 'woodType': `${wood}` }),
-            [
-                'PIP',
-                'DCD',
-                'PIP'
-            ], {
-            P: 'minecraft:gold_ingot',
-            I: 'the_vault:chromatic_iron_ingot',
-            D: 'the_vault:perfect_larimar',
-            C: Item.of('sophisticatedstorage:limited_iron_barrel_4', { 'woodType': `${wood}` })
-        })
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_diamond_barrel_4'),
+        [
+            'PDP',
+            'DCD',
+            'PDP'
+        ], {
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
+        C: Item.of('sophisticatedstorage:limited_gold_barrel_4')
+    })
 
-        event.shaped(Item.of('sophisticatedstorage:limited_diamond_barrel_4', { 'woodType': `${wood}` }),
-            [
-                'PDP',
-                'DCD',
-                'PDP'
-            ], {
-            P: 'the_vault:perfect_larimar',
-            D: 'the_vault:vault_diamond',
-            C: Item.of('sophisticatedstorage:limited_gold_barrel_4', { 'woodType': `${wood}` })
-        })
-
-        event.shaped(Item.of('sophisticatedstorage:limited_netherite_barrel_4', { 'woodType': `${wood}` }),
-            [
-                'IDI',
-                'DCD',
-                'IDI'
-            ], {
-            D: 'the_vault:vault_diamond',
-            I: 'the_vault:black_chromatic_steel_ingot',
-            C: Item.of('sophisticatedstorage:limited_diamond_barrel_4', { 'woodType': `${wood}` })
-        })
-
+    storageTierUpgrade(Item.of('sophisticatedstorage:limited_netherite_barrel_4'),
+        [
+            'IDI',
+            'DCD',
+            'IDI'
+        ], {
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
+        C: Item.of('sophisticatedstorage:limited_diamond_barrel_4')
     })
 
     event.remove({ id: 'sophisticatedstorage:upgrade_base' })
@@ -731,47 +737,47 @@ onEvent("recipes", event => {
     event.remove({ id: 'sophisticatedstorage:crafting_upgrade' })
 
 
-    event.shaped(Item.of('sophisticatedstorage:iron_shulker_box'),
+    storageTierUpgrade(Item.of('sophisticatedstorage:iron_shulker_box'),
         [
             'III',
             'ICI',
             'III'
         ], {
-        I: 'the_vault:chromatic_iron_ingot',
+        I: Item.of('the_vault:chromatic_iron_ingot'),
         C: Item.of('sophisticatedstorage:shulker_box')
     })
 
-    event.shaped(Item.of('sophisticatedstorage:gold_shulker_box'),
+    storageTierUpgrade(Item.of('sophisticatedstorage:gold_shulker_box'),
         [
             'PIP',
             'DCD',
             'PIP'
         ], {
-        P: 'minecraft:gold_ingot',
-        I: 'the_vault:chromatic_iron_ingot',
-        D: 'the_vault:perfect_larimar',
+        P: Item.of('minecraft:gold_ingot'),
+        I: Item.of('the_vault:chromatic_iron_ingot'),
+        D: Item.of('the_vault:perfect_larimar'),
         C: Item.of('sophisticatedstorage:iron_shulker_box')
     })
 
-    event.shaped(Item.of('sophisticatedstorage:diamond_shulker_box'),
+    storageTierUpgrade(Item.of('sophisticatedstorage:diamond_shulker_box'),
         [
             'PDP',
             'DCD',
             'PDP'
         ], {
-        P: 'the_vault:perfect_larimar',
-        D: 'the_vault:vault_diamond',
+        P: Item.of('the_vault:perfect_larimar'),
+        D: Item.of('the_vault:vault_diamond'),
         C: Item.of('sophisticatedstorage:gold_shulker_box')
     })
 
-    event.shaped(Item.of('sophisticatedstorage:netherite_shulker_box'),
+    storageTierUpgrade(Item.of('sophisticatedstorage:netherite_shulker_box'),
         [
             'IDI',
             'DCD',
             'IDI'
         ], {
-        D: 'the_vault:vault_diamond',
-        I: 'the_vault:black_chromatic_steel_ingot',
+        D: Item.of('the_vault:vault_diamond'),
+        I: Item.of('the_vault:black_chromatic_steel_ingot'),
         C: Item.of('sophisticatedstorage:diamond_shulker_box')
     })
 
