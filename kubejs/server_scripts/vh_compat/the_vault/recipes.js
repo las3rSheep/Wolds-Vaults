@@ -313,6 +313,7 @@ onEvent("recipes", event => {
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:copiously"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:gold_ingot'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:durability"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_ingot'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:hammer_size"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_block'])
+    event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:hammering"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:iron_nugget'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:mining_speed"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:lapis_lazuli'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:item_quantity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:chest'])
     event.shapeless(Item.of('woldsvaults:chiseling_focus', '{modifier:"the_vault:item_rarity"}'), ['the_vault:nullifying_focus', 'the_vault:smashed_vault_gem_cluster', 'minecraft:emerald'])
