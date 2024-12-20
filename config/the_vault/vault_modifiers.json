@@ -1,5 +1,33 @@
 {
   "modifiers": {
+    "the_vault:modifier_type/difficulty_lock": {
+      "the_vault:normalized": {
+        "properties": {
+          "difficulty": "NORMAL",
+          "lockHigher": false
+        },
+        "display": {
+          "name": "Normalized",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to at least Normal!",
+          "descriptionFormatted": "This vault's difficulty is locked to at least Normal!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:normalized_lock": {
+        "properties": {
+          "difficulty": "NORMAL",
+          "lockHigher": false
+        },
+        "display": {
+          "name": "Normalized",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Normal!",
+          "descriptionFormatted": "This vault's difficulty is locked to Normal!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
     "the_vault:modifier_type/chance_artifact": {
       "the_vault:prosperous": {
         "properties": {
@@ -780,6 +808,44 @@
           "color": "#FFEA00",
           "description": "Killing a mob will have it drop bronze or silver!",
           "icon": "the_vault:gui/modifiers/kill_coin"
+        }
+      }
+    },
+    "the_vault:modifier_type/mob_attribute_settable": {
+      "the_vault:map_mob_health": {
+        "properties": {
+          "type": "max_health_additive_percentile"
+        },
+        "display": {
+          "name": "Vault Mob Health",
+          "color": "#dc693c",
+          "description": "+X% Mob Health",
+          "descriptionFormatted": "+%d%% Mob Health",
+          "icon": "the_vault:gui/modifiers/destructive"
+        }
+      }
+    },
+    "the_vault:modifier_type/loot_item_quantity_settable": {
+      "the_vault:map_item_quantity": {
+        "properties": {},
+        "display": {
+          "name": "Vault Item Quantity",
+          "color": "#ffcc73",
+          "description": "+X% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
+        }
+      }
+    },
+    "the_vault:modifier_type/loot_item_rarity_settable": {
+      "the_vault:map_item_rarity": {
+        "properties": {},
+        "display": {
+          "name": "Vault Item Rarity",
+          "color": "#ffcc73",
+          "description": "+X% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
         }
       }
     },
@@ -4207,10 +4273,9 @@
       "the_vault:challenge_stack": {
         "properties": {
           "children": {
-            "the_vault:furious_mobs": 1,
-            "the_vault:chunky_mobs": 1,
-            "the_vault:cake_layer_mobspeed": 1,
-            "the_vault:cake_mob_increase": 1
+            "the_vault:furious_mobs": 2,
+            "the_vault:chunky_mobs": 2,
+            "the_vault:cake_layer_mobspeed": 1
           }
         },
         "display": {

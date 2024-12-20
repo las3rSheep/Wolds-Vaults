@@ -691,7 +691,7 @@
             "MIN_COST": 40,
             "MAX_COST": 60
           },
-          "weight": 8
+          "weight": 2
         },
         {
           "value": {
@@ -1578,7 +1578,7 @@
             "MIN_COST": 40,
             "MAX_COST": 60
           },
-          "weight": 8
+          "weight": 2
         },
         {
           "value": {

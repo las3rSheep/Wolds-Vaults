@@ -513,6 +513,10 @@ file = "config/the_vault/gear_modifiers/magnet.json"
 hash = "a7965e7ac84c7b6ed3eb5e885fe82033b48c6b323808bc6819f8e076b4629a7f"
 
 [[files]]
+file = "config/the_vault/gear_modifiers/map.json"
+hash = "91801065a5ea81a2d628f3ddab0a46f55210cbdcd410794475c9e0e77bd289b7"
+
+[[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
 hash = "0b9e2573df3cca33a40bdb7fd038e3d68cabd361b04e1b4b7023ffd3852f9c5b"
 
@@ -12954,7 +12958,7 @@ hash = "8e45ebb584f92f1dc888ceb02b132eac93fe3056010f99922c7a9dd459d21f3d"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "32fb1cd315c73065c99ba2631d2518b8deb4cfd755bdede6ae435f3eb53451d3"
+hash = "1c7dc12b2388e2eb2699c5d678c51b8cc1262623a6101a76415fc82fe0235ca0"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -13014,7 +13018,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "48cebc0d53b62d299baa23d39ba63aa7f482c8ff935130ec1be0be9f354230ae"
+hash = "e2deb26d9a15a46f56f1966915ea9f03a28237bb7f5233ea53baea5987de7bc0"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -13161,6 +13165,10 @@ file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
 hash = "5d4793d4a5a752de710b2529f9eb949ae9a52dfd0e0263a716964f612d8e1d46"
 
 [[files]]
+file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"
+hash = "8ec2c798b25638ee1ceaa448c9c68fae7dfc0af68f4d6d3ab8b8c6e19f50b88a"
+
+[[files]]
 file = "config/the_vault/vault_altar_chest.json"
 hash = "36f897cdbab2010cbca0a62aa69521e25a59fe4854f90edb030826e6fef2095d"
 
@@ -13194,7 +13202,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "58bd244e7032810ae68a7b6ca31c71634583ca8bccfe8925c911c7c49ca1ab1f"
+hash = "e55c23959e83b41a1ae52ed6f090b0fe264d2659c1bd3d9cc3d799ba12bb8d28"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -13258,7 +13266,7 @@ hash = "a4ffc3aa6511956c66504bbea01491f9a69ccd9ebe2e8f0a4789e9bf68bb704b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "dba85db7677c658a6f6346f8562d0783d7ee3970d273dd8e351e2c64245c4335"
+hash = "d428cbd23cf3b10cc68d4de4fc8a8bfcd89031a63e22c1a0dd3c469a00e3e949"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -18738,11 +18746,11 @@ hash = "1b8e9eec01a93bf77a4960078639bf209d4b2b5153a41deccc4f4c6706321a7b"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/chests.js"
-hash = "29c9991743a9094832f8fc36955fbab2ca7e423d03c8a7c9f6c67bd9f51579b4"
+hash = "9d389dd327520aaecc1f174ef81fc8a5131a010618ebb32749f5cff399e1a86a"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/recipes.js"
-hash = "800f4547d63e86bd681c07a9c25b8a924686f9c7956906a01d416dcad8f94424"
+hash = "98431fae9f24d9a7f06824c08e2ce28ead28a1d3a639575860f32bb252d61a85"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/tags.js"
@@ -18766,7 +18774,7 @@ hash = "4fb1aed294eda10001e2e51f8a273d915cfa0268151e0de8275097d497a802c5"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/recipes.js"
-hash = "56142fda8ceb5284eede305ee40b8ac649534b9e01b08171af8a7e70b7053001"
+hash = "e96df46478dfad4f98e72a78ce7bee4f8503c4f69471613f77d2c7cfe1602534"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/the_vault/tags.js"
@@ -19423,7 +19431,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-bookmarks.pw.toml"
-hash = "3666537198c529edf6d3f31c6429b3f66d82252c347ca1763459ec6f7fda9b68"
+hash = "7eabf4855adb071982fb0a24f8a4b0db6a1f81e53053efe5289c477db25c8bc5"
 metafile = true
 
 [[files]]
