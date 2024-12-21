@@ -4562,7 +4562,8 @@
         "properties": {
           "children": {
             "the_vault:rotten": 1,
-            "the_vault:extra_reinforced": 1
+            "the_vault:extra_reinforced": 1,
+            "the_vault:normalized": 1
           }
         },
         "display": {
