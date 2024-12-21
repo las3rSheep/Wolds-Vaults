@@ -514,7 +514,7 @@ hash = "a7965e7ac84c7b6ed3eb5e885fe82033b48c6b323808bc6819f8e076b4629a7f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map.json"
-hash = "29e90841024db9143b6ff8db987dd690aa17de9a3f38e0467718deb30e38a006"
+hash = "90e57b56403caa791bda3c8422d8360ec89b6a2bed81f5b89ddeafb2208f86ee"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
@@ -550,7 +550,7 @@ hash = "cb6e038bcb393244e2a427bab559fb18c3562ac810c788338bcc353b392e8f1d"
 
 [[files]]
 file = "config/the_vault/gear_workbench/battlestaff.json"
-hash = "800d54817b1a82512aa5c3922178b85ba9498218f9cc4b7741b0b36728badef3"
+hash = "cbf17c40718fc53a7c70b180f424b17f637ccb145aadf18266ea7fd06603dcd5"
 
 [[files]]
 file = "config/the_vault/gear_workbench/boots.json"
@@ -13202,7 +13202,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "e55c23959e83b41a1ae52ed6f090b0fe264d2659c1bd3d9cc3d799ba12bb8d28"
+hash = "7f6f5479ba2c7c3ce642ede66dbb5d6322e6e700248b4c7cdd359f47e8dde982"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -13266,7 +13266,7 @@ hash = "a4ffc3aa6511956c66504bbea01491f9a69ccd9ebe2e8f0a4789e9bf68bb704b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "bcb984ba990cb3851946cc06a5c7ac9e0e9cebfb24a38f05275921c2bb574e1a"
+hash = "6e834c01410bbfd577e59a3f8566bc9c037d57deeb32ad604a8c70c816dcf6ec"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"

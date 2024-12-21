@@ -1,6 +1,60 @@
 {
   "modifiers": {
+    "the_vault:modifier_type/add_inscription": {
+      "the_vault:arcade": {
+        "properties": {
+          "pool": "the_vault:arcade",
+          "color": 7012096
+        },
+        "display": {
+          "name": "Arcade Room",
+          "color": "#EBFF8D",
+          "description": "This vault has an arcade room!",
+          "descriptionFormatted": "This vault has an arcade room!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
     "the_vault:modifier_type/difficulty_lock": {
+      "the_vault:piece_of_cake": {
+        "properties": {
+          "difficulty": "PIECE_OF_CAKE",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Piece of Cake",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Piece of Cake!",
+          "descriptionFormatted": "This vault's difficulty is locked to Piece of Cake!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:easy": {
+        "properties": {
+          "difficulty": "EASY",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Easy",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Easy!",
+          "descriptionFormatted": "This vault's difficulty is locked to Easy!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:normal": {
+        "properties": {
+          "difficulty": "NORMAL",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Normal",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Normal!",
+          "descriptionFormatted": "This vault's difficulty is locked to Normal!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
       "the_vault:hard": {
         "properties": {
           "difficulty": "HARD",
@@ -11,6 +65,32 @@
           "color": "#EBFF8D",
           "description": "This vault's difficulty is locked to Hard!",
           "descriptionFormatted": "This vault's difficulty is locked to Hard!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:impossible": {
+        "properties": {
+          "difficulty": "IMPOSSIBLE",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Impossible",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Impossible!",
+          "descriptionFormatted": "This vault's difficulty is locked to Impossible!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:fragged": {
+        "properties": {
+          "difficulty": "FRAGGED",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Fragged",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Fragged!",
+          "descriptionFormatted": "This vault's difficulty is locked to Fragged!",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       },
@@ -1280,7 +1360,7 @@
         "display": {
           "name": ":knife: Lethal",
           "color": "#dc693c",
-          "description": "Mobs in this vault will always hit critical strikes",
+          "description": "Mobs have guaranteed critical strikes",
           "descriptionFormatted": "Mobs in this vault will always hit critical strikes",
           "icon": "the_vault:gui/modifiers/destructive"
         }
@@ -2459,6 +2539,20 @@
       }
     },
     "the_vault:modifier_type/player_inventory_restore": {
+      "the_vault:map_afterlife": {
+        "properties": {
+          "preventsArtifact": false,
+          "experienceMultiplierOnDeath": 0.0,
+          "experienceMultiplierOnSuccess": 1.0,
+          "isInstantRevival": false
+        },
+        "display": {
+          "name": "Map Afterlife",
+          "color": "#3ffb9c",
+          "description": "No item loss on death",
+          "icon": "the_vault:gui/modifiers/afterlife"
+        }
+      },
       "the_vault:oneup": {
         "properties": {
           "preventsArtifact": false,
@@ -3003,6 +3097,19 @@
           "icon": "the_vault:gui/modifiers/antiheal2"
         }
       },
+      "the_vault:no_heal": {
+        "properties": {
+          "stat": "healing_effectiveness",
+          "addend": -5.0
+        },
+        "display": {
+          "name": "No Heal",
+          "color": "#849dc8",
+          "description": "You cannot heal",
+          "descriptionFormatted": "Healing in this vault is very inefficient",
+          "icon": "the_vault:gui/modifiers/antiheal"
+        }
+      },
       "the_vault:enervated": {
         "properties": {
           "stat": "healing_effectiveness",
@@ -3085,18 +3192,6 @@
           "description": "+3 Vault Level",
           "descriptionFormatted": "+%d Vault Level",
           "icon": "the_vault:gui/modifiers/difficult"
-        }
-      },
-      "the_vault:easy": {
-        "properties": {
-          "levelAdded": -3
-        },
-        "display": {
-          "name": "Easy",
-          "color": "#70FF2A",
-          "description": "-3 Vault Level",
-          "descriptionFormatted": "-%d Vault Level",
-          "icon": "the_vault:gui/modifiers/easy"
         }
       }
     },
