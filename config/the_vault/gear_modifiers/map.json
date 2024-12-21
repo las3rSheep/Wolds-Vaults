@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "attribute": "the_vault:vault_difficulty",
+        "group": "ModDifficulty",
+        "identifier": "the_vault:hard",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "value": "HARD"
+            }
+          }
+        ]
       }
     ],
     "PREFIX": [
@@ -85,6 +101,40 @@
               "min": 1.0,
               "max": 2.0,
               "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:grouped_quantity",
+        "group": "ModItemQuantity",
+        "identifier": "the_vault:map_group_test",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 1600,
+            "value": {
+              "min": 1.0,
+              "max": 2.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:static_modifier",
+        "group": "ModVaultModifier",
+        "identifier": "the_vault:daycare",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 16000,
+            "value": {
+              "value": "the_vault:daycare"
             }
           }
         ]

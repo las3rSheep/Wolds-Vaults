@@ -1,6 +1,19 @@
 {
   "modifiers": {
     "the_vault:modifier_type/difficulty_lock": {
+      "the_vault:hard": {
+        "properties": {
+          "difficulty": "HARD",
+          "lockHigher": true
+        },
+        "display": {
+          "name": "Hard",
+          "color": "#EBFF8D",
+          "description": "This vault's difficulty is locked to Hard!",
+          "descriptionFormatted": "This vault's difficulty is locked to Hard!",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
       "the_vault:normalized": {
         "properties": {
           "difficulty": "NORMAL",
@@ -3766,6 +3779,24 @@
           "color": "#5ece0c",
           "description": "+2% Chance for Champions to Spawn",
           "icon": "the_vault:gui/modifiers/champion_increase"
+        }
+      }
+    },
+    "the_vault:modifier_type/grouped_settable": {
+      "the_vault:map_group_test": {
+        "properties": {
+          "children": {
+            "the_vault:map_item_quantity": 1,
+            "the_vault:map_item_rarity": 1,
+            "the_vault:trial": 1
+          }
+        },
+        "display": {
+          "name": "Bundled Values",
+          "color": "#3ffbf4",
+          "description": "A multitude of items",
+          "descriptionFormatted": "+%d%% Item Quantity and Rarity",
+          "icon": "the_vault:gui/modifiers/impossible"
         }
       }
     },
