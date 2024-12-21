@@ -6020,7 +6020,7 @@
         "properties": {
           "entries": [
             {
-              "filter": "the_vault:god_altar",
+              "filter": "the_vault:pylon",
               "radius": 64.0,
               "color": 5817009
             }
@@ -6030,7 +6030,7 @@
           "name": ":omega: Pylon Hunter",
           "color": "#58C2B1",
           "description": "Highlights Pylons in this vault",
-          "icon": "the_vault:gui/modifiers/god_token_tenos"
+          "icon": "the_vault:gui/modifiers/inert"
         }
       },
       "the_vault:velara_hunter": {
