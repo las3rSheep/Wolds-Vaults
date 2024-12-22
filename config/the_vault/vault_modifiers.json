@@ -916,6 +916,54 @@
           "descriptionFormatted": "+%d%% Mob Health",
           "icon": "the_vault:gui/modifiers/destructive"
         }
+      },
+      "the_vault:map_mob_damage": {
+        "properties": {
+          "type": "attack_damage_additive_percentile"
+        },
+        "display": {
+          "name": "Vault Mob Attack Damage",
+          "color": "#dc693c",
+          "description": "+X% Mob Damage",
+          "descriptionFormatted": "+%d%% Mob Damage",
+          "icon": "the_vault:gui/modifiers/destructive"
+        }
+      },
+      "the_vault:map_mob_speed": {
+        "properties": {
+          "type": "speed_additive_percentile"
+        },
+        "display": {
+          "name": "Vault Mob Speed",
+          "color": "#dc693c",
+          "description": "+X% Mob Speed",
+          "descriptionFormatted": "+%d%% Mob Speed",
+          "icon": "the_vault:gui/modifiers/destructive"
+        }
+      },
+      "the_vault:map_mob_crit": {
+        "properties": {
+          "type": "crit_chance_additive"
+        },
+        "display": {
+          "name": "Vault Mob Crit",
+          "color": "#dc693c",
+          "description": "+X% Mob Critical Strike Chance",
+          "descriptionFormatted": "+%d%% Mob Critical Strike Chance",
+          "icon": "the_vault:gui/modifiers/destructive"
+        }
+      },
+      "the_vault:map_mob_kbr": {
+        "properties": {
+          "type": "knockback_resistance_additive"
+        },
+        "display": {
+          "name": "Vault Mob Knockback Resistance",
+          "color": "#dc693c",
+          "description": "+X% Mob Knockback Resistance",
+          "descriptionFormatted": "+%d%% Mob Knockback Resistance",
+          "icon": "the_vault:gui/modifiers/destructive"
+        }
       }
     },
     "the_vault:modifier_type/loot_item_quantity_settable": {
@@ -3891,6 +3939,21 @@
           "color": "#3ffbf4",
           "description": "A multitude of items",
           "descriptionFormatted": "+%d%% Item Quantity and Rarity",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      },
+      "the_vault:map_mob_health_and_damage": {
+        "properties": {
+          "children": {
+            "the_vault:map_mob_health": 1,
+            "the_vault:map_mob_damage": 1
+          }
+        },
+        "display": {
+          "name": "Map Mob Health and Damage",
+          "color": "#3ffbf4",
+          "description": "Adds to mob health and damage.",
+          "descriptionFormatted": "+%d%% Mob Health and Damage",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       }

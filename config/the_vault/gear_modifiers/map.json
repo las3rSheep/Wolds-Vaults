@@ -10,7 +10,7 @@
           {
             "minLevel": 0,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 20,
             "value": {
               "value": "the_vault:default"
             }
@@ -346,6 +346,42 @@
         ]
       },
       {
+        "attribute": "the_vault:mob_damage",
+        "group": "ModMobDamage",
+        "identifier": "the_vault:map_mob_damage",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 1600,
+            "value": {
+              "min": 1.0,
+              "max": 2.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:mob_speed",
+        "group": "ModMobSpeed",
+        "identifier": "the_vault:map_mob_speed",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 1600,
+            "value": {
+              "min": 1.0,
+              "max": 2.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:grouped_quantity",
         "group": "ModItemQuantity",
         "identifier": "the_vault:map_group_test",
@@ -507,6 +543,42 @@
             "weight": 160,
             "value": {
               "value": "the_vault:no_heal"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:mob_kbr",
+        "group": "ModMobKBR",
+        "identifier": "the_vault:map_mob_kbr",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 1600,
+            "value": {
+              "min": 0.5,
+              "max": 0.9,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:mob_crit",
+        "group": "ModMobCrit",
+        "identifier": "the_vault:map_mob_crit",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 1600,
+            "value": {
+              "min": 0.25,
+              "max": 0.5,
+              "step": 0.01
             }
           }
         ]
