@@ -1,5 +1,11 @@
 {
   "styles": {
+    "Ars Nouveau": {
+      "x": 200,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/ars_nouveau"
+    },
     "Misc Bag Upgrades": {
       "x": 620,
       "y": 80,
@@ -269,6 +275,12 @@
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/immersiveengineering"
+    },
+    "Occultism": {
+      "x": 300,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/occultism"
     },
     "Waystones": {
       "x": 390,

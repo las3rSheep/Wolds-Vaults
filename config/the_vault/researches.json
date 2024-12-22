@@ -2,6 +2,40 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "ars_nouveau"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Ars Nouveau",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "occultism"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Occultism",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "davespotioneering"
       ],
       "restrictions": {
@@ -299,19 +333,20 @@
     },
     {
       "modIds": [
-        "botanicalmachinery"
+        "botanicalmachinery",
+        "botanicalextramachinery"
       ],
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false
         }
       },
       "name": "Botanical Machinery",
-      "cost": 2,
+      "cost": 6,
       "usesKnowledge": true
     },
     {

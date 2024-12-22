@@ -26,5 +26,13 @@
   {
     "weight": 8,
     "reference": "the_vault:vault/rooms/paradox/tenos/challenge/pirate_cave"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/challenge/raid/rooms"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/challenge/laboratory"
   }
 ]

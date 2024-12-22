@@ -360,32 +360,11 @@
         }
       }
     },
-    "the_vault:vendor_pedestal": {
-      "display": "Vendor Pedestal",
+    "the_vault:full_bingo": {
+      "display": "Full Bingo Crate",
       "lootTableKeys": {
-        "the_vault:vendor_pedestal_0": {
-          "level": 0
-        },
-        "the_vault:vendor_pedestal_30": {
-          "level": 30
-        },
-        "the_vault:vendor_pedestal_50": {
-          "level": 50
-        },
-        "the_vault:vendor_pedestal_65": {
-          "level": 65
-        }
-      }
-    },
-    "the_vault:completion_crate_paradox": {
-      "display": "Divine Paradox Completion Crate",
-      "lootTableKeys": {
-        "the_vault:completion_paradox": {
-          "level": 0
-        },
-        "the_vault:completion_paradoxlvl100": {
-          "level": 100
-        }
+        "the_vault:bingo_full_crate": {"level": 0},
+        "the_vault:bingo_bonus": {"level": 50}
       }
     },
     "the_vault:ornate_chest": {

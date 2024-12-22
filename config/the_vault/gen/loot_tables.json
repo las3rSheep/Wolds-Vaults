@@ -1,31 +1,6 @@
 {
   "keys": [
     {
-      "id": "the_vault:iskallian_leaves",
-      "name": "Iskallian Leaves",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/iskallian_leaves.json"
-    },
-    {
-      "id": "the_vault:vendor_pedestal_0",
-      "name": "Vendor Pedestal Lvl0",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_0.json"
-    },
-    {
-      "id": "the_vault:vendor_pedestal_30",
-      "name": "Vendor Pedestal Lvl30",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_30.json"
-    },
-    {
-      "id": "the_vault:vendor_pedestal_50",
-      "name": "Vendor Pedestal Lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_50.json"
-    },
-    {
-      "id": "the_vault:vendor_pedestal_65",
-      "name": "Vendor Pedestal Lvl65",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_65.json"
-    },
-    {
       "id": "the_vault:test_table",
       "name": "Test",
       "1.0": "config/the_vault/gen/1.0/loot_tables/test_table.json"
@@ -34,6 +9,11 @@
       "id": "the_vault:ancient_copper_golem",
       "name": "Ancient Copper Golem",
       "1.0": "config/the_vault/gen/1.0/loot_tables/ancient_copper_golem.json"
+    },
+    {
+      "id": "the_vault:companion_goblin",
+      "name": "Companion Goblin",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/companion_goblin.json"
     },
     {
       "id": "the_vault:ancient_copper_golem_exposed",
@@ -49,6 +29,26 @@
       "id": "the_vault:ancient_copper_golem_oxidized",
       "name": "Ancient Copper Golem Oxidized",
       "1.0": "config/the_vault/gen/1.0/loot_tables/ancient_copper_golem_oxidized.json"
+    },
+    {
+      "id": "the_vault:offering_loot_lvl0",
+      "name": "Offering Loot Lvl0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl0.json"
+    },
+    {
+      "id": "the_vault:offering_loot_lvl20",
+      "name": "Offering Loot Lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl20.json"
+    },
+    {
+      "id": "the_vault:offering_loot_lvl50",
+      "name": "Offering Loot Lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl50.json"
+    },
+    {
+      "id": "the_vault:offering_loot_lvl100",
+      "name": "Offering Loot Lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/offering_loot_lvl100.json"
     },
     {
       "id": "the_vault:coin_pile_lvl0",
@@ -69,6 +69,21 @@
       "id": "the_vault:cube_block_lvl0",
       "name": "Cube Block Level 0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/cube_block_0.json"
+    },
+    {
+      "id": "the_vault:completion_crate_lvl0",
+      "name": "Completion Crate Level 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_crate_0.json"
+    },
+    {
+      "id": "the_vault:completion_crate_monolith",
+      "name": "Completion Crate Monolith",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_crate_monolith.json"
+    },
+    {
+      "id": "the_vault:completion_crate_lvl20",
+      "name": "Completion Crate Level 20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/completion_crate_20.json"
     },
     {
       "id": "the_vault:wooden_chest_raw",
@@ -599,6 +614,31 @@
       "id": "the_vault:base_crate_cursed_2_100",
       "name": "Completion Crate Level 100+",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_100.json"
+    },
+    {
+      "id": "the_vault:iskallian_leaves",
+      "name": "Woldian Leaves",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/iskallian_leaves.json"
+    },
+    {
+      "id": "the_vault:vendor_pedestal_0",
+      "name": "Vendor Pedestal Lvl0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_0.json"
+    },
+    {
+      "id": "the_vault:vendor_pedestal_30",
+      "name": "Vendor Pedestal Lvl30",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_30.json"
+    },
+    {
+      "id": "the_vault:vendor_pedestal_50",
+      "name": "Vendor Pedestal Lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_50.json"
+    },
+    {
+      "id": "the_vault:vendor_pedestal_65",
+      "name": "Vendor Pedestal Lvl65",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_65.json"
     }
   ]
 }

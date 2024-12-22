@@ -5,6 +5,9 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"ars_nouveau:*",
+		"the_vault:animatrix_block",
+		"occultism:*",
 		"ae2:matter_cannon",
 		"peripherals:*",
 		"computercraft:*",
@@ -249,9 +252,14 @@
 		"appbot:*",
 		"appmek:*",
 		"createdieselgenerators:*",
-		"alexsmobs:dimensional_carver"
+		"alexsmobs:dimensional_carver",
+		"tiab:time_in_a_bottle"
 	],
 	"BLOCK_BLACKLIST": [
+		"ars_nouveau:*",
+		"occultism:*",
+		"supplementaries:book_pile",
+		"supplementaries:book_pile_horizontal",
 		"peripherals:*",
 		"computercraft:*",
 		"advancedperipherals:*",

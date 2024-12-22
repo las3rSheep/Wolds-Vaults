@@ -1,5 +1,17 @@
 {
   "styles": {
+    "Colossus": {
+      "x": 874,
+      "y": 12,
+      "specializationStyles": {
+        "Colossus_Base": {
+          "icon": "the_vault:gui/abilities/colossus"
+        },
+        "Sneaky_Getaway": {
+          "icon": "the_vault:gui/abilities/sneaky_getaway"
+        }
+      }
+    },
     "Stonefall": {
       "x": 532,
       "y": 12,
@@ -21,6 +33,9 @@
       "specializationStyles": {
         "Hunter_Base": {
           "icon": "the_vault:gui/abilities/hunter"
+        },
+        "Javelin_Sight": {
+          "icon": "the_vault:gui/abilities/hunter_wooden"
         }
       }
     },
@@ -84,12 +99,27 @@
       "specializationStyles": {
         "Mana_Shield_Base": {
           "icon": "the_vault:gui/abilities/mana_shield"
+        }
+      }
+    },
+    "Implode": {
+      "x": 798,
+      "y": 12,
+      "specializationStyles": {
+        "Mana_Shield_Implode": {
+          "icon": "the_vault:gui/abilities/implode"
+        }
+      }
+    },
+    "Retribution": {
+      "x": 836,
+      "y": 12,
+      "specializationStyles": {
+        "Shield_Bash": {
+          "icon": "the_vault:gui/abilities/retribution"
         },
         "Mana_Shield_Retribution": {
-          "icon": "the_vault:gui/abilities/mana_shield_retribution"
-        },
-        "Mana_Shield_Implode": {
-          "icon": "the_vault:gui/abilities/mana_shield_implode"
+          "icon": "the_vault:gui/abilities/shield_bash_retribution"
         }
       }
     },
@@ -216,9 +246,6 @@
         },
         "Javelin_Scatter": {
           "icon": "the_vault:gui/abilities/javelin_scatter"
-        },
-        "Javelin_Sight": {
-          "icon": "the_vault:gui/abilities/javelin_sight"
         }
       }
     },

@@ -11,13 +11,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 30
+              "weight": 25
             },
             {
               "value": {
@@ -306,13 +306,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 30
+              "weight": 20
             },
             {
               "value": {
@@ -611,13 +611,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
+              "weight": 20
             },
             {
               "value": {
@@ -946,13 +946,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60
+              "weight": 20
             },
             {
               "value": {
@@ -1272,24 +1272,24 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
+              "weight": 15
             },
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
+              "weight": 15
             },
             {
               "value": {
@@ -1609,24 +1609,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 50
+              "weight": 15
             },
             {
               "value": {
@@ -1986,24 +1975,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 50
+              "weight": 22
             },
             {
               "value": {
@@ -2395,24 +2373,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 10
+              "weight": 22
             },
             {
               "value": {
@@ -2671,24 +2638,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 10
+              "weight": 22
             },
             {
               "value": {
@@ -2917,24 +2873,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 30
+              "weight": 22
             },
             {
               "value": {
@@ -3233,24 +3178,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 60
+              "weight": 35
             },
             {
               "value": {
@@ -3560,24 +3494,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 50
+              "weight": 35
             },
             {
               "value": {
@@ -3967,24 +3890,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_rare\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 50
+              "weight": 35
             },
             {
               "value": {
@@ -4364,24 +4276,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 50
+              "weight": 35
             },
             {
               "value": {
@@ -4713,13 +4614,24 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 100
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 35
             },
             {
               "value": {
@@ -4819,6 +4731,28 @@
                 "maxCount": 1
               },
               "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
             },
             {
               "value": {
@@ -4936,13 +4870,24 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 100
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 50
             },
             {
               "value": {
@@ -5076,6 +5021,39 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 2
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:artifact_fragment"
                 },
                 "minCount": 1,
@@ -5157,6 +5135,17 @@
         },
         "itemPool": {
           "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
             {
               "weight": 16,
               "item": {
@@ -5261,13 +5250,46 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 100
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
             },
             {
               "value": {
@@ -5441,6 +5463,36 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:capstone_pylon_hunter"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:capstone_vendoor_hunter"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:capstone_peaceful"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:bitter_lemon"
                 },
                 "minCount": 1,
@@ -5533,6 +5585,17 @@
         "itemPool": {
           "pool": [
             {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
               "weight": 16,
               "item": {
                 "id": "the_vault:booster_pack",
@@ -5605,6 +5668,39 @@
               "maxCount": 1
             },
             {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
               "weight": 6,
               "item": {
                 "id": "the_vault:booster_pack",
@@ -5625,13 +5721,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 100
+              "weight": 50
             },
             {
               "value": {
@@ -5919,6 +6015,17 @@
         "itemPool": {
           "pool": [
             {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vorpal_focus",
+                  "nbt": "{}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
               "weight": 16,
               "item": {
                 "id": "the_vault:booster_pack",
@@ -6011,13 +6118,46 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 80
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:rang",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:trirang\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:chonknet\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             },
             {
               "value": {
@@ -6298,13 +6438,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 30
+              "weight": 50
             },
             {
               "value": {
@@ -6560,13 +6700,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
+              "weight": 15
             },
             {
               "value": {
@@ -6822,13 +6962,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                  "item": "the_vault:jewel_pouch",
+                  "nbt": "{}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 50
+              "weight": 15
             },
             {
               "value": {

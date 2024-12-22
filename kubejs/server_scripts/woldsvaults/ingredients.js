@@ -21,11 +21,24 @@ onEvent('recipes', event => {
             'XRX',
             'XBX'
         ], {
-        G: 'minecraft:soul_campfire',
+        G: 'minecraft:scaffolding',
         X: 'the_vault:eternal_soul',
         R: 'the_vault:crystal_seal_scout',
         B: 'the_vault:extraordinary_wutodie'
     }).id('woldsvaults:crystal_seal_spirits')
+
+    event.shaped(Item.of('the_vault:crystal_seal_architect'),
+        [
+            'LGL',
+            'XRX',
+            'LBL'
+        ], {
+        G: 'minecraft:scaffolding',
+        X: 'the_vault:wutodic_silver_ingot',
+        R: 'the_vault:crystal_seal_empty',
+        B: 'the_vault:perfect_larimar',
+        L: 'the_vault:vault_essence'
+    }).id('woldsvaults:crystal_seal_architect')
 
     event.shaped(Item.of('the_vault:crystal_seal_enchanter'),
         [
@@ -63,16 +76,40 @@ onEvent('recipes', event => {
         B: 'the_vault:extraordinary_alexandrite'
     }).id('woldsvaults:crystal_seal_doomsayer')
 
-    event.shaped(Item.of('the_vault:augment_box'),
+    event.shaped(Item.of('woldsvaults:crystal_seal_warrior'),
         [
-            'GXG',
+            'XGX',
             'XRX',
-            'GXG'
+            'XBX'
         ], {
-        G: 'the_vault:gem_larimar',
-        R: 'the_vault:vault_essence_1',
-        X: 'the_vault:augment'
-    }).id('woldsvaults:augment_box')
+        G: 'minecraft:golden_sword',
+        X: 'the_vault:vault_essence',
+        R: 'the_vault:crystal_seal_empty',
+        B: 'the_vault:red_vault_essence'
+    }).id('woldsvaults:crystal_seal_warrior')
+
+    event.shaped(Item.of('the_vault:crystal_seal_trial_chamber'),
+        [
+            'XGX',
+            'XRX',
+            'XBX'
+        ], {
+        G: 'minecraft:wooden_sword',
+        X: 'the_vault:vault_stone',
+        R: 'the_vault:vault_rock',
+        B: 'minecraft:copper_ingot'
+    }).id('woldsvaults:crystal_seal_trial_chamber')
+
+    // event.shaped(Item.of('the_vault:augment_box'),
+    //     [
+    //         'GXG',
+    //         'XRX',
+    //         'GXG'
+    //     ], {
+    //     G: 'the_vault:gem_larimar',
+    //     R: 'the_vault:vault_essence_1',
+    //     X: 'the_vault:augment'
+    // }).id('woldsvaults:augment_box')
 
     event.shaped(Item.of('woldsvaults:inscription_box'),
         [
@@ -325,8 +362,8 @@ onEvent('recipes', event => {
             'COC',
             'CCC'
         ], {
-        C: 'the_vault:memory_powder',
-        O: 'the_vault:red_vault_essence'
+        C: 'the_vault:vault_essence',
+        O: 'the_vault:perfect_painite'
     }).id('the_vault:memory_shard')
 
     event.shaped(Item.of('the_vault:memory_shard'),
@@ -335,8 +372,8 @@ onEvent('recipes', event => {
             'COC',
             'CCC'
         ], {
-        C: 'the_vault:vault_essence',
-        O: 'the_vault:perfect_painite'
+        C: 'the_vault:memory_powder',
+        O: 'the_vault:perfect_benitoite'
     }).id('the_vault:red_vault_essence')
 
     event.shaped(Item.of('the_vault:sublime_vault_substance'),

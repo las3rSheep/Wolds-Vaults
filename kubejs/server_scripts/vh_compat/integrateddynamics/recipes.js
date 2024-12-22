@@ -106,7 +106,7 @@ onEvent("recipes", event => {
         ], {
         C: 'integrateddynamics:crystalized_chorus_chunk',
         M: 'the_vault:extraordinary_larimar',
-        P: 'the_vault:vault_diamond',
+        P: 'the_vault:wutodic_silver_block',
         V: 'integrateddynamics:crystalized_menril_chunk'
     })
 
@@ -448,7 +448,7 @@ onEvent("recipes", event => {
         P: 'integrateddynamics:cable',
         C: 'integrateddynamics:part_connector_mono_directional',
         V: 'the_vault:perfect_black_opal'
-    })
+    }).id('integrateddynamics:special/part_connector_omni_directional')
 
     event.shaped(Item.of('integratedterminals:terminal_storage_portable'),
         [

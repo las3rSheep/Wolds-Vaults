@@ -1,5 +1,330 @@
 {
   "pools": {
+    "woldsvaults:haunted_brazier": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:exorcising",
+                "weight": 60
+              },
+              {
+                "value": "the_vault:super_stronk",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:item_quantity_2",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:pristine",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:orematic",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:champion_chance",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:disarming",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:crate_tier",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:soul_surge",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:hoard",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:fortuitous",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:extended",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "woldsvaults:bleeding_mobs",
+                "weight": 35
+              },
+              {
+                "value": "woldsvaults:resistant_mobs",
+                "weight": 35
+              },
+              {
+                "value": "woldsvaults:phantasmal_mobs",
+                "weight": 20
+              },
+              {
+                "value": "woldsvaults:fleet_footed_mobs",
+                "weight": 30
+              },
+              {
+                "value": "woldsvaults:witch_party",
+                "weight": 45
+              },
+              {
+                "value": "woldsvaults:ghost_party",
+                "weight": 60
+              },
+              {
+                "value": "woldsvaults:ghost_town",
+                "weight": 90
+              },
+              {
+                "value": "woldsvaults:ghost_city",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:haunted_mansion",
+                "weight": 35
+              },
+              {
+                "value": "the_vault:critical_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:enraged_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:dark",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:wither",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:voiding",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:unhinged_mob_increase",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:drought",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:wounded",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:rotten",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:rigged",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:rending",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:dangerous",
+                "weight": 30
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "woldsvaults:haunted_brazier_pillage": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:abusive_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:curse",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:crit_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:chunky_mobs4",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:enraged_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:mana_leak",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:wounded",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:corrosive",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:slowed_t2",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:weakened_t2",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:rotten",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:nullifying",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:piercing",
+                "weight": 25
+              },
+              {
+                "value": "the_vault:enervated",
+                "weight": 15
+              },
+              {
+                "value": "the_vault:chemical_bath",
+                "weight": 30
+              },
+              {
+                "value": "woldsvaults:ghost_party",
+                "weight": 50
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "woldsvaults:brown_ghost": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:critical_mobs",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:draining",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:rotten",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:dangerous",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:trapped",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:chunky_mobs2",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:ruthless_mobs",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:inert",
+                "weight": 12
+              },
+              {
+                "value": "the_vault:frail",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:archaic",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:injured",
+                "weight": 16
+              },
+              {
+                "value": "the_vault:hunger",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 16
+              },
+              {
+                "value": "the_vault:weakened",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 15
+              },
+              {
+                "value": "the_vault:slowed",
+                "weight": 4
+              },
+              {
+                "value": "the_vault:empty",
+                "weight": 240
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "the_vault:unhinged": [
       {
         "level": 0,
@@ -1883,10 +2208,6 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:wild",
-                "weight": 6
-              },
-              {
                 "value": "the_vault:frenzy",
                 "weight": 1
               },
@@ -1899,10 +2220,6 @@
                 "weight": 3
               },
               {
-                "value": "the_vault:rotten",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:dangerous",
                 "weight": 1
               },
@@ -1912,14 +2229,6 @@
               },
               {
                 "value": "the_vault:plentiful",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:mildly_enchanted",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:armed_chest",
                 "weight": 1
               },
               {
@@ -2046,10 +2355,6 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:wild",
-                "weight": 4
-              },
-              {
                 "value": "the_vault:frenzy",
                 "weight": 1
               },
@@ -2078,19 +2383,7 @@
                 "weight": 1
               },
               {
-                "value": "the_vault:mildly_enchanted",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:armed_chest",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:champion_chance",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:classic_retro_mini",
                 "weight": 1
               },
               {
@@ -2423,97 +2716,12 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:brutal_mobs",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:injured",
-                "weight": 40
-              },
-              {
                 "value": "the_vault:shortened",
                 "weight": 40
               },
               {
-                "value": "the_vault:drained",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:ethereal",
-                "weight": 20
-              },
-              {
-                "value": "the_vault:lethal",
-                "weight": 20
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "the_vault:haunted_brazier_pillage": [
-      {
-        "level": 0,
-        "entries": [
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
-              {
-                "value": "the_vault:harder_mobs",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:stronger_mobs",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:shortened",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:drained",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:ethereal",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:fading",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:xp_reduction",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:jupiter_gravity",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:confused",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:crab_walk",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:baren",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:mana_leak",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:haunting",
-                "weight": 40
-              },
-              {
-                "value": "the_vault:spooky",
-                "weight": 40
+                "value": "the_vault:empty",
+                "weight": 5
               }
             ]
           }
@@ -3116,6 +3324,303 @@
               {
                 "value": "the_vault:fatiguing",
                 "weight": 40
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:brazier_new": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:fuller_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:luckier_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_souls",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:richer_ores",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_experience",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:incredible_chests",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:abundant_souls",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:opulent_ores",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:bronze_nuke",
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:harder_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:faster_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:weakened_powers",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_traps",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:injured_percent",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 25
+              },
+              {
+                "value": "the_vault:ethereal_mobs",
+                "weight": 25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 20,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:fuller_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:luckier_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_souls",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:richer_ores",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_experience",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:dungeon_doors",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:vendoor_doors",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:incredible_chests",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:abundant_souls",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:opulent_ores",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:bronze_nuke",
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:harder_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:faster_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:weakened_powers",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_traps",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:injured_percent",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 25
+              },
+              {
+                "value": "the_vault:ethereal_mobs",
+                "weight": 25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 50,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:fuller_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:luckier_chests",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_souls",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:richer_ores",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:more_experience",
+                "weight": 190
+              },
+              {
+                "value": "the_vault:dungeon_doors",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:treasure_doors",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:vendoor_doors",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:incredible_chests",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:abundant_souls",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:opulent_ores",
+                "weight": 7
+              },
+              {
+                "value": "the_vault:bronze_nuke",
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:harder_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:faster_mobs",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:weakened_powers",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:more_traps",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:injured_percent",
+                "weight": 136
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 25
+              },
+              {
+                "value": "the_vault:ethereal_mobs",
+                "weight": 25
               }
             ]
           }

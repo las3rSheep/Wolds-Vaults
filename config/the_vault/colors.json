@@ -36,7 +36,11 @@
       "resistance": "#09bfb8",
       "slowness": "#d1d0ae",
       "text": "#192022",
-      "unbreaking": "#dcc4f0"
+      "unbreaking": "#dcc4f0",
+      "glacialChance": "#85edfe",
+      "areaOfEffect": "#e9c375",
+      "healthPoints": "#8EEDD9",
+      "thornsDamage": "#c55757"
     },
     "custom": {
       "gearResistance": "#FEDD00",
@@ -45,7 +49,7 @@
       "baby": "#f5b2f9",
       "weakness": "#afb477",
       "shocking": "#fffb81",
-      "stun": "#19A6E4",
+      "stun": "#19A6E4", 
       "level": "#c1579d",
       "luckyHit": "#6DF5A3",
       "piercing": "#4020b8",
@@ -91,6 +95,7 @@
       "electric": "#003a28",
       "slate": "#6A5ACD",
       "qhighlight": "#FCF5C5",
+      "titleLine": "#08ffce",
       "idona": "#d80000",
       "wendarr": "#dea700",
       "tenos": "#009dde",
@@ -98,7 +103,9 @@
       "normal": "#81f19b",
       "impossible": "#7721e1",
       "gold": "#ffd42a",
-      "titleLine": "#08ffce"
+      "simple": "#69cad8",
+      "medium": "#FFA500",
+      "difficult": "#FF0000"
     }
   }
 }

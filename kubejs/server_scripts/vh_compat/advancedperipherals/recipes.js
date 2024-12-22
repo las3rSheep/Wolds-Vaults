@@ -17,9 +17,9 @@ onEvent("recipes", event => {
             'BCB',
             'IBI'
         ], {
-        I: 'the_vault:chromatic_steel_ingot',
+        I: 'the_vault:wutodic_silver_ingot',
         B: 'the_vault:perfect_larimar',
-        C: 'the_vault:pog_prism'
+        C: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('advancedperipherals:inventory_manager'),
@@ -29,7 +29,7 @@ onEvent("recipes", event => {
             'IXI'
         ], {
         I: 'the_vault:chromatic_steel_block',
-        X: 'the_vault:echo_pog',
+        X: 'the_vault:omega_pog',
         C: 'advancedperipherals:peripheral_casing',
         T: 'the_vault:wold_star'
     }).id('advancedperipherals:inventory_manager')

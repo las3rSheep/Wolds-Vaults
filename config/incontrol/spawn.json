@@ -1,5 +1,9 @@
 [
     {
+        "dimension": "mining_dimension:mining",
+        "result": "deny"
+    },
+    {
         "mob": "quark:frog",
         "mincount": {
             "amount": 15

@@ -26,24 +26,29 @@ let removedOutputsIFG = [
     'industrialforegoing:simple_black_hole_tank',
     'industrialforegoing:advanced_black_hole_tank',
     'industrialforegoing:supreme_black_hole_tank',
-    'industrialforegoing:range_addon0',
-    'industrialforegoing:range_addon1',
-    'industrialforegoing:range_addon2',
-    'industrialforegoing:range_addon3',
-    'industrialforegoing:range_addon4',
-    'industrialforegoing:range_addon5',
-    'industrialforegoing:range_addon6',
-    'industrialforegoing:range_addon7',
-    'industrialforegoing:range_addon8',
-    'industrialforegoing:range_addon9',
-    'industrialforegoing:range_addon10',
-    'industrialforegoing:range_addon11',
     'industrialforegoing:enchantment_factory'
 ];
 onEvent("recipes", event => {
     removedOutputsIFG.forEach(id => {
         event.remove({ 'output': `${id}` })
     })
+
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon0' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon1' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon2' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon3' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon4' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon5' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon6' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon7' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon8' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon9' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon10' })
+    event.remove({ id: 'industrialforegoing:dissolution_chamber/range_addon11' })
+
+
+
+
 
     event.replaceInput(
         { mod: 'industrialforegoing' }, // Arg 1: the filter
@@ -116,7 +121,7 @@ onEvent("recipes", event => {
             'PRP'
         ], {
         P: 'the_vault:driftwood_planks',
-        R: 'the_vault:chromatic_iron_ingot',
+        R: 'the_vault:chromatic_steel_ingot',
         M: 'the_vault:perfect_larimar'
     })
 
@@ -126,7 +131,7 @@ onEvent("recipes", event => {
             'RMR',
             'PTP'
         ], {
-        P: 'the_vault:chromatic_iron_ingot',
+        P: 'the_vault:chromatic_steel_ingot',
         p: 'minecraft:light_weighted_pressure_plate',
         R: 'minecraft:redstone_block',
         M: 'industrialforegoing:machine_frame_pity',
@@ -155,7 +160,7 @@ onEvent("recipes", event => {
             'ITI'
         ], {
         P: '#forge:plastic',
-        p: 'the_vault:chromatic_iron_block',
+        p: 'the_vault:chromatic_steel_block',
         R: 'minecraft:bucket',
         M: 'industrialforegoing:machine_frame_pity',
         T: 'industrialforegoing:diamond_gear',
@@ -192,7 +197,7 @@ onEvent("recipes", event => {
             'ILI',
             ' I '
         ], {
-        I: 'minecraft:gold_ingot',
+        I: 'the_vault:chromatic_gold_ingot',
         L: 'the_vault:perfect_larimar'
     })
 
@@ -311,7 +316,7 @@ onEvent("recipes", event => {
                 "item": 'industrialforegoing:diamond_gear'
             },
             {
-                "item": "the_vault:mystical_powder"
+                "item": "the_vault:chromatic_steel_block"
             },
             {
                 "item": 'industrialforegoing:diamond_gear'
@@ -390,7 +395,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -429,7 +434,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -468,7 +473,7 @@ onEvent("recipes", event => {
                     "item": "industrialforegoing:diamond_gear"
                 },
                 {
-                    "item": "the_vault:extraordinary_black_opal"
+                    "item": "the_vault:black_chromatic_steel_block"
                 }
             ],
             "inputFluid": "{Amount:2000,FluidName:\"industrialforegoing:pink_slime\"}",
@@ -746,7 +751,7 @@ onEvent("recipes", event => {
         p: 'minecraft:netherite_sword',
         R: 'the_vault:magic_silk_block',
         M: 'industrialforegoing:machine_frame_advanced',
-        T: 'minecraft:redstone_block',
+        T: 'the_vault:chromatic_steel_block',
         I: 'industrialforegoing:diamond_gear'
     })
 

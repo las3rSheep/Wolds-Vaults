@@ -17,11 +17,11 @@
   },
   {
     "weight": 3,
-    "reference": "the_vault:vault/rooms/omega/arcade"
+    "reference": "the_vault:vault/rooms/chaos/omega/arcade"
   },
   {
     "weight": 7,
-    "reference": "the_vault:vault/rooms/omega/playzone"
+    "reference": "the_vault:vault/rooms/chaos/omega/playzone"
   },
   {
     "weight": 7,

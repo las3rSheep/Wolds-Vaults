@@ -522,11 +522,20 @@
       ],
       "levels": 1
     },
-    "lightmanscurrency:coin_magnet": {
+    "ars_nouveau:mana_regen": {
       "items": [
         {
-          "id": "emerald",
-          "count": 5
+          "id": "ars_nouveau:source_gem",
+          "count": 16
+        }
+      ],
+      "levels": 3
+    },
+    "ars_nouveau:mana_boost": {
+      "items": [
+        {
+          "id": "ars_nouveau:source_gem",
+          "count": 16
         }
       ],
       "levels": 3

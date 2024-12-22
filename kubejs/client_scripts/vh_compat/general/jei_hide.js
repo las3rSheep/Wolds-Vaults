@@ -49,7 +49,12 @@ onEvent('jei.hide.items', event => {
     event.hide('angelring:reinforced_angel_ring')
     event.hide('angelring:resonant_angel_ring')
     event.hide(/davespotioneering:.*_umbrella/)
-
+    event.hide('woldsvaults:capstone_vendoors')
+    event.hide('ars_nouveau:mundane_belt')
+    event.hide('ars_nouveau:belt_of_unstable_gifts')
+    event.hide('ars_nouveau:belt_of_levitation')
+    event.hide('ars_nouveau:wixie_charm')
+    event.hide('ars_nouveau:enchanters_shield')
     //Blocks with rendering/crashing issues
     event.hide('blockcarpentry:frame_sign')
     event.hide('blockcarpentry:illusion_sign')
@@ -68,7 +73,14 @@ onEvent('jei.add.items', event => {
     modifierTypes.forEach(type => {
         event.add(Item.of('woldsvaults:chiseling_focus', { modifier: `the_vault:${type}` }))
     })
-})
-onEvent('jei.add.items', event => {
-    event.add(Item.of('example:item', { test: 123 }))
+    event.add(Item.of('woldsvaults:research_token', { research: "Waystones" }))
+
+    //Stuff for Filters
+    //Rarities
+    event.add(Item.of('the_vault:chestplate', {
+        "the_vault:gear_unique_pool": "the_vault:castle_chestplate", "the_vault:gear_roll_type": "Unique"
+    }))
+    event.add(Item.of('the_vault:chestplate', {
+        "the_vault:gear_roll_type": "Omega"
+    }))
 })

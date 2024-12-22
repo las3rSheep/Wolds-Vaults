@@ -134,12 +134,8 @@ var cables = [
 
 var mekmachines = [
 "injecting_factory",
-"injecting_factory",
 "infusing_factory",
 "sawing_factory",
-"bin",
-"fluid_tank",
-"energy_cube",
 "smelting_factory",
 "enriching_factory",
 "crushing_factory",
@@ -451,12 +447,6 @@ craftingTable.removeByName("storagedrawers:add_upgrade");
 craftingTable.removeByModid("pipez");
 
 // Mekanism
-for mekmachine in mekmachines {
-    craftingTable.remove(<item:mekanism:basic_${mekmachine}>);
-    craftingTable.remove(<item:mekanism:advanced_${mekmachine}>);
-    craftingTable.remove(<item:mekanism:elite_${mekmachine}>);
-    craftingTable.remove(<item:mekanism:ultimate_${mekmachine}>);
-}
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:metallurgic_infusing/alloy/infused");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:metallurgic_infusing/alloy/reinforced");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:metallurgic_infusing/alloy/atomic");
@@ -471,28 +461,17 @@ craftingTable.remove(<item:mekanism:jetpack>);
 craftingTable.remove(<item:mekanism:free_runners>);
 craftingTable.remove(<item:mekanism:free_runners_armored>);
 craftingTable.remove(<item:mekanism:meka_tool>);
-craftingTable.remove(<item:mekanism:atomic_disassembler>);
 craftingTable.remove(<item:mekanism:jetpack_armored>);
 craftingTable.remove(<item:mekanism:portable_teleporter>);
-craftingTable.remove(<item:mekanismgenerators:wind_generator>);
 craftingTable.remove(<item:mekanism:cardboard_box>);
 craftingTable.remove(<item:mekanism:metallurgic_infuser>);
-craftingTable.remove(<item:mekanism:basic_thermodynamic_conductor>);
-craftingTable.remove(<item:mekanism:basic_universal_cable>);
-craftingTable.remove(<item:mekanism:basic_mechanical_pipe>);
 craftingTable.remove(<item:mekanism:basic_pressurized_tube>);
-craftingTable.remove(<item:mekanism:basic_logistical_transporter>);
-craftingTable.remove(<item:mekanism:basic_thermodynamic_conductor>);
-craftingTable.remove(<item:mekanism:basic_tier_installer>);
-craftingTable.remove(<item:mekanism:advanced_tier_installer>);
-craftingTable.remove(<item:mekanism:elite_tier_installer>);
-craftingTable.remove(<item:mekanism:ultimate_tier_installer>);
+
+
+
 craftingTable.remove(<item:mekanism:upgrade_stone_generator>);
 craftingTable.remove(<item:mekanism:upgrade_anchor>);
-craftingTable.remove(<item:mekanism:upgrade_speed>);
-craftingTable.remove(<item:mekanism:upgrade_energy>);
 craftingTable.remove(<item:mekanism:upgrade_filter>);
-craftingTable.remove(<item:mekanism:upgrade_gas>);
 craftingTable.remove(<item:mekanism:module_base>);
 craftingTable.remove(<item:mekanism:module_energy_unit>);
 craftingTable.remove(<item:mekanism:module_laser_dissipation_unit>);
@@ -522,11 +501,7 @@ craftingTable.remove(<item:mekanism:module_gravitational_modulating_unit>);
 craftingTable.remove(<item:mekanism:module_fortune_unit>);
 craftingTable.remove(<item:mekanism:module_blasting_unit>);
 craftingTable.remove(<item:mekanism:module_electrolytic_breathing_unit>);
-craftingTable.remove(<item:mekanism:energy_tablet>);
-craftingTable.remove(<item:mekanism:steel_casing>);
-craftingTable.remove(<item:mekanism:digital_miner>);
 craftingTable.remove(<item:mekanism:dimensional_stabilizer>);
-craftingTable.remove(<item:mekanismgenerators:gas_burning_generator>);
 
 // Enercell
 craftingTable.remove(<item:enercell:enercell>);
@@ -1245,8 +1220,6 @@ JEI.hideIngredient(<item:the_vault:placeholder>);
 JEI.hideIngredient(<item:the_vault:bronze_scrap>);
 JEI.hideIngredient(<item:the_vault:elite_spawner>);
 JEI.hideIngredient(<item:the_vault:lodestone>);
-JEI.hideIngredient(<item:the_vault:memory_powder>);
-JEI.hideIngredient(<item:the_vault:memory_shard>);
 JEI.hideIngredient(<item:the_vault:crake_pedestal>);
 JEI.hideIngredient(<item:the_vault:crake_column>);
 JEI.hideIngredient(<item:the_vault:chunk_puffium>);

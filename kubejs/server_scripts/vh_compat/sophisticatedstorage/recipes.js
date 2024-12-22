@@ -10,7 +10,7 @@ onEvent("recipes", event => {
             pattern: pattern,
             result: result
         })
-    } 
+    }
 
     event.shaped(Item.of('sophisticatedstorage:chest', { 'woodType': `vault_wooden_planks` }),
         [

@@ -204,16 +204,13 @@
       },
       "pool": [
         {
-          "weight": 20,
+          "weight": 1,
           "item": {
-            "id": "the_vault:jewel",
-            "nbt": {
-              "the_vault:gear_roll_type_pool": "jewel_treasure"
-            },
+            "id": "the_vault:jewel_pouch",
             "count": {
               "type": "uniform",
               "min": 1,
-              "max": 1
+              "max": 2
             }
           }
         }
@@ -227,30 +224,13 @@
       },
       "pool": [
         {
-          "weight": 20,
+          "weight": 15,
           "item": {
-            "id": "the_vault:jewel",
-            "nbt": {
-              "the_vault:gear_roll_type_pool": "jewel_high"
-            },
+            "id": "the_vault:jewel_pouch",
             "count": {
               "type": "uniform",
               "min": 1,
-              "max": 1
-            }
-          }
-        },
-        {
-          "weight": 80,
-          "item": {
-            "id": "the_vault:jewel",
-            "nbt": {
-              "the_vault:gear_roll_type_pool": "jewel_normal"
-            },
-            "count": {
-              "type": "uniform",
-              "min": 1,
-              "max": 1
+              "max": 2
             }
           }
         },

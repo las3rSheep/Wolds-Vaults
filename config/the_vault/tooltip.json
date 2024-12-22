@@ -37,6 +37,14 @@
       "value": "An incredible powerful magical vortex core, holding the souls of many fallen.\n\nUse a Soul Diffuser to release it's power"
     },
     {
+      "item": "woldsvaults:layout_manipulator",
+      "value": "Combine with Vault Crystal in Anvil to set the Vault's Layout"
+    },
+    {
+      "item": "woldsvaults:crystal_seal_warrior",
+      "value": "Use in the Crystal Workbench to set the objective to 'Offering Boss'"
+    },
+    {
       "item": "the_vault:crystal_seal_scout",
       "value": "Use in the Crystal Workbench to set the objective to 'Light The Braziers'"
     },
@@ -59,6 +67,10 @@
     {
       "item": "the_vault:crystal_seal_doomsayer",
       "value": "Use in the Crystal Workbench to set the objective to 'Ballistic Bingo'"
+    },
+    {
+      "item": "the_vault:crystal_seal_architect",
+      "value": "Use in the Crystal Workbench to set the objective to 'Bingo', add more to increase the Bingo board size!"
     },
     {
       "item": "the_vault:capstone_dungeon_hunter",
@@ -346,7 +358,7 @@
     },
     {
       "item": "the_vault:key_iskallium",
-      "value": "Opens a treasure room with an Iskallium door inside the vaults"
+      "value": "Opens a treasure room with a Woldium door inside the vaults"
     },
     {
       "item": "the_vault:key_gorginite",
@@ -1079,10 +1091,6 @@
     {
       "item": "the_vault:aura_scroll",
       "value": "Rerolls an eternal's available auras"
-    },
-    {
-      "item": "the_vault:vault_jewel_cutting_station",
-      "value": "Allows Jewels to be cut to decrease their sizes"
     },
     {
       "item": "vaultintegrations:altar_conduit",

@@ -244,7 +244,7 @@ onEvent("recipes", event => {
         V: 'minecraft:writable_book',
         T: 'the_vault:gem_pog',
         I: 'the_vault:perfect_larimar'
-    })
+    }).id('hexcasting:spellbook')
 
     event.shaped(Item.of('hexcasting:cypher'),
         [

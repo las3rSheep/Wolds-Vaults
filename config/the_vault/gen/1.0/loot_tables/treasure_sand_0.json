@@ -17,7 +17,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 6
+                  "max": 4
                 }
               }
             }
@@ -33,7 +33,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 6
+                  "max": 4
                 }
               }
             },
@@ -43,15 +43,15 @@
                 "id": "the_vault:vault_silver",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 6
+                  "min": 1,
+                  "max": 3
                 }
               }
             }
           ]
         },
         {
-          "weight": 60,
+          "weight": 40,
           "pool": [
             {
               "weight": 20,
@@ -60,7 +60,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 1
                 }
               }
             },
@@ -70,40 +70,29 @@
                 "id": "the_vault:vault_silver",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 6
-                }
-              }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:gem_pog",
-                "count": {
-                  "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 3
                 }
               }
             }
           ]
         },
         {
-          "weight": 1,
+          "weight": 4,
           "pool": [
             {
-              "weight": 4,
+              "weight": 6,
               "item": {
-                "id": "the_vault:gem_black_opal",
+                "id": "the_vault:mod_box",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 1
                 }
               }
             },
             {
-              "weight": 3,
+              "weight": 4,
               "item": {
                 "id": "the_vault:vault_catalyst_fragment",
                 "count": {
@@ -150,6 +139,17 @@
               "weight": 2,
               "item": {
                 "id": "the_vault:lost_bounty",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:gem_pog",
                 "count": {
                   "type": "uniform",
                   "min": 1,

@@ -2,6 +2,24 @@
   "POOL": [
     {
       "value": {
+        "id": "woldsvaults:layout_manipulator",
+        "nbt": "{layout: \"infinite\", tunnel: 1, value: 0}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 24
+    },
+    {
+      "value": {
+        "id": "woldsvaults:layout_manipulator",
+        "nbt": "{layout: \"spiral\", tunnel: 1, value: 5}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 32
+    },
+    {
+      "value": {
         "id": "the_vault:phoenix_feather",
         "nbt": "{}",
         "amountMin": 1,
@@ -17,6 +35,15 @@
         "amountMax": 3
       },
       "weight": 192
+    },
+    {
+      "value": {
+        "id": "the_vault:capstone_peaceful",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 8
     },
     {
       "value": {
@@ -147,6 +174,24 @@
     {
       "value": {
         "id": "the_vault:pyretic_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "woldsvaults:eccentric_focus",
+        "nbt": "{}",
+        "amountMin": 4,
+        "amountMax": 4
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:vorpal_focus",
         "nbt": "{}",
         "amountMin": 4,
         "amountMax": 4

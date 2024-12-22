@@ -1,13 +1,13 @@
 name = "Draggable Bookmarks"
-filename = "draggablebookmarks-jei10-1.0.1.jar"
+filename = "draggablebookmarks-jei10-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aff6001a843d8def0b47f85d0369e4d4f87b14ca"
+hash = "017e3be43ad246ae739142dc660932d0c50b49af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5680779
+file-id = 5864568
 project-id = 1094441

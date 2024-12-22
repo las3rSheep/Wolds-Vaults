@@ -26,7 +26,7 @@ onEvent("recipes", event => {
                     'XGX'
                 ], {
                 P: `botanypots:${color}_${type}_botany_pot`,
-                G: 'the_vault:gem_pog',
+                G: 'the_vault:pog_prism',
                 I: 'the_vault:black_chromatic_steel_ingot',
                 X: 'the_vault:packed_vault_meat_block'
             })
@@ -38,7 +38,7 @@ onEvent("recipes", event => {
                     'XLX'
                 ], {
                 P: `botanypotstiers:elite_${color}_${type}_botany_pot`,
-                G: 'the_vault:pog_prism',
+                G: 'the_vault:echo_pog',
                 I: 'the_vault:infused_eternal_soul',
                 X: 'the_vault:chromatic_steel_block',
                 L: 'the_vault:extraordinary_black_opal'
@@ -64,7 +64,7 @@ onEvent("recipes", event => {
                     'XGX'
                 ], {
                 P: `botanypots:${color}_${type}_hopper_botany_pot`,
-                G: 'the_vault:gem_pog',
+                G: 'the_vault:pog_prism',
                 I: 'the_vault:black_chromatic_steel_ingot',
                 X: 'the_vault:packed_vault_meat_block'
             })
@@ -76,7 +76,7 @@ onEvent("recipes", event => {
                     'XLX'
                 ], {
                 P: `botanypotstiers:elite_${color}_${type}_hopper_botany_pot`,
-                G: 'the_vault:pog_prism',
+                G: 'the_vault:echo_pog',
                 I: 'the_vault:infused_eternal_soul',
                 X: 'the_vault:chromatic_steel_block',
                 L: 'the_vault:extraordinary_black_opal'
@@ -115,7 +115,7 @@ onEvent("recipes", event => {
             'XGX'
         ], {
         P: 'botanypots:terracotta_hopper_botany_pot',
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         I: 'the_vault:black_chromatic_steel_ingot',
         X: 'the_vault:packed_vault_meat_block'
     })
@@ -127,7 +127,7 @@ onEvent("recipes", event => {
             'XLX'
         ], {
         P: 'botanypotstiers:elite_terracotta_hopper_botany_pot',
-        G: 'the_vault:pog_prism',
+        G: 'the_vault:echo_pog',
         I: 'the_vault:infused_eternal_soul',
         X: 'the_vault:chromatic_steel_block',
         L: 'the_vault:extraordinary_black_opal'
@@ -152,7 +152,7 @@ onEvent("recipes", event => {
             'XGX'
         ], {
         P: 'botanypots:terracotta_hopper_botany_pot',
-        G: 'the_vault:gem_pog',
+        G: 'the_vault:pog_prism',
         I: 'the_vault:black_chromatic_steel_ingot',
         X: 'the_vault:packed_vault_meat_block'
     })
