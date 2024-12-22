@@ -1728,7 +1728,7 @@
         "pool": [
           {
             "value": {
-              "type": "boss",
+              "type": "brutal_bosses",
               "objective_probability": 0.3,
               "target": {
                 "type": "uniform",

@@ -2,6 +2,22 @@
   "modifierGroup": {
     "IMPLICIT": [
       {
+        "attribute": "the_vault:vault_theme_pool",
+        "group": "ModTheme",
+        "identifier": "the_vault:default_pool",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "value": "the_vault:default"
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:vault_theme",
         "group": "ModTheme",
         "identifier": "the_vault:ice_theme",
