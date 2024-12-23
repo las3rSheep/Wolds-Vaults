@@ -13158,7 +13158,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "d3b6c2730336aab37c24a880ab537a3550750ee5d0b3d7051f4a1f33a9b443ee"
+hash = "4d002dd41f2c1331af194cab2d3053d662931f6d9104293ca2776b26af3d16fc"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -13266,7 +13266,7 @@ hash = "a4ffc3aa6511956c66504bbea01491f9a69ccd9ebe2e8f0a4789e9bf68bb704b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "6cc70059f896a7c4f5432397e972e86164aef7be26838b1aaf4988404a4622bb"
+hash = "439f27ded51911f2933c71d027ae633b7d76c32fe1b268abc8b8c3aa9e141a62"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"

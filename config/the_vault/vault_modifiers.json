@@ -1,5 +1,17 @@
 {
   "modifiers": {
+    "the_vault:modifier_type/greedy": {
+      "the_vault:greedy": {
+        "properties": {},
+        "display": {
+          "name": "Greedy",
+          "color": "#EBFF8D",
+          "description": "Greedy!",
+          "descriptionFormatted": "Just asking for trouble...",
+          "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
     "the_vault:modifier_type/add_inscription": {
       "the_vault:arcade": {
         "properties": {
