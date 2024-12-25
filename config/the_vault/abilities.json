@@ -3279,6 +3279,174 @@
                 "unlockLevel": 0
               }
             ]
+          },
+          {
+            "type": "tiered",
+            "id": "Levitate",
+            "name": "Levitate",
+            "maxLearnableTier": 5,
+            "tiers": [
+              {
+                "type": "levitate",
+                "levitateStrength": 1,
+                "manaCostPerSecond": 9.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_1"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 3,
+                "manaCostPerSecond": 10.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_2"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 5,
+                "manaCostPerSecond": 11.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_3"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 7,
+                "manaCostPerSecond": 12.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_4"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 9,
+                "manaCostPerSecond": 13.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_5"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 11,
+                "manaCostPerSecond": 14.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_6"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 13,
+                "manaCostPerSecond": 15.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_7"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 15,
+                "manaCostPerSecond": 16.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_8"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 17,
+                "manaCostPerSecond": 17.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_9"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 19,
+                "manaCostPerSecond": 18.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_10"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 21,
+                "manaCostPerSecond": 19.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_11"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 23,
+                "manaCostPerSecond": 20.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_12"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 25,
+                "manaCostPerSecond": 21.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_13"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 27,
+                "manaCostPerSecond": 22.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_14"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 29,
+                "manaCostPerSecond": 23.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_15"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 31,
+                "manaCostPerSecond": 24.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_16"
+              }
+            ]
           }
         ]
       },
