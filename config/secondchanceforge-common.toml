@@ -17,7 +17,7 @@ secondChanceMobs = true
 #Determines if the 'Second Chance' feature will be activated by fall damage.
 secondChanceFalls = false
 #Determines if the 'Second Chance' feature will be activated by falling anvils.
-secondChanceAnvils = false
+secondChanceAnvils = true
 #Determines if the 'Second Chance' feature will be activated by lightning.
 secondChanceLightning = true
 #Determines if the 'Second Chance' feature will be activated by crashing into a wall.
@@ -25,7 +25,7 @@ secondChanceElytraCrash = false
 #Determines if the 'Second Chance' feature will be activated by falling blocks.
 secondChanceFallingBlocks = false
 #Determines if the 'Second Chance' feature will be activated by magic, such as potions.
-secondChanceMagic = false
+secondChanceMagic = true
 #Determines if the 'Second Chance' feature will be activated by players.
 secondChancePlayers = true
 #Determines if the 'Second Chance' feature will be activated by thrown tridents.
@@ -33,13 +33,13 @@ secondChanceTridents = true
 #Determines if the 'Second Chance' feature will be activated by arrows.
 secondChanceArrows = true
 #Determines if the 'Second Chance' feature will be activated by fireworks.
-secondChanceFireworks = false
+secondChanceFireworks = true
 #Determines if the 'Second Chance' feature will be activated by wither skulls.
-secondChanceWitherSkulls = false
+secondChanceWitherSkulls = true
 #Determines if the 'Second Chance' feature will be activated by a falling stalactite.
-secondChanceStalactite = false
+secondChanceStalactite = true
 #Determines if the 'Second Chance' feature will be activated by falling on a stalagmite.
-secondChanceStalagmite = false
+secondChanceStalagmite = true
 #Determines if the 'percentage of health' config values will be used instead of exact values.
 usePercentConfig = false
 #Determines how much health the player must start with for 'Second Chance' to activate.
