@@ -75,6 +75,9 @@
         },
         "Mega_Jump_Break_Down": {
           "icon": "the_vault:gui/abilities/mega_jump_break_down"
+        },
+        "Levitate": {
+          "icon": "the_vault:gui/abilities/levitate"
         }
       }
     },
