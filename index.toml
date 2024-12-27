@@ -12802,7 +12802,7 @@ hash = "1388fe498b0376db5adda0fa89d1d1eba2c7bc719c719f7fb8d5995ce695cb78"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "74e7797baf64b4f18a9ce3e25aa25f0d807058af9470d551f46191a23e679ebb"
+hash = "22ac3d8b8233ec17747d4facc0f41b651ce9cd540ee955a60ada4a19460fdb5a"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
@@ -18458,7 +18458,7 @@ hash = "24ed9aeedc9f9e11065a8cc2e30ebe2d84b4b358d352be7bd361841eae1c1934"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2/vh_replacements.js"
-hash = "001bda9a19160b96f941024908701ac5b22584126cd52ea3f04f8115d74696d7"
+hash = "200720c88fb392136bcdd31537aa6cf894fb8c19aa1d13439b59d772547ec1f4"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/ae2additions/recipes.js"
@@ -19386,7 +19386,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "33d7887c49e0450fd0466ea686140a461aa0510329f4505cfa17164454737363"
+hash = "ee0a0574fbd3901b7a8d2206f1ebba41b3678de4bb7b3d7d779d8fb36f16e820"
 metafile = true
 
 [[files]]
@@ -20811,7 +20811,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-filters.pw.toml"
-hash = "c5af05f254fc3712cf3789281ff37693d7d1e513b7ac9a20f79b360d366d26a0"
+hash = "6a8fe4565e4f9f3550ac0d747b3d1cc3dcb991d1f917c5600b169fa4269f656c"
 metafile = true
 
 [[files]]
