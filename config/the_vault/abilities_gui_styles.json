@@ -77,7 +77,7 @@
           "icon": "the_vault:gui/abilities/mega_jump_break_down"
         },
         "Levitate": {
-          "icon": "minecraft:mob_effect/levitation"
+          "icon": "the_vault:gui/abilities/levitate"
         }
       }
     },
