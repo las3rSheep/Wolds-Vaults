@@ -10,7 +10,7 @@ onEvent("recipes", event => {
             result: result
         })
     }
-
+  
     event.shaped(Item.of('sophisticatedstorage:treasure_chest'),
         [
             'ITI',
