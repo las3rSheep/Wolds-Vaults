@@ -1276,6 +1276,26 @@
         "rangeVertical"
       ]
     },
+    "Levitate": {
+      "description": [
+        {
+          "text": "Changes Mega Jump into an on-demand levitation effect.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25cf Hold Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCostPerSecond",
+        "levitateSpeed"
+      ],
+      "next": [
+        "manaCostPerSecond",
+        "levitateSpeed"
+      ]
+    },
     "Nova_Base": {
       "description": [
         {

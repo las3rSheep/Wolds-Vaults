@@ -1515,7 +1515,7 @@
       {
         "attribute": "the_vault:on_hit_chain",
         "group": "ModOnHitType",
-        "identifier": "the_vault:crafted_on_hit_chain",
+        "identifier": "the_vault:on_hit_chain",
         "tags": [
           "focusChaining"
         ],
