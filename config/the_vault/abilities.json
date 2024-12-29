@@ -5304,7 +5304,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 8"
               },
               {
                 "type": "vein_miner",
@@ -5312,7 +5313,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 16"
               },
               {
                 "type": "vein_miner",
@@ -5320,7 +5322,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 32"
               },
               {
                 "type": "vein_miner",
@@ -5328,7 +5331,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 64"
               },
               {
                 "type": "vein_miner",
@@ -5336,7 +5340,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 96"
               },
               {
                 "type": "vein_miner",
@@ -5344,7 +5349,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 128"
               },
               {
                 "type": "vein_miner",
@@ -5352,7 +5358,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 160"
               },
               {
                 "type": "vein_miner",
@@ -5360,7 +5367,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 192"
               },
               {
                 "type": "vein_miner",
@@ -5368,7 +5376,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 224"
               },
               {
                 "type": "vein_miner",
@@ -5376,7 +5385,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 256"
               },
               {
                 "type": "vein_miner",
@@ -5384,7 +5394,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 288"
               },
               {
                 "type": "vein_miner",
@@ -5392,7 +5403,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 320"
               },
               {
                 "type": "vein_miner",
@@ -5400,7 +5412,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 352"
               },
               {
                 "type": "vein_miner",
@@ -5408,7 +5421,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 352"
               }
             ]
           },
@@ -5625,27 +5639,21 @@
             "tiers": [
               {
                 "type": "vein_miner_void",
-                "blockLimit": 2,
+                "blockLimit": 6,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 6"
               },
               {
                 "type": "vein_miner_void",
-                "blockLimit": 4,
+                "blockLimit": 10,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
-              },
-              {
-                "type": "vein_miner_void",
-                "blockLimit": 8,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 10"
               },
               {
                 "type": "vein_miner_void",
@@ -5653,7 +5661,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 16"
               },
               {
                 "type": "vein_miner_void",
@@ -5661,7 +5670,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 24"
               },
               {
                 "type": "vein_miner_void",
@@ -5669,7 +5679,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 32"
               },
               {
                 "type": "vein_miner_void",
@@ -5677,7 +5688,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 40"
               },
               {
                 "type": "vein_miner_void",
@@ -5685,7 +5697,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 48"
               },
               {
                 "type": "vein_miner_void",
@@ -5693,7 +5706,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 56"
               },
               {
                 "type": "vein_miner_void",
@@ -5701,7 +5715,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 64"
               },
               {
                 "type": "vein_miner_void",
@@ -5709,7 +5724,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 72"
               },
               {
                 "type": "vein_miner_void",
@@ -5717,7 +5733,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 80"
               },
               {
                 "type": "vein_miner_void",
@@ -5725,7 +5742,136 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 88"
+              }
+            ]
+          },
+          {
+            "type": "tiered",
+            "id": "Vein_Miner_Chain",
+            "name": "Chain Miner",
+            "maxLearnableTier": 4,
+            "tiers": [
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 4,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 4 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 20,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 20 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 5,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (5)"
               }
             ]
           }
