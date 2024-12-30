@@ -10,7 +10,7 @@
       "output": "the_vault:vault_crystal"
     },
     {
-      "input": "the_vault:greedy_vault_rock",
+      "input": "woldsvaults:greedy_vault_rock",
       "output": {
         "id": "the_vault:vault_crystal",
         "nbt": {
