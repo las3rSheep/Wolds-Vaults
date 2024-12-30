@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "5aa3cd865fb13cb88c1d749614b53120a92d16a922fe89a3009b0552097926a0"
+
+[[files]]
 file = ".onedev-buildspec.yml"
 hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
@@ -3415,6 +3419,10 @@ hash = "d48dfd1e6ecd853f09427f156da5602149bec483e23d353801172ab8fb9197af"
 [[files]]
 file = "config/the_vault/gen/1.0/structures/boss_dimension/boss_start_portal1.nbt"
 hash = "5ae7f68dc31ad899a641bc325b3cb184ed30f5bfd7660a5a137c8727518cb5ff"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/map/rooms/gateway_channeling/gateway_channeling1.nbt"
+hash = "5fdfc983072296e2448e62811a081d55b38b4dd5a249aa57d38df1bf327c5a79"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/skyblock/island1.nbt"
@@ -8874,7 +8882,15 @@ hash = "0a2403003807549eed654ab172cfb37509ecc08a094d5947dec90926291ca817"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/map/rooms/beach_rooms.json"
-hash = "6e2bb55516bb1fa78d9fa497837027290ebd2c1b8ed6b6a1683e12ab418cf4fb"
+hash = "89b92f45c2edfa9761f955d74427589994f88134fc13e9d8693bebf35a828959"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/map/rooms/gateway_rooms.json"
+hash = "6d9a57f6e7e8d97f65025a0bdbb3b0daeb96f1cc153bbe238a8596e25e72f750"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/map/rooms/special/gateway_channeling/gateway1.json"
+hash = "b14b7ea59f2c95114ceb47675895babf7cb15e8509cfe1b8ee961886dfb9e983"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/map/starts/beach_starts.json"
@@ -12814,11 +12830,11 @@ hash = "22ac3d8b8233ec17747d4facc0f41b651ce9cd540ee955a60ada4a19460fdb5a"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "923ac0882d09f7bd51e61d71280542456fa8ff3630467f3acf921e72551b7486"
+hash = "431a9e282ed1a295f92b315d2d184b1eee384dfd033e6fea114bea7e0982742d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "7a15e4a91c6bcb06a3f4ac49b116245c6ea758631208f69f5446ca529415ed90"
+hash = "ea113e244ec28deba9199a818846a524d733796fd3130e399f95f87ce61d601b"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -21767,3 +21783,7 @@ hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 [[files]]
 file = "shaderpacks/Complementary_meets_VH.zip"
 hash = "3cec0883be667bc6c612523290e842a77f8773a2b5374f283ee497826a8606be"
+
+[[files]]
+file = "shell.nix"
+hash = "f77ec5b795e38e6b013cebd2ac1ca4e4bd0f04dd8a4cfb9bb2d194b5417176db"

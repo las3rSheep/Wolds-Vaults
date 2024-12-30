@@ -4492,6 +4492,18 @@
       "name": "Beach Common Rooms",
       "1.1": "config/the_vault/gen/1.0/template_pools/map/rooms/beach_common_rooms.json",
       "1.0": "config/the_vault/gen/1.0/template_pools/map/rooms/beach_common_rooms.json"
+    },
+    {
+      "id": "the_vault:map/rooms/special/gateway_channeling/gateway1",
+      "name": "Standard Gateway Channeling Room",
+      "1.1": "config/the_vault/gen/1.0/template_pools/map/rooms/special/gateway_channeling/gateway1.json",
+      "1.0": "config/the_vault/gen/1.0/template_pools/map/rooms/special/gateway_channeling/gateway1.json"
+    },
+    {
+      "id": "the_vault:map/rooms/gateway_rooms",
+      "name": "Gateway Rooms",
+      "1.1": "config/the_vault/gen/1.0/template_pools/map/rooms/gateway_rooms.json",
+      "1.0": "config/the_vault/gen/1.0/template_pools/map/rooms/gateway_rooms.json"
     }
   ]
 }
