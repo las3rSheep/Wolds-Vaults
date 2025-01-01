@@ -1306,6 +1306,26 @@
       {
         "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
+        "identifier": "the_vault:u_jewel_size_treasure",
+        "tags": [
+          "focusHealth"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 500,
+            "value": {
+              "min": 5,
+              "max": 5,
+              "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:jewel_size",
+        "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size",
         "tags": [
           "focusHealth"
@@ -1356,8 +1376,8 @@
             "maxLevel": -1,
             "weight": 500,
             "value": {
-              "min": 20,
-              "max": 40,
+              "min": 10,
+              "max": 20,
               "step": 1
             }
           }
@@ -2982,6 +3002,24 @@
         ]
       },
       {
+        "attribute": "the_vault:treasure_affinity",
+        "group": "ModAffinity",
+        "identifier": "the_vault:u_treasure_affinity",
+        "tags": [
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:wooden_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_wooden_affinity",
@@ -3105,6 +3143,24 @@
         "attribute": "the_vault:picking",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_picking",
+        "tags": [
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:reaping",
+        "group": "ModSoulbound",
+        "identifier": "the_vault:u_reaping",
         "tags": [
           "noLegendary"
         ],

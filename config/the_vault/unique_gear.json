@@ -143,8 +143,24 @@
       "modifierTags": [],
       "weight": 1
     },
+    "woldsvaults:treasure_jewel": {
+      "name": "Treasured Jewel",
+      "model": "the_vault:gear/jewel/treasure",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size_treasure"
+        ],
+        "PREFIX": [
+          "the_vault:u_treasure_affinity"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:kaleidoscope": {
       "name": "Kaleidoscope",
+      "model": "the_vault:gear/jewel/kaleidoscope",
       "modifierIdentifiers": {
         "IMPLICIT": [
           "the_vault:u_jewel_size"
@@ -163,6 +179,7 @@
     },
     "the_vault:manabloom": {
       "name": "Manabloom",
+      "model": "the_vault:gear/jewel/manabloom",
       "modifierIdentifiers": {
         "IMPLICIT": [
           "the_vault:u_jewel_size_manabloom"
@@ -177,6 +194,7 @@
     },
     "the_vault:pax": {
       "name": "Pax",
+      "model": "the_vault:gear/jewel/pax",
       "modifierIdentifiers": {
         "IMPLICIT": [
           "the_vault:u_jewel_size"
@@ -184,7 +202,8 @@
         "PREFIX": [
           "the_vault:u_picking",
           "the_vault:u_axing",
-          "the_vault:u_shovelling"
+          "the_vault:u_shovelling",
+          "the_vault:u_reaping"
         ],
         "SUFFIX": []
       },
@@ -711,6 +730,12 @@
     },
     "woldsvaults:hexblade": {
       "woldsvaults:hexblade": 1
+    },
+    "woldsvaults:treasure_jewel": {
+      "woldsvaults:hexblade": 1
+    },
+    "the_vault:pax": {
+      "the_vault:pax": 1
     }
   }
 }
