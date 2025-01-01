@@ -626,6 +626,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "the_vault:axe",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:zombie_horse_axe\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                        },
+                        "minPrice": 12500,
+                        "maxPrice": 22500
+                    },
+                    "weight": 4
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:jewel",
                             "AMOUNT": 1,
                             "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:eternal_stella\",\"the_vault:gear_roll_type\":\"Unique\"}"
@@ -1178,6 +1190,18 @@
                         "maxPrice": 4000
                     },
                     "weight": 16
+                },
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:axe",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:zombie_horse_axe\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                        },
+                        "minPrice": 12500,
+                        "maxPrice": 22500
+                    },
+                    "weight": 4
                 },
                 {
                     "value": {
