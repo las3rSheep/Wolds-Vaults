@@ -1,31 +1,43 @@
 {
     "size": "small",
     "color": "#71955B",
-    "waves": [{
-            "entities": [{
-                    "entity": "minecraft:zombie"
+    "waves": [
+        {
+            "entities": [
+                {
+                    "entity": "the_vault:t3_zombie"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_husk"
+                },
+                {
+                    "entity": "the_vault:t3_drowned"
                 }
             ],
-            "rewards": [{
-                "type": "entity_loot",
-                "entity": "minecraft:zombie",
-                "rolls": 3
-            }],
+            "rewards": [
+                {
+                    "type": "entity_loot",
+                    "entity": "minecraft:zombie",
+                    "rolls": 3
+                }
+            ],
             "max_wave_time": 750,
             "setup_time": 150
         },
         {
-            "entities": [{
-                    "entity": "minecraft:zombie"
+            "entities": [
+                {
+                    "entity": "the_vault:t3_zombie"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_husk"
+                },
+                {
+                    "entity": "the_vault:t3_drowned"
                 }
             ],
-            "modifiers": [{
+            "modifiers": [
+                {
                     "attribute": "generic.max_health",
                     "operation": "MULTIPLY_TOTAL",
                     "value": 0.33
@@ -51,29 +63,36 @@
                     "value": 0.05
                 }
             ],
-            "rewards": [{
-                "type": "entity_loot",
-                "entity": "minecraft:zombie",
-                "rolls": 6
-            }],
+            "rewards": [
+                {
+                    "type": "entity_loot",
+                    "entity": "minecraft:zombie",
+                    "rolls": 6
+                }
+            ],
             "max_wave_time": 750,
             "setup_time": 150
         },
         {
-            "entities": [{
-                    "entity": "minecraft:zombie"
+            "entities": [
+                {
+                    "entity": "the_vault:t3_zombie"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_husk"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_drowned"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t2_zombie"
+                },
+                {
+                    "entity": "the_vault:t2_zombie"
                 }
             ],
-            "modifiers": [{
+            "modifiers": [
+                {
                     "attribute": "generic.max_health",
                     "operation": "MULTIPLY_TOTAL",
                     "value": 0.66
@@ -99,29 +118,36 @@
                     "value": 0.10
                 }
             ],
-            "rewards": [{
-                "type": "entity_loot",
-                "entity": "minecraft:zombie",
-                "rolls": 9
-            }],
+            "rewards": [
+                {
+                    "type": "entity_loot",
+                    "entity": "minecraft:zombie",
+                    "rolls": 9
+                }
+            ],
             "max_wave_time": 750,
             "setup_time": 150
         },
         {
-            "entities": [{
-                    "entity": "minecraft:zombie"
+            "entities": [
+                {
+                    "entity": "the_vault:t3_zombie"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_husk"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_drowned"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t2_zombie"
+                },
+                {
+                    "entity": "the_vault:t2_zombie"
                 }
             ],
-            "modifiers": [{
+            "modifiers": [
+                {
                     "attribute": "generic.max_health",
                     "operation": "MULTIPLY_TOTAL",
                     "value": 0.85
@@ -147,32 +173,42 @@
                     "value": 0.15
                 }
             ],
-            "rewards": [{
-                "type": "entity_loot",
-                "entity": "minecraft:zombie",
-                "rolls": 12
-            }],
+            "rewards": [
+                {
+                    "type": "entity_loot",
+                    "entity": "minecraft:zombie",
+                    "rolls": 12
+                }
+            ],
             "max_wave_time": 750,
             "setup_time": 150
         },
         {
-            "entities": [{
-                    "entity": "minecraft:zombie"
+            "entities": [
+                {
+                    "entity": "the_vault:t3_zombie"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_husk"
                 },
                 {
-                    "entity": "minecraft:zombie"
+                    "entity": "the_vault:t3_drowned"
                 },
                 {
-                    "entity": "minecraft:husk"
+                    "entity": "the_vault:t2_zombie"
                 },
                 {
-                    "entity": "minecraft:husk"
+                    "entity": "the_vault:t2_zombie"
+                },
+                {
+                    "entity": "the_vault:t2_husk"
+                },
+                {
+                    "entity": "the_vault:t2_drowned"
                 }
             ],
-            "modifiers": [{
+            "modifiers": [
+                {
                     "attribute": "generic.max_health",
                     "operation": "MULTIPLY_TOTAL",
                     "value": 1.25
@@ -198,20 +234,24 @@
                     "value": 0.20
                 }
             ],
-            "rewards": [{
-                "type": "entity_loot",
-                "entity": "minecraft:zombie",
-                "rolls": 15
-            }],
+            "rewards": [
+                {
+                    "type": "entity_loot",
+                    "entity": "minecraft:zombie",
+                    "rolls": 15
+                }
+            ],
             "max_wave_time": 750,
             "setup_time": 150
         }
     ],
-    "rewards": [{
-        "type": "entity_loot",
-        "entity": "minecraft:zombie",
-        "rolls": 30
-    }],
+    "rewards": [
+        {
+            "type": "entity_loot",
+            "entity": "minecraft:zombie",
+            "rolls": 30
+        }
+    ],
     "completion_xp": 250,
-	"spawn_range": 5
+    "spawn_range": 5
 }
