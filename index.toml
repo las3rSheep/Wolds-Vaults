@@ -126,7 +126,7 @@ hash = "0fd3c4000f450de8a8b2d45d864212f2eecf82350726204a0d38382f295bdea2"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "269ad6ae920fd2928fcb029465ac5efed30656f254da536f323a08166a42676a"
+hash = "0b99dbc87bcffffa587c16cd456f1c3f9cd4dd2eeffc6ce2e4817cf10cccf291"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -738,11 +738,11 @@ hash = "89e0653350829fe7c7445dba3a57245bf696115311adbd64b7f0ce95873e9724"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
-hash = "81ff6e8cfdd2d97ed7e9146ad4dd95211db4d21cac514a1366843a1f17918412"
+hash = "de3844e7249a206f3848272d7d110c56ba69060d2590b379c264489b7f77431d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
-hash = "ab853dfa857e8af04a56960ffcd6ef42209501f4d451ff2311851b6064c705fb"
+hash = "9e50733cf756b4b399874cae0eccd333b91db28bbbe3d299ee1e5714c881a77d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
@@ -12806,7 +12806,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "465cc0b041d9ef1a0ffd6d733aec017e9edbd32adccd411ef87bab62c836449b"
+hash = "9cc07241138e75381556c807a06bd4b0ba5cb73a9490236514624eeb9130ede3"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
