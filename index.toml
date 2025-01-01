@@ -2073,6 +2073,10 @@ file = "config/the_vault/gen/1.0/palettes/map/generic/treasure.json"
 hash = "115edd27bbe164c25b769dd7ba6808e1f5abab9736b029b8e45daa763a03d62a"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/map/special/gateway_channeling/gateway1.json"
+hash = "c46aa639fcb13dc3ba33eede051e5671be187d023d3324fafb1bd8b97c034ff7"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/map/universal_beach.json"
 hash = "f68e8216c4bb54e9e8c9379c486b11fcd7acc35c0fa8c2474a49639967bcbf7d"
 
@@ -8890,7 +8894,7 @@ hash = "6d9a57f6e7e8d97f65025a0bdbb3b0daeb96f1cc153bbe238a8596e25e72f750"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/map/rooms/special/gateway_channeling/gateway1.json"
-hash = "b14b7ea59f2c95114ceb47675895babf7cb15e8509cfe1b8ee961886dfb9e983"
+hash = "062273bf6816c8990abce6ba4a41e51bc4b2a63bc68af8e787f95cb546fe090c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/map/starts/beach_starts.json"
@@ -12826,7 +12830,7 @@ hash = "1388fe498b0376db5adda0fa89d1d1eba2c7bc719c719f7fb8d5995ce695cb78"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "22ac3d8b8233ec17747d4facc0f41b651ce9cd540ee955a60ada4a19460fdb5a"
+hash = "d6e91f9f407208c18791bda2e102eac33ed0d00f846a7a6a29f427c5609915c7"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
@@ -13218,7 +13222,7 @@ hash = "ac2456bd75dc7c99e553b6bca3e2f7fca489d027b25fc6f3859f68d4c5bf3df5"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "4d002dd41f2c1331af194cab2d3053d662931f6d9104293ca2776b26af3d16fc"
+hash = "38f6c9c8804c866e768369a7c48ee1e0308d445ae11c170c92b7d2f8b03264ce"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
@@ -17062,7 +17066,7 @@ hash = "0457b24c1cc0e04b28ce5c5f59e28d7007a6d09571a429f9dd3de1d0af3227c2"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/zombie_gate_small.json"
-hash = "718ceb2c7ac98f9f177a24d7153b064653cfc9b7762a4f76405bd3b47fa808f1"
+hash = "6c7fd475196ccac9048698b3e719c03073f322c36cac0f4751dad28e6cf0fa77"
 
 [[files]]
 file = "kubejs/data/hostilenetworks/data_models/alexsmobs/flutter.json"
