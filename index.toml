@@ -14,7 +14,7 @@ hash = "88da4739dcf79f2ec5bcceafad116f66b10818153939aec4fde043530dcdb060"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "60aaa3a3846e493549d09b7833791de44445cf21d5f5d226b4136e68fbe76268"
+hash = "1139ceed93f1151efab3af1f6706484290bb367e9b2500dc8564f7c4a4e71ad9"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -12994,7 +12994,7 @@ hash = "3ecbcabe84760066d2bee48cb95b0aac89278ca89d2a1807740bd02c7b8fd97b"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "b8bbc6680f2daaab6ca650edbddcc944a2963cc1abcc44c716c39b33cbcd0950"
+hash = "76a2842efdba105a49ab18bd72b260ead4878bc822dea9c116d4e3db51124244"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -14434,7 +14434,7 @@ hash = "e0ac8f89c90b767ff445d0594bce8b049dde9f0ee2c61e0031579af0ed83a51b"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/all.json"
-hash = "5d34a2cf9f5097bc5aec146ca2fdf7904a49290af15992fc4cdeadce730f0698"
+hash = "659d2b3ce50c3dde1feceb834836729ca255045a1f1edcf59a5cb514b7875f47"
 
 [[files]]
 file = "configureddefaults/config/pickupnotifier/all_forSirPeter.json"
@@ -14806,7 +14806,7 @@ hash = "3142b3ee0e44174ffc4e7d7997a133932b3f8fded5972b3cf005d887f09f3299"
 
 [[files]]
 file = "configureddefaults/servers.dat"
-hash = "d78907b340a644c06a8b51ccfeef5d59514be07fc5f5e239ef5e5b42ca9a0585"
+hash = "d0e4f1b4cc29d93fbecbc346f40f18e10fcff2e4145c362ff777f4916ba88d42"
 
 [[files]]
 file = "data/the_vault/data.json"
@@ -18497,6 +18497,10 @@ file = "kubejs/server_scripts/vh_compat/chipped/recipes.js"
 hash = "0dcae57a59797c8d5a1956e001d859684c8a47e03fd9bdb955e871766dc3e1fb"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/chunkymcchunkface/recipes.js"
+hash = "cf0e79443f6d6adb201416e7aa3ae844bd06e8f9ca7c99560f0ab2293a23991e"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/cognition/recipes.js"
 hash = "2e52b09a8f06aed56cf2672d809ba1efb98621c114c580cfb8673a507cecb75c"
 
@@ -19200,6 +19204,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "e9633b94b7c3d75172d61d3df66781eb666838df29598c3fbcdc17364dc38ba3"
+metafile = true
+
+[[files]]
+file = "mods/chunky-mcchunkface.pw.toml"
+hash = "80fc21b16eee6b8ec55320b3eac201e147b5ae7ca43b7aba57c4126e068149e1"
 metafile = true
 
 [[files]]
