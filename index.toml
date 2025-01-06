@@ -13034,7 +13034,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "fda84e564892e2750c0f62b44e78f33ec88ad620b9544eed79841899a1ba281b"
+hash = "e61e101dd6d5ed9c262c272fbb99744fbc012544b20e13cb5f35e97dc772afa3"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -16867,6 +16867,10 @@ hash = "d83dba86e768a5e104c3556bbff91de803ae85103063b8770a8e6cc4fb221662"
 [[files]]
 file = "kubejs/data/computercraft/recipes/wired_modem.json"
 hash = "41738e35cec1ffbdd5fc771ffb10fa0525cd3042b6e284b0a818815776a009c7"
+
+[[files]]
+file = "kubejs/data/curios/tags/items/back.json"
+hash = "cfb45b40c95f42b35e07a2be0451f282503a34d2503c2e7d37b181db35803d47"
 
 [[files]]
 file = "kubejs/data/curios/tags/items/curio.json"
