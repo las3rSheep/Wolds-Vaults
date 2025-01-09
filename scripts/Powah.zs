@@ -94,19 +94,6 @@ JEI.hideIngredient(<item:powah:player_transmitter_starter>);
   }
 });
 
-<recipetype:powah:energizing>.addJsonRecipe("steel_energized", { //
-  "ingredients": [
-	{"item": "the_vault:chromatic_steel_ingot"},
-	{"item": "the_vault:gem_larimar"},
-    {"item": "the_vault:vault_essence"},
-  ],
-  "energy": 4000,
-  "result": {
-	"item": "powah:steel_energized",
-	"count": 4
-  }
-});
-
 <recipetype:powah:energizing>.addJsonRecipe("steel_energized_block", { //
   "ingredients": [
 	{"item": "the_vault:chromatic_steel_block"},

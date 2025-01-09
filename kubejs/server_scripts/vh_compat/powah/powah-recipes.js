@@ -70,4 +70,16 @@ onEvent('recipes', event => {
 		C: 'the_vault:chromatic_iron_ingot'
 	});
 	
+	event.custom({ //
+		"ingredients": [
+		  {"item": "the_vault:chromatic_steel_ingot"},
+		  {"item": "the_vault:gem_larimar"},
+		  {"item": "the_vault:vault_essence"},
+		],
+		"energy": 4000,
+		"result": {
+		  "item": "powah:steel_energized",
+		  "count": 4
+		}
+	  }).id('powah:energizing/steel_energized')
 });
