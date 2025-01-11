@@ -26,7 +26,7 @@ hash = "13134c9edf399d2fb76cfa392673a63dcbbb4a0d90cbb1c68d5d7846ccfc94f9"
 
 [[files]]
 file = "config/farmingforblockheads/MarketRegistry.json"
-hash = "22389fe91a6952292f08691163f587affaa6123b49a2e695a6d6ca48c0b825e4"
+hash = "81674f9ce029440702da45c910cc3227778708ee1635423fd9c24ee534d2b668"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -470,7 +470,7 @@ hash = "a62359cff50c89bce2220d41ab3793e792175c62aa526e2fd210e39544570857"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
-hash = "9f8461727a07bd4239fc28454de71930d75ba6ea1345bfdd2d405ee21903e30d"
+hash = "6ae82dac91e852807373e51f738c08a89431d123b7351acdf1f0e5f5c21f3a38"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/bottle.json"
@@ -478,7 +478,7 @@ hash = "6b990209c522a73a86dcf23ce5a0e76d68ce8e8555c746112a47492da144ac1f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/chestplate.json"
-hash = "17de0979aafcc2ce024a88ba084371a031563ff3efa53e861d82dd3bab474d38"
+hash = "42c4b9b65d4e3a2e06bb22a9b3853085ae8ab69c0956fee43275e103716446aa"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/drink.json"
@@ -490,7 +490,7 @@ hash = "27f01da376ad3cf5a8513c9ca3cbdca724520d88b8f9a98fab606f3a6cdfccef"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "20abd5fe28b9691029d305a6ae93657daf6cb06950705db7655d97147c2043a5"
+hash = "957df33c59272ed8c05dfc64698fe7e657c61c5b84f7964d798bb08e6f493875"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -514,7 +514,7 @@ hash = "b7030ba9703625d926ae5671d33157285104d7ddfe3e24e7eca2dab7825f6ed4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
-hash = "905717f7d4ee40dc9b35a3fabb987d85a1cf8d923ed915cd3188b99222971ee8"
+hash = "d96bf5a70ea83f4e38fd51b20b2f909b9032302cf2bc0a8b7c30c52bbc3c07d5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
@@ -546,7 +546,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "2c19884762dfa0fda367d54194efb612a38d184c3709c13614f0e145d7f36b12"
+hash = "4c8488215ffcbfa104949c43aebb684a6bc304bad4f3fab8f3dc226b05829a4c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13170,7 +13170,7 @@ hash = "d3b6c2730336aab37c24a880ab537a3550750ee5d0b3d7051f4a1f33a9b443ee"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "5d4793d4a5a752de710b2529f9eb949ae9a52dfd0e0263a716964f612d8e1d46"
+hash = "c270f3d6a13a75945e42d00416554c9fd28cf3d0c8274ecd0504d621abe0fdd2"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients_greed.json"
@@ -16717,6 +16717,14 @@ file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png.mcmeta"
 hash = "59baece448c0c48bbbdf25dd1fcf5f985e4053e49d2beb8d8eb8e9813c0b454d"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/crystal_seal_architect.png"
+hash = "806b7354941cdb43f4746cdc6396b0798d9f3217690027ff62a61974a0353e4a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/crystal_seal_architect.png.mcmeta"
+hash = "f57c9534539511aa7a9598fcf0408c6c9ae212eb8dfe703382f8164954e411c5"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/sword/skallified_sword.png"
 hash = "d3415018f2ebf5bca560046f4ebcd5acabfa535ba9e9da7217b99c85430383f0"
 
@@ -18670,7 +18678,7 @@ hash = "1aa398813dbb183125e80b1d0f42aa20834eb5d9f13eabeccbbd04fd704b2aa3"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/essences.js"
-hash = "2ea5ed7912bc87d4ee8564abbe4f69d829418ca513e4f5fc197c5d6b9b7e2145"
+hash = "a74c421308930f6ba020e7f9133ee42cb5b0e8157f97bcd11291cdc184534b77"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/recipes.js"
@@ -18679,6 +18687,10 @@ hash = "2dd4cf6f50d86f00200ad8f1b4f957136f5a5896ff1063de2dd5720b672d2aeb"
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mysticalagriculture/seeds.js"
 hash = "d8d04545bfc4d804ed3d5591d086cf67802c510e9584d3e9eec36c29575e3279"
+
+[[files]]
+file = "kubejs/server_scripts/vh_compat/occultism/crushing.js"
+hash = "fa0c03da5486c4617a1767fbc3491ac01dc9ada287337d4d6a0cf7d96011b303"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/occultism/mining.js"
@@ -18714,7 +18726,7 @@ hash = "678644137d26c85ded57417f4d8289b0d1a9f67fa55609949b16816276153363"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/powah/powah-recipes.js"
-hash = "94831bafd43b2a97ba239b9e12febe8b78d47fd7d8383ac8c64a0d5383d4e9f7"
+hash = "21064917a8a8161c98afc213a2299dc1fb1d6bb7c2c603bf92043643b2d4f322"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/psi/recipes.js"
@@ -20795,6 +20807,11 @@ hash = "7487bc2e3dc8cc4e90bc34f3e0ae013b588c3b1414c9328c0e031b74b8ca6f92"
 metafile = true
 
 [[files]]
+file = "mods/unobtanium-vault-hunters-fixes.pw.toml"
+hash = "a5f3209b0546f73ef29fac6a44d3b8f0cea33b33b18e3df4e1a81c0b2cce9143"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
 metafile = true
@@ -21438,7 +21455,7 @@ metafile = true
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "d0f9da3480b642d9dce78bd8ec2f6b79f28b6de77cd5a4cddcde197c282092a6"
+hash = "bc2d84587c4b243c8a794536f97df8af9b2d68c68d9bc8ecb115adae730f17d4"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -21522,7 +21539,7 @@ hash = "f3359b2d976b5303a33efa062c01e863ec20de173347bab120e4d005184291c2"
 
 [[files]]
 file = "scripts/Powah.zs"
-hash = "9a8a7ba5b8260db17a6c1f0cb5d8cf76a99c7c826189599a4d9d56fe505855bd"
+hash = "457904473815f41aa65741da8213d25c6ffc1a50a80df159708d7f0e0f191d21"
 
 [[files]]
 file = "scripts/Quark.zs"
