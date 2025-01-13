@@ -20877,6 +20877,11 @@ hash = "31226c8e3154265c2196391c04bcb8c603ace31b650784e5542185220283a343"
 metafile = true
 
 [[files]]
+file = "mods/vaultchatchannels.pw.toml"
+hash = "094f35e4f0c28b485d991b2fa61a7fdb52299c2c13506e7419ad32b1bc87f52a"
+metafile = true
+
+[[files]]
 file = "mods/vaultfaster.pw.toml"
 hash = "5bda9e7b0c570324d4266d944fcd076420373fe9d063e1c331dff4fedf174de3"
 metafile = true
