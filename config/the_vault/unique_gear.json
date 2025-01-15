@@ -615,6 +615,24 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "woldsvaults:safer_spaces": {
+      "name": "Safer Spaces",
+      "model": "the_vault:gear/plushie/safer_spaces",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:saferspaceeffect",
+          "the_vault:u_safer_block",
+          "the_vault:u_safer_block"
+        ],
+        "PREFIX": [],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
