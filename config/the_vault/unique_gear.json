@@ -705,6 +705,7 @@
           "the_vault:base_durability"
         ],
         "IMPLICIT": [
+          "the_vault:weapon_type",
           "the_vault:base_attack_damage",
           "the_vault:base_attack_speed_greatsword"
         ],

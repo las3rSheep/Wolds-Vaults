@@ -190,6 +190,22 @@
     ],
     "IMPLICIT": [
       {
+        "attribute": "the_vault:weapon_type",
+        "group": "ModWeaponType",
+        "identifier": "the_vault:weapon_type",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "value": "Claymore"
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:range",
         "group": "BaseRange",
         "identifier": "the_vault:u_base_magnet_range",
