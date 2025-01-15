@@ -1,0 +1,8 @@
+{
+    "WEAPON_TYPES_MAP": {
+      "Claymore": {
+        "NBT": "{\"parent\":\"bettercombat:claymore\"}",
+        "COLOR": 2843077
+      }
+    }
+  }
