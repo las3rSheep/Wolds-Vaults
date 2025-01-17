@@ -18980,6 +18980,11 @@ hash = "af06764aca4b7ec8f5ea53ac1a0f2c6e7c63612447a60579c3aa8318a0510382"
 metafile = true
 
 [[files]]
+file = "mods/ae2-search-improvements-backport.pw.toml"
+hash = "111a521053ddd8192e7784001537b66e90752a53d9e17b7df2720d53bd1fa694"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "954e95463edeb24b8a13e06940077ce4a0b1e03198f3caf46d9ca20c3ecabe3e"
 metafile = true
