@@ -1909,7 +1909,7 @@
         ]
       },
       {
-        "attribute": "the_vault:effect",
+        "attribute": "the_vault:unique_effect",
         "group": "ModSaferSpaceEffect",
         "identifier": "the_vault:saferspaceeffect",
         "tags": [
