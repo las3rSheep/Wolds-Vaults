@@ -1892,7 +1892,7 @@
             "weight": 10,
             "value": {
               "min": 0.19,
-              "max": 0.21,
+              "max": 0.22,
               "step": 0.01
             }
           },
@@ -1901,7 +1901,7 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.22,
+              "min": 0.23,
               "max": 0.25,
               "step": 0.01
             }
@@ -1922,7 +1922,7 @@
             "weight": 20,
             "value": {
               "effectKey": "woldsvaults:safer_space",
-              "amplifier": 0
+              "amplifier": 1
             }
           },
           {
@@ -1931,7 +1931,7 @@
             "weight": 10,
             "value": {
               "effectKey": "woldsvaults:safer_space",
-              "amplifier": 1
+              "amplifier": 2
             }
           },
           {
@@ -1940,7 +1940,7 @@
             "weight": 5,
             "value": {
               "effectKey": "woldsvaults:safer_space",
-              "amplifier": 2
+              "amplifier": 3
             }
           }
         ]
