@@ -13326,7 +13326,7 @@ hash = "fda8ab7a706c72a6e662b236ee54105b9b1df3a8fc0bd0963f57f87f92fc9848"
 
 [[files]]
 file = "config/the_vault/weapon_types.json"
-hash = "b2aef13cd060bf57aabd5af8dc99e688afb691c5b268a7d05ab91cf3a4263f7a"
+hash = "567076cdde04879b2fa8cab5d1a9fbd5f48f3168fb60f17d3f16f84281af81e3"
 
 [[files]]
 file = "config/the_vault/wild_spawner.json"

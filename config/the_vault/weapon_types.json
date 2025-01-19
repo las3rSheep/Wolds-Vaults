@@ -1,8 +1,128 @@
 {
     "WEAPON_TYPES_MAP": {
+      "Anchor": {
+        "NBT": "{\"parent\":\"bettercombat:anchor\"}",
+        "COLOR": 2843077
+      },
+      "Axe": {
+        "NBT": "{\"parent\":\"bettercombat:axe\"}",
+        "COLOR": 2843077
+      },
+      "Battlestaff": {
+        "NBT": "{\"parent\":\"bettercombat:axe\"}",
+        "COLOR": 2843077
+      },
+      "Two-Handed Heavy Bow": {
+        "NBT": "{\"parent\":\"bettercombat:bow_two_handed_heavy\"}",
+        "COLOR": 2843077
+      },
+      "Two-Handed Light Bow": {
+        "NBT": "{\"parent\":\"bettercombat:bow_two_handed_light\"}",
+        "COLOR": 2843077
+      },
+      "Claw": {
+        "NBT": "{\"parent\":\"bettercombat:claw\"}",
+        "COLOR": 2843077
+      },
       "Claymore": {
         "NBT": "{\"parent\":\"bettercombat:claymore\"}",
         "COLOR": 2843077
+      },
+      "Coral Blade": {
+        "NBT": "{\"parent\":\"bettercombat:coral_blade\"}",
+        "COLOR": 2843077
+      },
+      "Cutlass": {
+        "NBT": "{\"parent\":\"bettercombat:cutlass\"}",
+        "COLOR": 2843077
+      },
+      "Dagger": {
+        "NBT": "{\"parent\":\"bettercombat:dagger\"}",
+        "COLOR": 2843077
+      },
+      "Double-Axe": {
+        "NBT": "{\"parent\":\"bettercombat:double_axe\"}",
+        "COLOR": 2843077
+      },
+      "Fist": {
+        "NBT": "{\"parent\":\"bettercombat:fist\"}",
+        "COLOR": 2843077
+      },
+      "Glaive": {
+        "NBT": "{\"parent\":\"bettercombat:glaive\"}",
+        "COLOR": 2843077
+      },
+      "Halberd": {
+        "NBT": "{\"parent\":\"bettercombat:halberd\"}",
+        "COLOR": 2843077
+      },
+      "Hammer": {
+        "NBT": "{\"parent\":\"bettercombat:hammer\"}",
+        "COLOR": 2843077
+      },
+      "Heavy Axe": {
+        "NBT": "{\"parent\":\"bettercombat:heavy_axe\"}",
+        "COLOR": 2843077
+      },
+      "Katana": {
+        "NBT": "{\"parent\":\"bettercombat:katana\"}",
+        "COLOR": 2843077
+      },
+      "Lance": {
+        "NBT": "{\"parent\":\"bettercombat:lance\"}",
+        "COLOR": 2843077
+      },
+      "Mace": {
+        "NBT": "{\"parent\":\"bettercombat:mace\"}",
+        "COLOR": 2843077
+      },
+      "Pickaxe": {
+        "NBT": "{\"parent\":\"bettercombat:pickaxe\"}",
+        "COLOR": 2843077
+      },
+      "Rapier": {
+        "NBT": "{\"parent\":\"bettercombat:rapier\"}",
+        "COLOR": 2843077
+      },
+      "Scythe": {
+        "NBT": "{\"parent\":\"bettercombat:scythe\"}",
+        "COLOR": 2843077
+      },
+      "Sickle": {
+        "NBT": "{\"parent\":\"bettercombat:sickle\"}",
+        "COLOR": 2843077
+      },
+      "Soul Knife": {
+        "NBT": "{\"parent\":\"bettercombat:soul_knife\"}",
+        "COLOR": 2843077
+      },
+      "Spear": {
+        "NBT": "{\"parent\":\"bettercombat:spear\"}",
+        "COLOR": 2843077
+      },
+      "Staff": {
+        "NBT": "{\"parent\":\"bettercombat:staff\"}",
+        "COLOR": 2843077
+      },
+      "Sword": {
+        "NBT": "{\"parent\":\"bettercombat:sword\"}",
+        "COLOR": 2843077
+      },
+      "Trident": {
+        "NBT": "{\"parent\":\"bettercombat:trident\"}",
+        "COLOR": 2843077
+      },
+      "Twin-Blade": {
+        "NBT": "{\"parent\":\"bettercombat:twin_blade\"}",
+        "COLOR": 2843077
+      },
+      "Wand": {
+        "NBT": "{\"parent\":\"bettercombat:wand\"}",
+        "COLOR": 2843077
+      },
+      "None": {
+        "NBT": "",
+        "COLOR": 16777215
       }
     }
   }
