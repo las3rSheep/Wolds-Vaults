@@ -2,6 +2,38 @@
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
       {
+        "attribute": "the_vault:weapon_type",
+        "group": "ModWeaponType",
+        "identifier": "the_vault:weapon_type_claymore",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "value": "Claymore"
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:weapon_type",
+        "group": "ModWeaponType",
+        "identifier": "the_vault:weapon_type_katana",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "value": "Katana"
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:endergized",
         "group": "BaseEndergized",
         "identifier": "the_vault:base_endergized",
@@ -189,22 +221,6 @@
       }
     ],
     "IMPLICIT": [
-      {
-        "attribute": "the_vault:weapon_type",
-        "group": "ModWeaponType",
-        "identifier": "the_vault:weapon_type",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "value": "Claymore"
-            }
-          }
-        ]
-      },
       {
         "attribute": "the_vault:range",
         "group": "BaseRange",
