@@ -226,7 +226,7 @@ hash = "d8f7da228636e2561677c335647115d563da80e062fe0b8b6550c4b7d65d099f"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "37cef38243f5e461fbe6038519c7358c728ada53f6857bf94c825bc1cd36d12f"
+hash = "45601ee8143973d6a6b3ebb24d4a9eead60c6711201914f33febabbc8591069a"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -546,7 +546,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "772ea20c4b2b49529079cc74e30ee9001248b3ca7c51640aee4ca954ddca94b5"
+hash = "568de655248349b497f69621cb5755de155b5086c7ec84dcb32cfe1eeee5c9b1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13154,7 +13154,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "cef0e27eec8cc42ae462e089b2433999d05d878688f6d1a1bd6238c194a6ea37"
+hash = "9f2423a6163236fa825b0fb5213b214822b1990bd7348706128794c15130feed"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
@@ -13326,7 +13326,7 @@ hash = "fda8ab7a706c72a6e662b236ee54105b9b1df3a8fc0bd0963f57f87f92fc9848"
 
 [[files]]
 file = "config/the_vault/weapon_types.json"
-hash = "97a3b327af484af90de19c5c6c357550f5c4051e403b629c36988894a0730d65"
+hash = "b2aef13cd060bf57aabd5af8dc99e688afb691c5b268a7d05ab91cf3a4263f7a"
 
 [[files]]
 file = "config/the_vault/wild_spawner.json"
@@ -18898,7 +18898,7 @@ hash = "32b67734d6eb17b3f8c38e939614f2e569372f0197f0e9c7947287ad048d9bf4"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/blacklist.js"
-hash = "bfb6aeace545102982145015e9d52c46feaf485d5587ff3ceea5bee8caed0640"
+hash = "f61fa5016067cedd241dae6f23998c7b23e7347932bbd933329b97b757afc405"
 
 [[files]]
 file = "kubejs/server_scripts/woldsvaults/deco.js"
@@ -19711,7 +19711,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
-hash = "7133a33021c4ce1107b6ef06575f9d4f434f8d9b44b80685bd40efd43993472b"
+hash = "c4babd9244a155a23d10b0f73a1823908897eb0144c830ccf440064817216c55"
 metafile = true
 
 [[files]]
@@ -20436,7 +20436,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6900fa6938b07374b653534cf0a99f6cb98774047bcc301ca11eb817bd80df09"
+hash = "d0eb5102ee85f9ac40544e44a3d467588d6245692946c001cbecdaab9a312362"
 metafile = true
 
 [[files]]
