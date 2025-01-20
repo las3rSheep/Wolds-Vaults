@@ -438,7 +438,7 @@ hash = "3982f217b485a21549210d6327176716a22b1408fb489fa6e05c6163a91dfb33"
 
 [[files]]
 file = "config/the_vault/gear/gear_modification.json"
-hash = "7d134af274200e6b611fb0792113c8625abb188508883621cadbafcb7de875b5"
+hash = "ccce418c5cb84b1389bcda9a36ce9012afa256983372f0fffc473ac3f4f08686"
 
 [[files]]
 file = "config/the_vault/gear/gear_roll_type.json"
@@ -538,7 +538,7 @@ hash = "bf83e900770d02152c0b11d2e5e14e7425a7361d86b4daf2213ef318fb89d4d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "998b2b767793ddb424ff867c955bedd126796d321704c04a643c3222e8fbfc0b"
+hash = "85c53101f9590b7ad867e37d2164d95f240dad6fb21b7fa553b1b46cd10aa226"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -546,7 +546,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "8d63f9beeefbfd90cdfff5f76dc7178f801ad735f0e6bc85b04725ed38246470"
+hash = "cc12b4b73d89f3145460e00f08a59248bc6f896ef9ff88e881a92c41f66af5d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13102,7 +13102,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "27dbd7af04b923c3d9e8882a9bc3e8bb1fa545036c774938670e82b6f84a8500"
+hash = "473b05c392977cd006c966f609641497e0b4bcf0d7ff6ae3268b186e7c7e3a60"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -18794,7 +18794,7 @@ hash = "49a166620e8d190c5ec527eb647919bf890d010d4920e0035541566e71f77150"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/recipes.js"
-hash = "98431fae9f24d9a7f06824c08e2ce28ead28a1d3a639575860f32bb252d61a85"
+hash = "aad9df9eb438457869e8b0bfcf90b785f5099e8889530927ca4f28613515d030"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/sophisticatedstorage/tags.js"

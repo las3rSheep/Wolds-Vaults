@@ -1,6 +1,14 @@
 {
   "tooltips": [
     {
+      "item": "woldsvaults:accoutre_focus",
+      "value": "Use with Vault Gear in the Artisan Station to reforge its Weapon Type."
+    },
+    {
+      "item": "woldsvaults:eccentric_focus",
+      "value": "Use with Vault Gear in the Artisan Station to add an unusual modifier."
+    },
+    {
       "item": "supplementaries:mob_cage",
       "value": "Can capture any mob below 10% health."
     },
