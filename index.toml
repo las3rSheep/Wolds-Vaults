@@ -538,7 +538,7 @@ hash = "bf83e900770d02152c0b11d2e5e14e7425a7361d86b4daf2213ef318fb89d4d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "85c53101f9590b7ad867e37d2164d95f240dad6fb21b7fa553b1b46cd10aa226"
+hash = "7de5a8586fd928a383a67c391c4d6a212dd0fbc0ac7bb0eae3777bbba7b2ba01"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -546,7 +546,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "cc12b4b73d89f3145460e00f08a59248bc6f896ef9ff88e881a92c41f66af5d1"
+hash = "ed63c1b81178b873e4e7f7f0e0ceb9970d9981b7d0092a04f19422bc6b70aa90"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13154,7 +13154,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "81642d436ef58b06b2a0037abb430df80fdfb6ac1c96ba6e0a6bfbe62611ddae"
+hash = "c5040974bb4ea64093c4be84809987c36a0b1d9eb9e29fe5d52a511a7e5e92bc"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"
@@ -13326,7 +13326,7 @@ hash = "fda8ab7a706c72a6e662b236ee54105b9b1df3a8fc0bd0963f57f87f92fc9848"
 
 [[files]]
 file = "config/the_vault/weapon_types.json"
-hash = "567076cdde04879b2fa8cab5d1a9fbd5f48f3168fb60f17d3f16f84281af81e3"
+hash = "42c143990e11948afea00b772be2462165ec3e8dfa313bc92e473fa210387309"
 
 [[files]]
 file = "config/the_vault/wild_spawner.json"
@@ -20856,7 +20856,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-api.pw.toml"
-hash = "7dd85c6ac543eb989f648470747bfcba25c55658df1189dc888bceee2aba243d"
+hash = "fbe64d62875a984b3f093f5dc531aeeca5c0313ea952acb6e5993473bd1f8003"
 metafile = true
 
 [[files]]

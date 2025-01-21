@@ -485,7 +485,8 @@
       "model": "the_vault:gear/sword/crystalblade",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_sword"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage",
@@ -525,7 +526,8 @@
       "model": "the_vault:gear/axe/leviathan",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+           "the_vault:weapon_type_double_axe"
         ],
         "IMPLICIT": [
           "the_vault:u_leviathan_attack_damage",
@@ -571,7 +573,8 @@
       "model": "the_vault:gear/sword/everfrost",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_sword"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage",
@@ -617,7 +620,8 @@
       "model": "the_vault:gear/sword/hexblade",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_sword"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage",
@@ -640,7 +644,8 @@
       "model": "the_vault:gear/axe/zombie_horse",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_heavy_axe"
         ],
         "IMPLICIT": [
           "the_vault:u_leviathan_attack_damage",
@@ -662,7 +667,8 @@
       "model": "the_vault:gear/battlestaff/ninja_baton",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+           "the_vault:weapon_type_battlestaff"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage_battlestaff",
@@ -681,7 +687,8 @@
       "model": "the_vault:gear/battlestaff/bamboo_fightstick",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_staff"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage_battlestaff_stick",
@@ -725,7 +732,8 @@
       "model": "the_vault:gear/sword/grass_blade",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+           "the_vault:weapon_type_rapier"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage",
@@ -747,7 +755,8 @@
       "model": "the_vault:gear/sword/young_kitsune",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_durability"
+          "the_vault:base_durability",
+          "the_vault:weapon_type_katana"
         ],
         "IMPLICIT": [
           "the_vault:base_attack_damage",
