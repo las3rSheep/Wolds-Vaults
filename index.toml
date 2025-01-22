@@ -462,11 +462,11 @@ hash = "962fa464dbcf7fa21836540ce9d0fe8815db6576b86e6d9e6a9b969fce70b28f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
-hash = "e0093c4d860df62727523a574ab8f81ef14aa4aecde5139162e5d4cb003ad3ac"
+hash = "9583a6eb4e58e01b4f1d660323d9e08d4daaf6a95c6eaf71fa7a717fe74a952f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
-hash = "a62359cff50c89bce2220d41ab3793e792175c62aa526e2fd210e39544570857"
+hash = "ac0a76ca3e9d20c131a314201add42d249ce24d2e0213a394c43e842f0c9a42c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -538,11 +538,11 @@ hash = "bf83e900770d02152c0b11d2e5e14e7425a7361d86b4daf2213ef318fb89d4d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "7de5a8586fd928a383a67c391c4d6a212dd0fbc0ac7bb0eae3777bbba7b2ba01"
+hash = "36158bc00af33aa9d91768c151edac680dc88edc1ba89c9c5ab29611f324133e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
+hash = "d558c3ab9b89bbcdcc052f9b925065db9367b91661d9644834882601f2c798b6"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -13326,7 +13326,7 @@ hash = "fda8ab7a706c72a6e662b236ee54105b9b1df3a8fc0bd0963f57f87f92fc9848"
 
 [[files]]
 file = "config/the_vault/weapon_types.json"
-hash = "42c143990e11948afea00b772be2462165ec3e8dfa313bc92e473fa210387309"
+hash = "cf0ccb5d0798334be5546f7083379f8f0e87d2d579fb94c884efe947665f7071"
 
 [[files]]
 file = "config/the_vault/wild_spawner.json"
