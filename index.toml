@@ -1818,7 +1818,7 @@ hash = "8f07d7976247f5a9ad3566e409224639988155ee8f15610c12d6059990b82168"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/pylon_placeholder.json"
-hash = "7af4f8d70bb550ed5a73b4c0f5a7ac46b20f2bea53fd9604d855f171a4f199f3"
+hash = "01cd3d0f41e6b003d23175a6aebce4f14edb65844604cdc6118d97ccff1f23a6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/room_base.json"
@@ -13274,7 +13274,7 @@ hash = "ca076a77ae30acd39ed322b2919fd95d86901f6c49956d38d2d8a24d8ff9d1d8"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "f609997ebee95f5cceeb0152c872bc4c19e0d75b1d07ebe57106b32aa71848f1"
+hash = "4a5674cc39fd128dc0779673f3872244fe8de8a7f3698ec8fb938ad321146222"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"
@@ -19957,6 +19957,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom-forge.pw.toml"
 hash = "d591f0fc9610eb1450e6a71e0da3a18b2d50081dd265027fd65f044b00f33ceb"
+metafile = true
+
+[[files]]
+file = "mods/kendromes-vault-hunters-tweaks.pw.toml"
+hash = "fda4c177337ebaf96ede39e94e3ac3cebea0c0d865c0cb1a0a566279cbef274e"
 metafile = true
 
 [[files]]
