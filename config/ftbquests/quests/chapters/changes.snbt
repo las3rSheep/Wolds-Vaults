@@ -321,9 +321,7 @@
 			x: -5.0d
 			y: -1.0d
 			subtitle: "I want a new one!"
-			description: [
-				"In this pack, you can buy Augment Boxes from Vendoors and a few other sources!"
-			]
+			description: ["In this pack, you can buy Augment Boxes from Vendoors and a few other sources!"]
 			id: "2924DAF22B0ECE71"
 			tasks: [{
 				id: "56057378B8AB941B"
@@ -1086,6 +1084,24 @@
 					}
 				}
 			]
+		}
+		{
+			x: -1.0d
+			y: 2.0d
+			subtitle: "The choice is yours"
+			description: ["In Wold's Vaults, you can craft Augments like you can Inscriptions! You'll need to discover a theme for the first time before you can craft it!\\n\\nYou will need to recycle Augments into Augment Pieces using the Vault Recycler or Salvager before you can craft any augments."]
+			id: "0996F6EA53D9BC23"
+			tasks: [{
+				id: "763EB3BB7443F035"
+				type: "item"
+				item: "woldsvaults:augment_crafting_table"
+			}]
+			rewards: [{
+				id: "1973697447CE1F89"
+				type: "item"
+				item: "woldsvaults:augment_piece"
+				count: 8
+			}]
 		}
 	]
 	quest_links: [ ]
