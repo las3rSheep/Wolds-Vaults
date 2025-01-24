@@ -14,7 +14,7 @@ hash = "88da4739dcf79f2ec5bcceafad116f66b10818153939aec4fde043530dcdb060"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1139ceed93f1151efab3af1f6706484290bb367e9b2500dc8564f7c4a4e71ad9"
+hash = "872f2113f6a7a40fd8ceead44d01340325027f7642f47c5d96444599278ab390"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -30,11 +30,11 @@ hash = "81674f9ce029440702da45c910cc3227778708ee1635423fd9c24ee534d2b668"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "f1792897b1dc077d5967e36db6ce48e95be2e931ba830750244a9d47df579ac8"
+hash = "46adc8a60579c5e1f4e5fe22b48fd4a58a507d3ca27d87566aab931bacc52161"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/changes.snbt"
-hash = "c20dccf42984e1146f1894729b3c9dafe67b7a354b92435af3caa00d92096f43"
+hash = "8fc709aefbaeb694c4060e95c25c42cd3e41f1e0143162b42dea2631351e1a24"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/useful_items.snbt"
@@ -12902,7 +12902,7 @@ hash = "98e4c07143c4749f408d55a337fa294050bbd63ab0c33ceca8cb644366203066"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
-hash = "28db083c0b6ec16ca9829d7ffe39efde522ecb46115e630b42cd335659030edc"
+hash = "a8ee597205a6dbb8a6c4a1bd96ff2c92256a62c3ba6bde77a7a2745dd0dc8592"
 
 [[files]]
 file = "config/the_vault/overlevel_enchant.json"
@@ -13026,7 +13026,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "26bf09d0c7a55417d5c80930da71d43035af652700d84df6c1f5f5fe5219d8c1"
+hash = "bc31642fd287fd3a813468a856df1bebd71828d6f0ccec7ab19bb25e714b877d"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -13046,7 +13046,7 @@ hash = "3b963abc61de312810327ddfbaec1e23810c6ca324e1820d6016f39553418542"
 
 [[files]]
 file = "config/the_vault/soul_shard.json"
-hash = "cdcb833df1564b39e0693b75b3055485a3f1e544375d301f4a4f1fc0dfe63678"
+hash = "2bae8474a25b7c47a0db42635f1c667e9626528384c62fe111fc238d09d476a4"
 
 [[files]]
 file = "config/the_vault/spirit.json"
@@ -18838,7 +18838,7 @@ hash = "ce3fac24dd478a66748e1f4c5f19cf5dd054d6583d22521301be1e66187ece43"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
-hash = "dae7789de3e8d4aae7cedda93b57ac516cadafc95057e01903525894579f2dcd"
+hash = "f4fdf683aa1a80cfde8b8eb96c86dc6d84fc837e9a855cd26f51bfbcec3e6408"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/recipes.js"
@@ -19137,11 +19137,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "d8bc847817eb61ea88d583c4de18003e7b56d6710a547e09121d38f374a69f35"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "0b886cd411c8a21921e529c357c56b453fd0dd3940581f9cdc4dcb6a711f8046"
 metafile = true
 
 [[files]]
@@ -21562,7 +21557,7 @@ hash = "f3359b2d976b5303a33efa062c01e863ec20de173347bab120e4d005184291c2"
 
 [[files]]
 file = "scripts/Powah.zs"
-hash = "457904473815f41aa65741da8213d25c6ffc1a50a80df159708d7f0e0f191d21"
+hash = "31d170607869782c1ad581098b0f72d2bbb5dff6653864b7613c127a66bb6bb6"
 
 [[files]]
 file = "scripts/Quark.zs"

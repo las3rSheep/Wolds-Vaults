@@ -1,6 +1,26 @@
 {
   "tooltips": [
     {
+      "item": "woldsvaults:tome_of_tenos",
+      "value": "Place on Vault Altar to create a Tenos Zealot Vault."
+    },
+    {
+      "item": "woldsvaults:wendarr_gem",
+      "value": "Place on Vault Altar to create a Wendarr Zealot Vault."
+    },
+    {
+      "item": "woldsvaults:velara_apple",
+      "value": "Place on Vault Altar to create a Velara Zealot Vault."
+    },
+    {
+      "item": "woldsvaults:idona_dagger",
+      "value": "Place on Vault Altar to create a Idona Zealot Vault."
+    },
+    {
+      "item": "woldsvaults:tome_of_tenos",
+      "value": "Place on Vault Altar to create a Tenos Zealot Vault."
+    },
+    {
       "item": "woldsvaults:accoutre_focus",
       "value": "Use with Vault Gear in the Artisan Station to reforge its Weapon Type."
     },
