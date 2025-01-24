@@ -1,13 +1,13 @@
 name = "Unobtanium - Vault Hunters Fixes"
-filename = "unobtainium-1.7.0.jar"
+filename = "unobtainium-1.8.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d916880f0c49fc8df507538e13713c3267e5a69a"
+hash = "3693b1c80c8d1745ce853af6b0a62e1c43e93dc2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6096583
+file-id = 6118754
 project-id = 1162330
