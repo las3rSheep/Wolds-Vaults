@@ -13102,7 +13102,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "473b05c392977cd006c966f609641497e0b4bcf0d7ff6ae3268b186e7c7e3a60"
+hash = "059cbbea1826d7e038b6d9e848db25ba52cdd05b099ded612a27850b3ba9b299"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -21557,7 +21557,7 @@ hash = "f3359b2d976b5303a33efa062c01e863ec20de173347bab120e4d005184291c2"
 
 [[files]]
 file = "scripts/Powah.zs"
-hash = "31d170607869782c1ad581098b0f72d2bbb5dff6653864b7613c127a66bb6bb6"
+hash = "b2388dd77ffaf9606f783712b7f5cae6f1474b7509255cb26b26769c2383f232"
 
 [[files]]
 file = "scripts/Quark.zs"
