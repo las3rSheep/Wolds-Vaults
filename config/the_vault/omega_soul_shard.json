@@ -618,8 +618,8 @@
                             "AMOUNT": 1,
                             "NBT": "{level: 200}"
                         },
-                        "minPrice": 3000,
-                        "maxPrice": 4000
+                        "minPrice": 4000,
+                        "maxPrice": 6000
                     },
                     "weight": 16
                 },
@@ -1198,8 +1198,8 @@
                             "AMOUNT": 1,
                             "NBT": "{level: 200}"
                         },
-                        "minPrice": 3000,
-                        "maxPrice": 4000
+                        "minPrice": 4000,
+                        "maxPrice": 6000
                     },
                     "weight": 16
                 },

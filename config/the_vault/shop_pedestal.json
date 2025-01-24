@@ -712,10 +712,10 @@
               "nbt": "{\"layout\": \"infinite\", tunnel: 1, value: 0}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 40,
-            "MAX_COST": 60
+            "MIN_COST": 100,
+            "MAX_COST": 160
           },
-          "weight": 2
+          "weight": 1
         },
         {
           "value": {
@@ -1623,10 +1623,10 @@
               "nbt": "{\"layout\": \"infinite\", tunnel: 1, value: 0}"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 40,
-            "MAX_COST": 60
+            "MIN_COST": 100,
+            "MAX_COST": 160
           },
-          "weight": 2
+          "weight": 1
         },
         {
           "value": {
