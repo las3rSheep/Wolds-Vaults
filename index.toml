@@ -12958,7 +12958,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "dcdfe708a30cc386a1a306393bc58ab831afde5d8cdaa072d1b875c8c10f9901"
+hash = "20941bd15078b3541bc56a8450e406d752342eb8aa95448f49bb4b94b961d312"
 
 [[files]]
 file = "config/the_vault/recipes/augment_recipes.json"
