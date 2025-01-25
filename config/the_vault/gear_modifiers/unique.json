@@ -1393,6 +1393,33 @@
       {
         "attribute": "the_vault:lucky_hit_chance",
         "group": "BaseBonusPool",
+        "identifier": "the_vault:jester_lucky_hit",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.06,
+              "max": 0.15,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:lucky_hit_chance",
+        "group": "BaseBonusPool",
         "identifier": "the_vault:base_lucky_hit_chance",
         "tiers": [
           {
@@ -1973,6 +2000,55 @@
         ]
       },
       {
+        "attribute": "the_vault:effect",
+        "group": "uSaturation",
+        "identifier": "the_vault:u_saturation",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "effectKey": "minecraft:saturation",
+              "amplifier": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "uRegeneration",
+        "identifier": "the_vault:u_regeneration",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "effectKey": "minecraft:regeneration",
+              "amplifier": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:effect",
+        "group": "uResistanceEffect",
+        "identifier": "the_vault:u_resistance_effect",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "effectKey": "minecraft:resistance",
+              "amplifier": 1
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:block",
         "group": "BaseBlock",
         "identifier": "the_vault:u_safer_block",
@@ -2447,33 +2523,6 @@
         ]
       },
       {
-        "attribute": "the_vault:lucky_hit_chance",
-        "group": "BaseBonusPool",
-        "identifier": "the_vault:jester_lucky_hit",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.05,
-              "max": 0.1,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 50,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 0.06,
-              "max": 0.15,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
         "attribute": "the_vault:attack_damage",
         "group": "ModAttackDamage",
         "identifier": "the_vault:attackdamage",
@@ -2656,7 +2705,7 @@
         "tiers": [
           {
             "minLevel": 25,
-            "maxLevel": -1,
+            "maxLevel": 75,
             "weight": 8,
             "value": {
               "abilityKey": "Taunt_Repel",
@@ -2664,8 +2713,8 @@
             }
           },
           {
-            "minLevel": 25,
-            "maxLevel": -1,
+            "minLevel": 30,
+            "maxLevel": 90,
             "weight": 20,
             "value": {
               "abilityKey": "Taunt_Repel",
@@ -2673,7 +2722,7 @@
             }
           },
           {
-            "minLevel": 25,
+            "minLevel": 40,
             "maxLevel": -1,
             "weight": 20,
             "value": {
@@ -2682,7 +2731,7 @@
             }
           },
           {
-            "minLevel": 25,
+            "minLevel": 50,
             "maxLevel": -1,
             "weight": 20,
             "value": {
@@ -2691,7 +2740,7 @@
             }
           },
           {
-            "minLevel": 25,
+            "minLevel": 65,
             "maxLevel": -1,
             "weight": 8,
             "value": {
@@ -3785,11 +3834,51 @@
         "tiers": [
           {
             "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
+            "maxLevel": 75,
+            "weight": 6,
             "value": {
               "min": 1,
               "max": 1,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 50,
+            "maxLevel": -1,
+            "weight": 5,
+            "value": {
+              "min": 2,
+              "max": 2,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 4,
+            "value": {
+              "min": 3,
+              "max": 3,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 3,
+            "value": {
+              "min": 4,
+              "max": 4,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 95,
+            "maxLevel": -1,
+            "weight": 2,
+            "value": {
+              "min": 5,
+              "max": 5,
               "step": 1
             }
           }
@@ -3905,22 +3994,6 @@
               "min": 0.3,
               "max": 0.4,
               "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:effect",
-        "group": "uSaturation",
-        "identifier": "the_vault:u_saturation",
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "effectKey": "minecraft:saturation",
-              "amplifier": 1
             }
           }
         ]
@@ -4474,6 +4547,77 @@
               "min": -1.0,
               "max": -0.75,
               "step": 0.05
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:healing_effectiveness",
+        "group": "ModHealth",
+        "identifier": "the_vault:u_baguette_healingeff",
+        "tags": [
+          "focusHealingEff",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 65,
+            "weight": 10,
+            "value": {
+              "min": 0.1,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 25,
+            "maxLevel": 79,
+            "weight": 10,
+            "value": {
+              "min": 0.15,
+              "max": 0.23,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 46,
+            "maxLevel": 91,
+            "weight": 10,
+            "value": {
+              "min": 0.24,
+              "max": 0.31,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 66,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.32,
+              "max": 0.38,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 82,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.39,
+              "max": 0.44,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 98,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.45,
+              "max": 0.50,
+              "step": 0.01
             }
           }
         ]
