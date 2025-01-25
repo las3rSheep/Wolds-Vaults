@@ -2,24 +2,6 @@
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
       {
-        "attribute": "the_vault:weapon_type",
-        "group": "ModWeaponType",
-        "identifier": "the_vault:weapon_type_sword",
-        "tags": [
-          "weaponType"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "value": "Battlestaff"
-            }
-          }
-        ]
-      },
-      {
         "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
