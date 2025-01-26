@@ -14,7 +14,7 @@ hash = "88da4739dcf79f2ec5bcceafad116f66b10818153939aec4fde043530dcdb060"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "72a575c1dbe771fc3438edebeb179199111d4cf41b2d460210e900d65adc365e"
+hash = "db6ca93171f8713c2a41d49719a5c82d55687e59e862c0f314a6b6042ab938d2"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -12906,7 +12906,7 @@ hash = "98e4c07143c4749f408d55a337fa294050bbd63ab0c33ceca8cb644366203066"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
-hash = "a8ee597205a6dbb8a6c4a1bd96ff2c92256a62c3ba6bde77a7a2745dd0dc8592"
+hash = "08317a299ee767ae43f9ff13c3a2d97be307fffbd9717616ce4aa38e54776708"
 
 [[files]]
 file = "config/the_vault/overlevel_enchant.json"
@@ -20940,7 +20940,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "62cace8be7f8431022e988c2684a3559c5aaa1bfa45e8615a7fcb23959c87735"
+hash = "a0206420f9dc3254445706d67de30accc1685d4f11123037fad31d373ce86bca"
 metafile = true
 
 [[files]]
