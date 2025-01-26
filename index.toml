@@ -14,7 +14,7 @@ hash = "88da4739dcf79f2ec5bcceafad116f66b10818153939aec4fde043530dcdb060"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "872f2113f6a7a40fd8ceead44d01340325027f7642f47c5d96444599278ab390"
+hash = "72a575c1dbe771fc3438edebeb179199111d4cf41b2d460210e900d65adc365e"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -79,6 +79,10 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 [[files]]
 file = "config/jecalculation/config.toml"
 hash = "b1b39b22b9992be7b639be7963294bee39685399479cdc2b1c678d0d0447d2e4"
+
+[[files]]
+file = "config/kendrome_vh_tweaks_client.toml"
+hash = "131ee696fd356d598d811d97f74c77f2a9a37cea889b08d73c50d68b2868542d"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -546,7 +550,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "cb52701033da01ededf21d8ef7a3725345e8aa3972b2159b7de90fed1005dad6"
+hash = "8128ed387cd67018816adc948edc9e1e6c2267bf4b2d56c86b21b76462e2e5b1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13154,7 +13158,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "d6530767c61142c5bad8ad0180e63aae166b9785571da406b5a4247b4308e5e1"
+hash = "4ab1f1edc416ff25327af1682a63c70de31c37503871fc495e9583ce7daa6cc2"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"

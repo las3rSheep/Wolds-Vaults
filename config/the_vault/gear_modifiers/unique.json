@@ -2621,6 +2621,36 @@
         ]
       },
       {
+        "attribute": "the_vault:soul_chance",
+        "group": "ModSoulChance",
+        "identifier": "the_vault:mod_soul_chance_scissors",
+        "tags": [
+          "focusSoulChance"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 40,
+            "weight": 10,
+            "value": {
+              "min": 0.33,
+              "max": 0.66,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.67,
+              "max": 1.0,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:thorns_damage_flat",
         "group": "BaseBlock",
         "identifier": "the_vault:base_thorns_damage_flat_sword",
@@ -4849,6 +4879,33 @@
             "weight": 10,
             "value": {
               "min": 0.31,
+              "max": 0.5,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:ap_scaling_damage",
+        "group": "BaseScaling",
+        "identifier": "the_vault:ap_scaling_damage_scissors",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.2,
+              "max": 0.4,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.4,
               "max": 0.5,
               "step": 0.01
             }

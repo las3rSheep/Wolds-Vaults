@@ -747,6 +747,29 @@
       "modifierTags": [],
       "weight": 1
     },
+    "woldsvaults:aurora_scissors": {
+      "name": "Aurora Scissors",
+      "model": "the_vault:gear/sword/aurora_scissors",
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:base_attack_damage",
+          "the_vault:base_attack_speed"
+        ],
+        "PREFIX": [
+          "the_vault:mod_ap",
+          "the_vault:mod_soul_chance_scissors"
+        ],
+        "SUFFIX": [
+          "the_vault:ap_scaling_damage_scissors",
+          "the_vault:mod_attack_speed_percent"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "woldsvaults:young_kitsune": {
       "name": "Young Kitsune Blade",
       "model": "the_vault:gear/sword/young_kitsune",
@@ -908,6 +931,9 @@
     },
     "woldsvaults:safer_spaces": {
       "woldsvaults:safer_spaces": 1
+    },
+    "woldsvaults:aurora_scissors": {
+      "woldsvaults:aurora_scissors": 1
     }
   }
 }
