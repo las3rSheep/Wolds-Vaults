@@ -238,6 +238,18 @@
                 {
                     "value": {
                         "item": {
+                            "ITEM": "the_vault:sword",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:aurora_scissors\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                        },
+                        "minPrice": 15000,
+                        "maxPrice": 25000
+                    },
+                    "weight": 4
+                },
+                {
+                    "value": {
+                        "item": {
                             "ITEM": "the_vault:blank_key",
                             "AMOUNT": 1,
                             "NBT": "{}"
@@ -611,6 +623,18 @@
         {
             "minLevel": 50,
             "shardTrades": [
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:sword",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:aurora_scissors\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                        },
+                        "minPrice": 15000,
+                        "maxPrice": 25000
+                    },
+                    "weight": 4
+                },
                 {
                     "value": {
                         "item": {
@@ -1191,6 +1215,18 @@
         {
             "minLevel": 75,
             "shardTrades": [
+                {
+                    "value": {
+                        "item": {
+                            "ITEM": "the_vault:sword",
+                            "AMOUNT": 1,
+                            "NBT": "{\"the_vault:gear_unique_pool\":\"woldsvaults:aurora_scissors\",\"the_vault:gear_roll_type\":\"Unique\"}"
+                        },
+                        "minPrice": 15000,
+                        "maxPrice": 25000
+                    },
+                    "weight": 4
+                },
                 {
                     "value": {
                         "item": {
