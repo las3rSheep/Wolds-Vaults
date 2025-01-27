@@ -393,8 +393,12 @@
         "IMPLICIT": [
           "the_vault:u_chaining"
         ],
-        "PREFIX": [],
-        "SUFFIX": []
+        "PREFIX": [
+          "the_vault:u_chaining_damage"
+        ],
+        "SUFFIX": [
+          "the_vault:unique_area_of_effect"
+        ]
       },
       "modifierTags": [],
       "weight": 1
