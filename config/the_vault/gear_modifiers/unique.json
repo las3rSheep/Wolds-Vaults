@@ -4910,6 +4910,7 @@
               "effectKeys": [
                 "minecraft:poison",
                 "minecraft:wither",
+                "minecraft:levitation",
                 "minecraft:slowness",
                 "minecraft:blindness",
                 "minecraft:hunger",
@@ -4931,6 +4932,7 @@
               "effectKeys": [
                 "minecraft:poison",
                 "minecraft:wither",
+                "minecraft:levitation",
                 "minecraft:slowness",
                 "minecraft:blindness",
                 "minecraft:hunger",
@@ -5410,6 +5412,7 @@
               "effectKeys": [
                 "minecraft:poison",
                 "minecraft:wither",
+                "minecraft:levitation",
                 "minecraft:slowness",
                 "minecraft:blindness",
                 "minecraft:hunger",
@@ -5429,6 +5432,7 @@
               "effectKeys": [
                 "minecraft:poison",
                 "minecraft:wither",
+                "minecraft:levitation",
                 "minecraft:slowness",
                 "minecraft:blindness",
                 "minecraft:hunger",
@@ -5448,6 +5452,7 @@
               "effectKeys": [
                 "minecraft:poison",
                 "minecraft:wither",
+                "minecraft:levitation",
                 "minecraft:slowness",
                 "minecraft:blindness",
                 "minecraft:hunger",
