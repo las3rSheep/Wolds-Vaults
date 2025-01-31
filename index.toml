@@ -474,7 +474,7 @@ hash = "a62359cff50c89bce2220d41ab3793e792175c62aa526e2fd210e39544570857"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
-hash = "6ae82dac91e852807373e51f738c08a89431d123b7351acdf1f0e5f5c21f3a38"
+hash = "9f8461727a07bd4239fc28454de71930d75ba6ea1345bfdd2d405ee21903e30d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/bottle.json"
@@ -482,7 +482,7 @@ hash = "6b990209c522a73a86dcf23ce5a0e76d68ce8e8555c746112a47492da144ac1f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/chestplate.json"
-hash = "42c4b9b65d4e3a2e06bb22a9b3853085ae8ab69c0956fee43275e103716446aa"
+hash = "5156ff0cdaaeca1e7df93ca758104da32390447031d8e791e84e1e1d3ac95f8b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/drink.json"
@@ -490,11 +490,11 @@ hash = "a39277e5d7c279b7b39976a19bf4929fa7114abeae417fc730954ab7cc09d6b0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
-hash = "27f01da376ad3cf5a8513c9ca3cbdca724520d88b8f9a98fab606f3a6cdfccef"
+hash = "f92b277d5ea0615451f56a6e9a160276204729b63f2635c42899113e1bab9045"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "957df33c59272ed8c05dfc64698fe7e657c61c5b84f7964d798bb08e6f493875"
+hash = "d2ed65cedd6adcb3cd5d6a0f5e358f38caf10502aaa6f1e7d86316b3951d0032"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -518,7 +518,7 @@ hash = "b7030ba9703625d926ae5671d33157285104d7ddfe3e24e7eca2dab7825f6ed4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
-hash = "d96bf5a70ea83f4e38fd51b20b2f909b9032302cf2bc0a8b7c30c52bbc3c07d5"
+hash = "ac876a060863152a53f05a41d7fee5b4d6cf7e386168fd163ffb7e476e2c3cda"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
@@ -550,7 +550,7 @@ hash = "eba060ec7a61790cc94fc394ab39cf6f0a35107539c2a2f541edef207ff10f82"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "8128ed387cd67018816adc948edc9e1e6c2267bf4b2d56c86b21b76462e2e5b1"
+hash = "72b88dfe92a03d6e38863009101cfa9e71489ce15568fa0b041da44ddae54ad7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13074,7 +13074,7 @@ hash = "a9deacc54552f404e051e3d23b4f2a81e6603755f420fb12b5422b5b1fea7bff"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "2f1a6530666fc07b29c8c4fe3d1b9d78d570e01a352bda063202a8393f03272b"
+hash = "db37231ad18009b5753c86b50dad89560e3b7e6fe567c224e9b967825c120b33"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -13158,7 +13158,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "4ab1f1edc416ff25327af1682a63c70de31c37503871fc495e9583ce7daa6cc2"
+hash = "dc4ef73240b16ebb79b043ef6b7704565f55b9cb7494730dbeec53a0b112a723"
 
 [[files]]
 file = "config/the_vault/unique_gear_nuke.json"

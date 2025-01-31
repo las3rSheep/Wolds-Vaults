@@ -14741,6 +14741,52 @@
       {
         "text": "+4",
         "color": "green"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+5",
+        "color": "green"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+6",
+        "color": "green"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+7",
+        "color": "green"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+8",
+        "color": "green"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+9",
+        "color": "green"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+10",
+        "color": "green"
       }
     ],
     "Haste": [
@@ -14784,6 +14830,24 @@
       },
       {
         "text": "+3",
+        "color": "green"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+4",
+        "color": "green"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+5",
         "color": "green"
       }
     ],
@@ -14835,6 +14899,108 @@
       },
       {
         "text": "+4",
+        "color": "green"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+5",
+        "color": "green"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+6",
+        "color": "green"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+7",
+        "color": "green"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+8",
+        "color": "green"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+9",
+        "color": "green"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+10",
+        "color": "green"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+12",
+        "color": "green"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+14",
+        "color": "green"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+16",
+        "color": "green"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+18",
+        "color": "green"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+20",
+        "color": "green"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+22",
+        "color": "green"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+25",
+        "color": "green"
+      },
+      {
+        "text": "\n18 "
+      },
+      {
+        "text": "+30",
         "color": "green"
       }
     ],
@@ -15338,30 +15504,133 @@
         "text": "\n\n1 "
       },
       {
-        "text": "+3",
+        "text": "+4",
         "color": "#FF00CB"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "+6",
+        "text": "+8",
         "color": "#FF00CB"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "+9",
+        "text": "+16",
         "color": "#FF00CB"
       },
       {
         "text": "\n4 "
       },
       {
-        "text": "+12",
+        "text": "+24",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+32",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+40",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+48",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+56",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+64",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+72",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+80",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+88",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+96",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+104",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+112",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+120",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+144",
+        "color": "#FF00CB"
+      },
+      {
+        "text": "\n18 "
+      },
+      {
+        "text": "+180",
         "color": "#FF00CB"
       }
+
     ],
     "Soul Harvester": [
       {
