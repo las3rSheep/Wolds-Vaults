@@ -4698,6 +4698,58 @@
       {
         "text": "40%",
         "color": "#90FF00"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5 ",
+        "color": "#484848"
+      },
+      {
+        "text": "50%",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n6 ",
+        "color": "#484848"
+      },
+      {
+        "text": "60%",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n7 ",
+        "color": "#484848"
+      },
+      {
+        "text": "70%",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n8 ",
+        "color": "#484848"
+      },
+      {
+        "text": "80%",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n9 ",
+        "color": "#484848"
+      },
+      {
+        "text": "90%",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n10 ",
+        "color": "#484848"
+      },
+      {
+        "text": "100%",
+        "color": "#90FF00"
       }
     ],
     "Unbreakable": [
@@ -12291,6 +12343,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Undead_Mastery": [
@@ -12338,6 +12478,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Illager_Mastery": [
@@ -12385,6 +12613,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Nether_Mastery": [
@@ -12432,6 +12748,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Champion_Mastery": [
@@ -12479,6 +12883,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Tank_Mastery": [
@@ -12526,6 +13018,94 @@
       },
       {
         "text": "\n"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+125%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+150%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+175%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+225%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n11 "
+      },
+      {
+        "text": "+250%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n12 "
+      },
+      {
+        "text": "+275%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n13 "
+      },
+      {
+        "text": "+300%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n14 "
+      },
+      {
+        "text": "+325%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n15 "
+      },
+      {
+        "text": "+350%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n16 "
+      },
+      {
+        "text": "+375%",
+        "color": "#C21A00"
+      },
+      {
+        "text": "\n17 "
+      },
+      {
+        "text": "+400%",
+        "color": "#C21A00"
       }
     ],
     "Weakness_Affinity": [
@@ -14277,6 +14857,52 @@
       {
         "text": "+80%",
         "color": "#C23627"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+100%",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n6 "
+      },
+      {
+        "text": "+120%",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n7 "
+      },
+      {
+        "text": "+140%",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n8 "
+      },
+      {
+        "text": "+160%",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n9 "
+      },
+      {
+        "text": "+180%",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n10 "
+      },
+      {
+        "text": "+200%",
+        "color": "#C23627"
       }
     ],
     "Methodical": [
@@ -15695,6 +16321,108 @@
       },
       {
         "text": "+10% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n\nOverlevels: ",
+        "color": "#EFBF04"
+      },
+      {
+        "text": "\n5"
+      },
+      {
+        "text": "+12.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n6"
+      },
+      {
+        "text": "+15% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n7"
+      },
+      {
+        "text": "+17.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n8"
+      },
+      {
+        "text": "+20% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n9"
+      },
+      {
+        "text": "+22.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n10"
+      },
+      {
+        "text": "+25% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n11"
+      },
+      {
+        "text": "+27.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n12"
+      },
+      {
+        "text": "+30% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n13"
+      },
+      {
+        "text": "+32.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n14"
+      },
+      {
+        "text": "+35% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n15"
+      },
+      {
+        "text": "+37.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n16"
+      },
+      {
+        "text": "+40% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n17"
+      },
+      {
+        "text": "+42.5% damage per piece",
+        "color": "#C23627"
+      },
+      {
+        "text": "\n18"
+      },
+      {
+        "text": "+45% damage per piece",
         "color": "#C23627"
       }
     ],

@@ -791,40 +791,6 @@
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
-          },
-          {
-            "type": "purist",
-            "rarities": [
-              "SCRAPPY"
-            ],
-            "slots": [
-              "HEAD",
-              "CHEST",
-              "LEGS",
-              "FEET"
-            ],
-            "count": 1,
-            "damageIncrease": 0.475,
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "purist",
-            "rarities": [
-              "SCRAPPY"
-            ],
-            "slots": [
-              "HEAD",
-              "CHEST",
-              "LEGS",
-              "FEET"
-            ],
-            "count": 1,
-            "damageIncrease": 0.5,
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
           }
         ]
       },
