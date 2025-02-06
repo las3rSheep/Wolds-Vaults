@@ -20940,7 +20940,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "a0206420f9dc3254445706d67de30accc1685d4f11123037fad31d373ce86bca"
+hash = "189e9f9c930a91af5542ad6dfa99dbb20ce597fe2533bf44ef3fb1e420096e05"
 metafile = true
 
 [[files]]
@@ -21617,7 +21617,7 @@ hash = "670221dd9dac90d7a9be0577f7e4022eb9fa94f7768fde5f99ebfaec05ed08d6"
 
 [[files]]
 file = "scripts/ae2.zs"
-hash = "7bbde403978f72b935c4ffa1b0fd7873e62cefc82fa38c98fd6ef2f8cb5a75c4"
+hash = "cee7ea72a395f277b34d62f085ad9556037ae5572c72443b212cefad2bc9407c"
 
 [[files]]
 file = "scripts/alexsmobs.zs"
