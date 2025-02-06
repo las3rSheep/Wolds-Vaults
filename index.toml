@@ -462,7 +462,7 @@ hash = "6d727af7eaf8a9897c0cb2d63642a40df362041b5d59b0ba097647a1f20d719e"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "962fa464dbcf7fa21836540ce9d0fe8815db6576b86e6d9e6a9b969fce70b28f"
+hash = "acffb305a498f6de2ad04e27dbc7389a36655d6860f39dacc075b30576d8cb7a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -18670,7 +18670,7 @@ hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/rec.js"
-hash = "bde1457752b2324d5b659f3f8df250552a9eddeb87a6abe8758803851493a15a"
+hash = "df6eab6e9d220f11efa663cd98844a1fcc1f6e83781eb0c139f88cf415333812"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/mekanism/recipes.js"
