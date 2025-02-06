@@ -130,7 +130,7 @@ hash = "0fd3c4000f450de8a8b2d45d864212f2eecf82350726204a0d38382f295bdea2"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "0b99dbc87bcffffa587c16cd456f1c3f9cd4dd2eeffc6ce2e4817cf10cccf291"
+hash = "676920694625c21fb55c7cb6acbc8aeb86755b549af7670a176403dc3b9fe04d"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -494,7 +494,7 @@ hash = "f92b277d5ea0615451f56a6e9a160276204729b63f2635c42899113e1bab9045"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "d2ed65cedd6adcb3cd5d6a0f5e358f38caf10502aaa6f1e7d86316b3951d0032"
+hash = "20abd5fe28b9691029d305a6ae93657daf6cb06950705db7655d97147c2043a5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -13038,7 +13038,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "e61e101dd6d5ed9c262c272fbb99744fbc012544b20e13cb5f35e97dc772afa3"
+hash = "c701061d389a59d4c42e0c15d3f8b68b19f0782d2b90b77e0be0309676f873b3"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13074,7 +13074,7 @@ hash = "a9deacc54552f404e051e3d23b4f2a81e6603755f420fb12b5422b5b1fea7bff"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "db37231ad18009b5753c86b50dad89560e3b7e6fe567c224e9b967825c120b33"
+hash = "39dde24707f13482471c0b7c95d2ed2bdbfe391c376a29005d86ed797c5e3776"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -14714,11 +14714,11 @@ hash = "e42ca24a80ff2e6ce9cd67c45692cb161b53cf64297ce3eb131961403acc8bf9"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "124db5880bb1cff565e006cbebd968db407172d36aa7c35c14cdf625048c0aaa"
+hash = "fd8d50ddea53f865e01e422608d1717e9792792e8e7294bd7b51434415cc18c8"
 
 [[files]]
 file = "configureddefaults/config/xaeroworldmap.txt"
-hash = "db481481bd5289c7821b57483ecddbccfa8c6f977a10eaa0c61d194ad3b358ee"
+hash = "9df691edc611753bae04c1b779bdaa6092decc4783cf90f1db0c5d93a1a81f7c"
 
 [[files]]
 file = "configureddefaults/config/xnet-client.toml"
