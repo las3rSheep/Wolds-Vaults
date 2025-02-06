@@ -18842,7 +18842,7 @@ hash = "ce3fac24dd478a66748e1f4c5f19cf5dd054d6583d22521301be1e66187ece43"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/extra.js"
-hash = "f4fdf683aa1a80cfde8b8eb96c86dc6d84fc837e9a855cd26f51bfbcec3e6408"
+hash = "9a3ae439cd35278a357d4754ad4b060205cd1137840df6691f4b3ed44cf5da32"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/thermal/recipes.js"
