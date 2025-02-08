@@ -21,7 +21,8 @@
     "rottencreatures:zombie_lackey": -10.0,
     "rottencreatures:skeleton_lackey": -10.0,
     "alexsmobs:catfish": -10.0,
-    "woldsvaults:purple_ghost": 1.0
+    "woldsvaults:purple_ghost": 1.0,
+    "minecraft:armor_stand": -10.0
   },
   "defaultAttributeOverrides": [
     {
