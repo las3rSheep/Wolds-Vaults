@@ -318,7 +318,7 @@ hash = "9d95e3aa48fb8737a9fd353c217c40456b2c17fd5e87cd544a20ed432d69d936"
 
 [[files]]
 file = "config/the_vault/champions.json"
-hash = "2b5fbd403c3095778c5a8c255e76a533df255da95692ecff1e8bda7ab3802e93"
+hash = "9e85dbbf20e614482513da65add51eef422c0d09bf42c764eba9049b63f1d825"
 
 [[files]]
 file = "config/the_vault/charm.json"
@@ -16766,7 +16766,7 @@ hash = "851c6ba02dd96e18fbe7846e804f88d22266bfc02a3d65f81664ad05e2dffb9e"
 
 [[files]]
 file = "kubejs/assets/wolds_vaults/lang/en_us.json"
-hash = "ea33f084ddf960cca66334cd729ed9db7376aa5ca15fbb3689b78cbf1b7f75e0"
+hash = "e4a904258bc2fc555cfe92f4aa75528199e859103de8afb15a1afc2ffe3935cc"
 
 [[files]]
 file = "kubejs/assets/wolds_vaults/textures/gui/pack_image.png"
