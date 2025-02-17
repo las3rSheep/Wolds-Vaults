@@ -14,7 +14,7 @@ hash = "88da4739dcf79f2ec5bcceafad116f66b10818153939aec4fde043530dcdb060"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db6ca93171f8713c2a41d49719a5c82d55687e59e862c0f314a6b6042ab938d2"
+hash = "37cfdd7c26e96179deff70f4c56f21d9b83089138813430b2c7d67aa4ac5a40c"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
