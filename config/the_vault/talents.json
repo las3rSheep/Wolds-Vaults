@@ -3469,7 +3469,7 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.75,
+            "manaThreshold": 0.8,
             "value": 2.5,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
@@ -3480,8 +3480,8 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.7,
-            "value": 2.5,
+            "manaThreshold": 0.8,
+            "value": 2.75,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3491,8 +3491,8 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.65,
-            "value": 2.5,
+            "manaThreshold": 0.8,
+            "value": 3.0,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3502,8 +3502,8 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.6,
-            "value": 2.5,
+            "manaThreshold": 0.8,
+            "value": 3.25,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3513,8 +3513,8 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.55,
-            "value": 2.5,
+            "manaThreshold": 0.8,
+            "value": 3.5,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3524,8 +3524,8 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.5,
-            "value": 2.5,
+            "manaThreshold": 0.8,
+            "value": 4.0,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3623,8 +3623,8 @@
           },
           {
             "type": "low_mana_healing_efficiency",
-            "additionalHealingEfficiency": 2.0,
-            "manaThreshold": 0.25,
+            "additionalHealingEfficiency": 2.25,
+            "manaThreshold": 0.2,
             "effect": "the_vault:methodical",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3632,8 +3632,8 @@
           },
           {
             "type": "low_mana_healing_efficiency",
-            "additionalHealingEfficiency": 2.0,
-            "manaThreshold": 0.3,
+            "additionalHealingEfficiency": 2.5,
+            "manaThreshold": 0.2,
             "effect": "the_vault:methodical",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3641,8 +3641,8 @@
           },
           {
             "type": "low_mana_healing_efficiency",
-            "additionalHealingEfficiency": 2.0,
-            "manaThreshold": 0.35,
+            "additionalHealingEfficiency": 2.75,
+            "manaThreshold": 0.2,
             "effect": "the_vault:methodical",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -3650,8 +3650,8 @@
           },
           {
             "type": "low_mana_healing_efficiency",
-            "additionalHealingEfficiency": 2.0,
-            "manaThreshold": 0.4,
+            "additionalHealingEfficiency": 3.0,
+            "manaThreshold": 0.2,
             "effect": "the_vault:methodical",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -4114,6 +4114,7 @@
             "type": "tiered",
             "id": "Cleave",
             "name": "Cleave",
+            "maxLearnableTier": 3,
             "tiers": [
               {
                 "type": "sweeping_lucky_hit",
@@ -4137,6 +4138,96 @@
                 "type": "sweeping_lucky_hit",
                 "damagePercentage": 0.8,
                 "damageRange": 2.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 0.85,
+                "damageRange": 2.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 0.9,
+                "damageRange": 2.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 0.95,
+                "damageRange": 2.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 2.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 2.5,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 3.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 3.5,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 4.0,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 4.5,
+                "knockbackStrength": 0.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "unlockLevel": 25
+              },
+              {
+                "type": "sweeping_lucky_hit",
+                "damagePercentage": 1.0,
+                "damageRange": 5.0,
                 "knockbackStrength": 0.0,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
@@ -4847,34 +4938,6 @@
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
-          },
-          {
-            "type": "effect_on_hit",
-            "filter": [
-              "{ActiveEffects:[{\"forge:id\":\"the_vault:chilled\"}]}",
-              "{ActiveEffects:[{\"forge:id\":\"the_vault:hypothermia\"}]}"
-            ],
-            "effect": "the_vault:glacial_shatter",
-            "amplifier": 10,
-            "duration": 60,
-            "probability": 0.475,
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "effect_on_hit",
-            "filter": [
-              "{ActiveEffects:[{\"forge:id\":\"the_vault:chilled\"}]}",
-              "{ActiveEffects:[{\"forge:id\":\"the_vault:hypothermia\"}]}"
-            ],
-            "effect": "the_vault:glacial_shatter",
-            "amplifier": 10,
-            "duration": 60,
-            "probability": 0.5,
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
           }
         ]
       },
@@ -5040,6 +5103,26 @@
               "{ActiveEffects:[{\"forge:id\":\"the_vault:noai\"}]}"
             ],
             "damageIncrease": 4.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "damage_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:noai\"}]}"
+            ],
+            "damageIncrease": 4.25,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "damage_on_hit",
+            "filter": [
+              "{ActiveEffects:[{\"forge:id\":\"the_vault:noai\"}]}"
+            ],
+            "damageIncrease": 4.5,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
